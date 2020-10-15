@@ -1,11 +1,14 @@
 {
-  "name": "Tailwind Components",
+  "name": "tailwind-components",
   "version": "0.0.0-dev",
   "main": "index.js",
   "typings": "index.d.ts",
   "author": "2020",
   "keywords": [],
-  "scripts": {},
+  "scripts": {
+    "remark": "sh Taskfile remark_run",
+    "remark:update": "sh Taskfile remark_run --output"
+  },
   "config": {
     "commitizen": {
       "path": "node_modules/cz-customizable"
