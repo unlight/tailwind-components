@@ -1,0 +1,26 @@
+{
+  "name": "Tailwind Components",
+  "version": "0.0.0-dev",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "author": "2020",
+  "keywords": [],
+  "scripts": {},
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-customizable"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "precise-commits"
+    }
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2",
+    "remark": "^13.0.0",
+    "remark-cli": "^9.0.0",
+    "remark-toc": "^7.0.0",
+    "ts-node": "^9.0.0"
+  }
+}
