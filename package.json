@@ -1,11 +1,10 @@
 {
   "name": "tailwind-components",
-  "version": "0.0.0-dev",
-  "main": "index.js",
-  "typings": "index.d.ts",
-  "author": "2020",
-  "keywords": [],
   "scripts": {
+    "test:r": "mocha -r ts-node/register/transpile-only src/**/*.spec.ts",
+    "test:w": "mocha -r ts-node/register/transpile-only --no-timeouts --watch-files src/**/*.ts --watch src/**/*.spec.ts",
+    "test:d": "node --inspect -r ts-node/register/transpile-only node_modules/mocha/bin/_mocha --no-timeouts --watch-files src/**/*.ts --watch src/**/*.spec.ts",
+    "test:brk": "node --inspect-brk -r ts-node/register/transpile-only node_modules/mocha/bin/_mocha --no-timeouts src/**/*.spec.ts",
     "remark": "sh Taskfile remark_run",
     "remark:update": "sh Taskfile remark_run --output"
   },
@@ -20,10 +19,15 @@
     }
   },
   "devDependencies": {
+    "@types/mocha": "^8.0.3",
+    "@types/node": "^14.11.10",
+    "graphql-scraper": "^1.2.1",
+    "mocha": "^8.1.3",
     "prettier": "^2.1.2",
     "remark": "^13.0.0",
     "remark-cli": "^9.0.0",
     "remark-toc": "^7.0.0",
-    "ts-node": "^9.0.0"
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
   }
 }
