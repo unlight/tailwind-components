@@ -3,11 +3,7 @@ PATH="$PWD/node_modules/.bin":$PATH
 set -e
 
 remark_run() {
-    node -r ts-node/register/transpile-only node_modules/remark-cli/cli.js readme.md "$@"
-}
-
-remark_output() {
-    remark_run --output
+    node -r ts-node/register/transpile-only node_modules/remark-cli/cli.js README.md "$@"
 }
 
 "$@"

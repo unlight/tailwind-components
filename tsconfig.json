@@ -23,7 +23,7 @@
     "declaration": false,
     "declarationMap": false,
     "skipLibCheck": true,
-    "lib": ["esnext"]
+    "lib": ["dom", "esnext"]
   },
   "include": ["src/**/*.ts"]
 }
