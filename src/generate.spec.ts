@@ -36,21 +36,34 @@ it('get category exact pluralize', async () => {
     expect(result).toEqual(expect.stringMatching('## Card\n\\* Cards - https://example.com'));
 });
 
-it('sorted alphabetically', async () => {
+it('sorted categories', async () => {
     const items = [
         {
-            name: 'Cards',
+            name: 'Other',
+            link: 'https://example.com',
+        },
+        {
+            name: 'Card',
             link: 'https://example.com',
         },
         {
             name: 'Button',
             link: 'https://example.com',
         },
+        {
+            name: 'Tab',
+            link: 'https://example.com',
+        },
     ];
     const result = await generate({ items });
     expect(result).toEqual(
         expect.stringMatching(
-            '## Button\n\\* Button - https://example.com\n## Card\n\\* Cards - https://example.com',
+            `## Button\n\\* Button - https://example.com\n## Card\n\\* Card - https://example.com`,
+        ),
+    );
+    expect(result).toEqual(
+        expect.stringMatching(
+            `## Tab\n\\* Tab - https://example.com\n## Other\n\\* Other - https://example.com`,
         ),
     );
 });

@@ -26,6 +26,8 @@ const categoryList = new Map([
     ['Other', []],
 ]);
 
+const categoryNames = [...categoryList.keys()];
+
 type GenerateArgs = {
     items: CompomentLink[];
 };
@@ -34,7 +36,7 @@ export async function generate({ items }: GenerateArgs) {
     const byCategory = _(items)
         .groupBy((item) => getCategory(item.category || item.name))
         .toPairs()
-        .sortBy(0)
+        .sortBy(([category]) => categoryNames.indexOf(category))
         .fromPairs()
         .value();
     const content: string[] = [];
