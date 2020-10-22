@@ -5,7 +5,12 @@ import { generate } from './generate';
 import { promises as fs } from 'fs';
 
 async function main() {
-    const browser = await puppeteer.launch({ headless: true, slowMo: 0 });
+    const browser = await puppeteer.launch({
+        headless: false,
+        slowMo: 0,
+        defaultViewport: null,
+        args: ['--start-maximized'],
+    });
     const [page] = await browser.pages();
     const scrapers = await getScrapers();
     const items: CompomentLink[] = [];

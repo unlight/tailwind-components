@@ -68,7 +68,7 @@ it('sorted categories', async () => {
     );
 });
 
-it('keywords', async () => {
+it('keywords exact', async () => {
     const items = [
         {
             name: 'toast',
@@ -77,4 +77,17 @@ it('keywords', async () => {
     ];
     const result = await generate({ items });
     expect(result).toEqual(expect.stringMatching(`## Alert\n\\* toast - https://example.com`));
+});
+
+it('keywords plurals', async () => {
+    const items = [
+        {
+            name: 'Navbars With Search',
+            link: 'https://example.com',
+        },
+    ];
+    const result = await generate({ items });
+    expect(result).toEqual(
+        expect.stringMatching(`## Navigation\n\\* Navbars With Search - https://example.com`),
+    );
 });

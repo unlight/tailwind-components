@@ -5,10 +5,25 @@ import { plural } from 'pluralize';
 
 /**
  * TODO:
- * - several categories
+ * [ ] several categories
+ * [ ] sub categories forms -> contacts
+ * [ ] ranks of matches
  * RESOURCES:
- * - https://github.com/aniftyco/awesome-tailwindcss
- * - https://github.com/tailwindlabs/headlessui
+ * https://github.com/mertJF/tailblocks
+ * https://github.com/tailwindlabs/tailwindcss-custom-forms
+ * https://kutty.netlify.app/
+ * https://www.tailwindtoolbox.com/starter-components
+ * https://www.gustui.com/docs/application/components
+ * https://tailwindtemplates.io/
+ * https://component.tailwindow.com/collection
+ * https://treact.owaiskhan.me/
+ * https://lofiui.co/
+ * https://windmill-dashboard.vercel.app/
+ * https://tailwindadmin.netlify.app/index.html
+ * https://cruip.com/
+ * https://a17t.miles.land/
+ * https://github.com/tailwindlabs/headlessui
+ * https://devdojo.com/tailwindcss/components
  */
 
 const categoryList = new Map([
@@ -19,11 +34,12 @@ const categoryList = new Map([
     ['Badge', []],
     ['Card', []],
     ['Dropdown', []],
-    ['Form', []],
+    ['Form', ['input']],
     ['Hero', []],
     ['Layout', []],
     ['Modal', []],
     ['Navigation', ['navbar']],
+    ['Page', []],
     ['Pagination', []],
     ['Sidebar', ['side panel']],
     ['Step', []],
@@ -73,7 +89,13 @@ function getCategory(name: string) {
         if (
             words.find((word) => {
                 const wordLower = word.toLowerCase();
-                return wordLower === categoryLower || categoryPlural === plural(wordLower);
+                return (
+                    wordLower === categoryLower ||
+                    categoryPlural === plural(wordLower) ||
+                    keywords.find((keyword) => {
+                        return keyword === wordLower || plural(keyword) === wordLower;
+                    })
+                );
             })
         ) {
             return category;
