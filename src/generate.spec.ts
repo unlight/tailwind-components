@@ -67,3 +67,14 @@ it('sorted categories', async () => {
         ),
     );
 });
+
+it('keywords', async () => {
+    const items = [
+        {
+            name: 'toast',
+            link: 'https://example.com',
+        },
+    ];
+    const result = await generate({ items });
+    expect(result).toEqual(expect.stringMatching(`## Alert\n\\* toast - https://example.com`));
+});

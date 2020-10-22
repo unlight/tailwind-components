@@ -3,6 +3,14 @@ import stringSimilarity from 'string-similarity';
 import _ from 'lodash';
 import { plural } from 'pluralize';
 
+/**
+ * TODO:
+ * - several categories
+ * RESOURCES:
+ * - https://github.com/aniftyco/awesome-tailwindcss
+ * - https://github.com/tailwindlabs/headlessui
+ */
+
 const categoryList = new Map([
     ['Alert', ['toast']],
     ['Avatar', []],
@@ -19,10 +27,10 @@ const categoryList = new Map([
     ['Pagination', []],
     ['Sidebar', ['side panel']],
     ['Step', []],
-    ['Section', []],
     ['Switch', ['toggle']],
     ['Table', []],
     ['Tab', []],
+    ['Timeline', []],
     ['Other', []],
 ]);
 
@@ -51,7 +59,14 @@ function getCategory(name: string) {
     for (const [category, keywords] of categoryList.entries()) {
         const categoryLower = category.toLowerCase();
         const categoryPlural = plural(categoryLower);
-        if (categoryLower === name.toLowerCase()) {
+        if (
+            categoryLower === name.toLowerCase() ||
+            keywords.find((keyword) => {
+                return (
+                    keyword === name.toLowerCase() || plural(keyword) === plural(name.toLowerCase())
+                );
+            })
+        ) {
             return category;
         }
         const words = name.split(/\s+/);
