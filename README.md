@@ -36,6 +36,15 @@
 *   Top accent alert - https://tailwindcomponents.com/component/top-accent-alert
 *   Solid alert - https://tailwindcomponents.com/component/solid-alert
 *   Traditional alert - https://tailwindcomponents.com/component/traditional-alert
+*   Alerts Success Pop - https://merakiui.com/
+*   Alerts Info Pop - https://merakiui.com/
+*   Alerts Warning Pop - https://merakiui.com/
+*   Alerts Error Pop - https://merakiui.com/
+*   Alerts Notification Pop - https://merakiui.com/
+*   Alerts Success Full Width - https://merakiui.com/
+*   Alerts Info Full Width - https://merakiui.com/
+*   Alerts Warning Full Width - https://merakiui.com/
+*   Alerts Error Full Width - https://merakiui.com/
 
 ## Avatar
 
@@ -47,6 +56,7 @@
 *   Avatar with username - https://tailwindcomponents.com/component/avatar-with-username
 *   Rounded inner box shadow avatar - https://tailwindcomponents.com/component/rounded-inner-box-shadow-avatar
 *   Simple Avatar (and initials) - https://tailwindcomponents.com/component/simple-avatar-and-initials
+*   Navbars With Avatar - https://merakiui.com/
 
 ## Breadcrumb
 
@@ -97,6 +107,9 @@
 *   3D button - https://tailwindcomponents.com/component/3d-button
 *   Outline button - https://tailwindcomponents.com/component/outline-button
 *   Simple button - https://tailwindcomponents.com/component/simple-button
+*   Buttons Primary - https://merakiui.com/
+*   Buttons With Icon - https://merakiui.com/
+*   Buttons With Menu - https://merakiui.com/
 
 ## Badge
 
@@ -174,6 +187,15 @@
 *   Profile Card - https://tailwindcomponents.com/component/profile-card
 *   Simple card - https://tailwindcomponents.com/component/simple-card
 *   Horizontal card - https://tailwindcomponents.com/component/horizontal-card
+*   Cards Article - https://merakiui.com/
+*   Cards Article With SM icons - https://merakiui.com/
+*   Cards Article With Image - https://merakiui.com/
+*   Cards Product - https://merakiui.com/
+*   Cards Product With Evaluation - https://merakiui.com/
+*   Cards Simple Product - https://merakiui.com/
+*   Cards Testimonial - https://merakiui.com/
+*   Cards User - https://merakiui.com/
+*   Cards User With Details - https://merakiui.com/
 
 ## Dropdown
 
@@ -195,11 +217,13 @@
 *   Dropdown menu without JS - https://tailwindcomponents.com/component/dropdown-menu-without-js
 *   Dropdown with search box - https://tailwindcomponents.com/component/dropdown-with-search-box
 *   Dropdown - https://tailwindcomponents.com/component/dropdown
+*   Dropdowns Simple - https://merakiui.com/
+*   Dropdowns Notification - https://merakiui.com/
 
 ## Form
 
-*   login form - https://tailwindcomponents.com/component/login-form-5
 *   Contact Form - https://tailwindcomponents.com/component/contact-form-1
+*   login form - https://tailwindcomponents.com/component/login-form-5
 *   Login Form - https://tailwindcomponents.com/component/login-form-4
 *   Search form - https://tailwindcomponents.com/component/search-form
 *   Header with Sign in form - https://tailwindcomponents.com/component/header-with-sign-in-form
@@ -234,6 +258,9 @@
 *   Subscribe form - https://tailwindcomponents.com/component/subscribe-form
 *   Form grid - https://tailwindcomponents.com/component/form-grid
 *   Login form - https://tailwindcomponents.com/component/login-form
+*   Forms Simple - https://merakiui.com/
+*   Forms Newsletter - https://merakiui.com/
+*   Footers With Subscribe Form - https://merakiui.com/
 
 ## Hero
 
@@ -288,6 +315,7 @@
 *   Simple Pagination - https://tailwindcomponents.com/component/simple-pagination
 *   Bootstrap style pagination - https://tailwindcomponents.com/component/bootstrap-style-pagination
 *   Bootstrap Like Pagination - https://tailwindcomponents.com/component/bootstrap-like-pagination
+*   Paginations Pagination - https://merakiui.com/
 
 ## Sidebar
 
@@ -353,16 +381,16 @@
 *   Banners Header banner - https://tailwindui.com/preview#component-1a63aa510db7761c581486c7259487e8
 *   Page Headings With meta and actions - https://tailwindui.com/preview#component-7654075f650c9f1044bfcf1b1b6ffd77
 *   Sign-in and Registration Simple no labels - https://tailwindui.com/preview#component-55b9c2097342175b8ddfccf8a30fb68f
+*   Tailwindcss background color example - https://tailwindcomponents.com/component/tailwind-css-background-color-example
 *   Animated dynamic progress bar - https://tailwindcomponents.com/component/animated-dynamic-progress-bar
 *   Netflix clone - https://tailwindcomponents.com/component/netflix-clone
-*   Tailwindcss background color example - https://tailwindcomponents.com/component/tailwind-css-background-color-example
 *   List - https://tailwindcomponents.com/component/list-1
 *   Game Lobby - https://tailwindcomponents.com/component/game-lobby
 *   Event Ticket with QR Code - https://tailwindcomponents.com/component/event-ticket-with-qr-code
 *   Instagram clone - https://tailwindcomponents.com/component/instagram-clone-1
 *   alphine js , toast notification - https://tailwindcomponents.com/component/alphine-js-toast-notification
-*   Progress Bar - https://tailwindcomponents.com/component/progress-bar-1
 *   Browser Frame Mockup - https://tailwindcomponents.com/component/browser-frame-mockup
+*   Progress Bar - https://tailwindcomponents.com/component/progress-bar-1
 *   Frequently Asked Question - FAQ - https://tailwindcomponents.com/component/frequently-asked-question-faq
 *   Multi Range Slider with Alpine.js - https://tailwindcomponents.com/component/multi-range-slider
 *   404 Not Found Page - https://tailwindcomponents.com/component/404-not-found-page
@@ -621,3 +649,18 @@
 *   Bootstrap like input - https://tailwindcomponents.com/component/bootstrap-like-input
 *   Pills - https://tailwindcomponents.com/component/pills
 *   Responsive Header - https://tailwindcomponents.com/component/responsive-header
+*   Authentication Simple Login - https://merakiui.com/
+*   Authentication Login With Side Image - https://merakiui.com/
+*   Navbars E-Commerce - https://merakiui.com/
+*   Navbars With Search - https://merakiui.com/
+*   Navbars With Categories - https://merakiui.com/
+*   Heros E-commerce - https://merakiui.com/
+*   Heros With Image - https://merakiui.com/
+*   Heros With Background Image - https://merakiui.com/
+*   Heros With Pattern - https://merakiui.com/
+*   Sections About Me - https://merakiui.com/
+*   Sections Feature - https://merakiui.com/
+*   Sections Our Team - https://merakiui.com/
+*   Sections Paragraph With Image - https://merakiui.com/
+*   Footers Simple - https://merakiui.com/
+*   Footers With Details - https://merakiui.com/

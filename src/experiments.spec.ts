@@ -13,8 +13,8 @@ after(async () => {
     await browser.close();
 });
 
-it.skip('tailwindui', async () => {
-    const scraper = await import('./scrapers/tailwindui').then((m) => m.default);
+it.skip('experiments', async () => {
+    const scraper = await import('./scrapers/merakiui').then((m) => m.default);
     const result = await scraper({ page });
     console.log('result', result);
 });
