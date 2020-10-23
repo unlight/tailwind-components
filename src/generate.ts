@@ -9,9 +9,7 @@ import { plural } from 'pluralize';
  * [ ] sub categories forms -> contacts
  * [ ] ranks of matches
  * RESOURCES:
- * https://github.com/mertJF/tailblocks
  * https://github.com/tailwindlabs/tailwindcss-custom-forms
- * https://kutty.netlify.app/
  * https://www.tailwindtoolbox.com/starter-components
  * https://www.gustui.com/docs/application/components
  * https://tailwindtemplates.io/
@@ -33,13 +31,13 @@ const categoryList = new Map([
     ['Button', []],
     ['Badge', []],
     ['Card', []],
-    ['Dropdown', []],
+    ['Dropdown', ['fly-out', 'flyout']],
     ['Form', ['input']],
+    ['Footer', []],
     ['Hero', []],
-    ['Layout', []],
     ['Modal', []],
     ['Navigation', ['navbar']],
-    ['Page', []],
+    ['Page', ['layout']],
     ['Pagination', []],
     ['Sidebar', ['side panel']],
     ['Step', []],
