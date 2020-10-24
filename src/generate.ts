@@ -42,7 +42,7 @@ const categoryList = new Map<string, CategoryListValue>([
     ['Modal', { keywords: [] }],
     ['Navigation', { keywords: ['navbar'] }],
     ['Page', { keywords: ['layout'] }],
-    // ['Login', { parent: 'Page' }],
+    ['Login', { parent: 'Page' }],
     ['Pagination', { keywords: [] }],
     ['Sidebar', { keywords: ['side panel'] }],
     ['Step', { keywords: [] }],
@@ -68,8 +68,11 @@ export async function generate({ items }: GenerateArgs) {
         .value();
     const content: string[] = [];
     for (const [category, items] of Object.entries(byCategory)) {
-        // const { parent } = categoryList.get(category)!;
-        const categoryHeading = `## ${category}`;
+        const { parent } = categoryList.get(category)!;
+        let categoryHeading = `## ${category}`;
+        if (parent) {
+            categoryHeading = `#${categoryHeading}`;
+        }
         content.push(categoryHeading);
         content.push(items.map(createLink).join('\n'));
     }

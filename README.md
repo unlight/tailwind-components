@@ -3,25 +3,47 @@
 ## Table of Contents
 
 *   [Alert](#alert)
+
 *   [Avatar](#avatar)
+
 *   [Breadcrumb](#breadcrumb)
+
 *   [Button](#button)
+
 *   [Badge](#badge)
+
 *   [Card](#card)
+
 *   [Dropdown](#dropdown)
+
 *   [Form](#form)
+
 *   [Footer](#footer)
+
 *   [Hero](#hero)
+
 *   [Modal](#modal)
+
 *   [Navigation](#navigation)
+
 *   [Page](#page)
+
+    *   [Login](#login)
+
 *   [Pagination](#pagination)
+
 *   [Sidebar](#sidebar)
+
 *   [Step](#step)
+
 *   [Switch](#switch)
+
 *   [Table](#table)
+
 *   [Tab](#tab)
+
 *   [Timeline](#timeline)
+
 *   [Other](#other)
 
 ## Alert
@@ -80,8 +102,8 @@
 *   Button with menu - https://tailwindcomponents.com/component/button-with-menu
 *   Base Github buttons - https://tailwindcomponents.com/component/base-github-buttons
 *   Custom Radio Buttons - https://tailwindcomponents.com/component/custom-radio-buttons
-*   outline button with hover offset - https://tailwindcomponents.com/component/outline-button-with-hover-offset
 *   Outline Button - https://tailwindcomponents.com/component/outline-button-1
+*   outline button with hover offset - https://tailwindcomponents.com/component/outline-button-with-hover-offset
 *   Curvy buttons - https://tailwindcomponents.com/component/curvy-buttons
 *   Radio buttons - https://tailwindcomponents.com/component/radio-buttons
 *   Tailwind CSS FAB buttons - https://tailwindcomponents.com/component/tailwind-css-fab-buttons
@@ -95,13 +117,13 @@
 *   Buttons - https://tailwindcomponents.com/component/buttons-3
 *   Counter Buttons with an Input - https://tailwindcomponents.com/component/counter-buttons-with-an-input
 *   Scrollable button lists - https://tailwindcomponents.com/component/scrollable-button-lists
-*   Button with counter - https://tailwindcomponents.com/component/button-with-counter
 *   Premium banner around button - https://tailwindcomponents.com/component/premium-banner-around-button
+*   Button with counter - https://tailwindcomponents.com/component/button-with-counter
 *   Nice looking button - https://tailwindcomponents.com/component/nice-looking-button
 *   Simple rounded button - https://tailwindcomponents.com/component/simple-rounded-button
 *   iOs buttons group - https://tailwindcomponents.com/component/ios-buttons-group
-*   Pagination buttons - https://tailwindcomponents.com/component/pagination-buttons
 *   Indigo button - https://tailwindcomponents.com/component/indigo-button-with-an-arrow
+*   Pagination buttons - https://tailwindcomponents.com/component/pagination-buttons
 *   Buttons with icons - https://tailwindcomponents.com/component/buttons-with-icons
 *   Dashboard Card with Buttons - https://tailwindcomponents.com/component/dashboard-card-with-buttons
 *   Button Dropdown - https://tailwindcomponents.com/component/button-dropdown
@@ -112,8 +134,8 @@
 *   Outlined buttons - https://tailwindcomponents.com/component/outlined-buttons
 *   Button with icon - https://tailwindcomponents.com/component/button-with-icon
 *   Outline button - https://tailwindcomponents.com/component/outline-button
-*   Simple button - https://tailwindcomponents.com/component/simple-button
 *   3D button - https://tailwindcomponents.com/component/3d-button
+*   Simple button - https://tailwindcomponents.com/component/simple-button
 *   Navbars Simple dark with menu button on left - https://tailwindui.com/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331
 *   Pagination Card footer with page buttons - https://tailwindui.com/preview#component-69eb9381f977800aa890ce8f7d9e2d20
 *   Slide-overs With close button on outside - https://tailwindui.com/preview#component-91416d48f50d19d1ad826e5a6c77b1e9
@@ -144,24 +166,24 @@
 *   Blog Post Card Grid Layout - https://tailwindcomponents.com/component/blog-post-card-grid-layout
 *   Statistic cards - https://tailwindcomponents.com/component/statistic-cards
 *   Dev.to Card List Search Result - https://tailwindcomponents.com/component/devto-card-list-search-result
-*   dashboard and cards - https://tailwindcomponents.com/component/food-card
 *   Card - https://tailwindcomponents.com/component/card-2
+*   dashboard and cards - https://tailwindcomponents.com/component/food-card
 *   Analytics Card with AlpineJS - https://tailwindcomponents.com/component/analytics-card-with-alpinejs
-*   Simple Welcome Card with AlpineJS action - https://tailwindcomponents.com/component/simple-welcome-card-with-alpinejs-action
 *   Banner with offset cards - https://tailwindcomponents.com/component/banner-with-offset-cards
+*   Simple Welcome Card with AlpineJS action - https://tailwindcomponents.com/component/simple-welcome-card-with-alpinejs-action
 *   Article card - https://tailwindcomponents.com/component/article-card
 *   Team cards - https://tailwindcomponents.com/component/team-cards
 *   TailwindCSS & VUE.js Github Profile Card - https://tailwindcomponents.com/component/tailwindcss-vuejs-github-profile-card
 *   Card with Icon logo - https://tailwindcomponents.com/component/card-with-icon-logo
 *   curvy card - https://tailwindcomponents.com/component/curvy-card
 *   Dashboard info card - https://tailwindcomponents.com/component/dashboard-info-card
-*   Subscribe card - https://tailwindcomponents.com/component/subscribe-card
 *   Post / Card - https://tailwindcomponents.com/component/post-card
+*   Subscribe card - https://tailwindcomponents.com/component/subscribe-card
 *   Post/Article Card - https://tailwindcomponents.com/component/postarticle-card
 *   Tailwind CSS Profile Card Angled - https://tailwindcomponents.com/component/profile-card-angled
 *   Overlapping Product Card - https://tailwindcomponents.com/component/overlapping-product-card
-*   Tailwind CSS Card with Add to Cart - https://tailwindcomponents.com/component/card-with-add-to-cart
 *   Card - https://tailwindcomponents.com/component/card-1
+*   Tailwind CSS Card with Add to Cart - https://tailwindcomponents.com/component/card-with-add-to-cart
 *   unordered list of card items with elevation on hover - https://tailwindcomponents.com/component/unordered-list-of-card-items-with-elevation-on-hover
 *   Tailwindcss card component - https://tailwindcomponents.com/component/tailwindcss-card-component-1
 *   Hero with card - https://tailwindcomponents.com/component/hero-with-card
@@ -170,29 +192,29 @@
 *   Profile card - https://tailwindcomponents.com/component/profile-card-1
 *   Product card with evaluation - https://tailwindcomponents.com/component/product-card-with-evaluation
 *   Product card - https://tailwindcomponents.com/component/product-card
-*   user card - https://tailwindcomponents.com/component/user-card
 *   testimonial card - https://tailwindcomponents.com/component/testimonial-card
+*   user card - https://tailwindcomponents.com/component/user-card
 *   Top Cards - https://tailwindcomponents.com/component/cards-2
 *   Dashboard Cards - https://tailwindcomponents.com/component/dashboard-cards
 *   Cards with Tags - https://tailwindcomponents.com/component/cards-with-tags
 *   Dropdown card on hover with skew animation (Stripe menu) - https://tailwindcomponents.com/component/dropdown-card-below-button-with-skew-animation
 *   Profile Card With Image Background - https://tailwindcomponents.com/component/profile-card-with-image-background
 *   Rounded Cards - https://tailwindcomponents.com/component/rounded-cards
+*   Simple Card Component - https://tailwindcomponents.com/component/simple-card-component
 *   dev.to post card - https://tailwindcomponents.com/component/devto-post-card
 *   Blob Footer Card - https://tailwindcomponents.com/component/blob-footer-card
-*   Simple Card Component - https://tailwindcomponents.com/component/simple-card-component
 *   Event Card - https://tailwindcomponents.com/component/event-card
 *   News Card - https://tailwindcomponents.com/component/news-card
-*   Subscription Card - https://tailwindcomponents.com/component/subscription-card
 *   Card for Listing - https://tailwindcomponents.com/component/card-for-listing
+*   Subscription Card - https://tailwindcomponents.com/component/subscription-card
 *   Subscribe Card - https://tailwindcomponents.com/component/subscription-call-to-action
 *   CARDS - https://tailwindcomponents.com/component/cards-1
 *   Event Cards - https://tailwindcomponents.com/component/event-cards
 *   Cards - https://tailwindcomponents.com/component/cards
 *   Bootstrap Card - https://tailwindcomponents.com/component/bootstrap-card
 *   Responsive Card - https://tailwindcomponents.com/component/responsive-card-design
-*   Quote card - https://tailwindcomponents.com/component/quote-card
 *   property card - https://tailwindcomponents.com/component/property-card
+*   Quote card - https://tailwindcomponents.com/component/quote-card
 *   Commerce App Card - https://tailwindcomponents.com/component/commerce-app-card
 *   Material Design - Card - https://tailwindcomponents.com/component/material-design-card
 *   Card with sidebar - https://tailwindcomponents.com/component/list-with-sidebar
@@ -201,8 +223,8 @@
 *   Article cards - https://tailwindcomponents.com/component/article-cards
 *   Stripe Credit Card - https://tailwindcomponents.com/component/stripe-credit-card
 *   Weather Card - https://tailwindcomponents.com/component/weather-card
-*   Card Sidebar Navigation - https://tailwindcomponents.com/component/card-sidebar-navigation
 *   Profile Card - https://tailwindcomponents.com/component/profile-card
+*   Card Sidebar Navigation - https://tailwindcomponents.com/component/card-sidebar-navigation
 *   Horizontal card - https://tailwindcomponents.com/component/horizontal-card
 *   Simple card - https://tailwindcomponents.com/component/simple-card
 *   Description Lists Left-aligned striped in card - https://tailwindui.com/preview#component-66e73ff022ab21fdbf81058dc9789219
@@ -255,8 +277,8 @@
 *   Contact Form - https://tailwindcomponents.com/component/contact-form-1
 *   Login Form - https://tailwindcomponents.com/component/login-form-4
 *   Search form - https://tailwindcomponents.com/component/search-form
-*   Input with icon and validation error - https://tailwindcomponents.com/component/input-with-icon-and-validation-error
 *   Header with Sign in form - https://tailwindcomponents.com/component/header-with-sign-in-form
+*   Input with icon and validation error - https://tailwindcomponents.com/component/input-with-icon-and-validation-error
 *   Comment form - https://tailwindcomponents.com/component/comment-form
 *   Login form - https://tailwindcomponents.com/component/login-form-3
 *   Form Login with Icon in Right and Left Input - https://tailwindcomponents.com/component/form-login-with-icon-in-right-and-left-input
@@ -267,13 +289,13 @@
 *   Contact form - https://tailwindcomponents.com/component/contact-form
 *   Form Sidebar - https://tailwindcomponents.com/component/chart-filter-1
 *   Hero with form - https://tailwindcomponents.com/component/hero-with-form
-*   Form stepper - https://tailwindcomponents.com/component/form-stepper
 *   Horizontal form - https://tailwindcomponents.com/component/horizontal-form
+*   Form stepper - https://tailwindcomponents.com/component/form-stepper
 *   Search input - https://tailwindcomponents.com/component/search-input-1
 *   simple form field - https://tailwindcomponents.com/component/simple-form-field
 *   Multistep Form with TailwindCSS and AlpineJS - https://tailwindcomponents.com/component/multistep-form-with-tailwindcss-and-alpinejs
-*   Footer with subscribe form - https://tailwindcomponents.com/component/footer-with-subscribe-form
 *   subscribe form - https://tailwindcomponents.com/component/subscribe-form-1
+*   Footer with subscribe form - https://tailwindcomponents.com/component/footer-with-subscribe-form
 *   Register form with password validator - Tailwind CSS & Alpine JS - https://tailwindcomponents.com/component/register-form-with-password-validator-tailwind-css-alpine-js
 *   Login Form - https://tailwindcomponents.com/component/login-form-1
 *   Input field with label - https://tailwindcomponents.com/component/input-field-with-label
@@ -290,16 +312,16 @@
 *   Search input full rounded - https://tailwindcomponents.com/component/search-input-full-rounded
 *   Checkout Form - https://tailwindcomponents.com/component/checkout-form
 *   Simple login form - https://tailwindcomponents.com/component/simple-login-form
-*   Sign Up Form - https://tailwindcomponents.com/component/sign-up-form
 *   Input with static text - https://tailwindcomponents.com/component/input-with-static-text
+*   Sign Up Form - https://tailwindcomponents.com/component/sign-up-form
 *   Input price - https://tailwindcomponents.com/component/input-price
 *   Beautiful form signup - https://tailwindcomponents.com/component/beautiful-form-signup
 *   Input Group Add Ons - https://tailwindcomponents.com/component/input-group-add-ons
 *   Style your file input using Tailwindcss - https://tailwindcomponents.com/component/style-your-file-input-using-tailwindcss
 *   Subscribe form - https://tailwindcomponents.com/component/subscribe-form
 *   Search input - https://tailwindcomponents.com/component/search-input
-*   Form grid - https://tailwindcomponents.com/component/form-grid
 *   Login form - https://tailwindcomponents.com/component/login-form
+*   Form grid - https://tailwindcomponents.com/component/form-grid
 *   Bootstrap like input - https://tailwindcomponents.com/component/bootstrap-like-input
 *   Forms Simple - https://merakiui.com/
 *   Forms Newsletter - https://merakiui.com/
@@ -360,13 +382,13 @@
 *   Dark Navigation component - https://tailwindcomponents.com/component/dark-navigation-component
 *   Navigation component - https://tailwindcomponents.com/component/navigation-component
 *   Top Navigation Bar - https://tailwindcomponents.com/component/top-navigation-bar
+*   Curvy Bottom Icon Navigation Menu - https://tailwindcomponents.com/component/curvy-bottom-icon-navigation-menu
 *   Navigation Side Bar - https://tailwindcomponents.com/component/navigation-side-bar
 *   Bottom Icon Navigation Menu - https://tailwindcomponents.com/component/bottom-icon-navigation-menu
-*   Curvy Bottom Icon Navigation Menu - https://tailwindcomponents.com/component/curvy-bottom-icon-navigation-menu
 *   responsive navbar - https://tailwindcomponents.com/component/responsive-navbar-4
 *   Sticky Bottom Mobile Navbar - https://tailwindcomponents.com/component/sticky-bottom-mobile-navbar
-*   Simple Responsive Navigation Bar - https://tailwindcomponents.com/component/simple-responsive-navigation-bar
 *   Simple Responsive Navigation Bar - https://tailwindcomponents.com/component/simple-responsive-navigation-bar-1
+*   Simple Responsive Navigation Bar - https://tailwindcomponents.com/component/simple-responsive-navigation-bar
 *   Steps navigation - https://tailwindcomponents.com/component/steps-navigation
 *   Responsive Navbar with search bar - https://tailwindcomponents.com/component/responsive-navbar-2
 *   Navbar with search icon - https://tailwindcomponents.com/component/navbar-with-search-icon
@@ -389,19 +411,19 @@
 
 *   404 Not Found Page - https://tailwindcomponents.com/component/404-not-found-page
 *   Landing Page by Wicked Templates - https://tailwindcomponents.com/component/wicked-template-seychelles
-*   Not Found Page - https://tailwindcomponents.com/component/not-found-page
 *   Login page - https://tailwindcomponents.com/component/login-page-3
+*   Not Found Page - https://tailwindcomponents.com/component/not-found-page
 *   E-commerce product page - https://tailwindcomponents.com/component/e-commerce-product-page
 *   E-commerce product listing page - https://tailwindcomponents.com/component/e-commerce-product-listing-page
-*   E-commerce home page - https://tailwindcomponents.com/component/e-commerce-home-page
 *   E-commerce checkout page - https://tailwindcomponents.com/component/e-commerce-checkout-page
+*   E-commerce home page - https://tailwindcomponents.com/component/e-commerce-home-page
 *   Politico Clone Layout - https://tailwindcomponents.com/component/politico-clone
 *   Basic App layout - https://tailwindcomponents.com/component/basic-app-layout
-*   Teamwork page - https://tailwindcomponents.com/component/teamwork-page
 *   Grid Post Layout - https://tailwindcomponents.com/component/grid-post-layout
+*   Teamwork page - https://tailwindcomponents.com/component/teamwork-page
 *   School themed landing page - https://tailwindcomponents.com/component/school-themed-landing-page
-*   Business page - https://tailwindcomponents.com/component/business-page
 *   Nature landing page - https://tailwindcomponents.com/component/nature-landing-page
+*   Business page - https://tailwindcomponents.com/component/business-page
 *   Login Page - https://tailwindcomponents.com/component/login-page-1
 *   DigitalOcean Tutorials Page - https://tailwindcomponents.com/component/digitalocean-tutorials-page
 *   Landing Page with twinkling stars 🌟 - https://tailwindcomponents.com/component/landing-page-with-twinkling-stars
@@ -429,6 +451,20 @@
 *   Page Step - https://mertjf.github.io/tailblocks
 *   Page Team - https://mertjf.github.io/tailblocks
 *   Page Testimonial - https://mertjf.github.io/tailblocks
+
+### Login
+
+*   Tailbox login - https://tailwindcomponents.com/component/tailbox-login
+*   Modern Login Template - https://tailwindcomponents.com/component/modern-login-register-pages
+*   Login and registration with image - https://tailwindcomponents.com/component/login-and-registration-with-image
+*   Login Show/Hide Password - https://tailwindcomponents.com/component/login-showhide-password
+*   Sign up / Login boxes - https://tailwindcomponents.com/component/sign-up-login-boxes
+*   Login with Image - https://tailwindcomponents.com/component/login-with-image
+*   Authentication Simple Login - https://merakiui.com/
+*   Authentication Login With Side Image - https://merakiui.com/
+*   Authentication Login - https://kutty.netlify.app/components/login/
+*   Simple Login - https://www.gustui.com/docs/application/pages/accounts
+*   Side Login - https://www.gustui.com/docs/application/pages/accounts
 
 ## Pagination
 
@@ -504,47 +540,46 @@
 
 ## Other
 
-*   Tailbox login - https://tailwindcomponents.com/component/tailbox-login
-*   Start Jumbotron - https://tailwindcomponents.com/component/start-jumbotron
 *   Quote Box - https://tailwindcomponents.com/component/quote-box
-*   Tailwindcss background color example - https://tailwindcomponents.com/component/tailwind-css-background-color-example
+*   Start Jumbotron - https://tailwindcomponents.com/component/start-jumbotron
 *   Netflix clone - https://tailwindcomponents.com/component/netflix-clone
 *   List - https://tailwindcomponents.com/component/list-1
 *   Animated dynamic progress bar - https://tailwindcomponents.com/component/animated-dynamic-progress-bar
+*   Tailwindcss background color example - https://tailwindcomponents.com/component/tailwind-css-background-color-example
 *   Game Lobby - https://tailwindcomponents.com/component/game-lobby
 *   Event Ticket with QR Code - https://tailwindcomponents.com/component/event-ticket-with-qr-code
 *   Instagram clone - https://tailwindcomponents.com/component/instagram-clone-1
-*   Browser Frame Mockup - https://tailwindcomponents.com/component/browser-frame-mockup
-*   Frequently Asked Question - FAQ - https://tailwindcomponents.com/component/frequently-asked-question-faq
 *   Progress Bar - https://tailwindcomponents.com/component/progress-bar-1
+*   Browser Frame Mockup - https://tailwindcomponents.com/component/browser-frame-mockup
 *   Multi Range Slider with Alpine.js - https://tailwindcomponents.com/component/multi-range-slider
+*   Frequently Asked Question - FAQ - https://tailwindcomponents.com/component/frequently-asked-question-faq
 *   clean spinner - https://tailwindcomponents.com/component/clean-spinner
-*   Navabr with categories - https://tailwindcomponents.com/component/navabr-with-categories
 *   Header with background image - https://tailwindcomponents.com/component/header-with-background-image
+*   Navabr with categories - https://tailwindcomponents.com/component/navabr-with-categories
 *   Chat Support - https://tailwindcomponents.com/component/chat-services
-*   Dashboard Statistic Widgets - https://tailwindcomponents.com/component/dashboard-statistic-widgets
-*   Recent article - https://tailwindcomponents.com/component/recent-article-1
 *   Click through Image Gallery - https://tailwindcomponents.com/component/click-through-image-gallery
-*   hero-component - https://tailwindcomponents.com/component/hero-component
+*   Recent article - https://tailwindcomponents.com/component/recent-article-1
+*   Dashboard Statistic Widgets - https://tailwindcomponents.com/component/dashboard-statistic-widgets
 *   iOS Keyboard Clone (Dark Mode) - https://tailwindcomponents.com/component/ios-keyboard-clone-dark-mode
+*   hero-component - https://tailwindcomponents.com/component/hero-component
 *   iOS Keyboard Clone (Light Mode) - https://tailwindcomponents.com/component/ios-keyboard-clone-light-mode
 *   Simple Shopping Callout with CTA - https://tailwindcomponents.com/component/simple-shopping-callout-with-cta
-*   Parking App Design - https://tailwindcomponents.com/component/tailwind-parking-app
 *   Mobile App Design - https://tailwindcomponents.com/component/mobile-app-design
-*   Stock Chart with AlpineJS and ChartsJS - https://tailwindcomponents.com/component/stock-chart-with-alpinejs-and-chartsjs
+*   Parking App Design - https://tailwindcomponents.com/component/tailwind-parking-app
 *   Events list - custom scrollbar - https://tailwindcomponents.com/component/events-list-custom-scrollbar
+*   Stock Chart with AlpineJS and ChartsJS - https://tailwindcomponents.com/component/stock-chart-with-alpinejs-and-chartsjs
 *   Pure CSS Accordion - https://tailwindcomponents.com/component/pure-css-accordion
 *   Tailwind Teacher Dashboard - https://tailwindcomponents.com/component/tailwind-teacher-dashboard
 *   Tailwind Users Dashboard - https://tailwindcomponents.com/component/tailwind-users-dashboard
 *   Expenses Dashboard - https://tailwindcomponents.com/component/expenses-dashboard
-*   Jira Software - https://tailwindcomponents.com/component/jira-software
 *   Hideable notes (bottom right fixed button) - https://tailwindcomponents.com/component/hideable-notes
-*   Facebook Notification - https://tailwindcomponents.com/component/facebook-notification
-*   Messenger clone - https://tailwindcomponents.com/component/messanger-clone
+*   Jira Software - https://tailwindcomponents.com/component/jira-software
 *   Multiple Views With Collapsing - https://tailwindcomponents.com/component/multiple-views-with-collapsing
-*   Dark header component - https://tailwindcomponents.com/component/dark-header-component
+*   Messenger clone - https://tailwindcomponents.com/component/messanger-clone
+*   Facebook Notification - https://tailwindcomponents.com/component/facebook-notification
 *   Subscribe - https://tailwindcomponents.com/component/pazlydev
 *   Laravel preset - https://tailwindcomponents.com/component/laravel-preset
+*   Dark header component - https://tailwindcomponents.com/component/dark-header-component
 *   Blog Homepage - https://tailwindcomponents.com/component/blog-homepage-1
 *   Blog post - https://tailwindcomponents.com/component/blog-post-1
 *   Blog Homepage - https://tailwindcomponents.com/component/blog-homepage
@@ -553,34 +588,34 @@
 *   Clone WhatsApp Android UI - https://tailwindcomponents.com/component/clone-whatsapp-android-ui
 *   Calculator in TailwindCSS - https://tailwindcomponents.com/component/calculator-in-tailwindcss
 *   Clone github new design - https://tailwindcomponents.com/component/clone-github-new-design
-*   Battery with Tailwind CSS - https://tailwindcomponents.com/component/battery-with-tailwind-css
 *   Wireframe - https://tailwindcomponents.com/component/wireframe
-*   spinner - https://tailwindcomponents.com/component/spinner-1
+*   Battery with Tailwind CSS - https://tailwindcomponents.com/component/battery-with-tailwind-css
 *   Account Setting - https://tailwindcomponents.com/component/account-setting-2
+*   spinner - https://tailwindcomponents.com/component/spinner-1
 *   Stars review - https://tailwindcomponents.com/component/stars-review
 *   Checkbox - https://tailwindcomponents.com/component/customized-checkbox
 *   Report a bug - https://tailwindcomponents.com/component/report-a-bug
 *   Product Preview - https://tailwindcomponents.com/component/product-preview
-*   Todo Application - https://tailwindcomponents.com/component/todo-application
 *   Help Center crad - https://tailwindcomponents.com/component/help-center-crad
-*   Facebook clone - https://tailwindcomponents.com/component/facebook-navbar-clone
+*   Todo Application - https://tailwindcomponents.com/component/todo-application
 *   New Telegram Web Clone - https://tailwindcomponents.com/component/new-telegram-web-clone
 *   Item Review - https://tailwindcomponents.com/component/item-review
-*   Shopping Cart with coupon - https://tailwindcomponents.com/component/shopping-cart
+*   Facebook clone - https://tailwindcomponents.com/component/facebook-navbar-clone
 *   Developer portfolio - https://tailwindcomponents.com/component/developer-portfolio
+*   Shopping Cart with coupon - https://tailwindcomponents.com/component/shopping-cart
 *   Messenger Clone - TailwindCSS - https://tailwindcomponents.com/component/tailwindcss-messenger-clone
 *   TailwindCSS Flow chart - https://tailwindcomponents.com/component/tailwindcss-flow-chart
+*   Product Detail - https://tailwindcomponents.com/component/product-detail
+*   Testimonial UI with TailwindCSS and AlpineJS - https://tailwindcomponents.com/component/testimonial-ui-with-tailwindcss-and-alpinejs
 *   Instagram Clone - https://tailwindcomponents.com/component/instagram-clone
 *   Animated ellipsis - https://tailwindcomponents.com/component/animated-ellipsis
-*   Testimonial UI with TailwindCSS and AlpineJS - https://tailwindcomponents.com/component/testimonial-ui-with-tailwindcss-and-alpinejs
-*   Product Detail - https://tailwindcomponents.com/component/product-detail
 *   Twitter Clone - https://tailwindcomponents.com/component/twitter-clone
-*   Search Image gallery - https://tailwindcomponents.com/component/search-image-gallery
 *   Bar Chart with TailwindCSS and AlpineJS - https://tailwindcomponents.com/component/bar-chart-with-tailwindcss-and-alpinejs
-*   Color Picker with TailwindCSS and AlpineJS - https://tailwindcomponents.com/component/color-picker-with-tailwindcss-and-alpinejs
-*   Single pricing - https://tailwindcomponents.com/component/single-pricing
+*   Search Image gallery - https://tailwindcomponents.com/component/search-image-gallery
 *   List - https://tailwindcomponents.com/component/list
+*   Single pricing - https://tailwindcomponents.com/component/single-pricing
 *   Simple Terminal - https://tailwindcomponents.com/component/terminal
+*   Color Picker with TailwindCSS and AlpineJS - https://tailwindcomponents.com/component/color-picker-with-tailwindcss-and-alpinejs
 *   Special promo - https://tailwindcomponents.com/component/special-promo
 *   Running - https://tailwindcomponents.com/component/running
 *   Recruiting strategy - https://tailwindcomponents.com/component/recruiting-strategy
@@ -592,123 +627,118 @@
 *   Chart Filter - https://tailwindcomponents.com/component/chart-filter
 *   Info shopping - https://tailwindcomponents.com/component/info-shopping
 *   FAQ - https://tailwindcomponents.com/component/faq
-*   Case study - https://tailwindcomponents.com/component/case-study
 *   Bubbles - https://tailwindcomponents.com/component/bubbles
+*   Case study - https://tailwindcomponents.com/component/case-study
 *   Chips - https://tailwindcomponents.com/component/chips
 *   Select with custom list - https://tailwindcomponents.com/component/select-with-custom-list
 *   Multi select - https://tailwindcomponents.com/component/multi-select
-*   Basic select - https://tailwindcomponents.com/component/basic-select
 *   Range slider - https://tailwindcomponents.com/component/range-slider
+*   Basic select - https://tailwindcomponents.com/component/basic-select
 *   User account menu with icons - https://tailwindcomponents.com/component/user-account-menu-with-icons
 *   Search - https://tailwindcomponents.com/component/search
-*   Responsive Multi File Upload with drop-on and preview - https://tailwindcomponents.com/component/file-upload-with-drop-on-and-preview
 *   Zen Desk Clone - https://tailwindcomponents.com/component/zen-desk-clone
-*   Modern Login Template - https://tailwindcomponents.com/component/modern-login-register-pages
+*   Responsive Multi File Upload with drop-on and preview - https://tailwindcomponents.com/component/file-upload-with-drop-on-and-preview
 *   Feed Grid - https://tailwindcomponents.com/component/feed-grid
 *   Calendar UI with TailwindCSS and AlpineJS - https://tailwindcomponents.com/component/calendar-ui-with-tailwindcss-and-alpinejs
-*   Mini Schedule - https://tailwindcomponents.com/component/mini-schedule
 *   Course Panel - https://tailwindcomponents.com/component/course-panel
 *   Tags - https://tailwindcomponents.com/component/tags
+*   Mini Schedule - https://tailwindcomponents.com/component/mini-schedule
 *   antd notification - https://tailwindcomponents.com/component/antd-notification
-*   Datepicker with TailwindCSS and AlpineJS - https://tailwindcomponents.com/component/datepicker-with-tailwindcss-and-alpinejs
 *   Item List & Search - https://tailwindcomponents.com/component/item-list-search
 *   Folder Options - https://tailwindcomponents.com/component/folder-options
+*   Datepicker with TailwindCSS and AlpineJS - https://tailwindcomponents.com/component/datepicker-with-tailwindcss-and-alpinejs
 *   Notifications - https://tailwindcomponents.com/component/notifications
-*   Carousel Slider with TailwindCSS and jQuery - https://tailwindcomponents.com/component/carousel-slider-with-tailwindcss-and-jquery
 *   Banner - https://tailwindcomponents.com/component/information-presenting-card-3
+*   Carousel Slider with TailwindCSS and jQuery - https://tailwindcomponents.com/component/carousel-slider-with-tailwindcss-and-jquery
 *   Invoice Generator build with TailwindCSS and AlpineJS. - https://tailwindcomponents.com/component/invoice-generator-build-with-tailwindcss-and-alpinejs
 *   Notification - https://tailwindcomponents.com/component/notification-3
 *   Recent article - https://tailwindcomponents.com/component/recent-article
-*   Login and registration with image - https://tailwindcomponents.com/component/login-and-registration-with-image
 *   Skills sections - https://tailwindcomponents.com/component/skills-sections
-*   Application header with clip path - https://tailwindcomponents.com/component/application-header-with-clip-path
 *   Paragraph with image - https://tailwindcomponents.com/component/paragraph-with-image
+*   Application header with clip path - https://tailwindcomponents.com/component/application-header-with-clip-path
 *   Stat Component - https://tailwindcomponents.com/component/stat-component
 *   Notification pop - https://tailwindcomponents.com/component/notification-pop
-*   author signature - https://tailwindcomponents.com/component/author-signature
 *   three skills or focus - https://tailwindcomponents.com/component/three-skills-or-focus
+*   author signature - https://tailwindcomponents.com/component/author-signature
 *   Stat Grid - https://tailwindcomponents.com/component/stat-grid
 *   header for blog - https://tailwindcomponents.com/component/header-for-blog
-*   Login Show/Hide Password - https://tailwindcomponents.com/component/login-showhide-password
 *   Tag Line - https://tailwindcomponents.com/component/tag-line
 *   Slider only CSS - https://tailwindcomponents.com/component/slider-only-css
-*   CSS only slider - https://tailwindcomponents.com/component/css-only-slide
 *   Instagram Post Component - https://tailwindcomponents.com/component/instagram-post-component
+*   CSS only slider - https://tailwindcomponents.com/component/css-only-slide
 *   Post Article - https://tailwindcomponents.com/component/post-artical
 *   Spinner - https://tailwindcomponents.com/component/spinner
-*   Sign up / Login boxes - https://tailwindcomponents.com/component/sign-up-login-boxes
 *   Fully CSS responsive Outlook clone - https://tailwindcomponents.com/component/fully-css-responsive-outlook-clone
 *   Custom checkbox - https://tailwindcomponents.com/component/custom-checkbox
-*   Range - https://tailwindcomponents.com/component/range
 *   Error 404 - https://tailwindcomponents.com/component/error-404
-*   Tooltip - https://tailwindcomponents.com/component/tooltip
+*   Range - https://tailwindcomponents.com/component/range
 *   Project timers - https://tailwindcomponents.com/component/project-timers
+*   Tooltip - https://tailwindcomponents.com/component/tooltip
 *   FAQs - https://tailwindcomponents.com/component/faqs
-*   Google Chrome clone - https://tailwindcomponents.com/component/google-chrome-clone
 *   Username Checker - https://tailwindcomponents.com/component/username-checker
+*   Google Chrome clone - https://tailwindcomponents.com/component/google-chrome-clone
 *   Borderless list - https://tailwindcomponents.com/component/borderless-list
 *   Google Styled Account Menu - https://tailwindcomponents.com/component/google-styled-account-menu
 *   Windows 10 - Fluent Design - Progress Bar - https://tailwindcomponents.com/component/windows-10-fluent-design-progress-bar
-*   Digital Marketing Landing - https://tailwindcomponents.com/component/digital-marketing-landing
 *   Windows 10 - Command Prompt / Terminal - https://tailwindcomponents.com/component/windows-10-command-prompt
+*   Digital Marketing Landing - https://tailwindcomponents.com/component/digital-marketing-landing
 *   File Upload DropZone - https://tailwindcomponents.com/component/file-upload-drop-zone
+*   Social Media Template - https://tailwindcomponents.com/component/social-media-template
 *   WebPage Example With Pure Tailwind Responsive Nav - https://tailwindcomponents.com/component/webpage-example-with-pure-tailwind-responsive-nav
 *   Label-Tag - https://tailwindcomponents.com/component/label-tag
-*   Social Media Template - https://tailwindcomponents.com/component/social-media-template
 *   Responsive Nav - https://tailwindcomponents.com/component/navigation-4
+*   Empty state: Add photo - https://tailwindcomponents.com/component/empty-state-add-photo
 *   Bottom and Header Nav responsive. - https://tailwindcomponents.com/component/bottom-and-header-nav-responsive
 *   A Popup Box! - https://tailwindcomponents.com/component/a-popup-box
-*   Empty state: Add photo - https://tailwindcomponents.com/component/empty-state-add-photo
-*   Mac Terminal - https://tailwindcomponents.com/component/mac-terminal
-*   Image Grid - https://tailwindcomponents.com/component/image-grid
 *   checkbox - https://tailwindcomponents.com/component/checkbox-1
+*   Image Grid - https://tailwindcomponents.com/component/image-grid
+*   Mac Terminal - https://tailwindcomponents.com/component/mac-terminal
 *   Display child element on hover - https://tailwindcomponents.com/component/display-child-element-on-hover
 *   Pricing panel responsive - https://tailwindcomponents.com/component/pricing-panel-responsive
-*   Login with Image - https://tailwindcomponents.com/component/login-with-image
-*   Follow Me - https://tailwindcomponents.com/component/follow-me
 *   Material UI Textfield - https://tailwindcomponents.com/component/material-ui-textfield-1
 *   Stripe pricing panel clone - https://tailwindcomponents.com/component/stripe-pricing-panel-clone
+*   Follow Me - https://tailwindcomponents.com/component/follow-me
 *   Tiles - https://tailwindcomponents.com/component/tiles
 *   Stripe carousel clone - https://tailwindcomponents.com/component/stripe-carousel-clone
-*   User review with ratings - https://tailwindcomponents.com/component/user-review-with-ratings
 *   search bar - https://tailwindcomponents.com/component/search-bar
+*   User review with ratings - https://tailwindcomponents.com/component/user-review-with-ratings
 *   white bottom with underline - https://tailwindcomponents.com/component/gender-bottom-white-with-bottom-line
 *   Simple weather box desing - https://tailwindcomponents.com/component/simple-weather-box-desing
-*   Feedback fixed section - https://tailwindcomponents.com/component/feedback-fixed-section
 *   Notifications popup - https://tailwindcomponents.com/component/notifications-popup
-*   Weather  Widget - https://tailwindcomponents.com/component/weather-widget
+*   Feedback fixed section - https://tailwindcomponents.com/component/feedback-fixed-section
 *   Simple template - https://tailwindcomponents.com/component/simple-template
+*   Weather  Widget - https://tailwindcomponents.com/component/weather-widget
 *   Checkbox - https://tailwindcomponents.com/component/checkbox
 *   Telegram Desktop using Tailwindcss - https://tailwindcomponents.com/component/telegram-desktop-using-tailwindcss
 *   Reddit Clone - https://tailwindcomponents.com/component/reddit-clone
 *   Tailwind Css box shadow scale - https://tailwindcomponents.com/component/tailwind-css-box-shadow-scale
 *   Comment - https://tailwindcomponents.com/component/comment
 *   Contact List - https://tailwindcomponents.com/component/contact-list
-*   Collapsible / Accordion - https://tailwindcomponents.com/component/collapsible-accordion
 *   Simple Calendar Day "icon" - https://tailwindcomponents.com/component/simple-calendar-day-icon
-*   vacation calendar - https://tailwindcomponents.com/component/vacation-calendar
+*   Collapsible / Accordion - https://tailwindcomponents.com/component/collapsible-accordion
 *   Tailegram: Telegram Desktop App with Tailwind CSS - https://tailwindcomponents.com/component/tailegram-telegram-desktop-app-with-tailwind-css
-*   Tailwind File Upload - https://tailwindcomponents.com/component/tailwind-file-upload
+*   vacation calendar - https://tailwindcomponents.com/component/vacation-calendar
 *   search box - https://tailwindcomponents.com/component/search-box
+*   Tailwind File Upload - https://tailwindcomponents.com/component/tailwind-file-upload
 *   Tailwind Css Audio Player - https://tailwindcomponents.com/component/tailwind-css-audio-player
-*   Slackish homepage - https://tailwindcomponents.com/component/slackish-homepage
-*   Bootstrap 4 List Group Clone - https://tailwindcomponents.com/component/bootstrap-4-list-group-clone
 *   WhatsApp Web Clone - https://tailwindcomponents.com/component/whatsapp-web-clone
+*   Bootstrap 4 List Group Clone - https://tailwindcomponents.com/component/bootstrap-4-list-group-clone
+*   Slackish homepage - https://tailwindcomponents.com/component/slackish-homepage
 *   Calendar Date - https://tailwindcomponents.com/component/calendar-date
-*   Stripe Pricing - https://tailwindcomponents.com/component/stripe-pricing
 *   Facebook Clone - https://tailwindcomponents.com/component/facebook-clone
 *   Youtube Clone - https://tailwindcomponents.com/component/youtube-clone
+*   Stripe Pricing - https://tailwindcomponents.com/component/stripe-pricing
 *   Github profile clone - https://tailwindcomponents.com/component/github-profile-clone
-*   kissTheme - https://tailwindcomponents.com/component/kisstheme
 *   Coinbase Clone - https://tailwindcomponents.com/component/coinbase-clone
 *   Trello panel clone - https://tailwindcomponents.com/component/trello-panel-clone
+*   kissTheme - https://tailwindcomponents.com/component/kisstheme
 *   Bootstrap style panel - https://tailwindcomponents.com/component/bootstrap-style-panel
-*   Slack Clone - https://tailwindcomponents.com/component/slack-clone-1
 *   List Group - https://tailwindcomponents.com/component/list-group
+*   Slack Clone - https://tailwindcomponents.com/component/slack-clone-1
 *   Todo List App - https://tailwindcomponents.com/component/todo-list-app
-*   Site Header - https://tailwindcomponents.com/component/site-header
-*   Embedded Tweet - https://tailwindcomponents.com/component/embedded-tweet
 *   Slack clone - https://tailwindcomponents.com/component/slack-clone
+*   Embedded Tweet - https://tailwindcomponents.com/component/embedded-tweet
+*   Site Header - https://tailwindcomponents.com/component/site-header
 *   Progress bar - https://tailwindcomponents.com/component/progress-bar
 *   Dropzone - https://tailwindcomponents.com/component/dropzone
 *   Article - https://tailwindcomponents.com/component/article
@@ -720,8 +750,6 @@
 *   Headers Centered with bottom border - https://tailwindui.com/preview#component-1c0390a81b16cf5028aeff08be955766
 *   Banners Header banner - https://tailwindui.com/preview#component-1a63aa510db7761c581486c7259487e8
 *   Sign-in and Registration Simple no labels - https://tailwindui.com/preview#component-55b9c2097342175b8ddfccf8a30fb68f
-*   Authentication Simple Login - https://merakiui.com/
-*   Authentication Login With Side Image - https://merakiui.com/
 *   Heros E-commerce - https://merakiui.com/
 *   Heros With Image - https://merakiui.com/
 *   Heros With Background Image - https://merakiui.com/
@@ -733,7 +761,6 @@
 *   Typography - https://sailui.github.io/
 *   Application Statistics - https://kutty.netlify.app/components/statistics/
 *   Authentication 404 & 500 - https://kutty.netlify.app/components/404-500/
-*   Authentication Login - https://kutty.netlify.app/components/login/
 *   Authentication Register - https://kutty.netlify.app/components/register/
 *   Marketing Blog List - https://kutty.netlify.app/components/blog-list/
 *   Marketing Blog Post - https://kutty.netlify.app/components/blog-post/
@@ -760,8 +787,6 @@
 *   Simple Side Nav - https://www.gustui.com/docs/application/elements/side-navs
 *   Side Filters - https://www.gustui.com/docs/application/elements/side-navs
 *   Slide Panel - https://www.gustui.com/docs/application/elements/slide-panels
-*   Simple Login - https://www.gustui.com/docs/application/pages/accounts
-*   Side Login - https://www.gustui.com/docs/application/pages/accounts
 *   Dashboard With Side Nav - https://www.gustui.com/docs/application/pages/dashboards
 *   Simple Onboarding - https://www.gustui.com/docs/application/pages/onboarding
 *   Restaurant Search - https://www.gustui.com/docs/application/pages/other
