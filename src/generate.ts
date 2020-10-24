@@ -14,7 +14,6 @@ import { plural } from 'pluralize';
  * https://tailwindtemplates.io/
  * https://component.tailwindow.com/collection
  * https://treact.owaiskhan.me/
- * https://lofiui.co/
  * https://windmill-dashboard.vercel.app/
  * https://tailwindadmin.netlify.app/index.html
  * https://cruip.com/
