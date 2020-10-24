@@ -23,28 +23,34 @@ import { plural } from 'pluralize';
  * https://devdojo.com/tailwindcss/components
  */
 
-const categoryList = new Map([
-    ['Alert', ['toast']],
-    ['Avatar', []],
-    ['Breadcrumb', []],
-    ['Button', []],
-    ['Badge', []],
-    ['Card', []],
-    ['Dropdown', ['fly-out', 'flyout']],
-    ['Form', ['input']],
-    ['Footer', []],
-    ['Hero', []],
-    ['Modal', []],
-    ['Navigation', ['navbar']],
-    ['Page', ['layout']],
-    ['Pagination', []],
-    ['Sidebar', ['side panel']],
-    ['Step', []],
-    ['Switch', ['toggle']],
-    ['Table', []],
-    ['Tab', []],
-    ['Timeline', []],
-    ['Other', []],
+type CategoryListValue = {
+    keywords?: string[];
+    parent?: string;
+};
+
+const categoryList = new Map<string, CategoryListValue>([
+    ['Alert', { keywords: ['toast'] }],
+    ['Avatar', { keywords: [] }],
+    ['Breadcrumb', { keywords: [] }],
+    ['Button', { keywords: [] }],
+    ['Badge', { keywords: [] }],
+    ['Card', { keywords: [] }],
+    ['Dropdown', { keywords: ['fly-out', 'flyout'] }],
+    ['Form', { keywords: ['input'] }],
+    ['Footer', { keywords: [] }],
+    ['Hero', { keywords: [] }],
+    ['Modal', { keywords: [] }],
+    ['Navigation', { keywords: ['navbar'] }],
+    ['Page', { keywords: ['layout'] }],
+    // ['Login', { parent: 'Page' }],
+    ['Pagination', { keywords: [] }],
+    ['Sidebar', { keywords: ['side panel'] }],
+    ['Step', { keywords: [] }],
+    ['Switch', { keywords: ['toggle'] }],
+    ['Table', { keywords: [] }],
+    ['Tab', { keywords: [] }],
+    ['Timeline', { keywords: [] }],
+    ['Other', { keywords: [] }],
 ]);
 
 const categoryNames = [...categoryList.keys()];
@@ -62,14 +68,17 @@ export async function generate({ items }: GenerateArgs) {
         .value();
     const content: string[] = [];
     for (const [category, items] of Object.entries(byCategory)) {
-        content.push(`## ${category}`);
+        // const { parent } = categoryList.get(category)!;
+        const categoryHeading = `## ${category}`;
+        content.push(categoryHeading);
         content.push(items.map(createLink).join('\n'));
     }
     return `# Tailwind Components\n## Table of Contents\n${content.join('\n')}`;
 }
 
 function getCategory(name: string) {
-    for (const [category, keywords] of categoryList.entries()) {
+    for (const [category, mapValue] of categoryList.entries()) {
+        const { keywords = [] } = mapValue;
         const categoryLower = category.toLowerCase();
         const categoryPlural = plural(categoryLower);
         if (

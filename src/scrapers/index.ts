@@ -5,8 +5,8 @@ export async function getScrapers(args: GetScrapersArgs) {
         return [await import(`./${args.name}`).then((m) => m.default)];
     }
     const result = Promise.all([
-        import('./tailwindui').then((m) => m.default),
         import('./tailwindcomponents').then((m) => m.default),
+        import('./tailwindui').then((m) => m.default),
         import('./merakiui').then((m) => m.default),
         import('./sailui').then((m) => m.default),
         import('./tailblocks').then((m) => m.default),
