@@ -11,6 +11,7 @@ export async function getScrapers(args: GetScrapersArgs) {
         import('./sailui').then((m) => m.default),
         import('./tailblocks').then((m) => m.default),
         import('./kutty').then((m) => m.default),
+        import('./gustui').then((m) => m.default),
     ]);
     return result;
 }

@@ -11,7 +11,6 @@ import { plural } from 'pluralize';
  * RESOURCES:
  * https://github.com/tailwindlabs/tailwindcss-custom-forms
  * https://www.tailwindtoolbox.com/starter-components
- * https://www.gustui.com/docs/application/components
  * https://tailwindtemplates.io/
  * https://component.tailwindow.com/collection
  * https://treact.owaiskhan.me/
