@@ -9,8 +9,6 @@ import { plural } from 'pluralize';
  * [ ] sub categories forms -> contacts
  * [ ] ranks of matches
  * RESOURCES:
- * https://github.com/tailwindlabs/tailwindcss-custom-forms
- * https://www.tailwindtoolbox.com/starter-components
  * https://tailwindtemplates.io/
  * https://component.tailwindow.com/collection
  * https://treact.owaiskhan.me/
@@ -20,6 +18,8 @@ import { plural } from 'pluralize';
  * https://a17t.miles.land/
  * https://github.com/tailwindlabs/headlessui
  * https://devdojo.com/tailwindcss/components
+ * https://zeroblack-c.github.io/jakarta-lte/
+ * https://tailwindcss-custom-forms.netlify.app/
  */
 
 type CategoryListValue = {
@@ -28,11 +28,12 @@ type CategoryListValue = {
 };
 
 const categoryList = new Map<string, CategoryListValue>([
+    ['Accordion', { keywords: ['accordion', 'collapsible'] }],
     ['Alert', { keywords: ['toast'] }],
     ['Avatar', { keywords: [] }],
+    ['Badge', { keywords: [] }],
     ['Breadcrumb', { keywords: [] }],
     ['Button', { keywords: [] }],
-    ['Badge', { keywords: [] }],
     ['Card', { keywords: [] }],
     ['Dropdown', { keywords: ['fly-out', 'flyout'] }],
     ['Form', { keywords: ['input'] }],

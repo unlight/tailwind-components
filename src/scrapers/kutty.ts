@@ -1,6 +1,6 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function kutty({ page }: ScraperArgs): Promise<CompomentLink[]> {
+export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://kutty.netlify.app/components/');
     const sections = await page.$$('a.card');

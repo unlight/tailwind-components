@@ -1,6 +1,6 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function tailwindui({ page }: ScraperArgs): Promise<CompomentLink[]> {
+export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
     await page.goto('https://tailwindui.com/preview');
     return page.$$eval('div.mt-16 > div.space-y-16 > div', (elements) =>
         elements.map((element) => {

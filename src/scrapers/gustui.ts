@@ -1,6 +1,6 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function gustui({ page }: ScraperArgs): Promise<CompomentLink[]> {
+export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://www.gustui.com/docs');
     const sectionLinks = await page.$$eval('a[href^="/docs/application/"]', (elements) =>

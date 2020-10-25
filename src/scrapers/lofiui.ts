@@ -1,6 +1,6 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function lofiui({ page }: ScraperArgs): Promise<CompomentLink[]> {
+export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://lofiui.co/');
     const sections = await page.$$('.grid > .items-center.justify-between');

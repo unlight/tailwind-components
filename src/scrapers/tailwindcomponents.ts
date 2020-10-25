@@ -3,7 +3,7 @@ import { CompomentLink, ScraperArgs } from '../types';
 const itemSelector = '#app > .min-h-screen > main > div a.flex.flex-col';
 const nextPageSelector = 'a[title="Next »"]';
 
-export default async function tailwindcomponents({ page }: ScraperArgs) {
+export default async function ({ page }: ScraperArgs) {
     await page.goto('https://tailwindcomponents.com/components');
 
     const items: CompomentLink[] = [];

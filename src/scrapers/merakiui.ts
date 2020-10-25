@@ -1,6 +1,6 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function merakiui({ page }: ScraperArgs): Promise<CompomentLink[]> {
+export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
     await page.goto('https://merakiui.com/');
     const sections = await page.$$('.container button.cursor-pointer');
     const result: CompomentLink[] = [];

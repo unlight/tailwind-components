@@ -13,6 +13,7 @@ export async function getScrapers(args: GetScrapersArgs) {
         import('./kutty').then((m) => m.default),
         import('./gustui').then((m) => m.default),
         import('./lofiui').then((m) => m.default),
+        import('./tailwindtoolbox').then((m) => m.default),
     ]);
     return result;
 }
