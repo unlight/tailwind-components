@@ -6,10 +6,8 @@ import { plural } from 'pluralize';
 /**
  * TODO:
  * [ ] several categories
- * [ ] sub categories forms -> contacts
  * [ ] ranks of matches
  * RESOURCES:
- * https://tailwindtemplates.io/
  * https://component.tailwindow.com/collection
  * https://treact.owaiskhan.me/
  * https://windmill-dashboard.vercel.app/
