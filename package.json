@@ -9,7 +9,7 @@
     "tscheck:w": "npm run tscheck -- --watch",
     "remark": "sh Taskfile remark_run",
     "remark:update": "sh Taskfile remark_run --output",
-    "program:run": "ts-node src/main.ts",
+    "program:run": "ts-node src/program.ts",
     "generate": "npm run program:run && npm run remark:update"
   },
   "config": {

@@ -1,7 +1,36 @@
+import puppeteer from 'puppeteer';
+import { getScrapers } from './scrapers';
+import { promises as fs } from 'fs';
 import { CompomentLink } from './types';
-import stringSimilarity from 'string-similarity';
 import _ from 'lodash';
 import { plural } from 'pluralize';
+import yargs from 'yargs';
+
+if (require.main?.filename === __filename) {
+    program(yargs.argv as ProgramOptions);
+}
+
+type ProgramOptions = {
+    only?: string;
+};
+
+async function program(options?: ProgramOptions) {
+    const browser = await puppeteer.launch({
+        headless: false,
+        slowMo: 0,
+        defaultViewport: null,
+        args: ['--start-maximized'],
+    });
+    const [page] = await browser.pages();
+    const scrapers = await getScrapers({ name: options?.only });
+    const items: CompomentLink[] = [];
+    for await (const scraper of scrapers) {
+        items.push(...(await scraper({ page })));
+    }
+    await browser.close();
+    const content = await generate({ items });
+    await fs.writeFile('README.md', content);
+}
 
 /**
  * TODO:
@@ -40,7 +69,7 @@ const categoryList = new Map<string, CategoryListValue>([
     ['Footer', { keywords: [] }],
     ['Hero', { keywords: [] }],
     ['Modal', { keywords: [] }],
-    ['Navigation', { keywords: ['navbar'] }],
+    ['Navigation', { keywords: ['navbar', 'navabr'] }],
     ['Page', { keywords: ['layout'] }],
     ['Pricing', { parent: 'Page' }],
     ['Pagination', { keywords: [] }],

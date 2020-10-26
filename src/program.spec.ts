@@ -91,3 +91,14 @@ it('keywords plurals', async () => {
         expect.stringMatching(`## Navigation\n\\* Navbars With Search - https://example.com`),
     );
 });
+
+it('rank of keywords', async () => {
+    const items = [
+        {
+            name: 'login form 1',
+            link: 'link',
+        },
+    ];
+    const result = await generate({ items });
+    expect(result).toEqual(expect.stringMatching(`### Login\n\\* login form 1 - link`));
+});
