@@ -92,15 +92,7 @@ class Keyword {
     isMatch(name: string) {
         const testLower = name.toLowerCase();
         const testPlural = plural(name);
-        return (
-            testLower === this.value ||
-            testPlural === this._plural ||
-            (/\s+/.test(name) &&
-                name
-                    .split(/\s+/)
-                    .map((s) => new Keyword(s.toLowerCase()))
-                    .some((k) => k.isMatch(this.value)))
-        );
+        return testLower === this.value || testPlural === this._plural;
     }
 }
 
@@ -150,9 +142,10 @@ export async function generate({ items }: GenerateArgs) {
     let content: string[] = ['# Tailwind Components', '## Table of Contents'];
     const categories = groupItems(items);
 
-    for (const [name, items] of Object.entries(categories)) {
-        const hasParent = Boolean(categoryList.find((c) => c.name === name)?.parent);
-        let section = `##${hasParent ? '#' : ''} ${name}\n` + items.map(createLink).join('\n');
+    for (const category of categoryList) {
+        const items = categories[category.name] || [];
+        const section =
+            `##${category.parent ? '#' : ''} ${category.name}\n` + items.map(createLink).join('\n');
         content.push(section);
     }
     return content.join('\n');
@@ -160,7 +153,7 @@ export async function generate({ items }: GenerateArgs) {
 
 function groupItems(items: CompomentLink[]) {
     const [defaultCategory] = categoryList.slice(-1);
-    let result: { [name: string]: CompomentLink[] } = {};
+    const result: { [name: string]: CompomentLink[] } = {};
     for (const item of items) {
         const matches = _(categoryList)
             .map((category) => ({ category, weight: category.weight(item.name) }))
@@ -174,12 +167,5 @@ function groupItems(items: CompomentLink[]) {
             result[category.name] = (result[category.name] || []).concat(item);
         }
     }
-    const categoryNames = categoryList.map((c) => c.name);
-    result = _(result)
-        .toPairs()
-        .sortBy(([name]) => categoryNames.indexOf(name))
-        .fromPairs()
-        .value();
-
     return result;
 }
