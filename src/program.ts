@@ -12,12 +12,13 @@ if (require.main?.filename === __filename) {
 
 type ProgramOptions = {
     only?: string;
+    slowmo?: number;
 };
 
 async function program(options?: ProgramOptions) {
     const browser = await puppeteer.launch({
         headless: false,
-        slowMo: 0,
+        slowMo: options?.slowmo,
         defaultViewport: null,
         args: ['--start-maximized'],
     });
@@ -35,9 +36,7 @@ async function program(options?: ProgramOptions) {
 /**
  * TODO:
  * [ ] several categories
- * [ ] ranks of matches
  * RESOURCES:
- * https://component.tailwindow.com/collection
  * https://treact.owaiskhan.me/
  * https://windmill-dashboard.vercel.app/
  * https://tailwindadmin.netlify.app/index.html
@@ -123,7 +122,10 @@ const categoryList = [
     new Category({ name: 'Footer' }),
     new Category({ name: 'Hero' }),
     new Category({ name: 'Modal', keywords: [new Keyword('modal', 2)] }),
-    new Category({ name: 'Navigation', keywords: [new Keyword('navbar'), new Keyword('navabr')] }),
+    new Category({
+        name: 'Navigation',
+        keywords: [new Keyword('navbar'), new Keyword('navabr'), new Keyword('navbars with', 5)],
+    }),
     new Category({ name: 'Page' }),
     new Category({ name: 'Pricing', parent: 'Page' }),
     new Category({ name: 'Pagination' }),
@@ -145,7 +147,7 @@ type GenerateArgs = {
 };
 
 export async function generate({ items }: GenerateArgs) {
-    let content: string[] = [];
+    let content: string[] = ['# Tailwind Components', '## Table of Contents'];
     const categories = groupItems(items);
 
     for (const [name, items] of Object.entries(categories)) {
