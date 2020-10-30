@@ -1,4 +1,4 @@
-import { generate } from './generate';
+import { generate } from './program';
 import { expect } from 'earljs';
 
 it('get category exact match', async () => {

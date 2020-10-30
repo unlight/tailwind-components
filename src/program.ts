@@ -54,94 +54,130 @@ type CategoryListValue = {
     parent?: string;
 };
 
-const categoryList = new Map<string, CategoryListValue>([
-    ['Accordion', { keywords: ['accordion', 'collapsible'] }],
-    ['Alert', { keywords: ['toast'] }],
-    ['Avatar', { keywords: [] }],
-    ['Badge', { keywords: [] }],
-    ['Breadcrumb', { keywords: [] }],
-    ['Button', { keywords: [] }],
-    ['Card', { keywords: [] }],
-    ['Dropdown', { keywords: ['fly-out', 'flyout'] }],
-    ['Form', { keywords: ['input'] }],
-    ['Contact', { parent: 'Form', keywords: ['contact form'] }],
-    ['Login', { parent: 'Form', keywords: ['login form'] }],
-    ['Footer', { keywords: [] }],
-    ['Hero', { keywords: [] }],
-    ['Modal', { keywords: [] }],
-    ['Navigation', { keywords: ['navbar', 'navabr'] }],
-    ['Page', { keywords: ['layout'] }],
-    ['Pricing', { parent: 'Page' }],
-    ['Pagination', { keywords: [] }],
-    ['Sidebar', { keywords: ['side panel'] }],
-    ['Step', { keywords: [] }],
-    ['Switch', { keywords: ['toggle'] }],
-    ['Table', { keywords: [] }],
-    ['Tab', { keywords: [] }],
-    ['Timeline', { keywords: [] }],
-    ['Other', { keywords: [] }],
-]);
+class Category {
+    private _keywords: Keyword[] = [];
+    public readonly name: string;
+    public readonly parent?: string;
+    constructor({
+        name,
+        parent,
+        keywords,
+    }: {
+        name: string;
+        parent?: string;
+        keywords?: Keyword[];
+    }) {
+        this.name = name;
+        this.parent = parent;
+        if (!keywords) {
+            keywords = [];
+        }
+        keywords.unshift(new Keyword(name));
+        this._keywords = keywords;
+    }
 
-const categoryNames = [...categoryList.keys()];
+    weight(test: string) {
+        return this._keywords.reduce((result, keyword) => {
+            if (keyword.isMatch(test)) {
+                result += keyword.weight;
+            }
+            return result;
+        }, 0);
+    }
+}
+
+class Keyword {
+    private _plural: string = plural(this.value);
+    constructor(public readonly value: string, public readonly weight = 1) {}
+
+    isMatch(name: string) {
+        const testLower = name.toLowerCase();
+        const testPlural = plural(name);
+        return (
+            testLower === this.value ||
+            testPlural === this._plural ||
+            (/\s+/.test(name) &&
+                name
+                    .split(/\s+/)
+                    .map((s) => new Keyword(s.toLowerCase()))
+                    .some((k) => k.isMatch(this.value)))
+        );
+    }
+}
+
+const categoryList = [
+    new Category({
+        name: 'Accordion',
+        keywords: [new Keyword('accordion'), new Keyword('collapsible')],
+    }),
+    new Category({ name: 'Alert', keywords: [new Keyword('toast')] }),
+    new Category({ name: 'Avatar' }),
+    new Category({ name: 'Badge' }),
+    new Category({ name: 'Breadcrumb' }),
+    new Category({ name: 'Button' }),
+    new Category({ name: 'Card' }),
+    new Category({ name: 'Dropdown', keywords: [new Keyword('flyout'), new Keyword('fly-out')] }),
+    new Category({ name: 'Form' }),
+    new Category({ name: 'Contact', parent: 'Form', keywords: [new Keyword('contact form', 10)] }),
+    new Category({ name: 'Login', parent: 'Form', keywords: [new Keyword('login form', 10)] }),
+    new Category({ name: 'Footer' }),
+    new Category({ name: 'Hero' }),
+    new Category({ name: 'Modal', keywords: [new Keyword('modal', 2)] }),
+    new Category({ name: 'Navigation', keywords: [new Keyword('navbar'), new Keyword('navabr')] }),
+    new Category({ name: 'Page' }),
+    new Category({ name: 'Pricing', parent: 'Page' }),
+    new Category({ name: 'Pagination' }),
+    new Category({ name: 'Sidebar', keywords: [new Keyword('side panel', 2)] }),
+    new Category({ name: 'Step' }),
+    new Category({ name: 'Switch', keywords: [new Keyword('toggle')] }),
+    new Category({ name: 'Table' }),
+    new Category({ name: 'Tab' }),
+    new Category({ name: 'Timeline' }),
+    new Category({ name: 'Other' }),
+];
+
+function createLink(item: CompomentLink) {
+    return `* ${item.name} - ${item.link}`;
+}
 
 type GenerateArgs = {
     items: CompomentLink[];
 };
 
 export async function generate({ items }: GenerateArgs) {
-    const byCategory = _(items)
-        .groupBy((item) => getCategory(item.category || item.name))
+    let content: string[] = [];
+    const categories = groupItems(items);
+
+    for (const [name, items] of Object.entries(categories)) {
+        const hasParent = Boolean(categoryList.find((c) => c.name === name)?.parent);
+        let section = `##${hasParent ? '#' : ''} ${name}\n` + items.map(createLink).join('\n');
+        content.push(section);
+    }
+    return content.join('\n');
+}
+
+function groupItems(items: CompomentLink[]) {
+    const [defaultCategory] = categoryList.slice(-1);
+    let result: { [name: string]: CompomentLink[] } = {};
+    for (const item of items) {
+        const matches = _(categoryList)
+            .map((category) => ({ category, weight: category.weight(item.name) }))
+            .orderBy(['weight'], ['desc'])
+            .takeWhile((c) => c.weight > 0)
+            .thru((collection) =>
+                collection.length === 0 ? [{ category: defaultCategory, weight: 0 }] : collection,
+            )
+            .value();
+        for (const { category } of matches.slice(0, 1)) {
+            result[category.name] = (result[category.name] || []).concat(item);
+        }
+    }
+    const categoryNames = categoryList.map((c) => c.name);
+    result = _(result)
         .toPairs()
-        .sortBy(([category]) => categoryNames.indexOf(category))
+        .sortBy(([name]) => categoryNames.indexOf(name))
         .fromPairs()
         .value();
-    const content: string[] = [];
-    for (const [category, items] of Object.entries(byCategory)) {
-        const { parent } = categoryList.get(category)!;
-        let categoryHeading = `## ${category}`;
-        if (parent) {
-            categoryHeading = `#${categoryHeading}`;
-        }
-        content.push(categoryHeading);
-        content.push(items.map(createLink).join('\n'));
-    }
-    return `# Tailwind Components\n## Table of Contents\n${content.join('\n')}`;
-}
 
-function getCategory(name: string) {
-    for (const [category, mapValue] of categoryList.entries()) {
-        const { keywords = [] } = mapValue;
-        const categoryLower = category.toLowerCase();
-        const categoryPlural = plural(categoryLower);
-        if (
-            categoryLower === name.toLowerCase() ||
-            keywords.find((keyword) => {
-                return (
-                    keyword === name.toLowerCase() || plural(keyword) === plural(name.toLowerCase())
-                );
-            })
-        ) {
-            return category;
-        }
-        const words = name.split(/\s+/);
-        if (
-            words.find((word) => {
-                const wordLower = word.toLowerCase();
-                return (
-                    wordLower === categoryLower ||
-                    categoryPlural === plural(wordLower) ||
-                    keywords.find((keyword) => {
-                        return keyword === wordLower || plural(keyword) === wordLower;
-                    })
-                );
-            })
-        ) {
-            return category;
-        }
-    }
-    return 'Other';
-}
-
-function createLink(item: CompomentLink) {
-    return `* ${item.name} - ${item.link}`;
+    return result;
 }
