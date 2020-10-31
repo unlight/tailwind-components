@@ -6,6 +6,18 @@ import _ from 'lodash';
 import { plural } from 'pluralize';
 import yargs from 'yargs';
 
+/**
+ * RESOURCES:
+ * https://windmill-dashboard.vercel.app/
+ * https://tailwindadmin.netlify.app/index.html
+ * https://cruip.com/
+ * https://a17t.miles.land/
+ * https://github.com/tailwindlabs/headlessui
+ * https://devdojo.com/tailwindcss/components
+ * https://zeroblack-c.github.io/jakarta-lte/
+ * https://tailwindcss-custom-forms.netlify.app/
+ */
+
 if (require.main?.filename === __filename) {
     program(yargs.argv as ProgramOptions);
 }
@@ -32,19 +44,6 @@ async function program(options?: ProgramOptions) {
     const content = await generate({ items });
     await fs.writeFile('README.md', content);
 }
-
-/**
- * RESOURCES:
- * 'https://tailwindcss-custom-forms.netlify.app/'
- * https://windmill-dashboard.vercel.app/
- * https://tailwindadmin.netlify.app/index.html
- * https://cruip.com/
- * https://a17t.miles.land/
- * https://github.com/tailwindlabs/headlessui
- * https://devdojo.com/tailwindcss/components
- * https://zeroblack-c.github.io/jakarta-lte/
- * https://tailwindcss-custom-forms.netlify.app/
- */
 
 type CategoryListValue = {
     keywords?: string[];
@@ -153,11 +152,13 @@ const categoryList = [
             new Keyword('textfield', 2),
             new Keyword('text field', 2),
             new Keyword('textarea', 1),
+            new Keyword('checkbox', 1),
         ],
     }),
     new Category({ name: 'Contact', parent: 'Form', keywords: [new Keyword('contact form', 10)] }),
     new Category({ name: 'Login', parent: 'Form', keywords: [new Keyword('login form', 10)] }),
-    new Category({ name: 'Upload', parent: 'Form', keywords: [new Keyword('file upload', 5)] }),
+    new Category({ name: 'Search', parent: 'Form', keywords: [new Keyword('search box', 5)] }),
+    new Category({ name: 'Upload', parent: 'Form', keywords: [new Keyword('file upload', 8)] }),
     new Category({ name: 'Footer' }),
     new Category({ name: 'Hero' }),
     new Category({
@@ -171,11 +172,14 @@ const categoryList = [
             new Keyword('nav menu'),
             new Keyword('navabr'),
             new Keyword('navbars with', 5),
+            new Keyword('responsive navbar', 8),
+            new Keyword('navigation bar', 10),
         ],
     }),
     new Category({ name: 'Page' }),
-    new Category({ name: 'Pricing', parent: 'Page' }),
+    new Category({ name: 'Pricing', parent: 'Page', keywords: [new Keyword('pricing', 2)] }),
     new Category({ name: 'Pagination' }),
+    new Category({ name: 'Progress Bar' }),
     new Category({ name: 'Sidebar', keywords: [new Keyword('side panel', 2)] }),
     new Category({ name: 'Step' }),
     new Category({ name: 'Switch', keywords: [new Keyword('toggle')] }),
