@@ -23,6 +23,5 @@ export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> 
             result.push({ name: section.name, link: section.href });
         }
     }
-    console.log('result', result);
     return result;
 }

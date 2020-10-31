@@ -34,10 +34,8 @@ async function program(options?: ProgramOptions) {
 }
 
 /**
- * TODO:
- * [ ] several categories
  * RESOURCES:
- * https://treact.owaiskhan.me/
+ * 'https://tailwindcss-custom-forms.netlify.app/'
  * https://windmill-dashboard.vercel.app/
  * https://tailwindadmin.netlify.app/index.html
  * https://cruip.com/
@@ -53,7 +51,7 @@ type CategoryListValue = {
     parent?: string;
 };
 
-class Category {
+export class Category {
     private _keywords: Keyword[] = [];
     public readonly name: string;
     public readonly parent?: string;
@@ -86,13 +84,38 @@ class Category {
 }
 
 class Keyword {
-    private _plural: string = plural(this.value);
-    constructor(public readonly value: string, public readonly weight = 1) {}
+    private plural: string;
+    public readonly value: string;
+    constructor(value: string, public readonly weight = 1) {
+        this.value = value.toLowerCase();
+        this.plural = plural(this.value);
+    }
 
-    isMatch(name: string) {
-        const testLower = name.toLowerCase();
-        const testPlural = plural(name);
-        return testLower === this.value || testPlural === this._plural;
+    isMatch(test: string) {
+        const testLower = test.toLowerCase();
+        const testPlural = plural(testLower);
+        return (
+            testLower === this.value ||
+            testPlural === this.plural ||
+            this.matchPhrase(test) ||
+            this.matchWord(test)
+        );
+    }
+
+    matchPhrase(test: string) {
+        const testLower = test.toLowerCase();
+        return testLower.includes(this.value);
+    }
+
+    matchWord(test: string) {
+        const result =
+            test
+                .split(/\s+/)
+                .map((s) => s.toLowerCase())
+                .find((s) => {
+                    return s === this.value || plural(s) === this.plural;
+                }) !== undefined;
+        return result;
     }
 }
 
@@ -107,16 +130,48 @@ const categoryList = [
     new Category({ name: 'Breadcrumb' }),
     new Category({ name: 'Button' }),
     new Category({ name: 'Card' }),
+    new Category({
+        name: 'Tags',
+        keywords: [new Keyword('tagline'), new Keyword('pills'), new Keyword('tag line')],
+    }),
+    new Category({
+        name: 'Date/Time',
+        keywords: [
+            new Keyword('calendar'),
+            new Keyword('datepicker'),
+            new Keyword('date picker'),
+            new Keyword('date picker'),
+            new Keyword('timepicker'),
+            new Keyword('time picker'),
+        ],
+    }),
     new Category({ name: 'Dropdown', keywords: [new Keyword('flyout'), new Keyword('fly-out')] }),
-    new Category({ name: 'Form' }),
+    new Category({
+        name: 'Form',
+        keywords: [
+            new Keyword('input', 1),
+            new Keyword('textfield', 2),
+            new Keyword('text field', 2),
+            new Keyword('textarea', 1),
+        ],
+    }),
     new Category({ name: 'Contact', parent: 'Form', keywords: [new Keyword('contact form', 10)] }),
     new Category({ name: 'Login', parent: 'Form', keywords: [new Keyword('login form', 10)] }),
+    new Category({ name: 'Upload', parent: 'Form', keywords: [new Keyword('file upload', 5)] }),
     new Category({ name: 'Footer' }),
     new Category({ name: 'Hero' }),
-    new Category({ name: 'Modal', keywords: [new Keyword('modal', 2)] }),
+    new Category({
+        name: 'Modal',
+        keywords: [new Keyword('modal'), new Keyword('popup'), new Keyword('popup box', 2)],
+    }),
     new Category({
         name: 'Navigation',
-        keywords: [new Keyword('navbar'), new Keyword('navabr'), new Keyword('navbars with', 5)],
+        keywords: [
+            new Keyword('navbar'),
+            new Keyword('nav menu'),
+            new Keyword('navabr'),
+            new Keyword('navbars with', 5),
+        ],
     }),
     new Category({ name: 'Page' }),
     new Category({ name: 'Pricing', parent: 'Page' }),
@@ -151,7 +206,7 @@ export async function generate({ items }: GenerateArgs) {
     return content.join('\n');
 }
 
-function groupItems(items: CompomentLink[]) {
+export function groupItems(items: CompomentLink[]) {
     const [defaultCategory] = categoryList.slice(-1);
     const result: { [name: string]: CompomentLink[] } = {};
     for (const item of items) {

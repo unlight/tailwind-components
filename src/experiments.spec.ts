@@ -5,7 +5,12 @@ let browser: Browser;
 let page: Page;
 
 before(async () => {
-    browser = await puppeteer.launch({ headless: true, slowMo: 0 });
+    browser = await puppeteer.launch({
+        headless: false,
+        slowMo: 0,
+        defaultViewport: null,
+        args: ['--start-maximized'],
+    });
     [page] = await browser.pages();
 });
 
@@ -14,7 +19,7 @@ after(async () => {
 });
 
 it.skip('experiments', async () => {
-    const scraper = await import('./scrapers/merakiui').then((m) => m.default);
+    const scraper = await import('./scrapers/owaiskhan').then((m) => m.default);
     const result = await scraper({ page });
     console.log('result', result);
 });

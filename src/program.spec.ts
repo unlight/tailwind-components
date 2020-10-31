@@ -1,5 +1,30 @@
-import { generate } from './program';
+import { Category, generate, groupItems } from './program';
 import { expect } from 'earljs';
+import { removeRef } from './scrapers/lofiui';
+
+const link = 'https://example.com';
+
+it('match words', () => {
+    const category = new Category({ name: 'Button' });
+    const result = category.weight('Button Component');
+    expect(result).toEqual(1);
+});
+
+it('match plural words', () => {
+    const category = new Category({ name: 'Button' });
+    const result = category.weight('Buttons with foo');
+    expect(result).toEqual(1);
+});
+
+it('group items general', () => {
+    const result = groupItems([{ name: 'Button Component', link }]);
+    expect(result).toEqual({ Button: [{ link, name: 'Button Component' }] });
+});
+
+it('group items phrase', () => {
+    const result = groupItems([{ name: 'Login form 1', link }]);
+    expect(result).toEqual({ Login: [{ link, name: 'Login form 1' }] });
+});
 
 it('get category exact match', async () => {
     const items = [
@@ -36,38 +61,6 @@ it('get category exact pluralize', async () => {
     expect(result).toEqual(expect.stringMatching('## Card\n\\* Cards - https://example.com'));
 });
 
-it('sorted categories', async () => {
-    const items = [
-        {
-            name: 'Other',
-            link: 'https://example.com',
-        },
-        {
-            name: 'Card',
-            link: 'https://example.com',
-        },
-        {
-            name: 'Button',
-            link: 'https://example.com',
-        },
-        {
-            name: 'Tab',
-            link: 'https://example.com',
-        },
-    ];
-    const result = await generate({ items });
-    expect(result).toEqual(
-        expect.stringMatching(
-            `## Button\n\\* Button - https://example.com\n## Card\n\\* Card - https://example.com`,
-        ),
-    );
-    expect(result).toEqual(
-        expect.stringMatching(
-            `## Tab\n\\* Tab - https://example.com\n## Other\n\\* Other - https://example.com`,
-        ),
-    );
-});
-
 it('keywords exact', async () => {
     const items = [
         {
@@ -92,13 +85,7 @@ it('keywords plurals', async () => {
     );
 });
 
-it('rank of keywords', async () => {
-    const items = [
-        {
-            name: 'login form 1',
-            link: 'link',
-        },
-    ];
-    const result = await generate({ items });
-    expect(result).toEqual(expect.stringMatching(`### Login\n\\* login form 1 - link`));
+it('remove ref link', () => {
+    const link = 'https://codepen.io/collection/XpqYVp/?ref=lofiui.robstinson&x=1';
+    expect(removeRef(link)).toEqual('https://codepen.io/collection/XpqYVp/?x=1');
 });
