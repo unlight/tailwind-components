@@ -10,12 +10,10 @@ import yargs from 'yargs';
  * RESOURCES:
  * https://windmill-dashboard.vercel.app/
  * https://tailwindadmin.netlify.app/index.html
- * https://cruip.com/
- * https://a17t.miles.land/
  * https://github.com/tailwindlabs/headlessui
- * https://devdojo.com/tailwindcss/components
  * https://zeroblack-c.github.io/jakarta-lte/
  * https://tailwindcss-custom-forms.netlify.app/
+ * https://cruip.com/ (paid)
  */
 
 if (require.main?.filename === __filename) {
@@ -131,7 +129,12 @@ const categoryList = [
     new Category({ name: 'Card' }),
     new Category({
         name: 'Tags',
-        keywords: [new Keyword('tagline'), new Keyword('pills'), new Keyword('tag line')],
+        keywords: [
+            new Keyword('tagline'),
+            new Keyword('pills'),
+            new Keyword('tag line'),
+            new Keyword('chips'),
+        ],
     }),
     new Category({
         name: 'Date/Time',
@@ -156,7 +159,11 @@ const categoryList = [
         ],
     }),
     new Category({ name: 'Contact', parent: 'Form', keywords: [new Keyword('contact form', 10)] }),
-    new Category({ name: 'Login', parent: 'Form', keywords: [new Keyword('login form', 10)] }),
+    new Category({
+        name: 'Login',
+        parent: 'Form',
+        keywords: [new Keyword('login form', 10), new Keyword('sign-in', 5)],
+    }),
     new Category({ name: 'Search', parent: 'Form', keywords: [new Keyword('search box', 5)] }),
     new Category({ name: 'Upload', parent: 'Form', keywords: [new Keyword('file upload', 8)] }),
     new Category({ name: 'Footer' }),
@@ -177,7 +184,17 @@ const categoryList = [
         ],
     }),
     new Category({ name: 'Page' }),
+    new Category({
+        name: '404',
+        parent: 'Page',
+        keywords: [new Keyword('404'), new Keyword('not found', 2)],
+    }),
     new Category({ name: 'Pricing', parent: 'Page', keywords: [new Keyword('pricing', 2)] }),
+    new Category({
+        name: 'Testimonial',
+        parent: 'Page',
+        keywords: [new Keyword('testimonial', 2)],
+    }),
     new Category({ name: 'Pagination' }),
     new Category({ name: 'Progress Bar' }),
     new Category({ name: 'Sidebar', keywords: [new Keyword('side panel', 2)] }),

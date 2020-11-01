@@ -19,7 +19,7 @@ after(async () => {
 });
 
 it.skip('experiments', async () => {
-    const scraper = await import('./scrapers/owaiskhan').then((m) => m.default);
+    const scraper = await import('./scrapers/devdojo').then((m) => m.default);
     const result = await scraper({ page });
     console.log('result', result);
 });
