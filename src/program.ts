@@ -9,7 +9,6 @@ import yargs from 'yargs';
 /**
  * RESOURCES:
  * https://windmill-dashboard.vercel.app/
- * https://tailwindadmin.netlify.app/index.html
  * https://github.com/tailwindlabs/headlessui
  * https://zeroblack-c.github.io/jakarta-lte/
  * https://tailwindcss-custom-forms.netlify.app/
