@@ -1,7 +1,8 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
 export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
-    const result = await page.$$eval('ul a.portal', (elements) => {
+    await page.goto('https://a17t.miles.land/');
+    const result = await page.$$eval('main ul a.portal', (elements) => {
         return elements.map((x) => {
             return {
                 name: x.textContent!,
