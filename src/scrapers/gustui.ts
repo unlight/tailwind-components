@@ -29,7 +29,7 @@ export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> 
                 ),
             )) as string[];
             for (const name of names) {
-                result.push({ name, link });
+                result.push({ name: `${category} ${name}`, link });
             }
         }
     }

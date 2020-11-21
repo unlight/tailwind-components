@@ -9,7 +9,6 @@ import yargs from 'yargs';
 /**
  * RESOURCES:
  * https://windmill-dashboard.vercel.app/
- * https://github.com/tailwindlabs/headlessui
  * https://tailwindcss-custom-forms.netlify.app/
  */
 
@@ -118,7 +117,10 @@ const categoryList = [
         name: 'Accordion',
         keywords: [new Keyword('accordion'), new Keyword('collapsible')],
     }),
-    new Category({ name: 'Alert', keywords: [new Keyword('toast')] }),
+    new Category({
+        name: 'Alert/Notification',
+        keywords: [new Keyword('Alert'), new Keyword('notification'), new Keyword('toast')],
+    }),
     new Category({ name: 'Avatar' }),
     new Category({ name: 'Badge' }),
     new Category({ name: 'Breadcrumb' }),
@@ -166,12 +168,18 @@ const categoryList = [
     new Category({ name: 'Footer' }),
     new Category({ name: 'Hero' }),
     new Category({
+        name: 'Loading/Spinner',
+        keywords: [new Keyword('spinner'), new Keyword('loading')],
+    }),
+    new Category({
         name: 'Modal',
         keywords: [new Keyword('modal'), new Keyword('popup'), new Keyword('popup box', 2)],
     }),
     new Category({
-        name: 'Navigation',
+        name: 'Navigation/Header',
         keywords: [
+            new Keyword('navigation'),
+            new Keyword('header'),
             new Keyword('navbar'),
             new Keyword('nav menu'),
             new Keyword('navabr'),
@@ -194,7 +202,10 @@ const categoryList = [
     }),
     new Category({ name: 'Pagination' }),
     new Category({ name: 'Progress Bar' }),
-    new Category({ name: 'Sidebar', keywords: [new Keyword('side panel', 2)] }),
+    new Category({
+        name: 'Sidebar',
+        keywords: [new Keyword('side panel', 2), new Keyword('side nav', 2)],
+    }),
     new Category({ name: 'Step' }),
     new Category({ name: 'Switch', keywords: [new Keyword('toggle')] }),
     new Category({ name: 'Table' }),
