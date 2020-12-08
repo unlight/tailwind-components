@@ -198,7 +198,7 @@ const categoryList = [
     new Category({
         name: 'Testimonial',
         parent: 'Page',
-        keywords: [new Keyword('testimonial', 2)],
+        keywords: [new Keyword('testimonial', 2), new Keyword('testimony', 2)],
     }),
     new Category({ name: 'Pagination' }),
     new Category({ name: 'Progress Bar' }),
