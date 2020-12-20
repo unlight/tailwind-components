@@ -39,11 +39,6 @@ async function program(options?: ProgramOptions) {
     await fs.writeFile('README.md', content);
 }
 
-type CategoryListValue = {
-    keywords?: string[];
-    parent?: string;
-};
-
 export class Category {
     private _keywords: Keyword[] = [];
     public readonly name: string;
@@ -119,13 +114,27 @@ const categoryList = [
     }),
     new Category({
         name: 'Alert/Notification',
-        keywords: [new Keyword('Alert'), new Keyword('notification'), new Keyword('toast')],
+        keywords: [
+            new Keyword('Alert'),
+            new Keyword('notification'),
+            new Keyword('toast'),
+        ],
     }),
     new Category({ name: 'Avatar' }),
     new Category({ name: 'Badge' }),
     new Category({ name: 'Breadcrumb' }),
     new Category({ name: 'Button' }),
     new Category({ name: 'Card' }),
+    new Category({
+        name: 'Dashboard Widgets',
+        keywords: [
+            new Keyword('dashboard widgets', 2),
+            new Keyword('statistic cards', 2),
+            new Keyword('statistic widgets', 2),
+            new Keyword('statistic'),
+            new Keyword('weather ui component', 5),
+        ],
+    }),
     new Category({
         name: 'Tags',
         keywords: [
@@ -146,7 +155,14 @@ const categoryList = [
             new Keyword('time picker'),
         ],
     }),
-    new Category({ name: 'Dropdown', keywords: [new Keyword('flyout'), new Keyword('fly-out')] }),
+    new Category({
+        name: 'Dropdown',
+        keywords: [
+            new Keyword('flyout'),
+            new Keyword('fly-out'),
+            new Keyword('multi select'),
+        ],
+    }),
     new Category({
         name: 'Form',
         keywords: [
@@ -157,23 +173,43 @@ const categoryList = [
             new Keyword('checkbox', 1),
         ],
     }),
-    new Category({ name: 'Contact', parent: 'Form', keywords: [new Keyword('contact form', 10)] }),
+    new Category({
+        name: 'Contact',
+        parent: 'Form',
+        keywords: [new Keyword('contact form', 10)],
+    }),
     new Category({
         name: 'Login',
         parent: 'Form',
         keywords: [new Keyword('login form', 10), new Keyword('sign-in', 5)],
     }),
-    new Category({ name: 'Search', parent: 'Form', keywords: [new Keyword('search box', 5)] }),
-    new Category({ name: 'Upload', parent: 'Form', keywords: [new Keyword('file upload', 8)] }),
+    new Category({
+        name: 'Search',
+        parent: 'Form',
+        keywords: [new Keyword('search box', 5)],
+    }),
+    new Category({
+        name: 'Upload',
+        parent: 'Form',
+        keywords: [new Keyword('file upload', 8)],
+    }),
     new Category({ name: 'Footer' }),
     new Category({ name: 'Hero' }),
     new Category({
         name: 'Loading/Spinner',
-        keywords: [new Keyword('spinner'), new Keyword('loading')],
+        keywords: [
+            new Keyword('spinner'),
+            new Keyword('loading'),
+            new Keyword('loader dot'),
+        ],
     }),
     new Category({
         name: 'Modal',
-        keywords: [new Keyword('modal'), new Keyword('popup'), new Keyword('popup box', 2)],
+        keywords: [
+            new Keyword('modal'),
+            new Keyword('popup'),
+            new Keyword('popup box', 2),
+        ],
     }),
     new Category({
         name: 'Navigation/Header',
@@ -194,20 +230,27 @@ const categoryList = [
         parent: 'Page',
         keywords: [new Keyword('404'), new Keyword('not found', 2)],
     }),
-    new Category({ name: 'Pricing', parent: 'Page', keywords: [new Keyword('pricing', 2)] }),
+    new Category({
+        name: 'Pricing',
+        parent: 'Page',
+        keywords: [new Keyword('pricing', 2)],
+    }),
     new Category({
         name: 'Testimonial',
         parent: 'Page',
         keywords: [new Keyword('testimonial', 2), new Keyword('testimony', 2)],
     }),
     new Category({ name: 'Pagination' }),
-    new Category({ name: 'Progress Bar' }),
+    new Category({ name: 'Progress Bar', keywords: [new Keyword('progress')] }),
     new Category({
         name: 'Sidebar',
         keywords: [new Keyword('side panel', 2), new Keyword('side nav', 2)],
     }),
     new Category({ name: 'Step' }),
-    new Category({ name: 'Switch', keywords: [new Keyword('toggle')] }),
+    new Category({
+        name: 'Switch',
+        keywords: [new Keyword('toggle'), new Keyword('toogle')],
+    }),
     new Category({ name: 'Table' }),
     new Category({ name: 'Tab' }),
     new Category({ name: 'Timeline' }),
@@ -229,7 +272,8 @@ export async function generate({ items }: GenerateArgs) {
     for (const category of categoryList) {
         const items = categories[category.name] || [];
         const section =
-            `##${category.parent ? '#' : ''} ${category.name}\n` + items.map(createLink).join('\n');
+            `##${category.parent ? '#' : ''} ${category.name}\n` +
+            items.map(createLink).join('\n');
         content.push(section);
     }
     return content.join('\n');
@@ -240,11 +284,16 @@ export function groupItems(items: CompomentLink[]) {
     const result: { [name: string]: CompomentLink[] } = {};
     for (const item of items) {
         const matches = _(categoryList)
-            .map((category) => ({ category, weight: category.weight(item.name) }))
+            .map((category) => ({
+                category,
+                weight: category.weight(item.name),
+            }))
             .orderBy(['weight'], ['desc'])
             .takeWhile((c) => c.weight > 0)
             .thru((collection) =>
-                collection.length === 0 ? [{ category: defaultCategory, weight: 0 }] : collection,
+                collection.length === 0
+                    ? [{ category: defaultCategory, weight: 0 }]
+                    : collection,
             )
             .value();
         for (const { category } of matches.slice(0, 1)) {
