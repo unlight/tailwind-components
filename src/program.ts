@@ -8,6 +8,7 @@ import yargs from 'yargs';
 
 /**
  * RESOURCES:
+ * https://tailwinduikit.com/components
  * https://windmill-dashboard.vercel.app/
  * https://tailwindcss-custom-forms.netlify.app/
  */
@@ -161,6 +162,8 @@ const categoryList = [
             new Keyword('flyout'),
             new Keyword('fly-out'),
             new Keyword('multi select'),
+            new Keyword('drop down'),
+            new Keyword('select'),
         ],
     }),
     new Category({
@@ -182,6 +185,11 @@ const categoryList = [
         name: 'Login',
         parent: 'Form',
         keywords: [new Keyword('login form', 10), new Keyword('sign-in', 5)],
+    }),
+    new Category({
+        name: 'Register',
+        parent: 'Form',
+        keywords: [new Keyword('registration', 2), new Keyword('sign-up', 2)],
     }),
     new Category({
         name: 'Search',
@@ -252,6 +260,7 @@ const categoryList = [
         keywords: [new Keyword('toggle'), new Keyword('toogle')],
     }),
     new Category({ name: 'Table' }),
+    new Category({ name: 'List' }),
     new Category({ name: 'Tab' }),
     new Category({ name: 'Timeline' }),
     new Category({ name: 'Other' }),
