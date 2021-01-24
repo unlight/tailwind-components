@@ -9,7 +9,6 @@ import yargs from 'yargs';
 /**
  * RESOURCES:
  * https://tailwinduikit.com/components
- * https://windmill-dashboard.vercel.app/
  * https://tailwindcss-custom-forms.netlify.app/
  */
 
@@ -184,12 +183,24 @@ const categoryList = [
     new Category({
         name: 'Login',
         parent: 'Form',
-        keywords: [new Keyword('login form', 10), new Keyword('sign-in', 5)],
+        keywords: [
+            new Keyword('login form', 10),
+            new Keyword('sign-in', 5),
+            new Keyword('sign in', 5),
+            new Keyword('form login', 5),
+            new Keyword('login with', 3),
+        ],
     }),
     new Category({
         name: 'Register',
         parent: 'Form',
-        keywords: [new Keyword('registration', 2), new Keyword('sign-up', 2)],
+        keywords: [
+            new Keyword('registration', 2),
+            new Keyword('sign-up', 2),
+            new Keyword('sign up', 2),
+            new Keyword('signup', 2),
+            new Keyword('auth components', 2),
+        ],
     }),
     new Category({
         name: 'Search',
@@ -201,7 +212,7 @@ const categoryList = [
         parent: 'Form',
         keywords: [new Keyword('file upload', 8)],
     }),
-    new Category({ name: 'Footer' }),
+    new Category({ name: 'Footer', keywords: [new Keyword('footer', 2)] }),
     new Category({ name: 'Hero' }),
     new Category({
         name: 'Loading/Spinner',
@@ -224,7 +235,7 @@ const categoryList = [
         keywords: [
             new Keyword('navigation'),
             new Keyword('header'),
-            new Keyword('navbar'),
+            new Keyword('navbar', 2),
             new Keyword('nav menu'),
             new Keyword('navabr'),
             new Keyword('navbars with', 5),
@@ -252,12 +263,21 @@ const categoryList = [
     new Category({ name: 'Progress Bar', keywords: [new Keyword('progress')] }),
     new Category({
         name: 'Sidebar',
-        keywords: [new Keyword('side panel', 2), new Keyword('side nav', 2)],
+        keywords: [
+            new Keyword('side panel', 2),
+            new Keyword('side nav', 2),
+            new Keyword('slide-overs', 2),
+        ],
     }),
-    new Category({ name: 'Step' }),
+    new Category({ name: 'Comment', keywords: [new Keyword('comment form', 2)] }),
+    new Category({ name: 'Step', keywords: [new Keyword('multistep')] }),
     new Category({
         name: 'Switch',
-        keywords: [new Keyword('toggle'), new Keyword('toogle')],
+        keywords: [
+            new Keyword('toggle'),
+            new Keyword('toogle'),
+            new Keyword('toggle button', 2),
+        ],
     }),
     new Category({ name: 'Table' }),
     new Category({ name: 'List' }),
