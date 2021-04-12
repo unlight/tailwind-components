@@ -1,6 +1,7 @@
+import assert from 'assert';
 import { CompomentLink, ScraperArgs } from '../types';
 
-const itemSelector = '#app > .min-h-screen > main > div a.flex.flex-col';
+const itemSelector = '#app main .grid > div > div.flex a[href^="/component"]';
 const nextPageSelector = 'a[title="Next »"]';
 
 export default async function ({ page }: ScraperArgs) {
@@ -17,10 +18,11 @@ export default async function ({ page }: ScraperArgs) {
         await page.goto(nextPage!);
         const nextItems = await page.$$eval(itemSelector, (elements) => {
             return elements.map((a) => ({
-                name: a.querySelector('h4')!.textContent as string,
+                name: a.textContent as string,
                 link: `https://tailwindcomponents.com${a.getAttribute('href')}`,
             }));
         });
+        assert(nextItems.length);
         items.push(...nextItems);
     } while (nextPage);
 

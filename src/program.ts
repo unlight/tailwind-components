@@ -8,8 +8,12 @@ import yargs from 'yargs';
 
 /**
  * RESOURCES:
- * https://tailwinduikit.com/components
  * https://tailwindcss-custom-forms.netlify.app/
+ * https://kitwind.io/products/kometa/components
+ * https://mambaui.com/
+ * https://kamona-wd.github.io/kwd-dashboard/
+ * https://kimia-ui.vercel.app/components
+ * https://tailwinduikit.com/components
  */
 
 if (require.main?.filename === __filename) {
@@ -267,6 +271,8 @@ const categoryList = [
             new Keyword('side panel', 2),
             new Keyword('side nav', 2),
             new Keyword('slide-overs', 2),
+            new Keyword('drawer', 2),
+            new Keyword('sliding', 2),
         ],
     }),
     new Category({ name: 'Comment', keywords: [new Keyword('comment form', 2)] }),

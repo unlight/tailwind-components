@@ -1,8 +1,8 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function ({
-    page,
-}: ScraperArgs): Promise<CompomentLink[]> {
+// todo: add templates https://www.tailwind-kit.com/templates
+
+export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://www.tailwind-kit.com/components', {
         waitUntil: 'networkidle2',
@@ -10,9 +10,7 @@ export default async function ({
     const sectionLinks = await page.$$eval(
         'main a[href^="/components"]',
         (elements) => {
-            return elements.map(
-                (element) => (element as HTMLAnchorElement).href,
-            );
+            return elements.map((element) => (element as HTMLAnchorElement).href);
         },
     );
     for (const sectionLink of sectionLinks) {
@@ -22,9 +20,7 @@ export default async function ({
             await page.$$eval(
                 '.flex.flex-col.items-center.justify-between p',
                 (elements) => {
-                    return elements.map((element) =>
-                        element.textContent!.trim(),
-                    );
+                    return elements.map((element) => element.textContent!.trim());
                 },
             )
         ).forEach((name) => {
