@@ -9,8 +9,6 @@ import yargs from 'yargs';
 /**
  * RESOURCES:
  * https://tailwindcss-custom-forms.netlify.app/
- * https://kitwind.io/products/kometa/components
- * https://mambaui.com/
  * https://kamona-wd.github.io/kwd-dashboard/
  * https://kimia-ui.vercel.app/components
  * https://tailwinduikit.com/components
@@ -35,8 +33,19 @@ async function program(options?: ProgramOptions) {
     const [page] = await browser.pages();
     const scrapers = await getScrapers({ name: options?.only });
     const items: CompomentLink[] = [];
-    for await (const scraper of scrapers) {
-        items.push(...(await scraper({ page })));
+    for await (const [index, scraper] of scrapers.entries()) {
+        let tryCount = 3;
+        while (--tryCount >= 0) {
+            console.log(`Progress: ${index + 1}/${scrapers.length}`);
+            try {
+                let scraperItems = await scraper({ page });
+                items.push(...scraperItems);
+                break;
+            } catch (error) {
+                console.error(error);
+                console.log(`Tries left: ${tryCount}`);
+            }
+        }
     }
     await browser.close();
     const content = await generate({ items });
@@ -103,8 +112,8 @@ class Keyword {
         const result =
             test
                 .split(/\s+/)
-                .map((s) => s.toLowerCase())
-                .find((s) => {
+                .map(s => s.toLowerCase())
+                .find(s => {
                     return s === this.value || plural(s) === this.plural;
                 }) !== undefined;
         return result;
@@ -319,13 +328,13 @@ export function groupItems(items: CompomentLink[]) {
     const result: { [name: string]: CompomentLink[] } = {};
     for (const item of items) {
         const matches = _(categoryList)
-            .map((category) => ({
+            .map(category => ({
                 category,
                 weight: category.weight(item.name),
             }))
             .orderBy(['weight'], ['desc'])
-            .takeWhile((c) => c.weight > 0)
-            .thru((collection) =>
+            .takeWhile(c => c.weight > 0)
+            .thru(collection =>
                 collection.length === 0
                     ? [{ category: defaultCategory, weight: 0 }]
                     : collection,
