@@ -301,8 +301,12 @@ const categoryList = [
     new Category({ name: 'Other' }),
 ];
 
-function createLink(item: CompomentLink) {
-    return `* ${item.name} - ${item.link}`;
+export function createLink({ name, link }: CompomentLink) {
+    let description = link.split('//')[1];
+    if (description.startsWith('www.')) {
+        description = description.slice(4);
+    }
+    return `* ${name} - [${description}](${link})`;
 }
 
 type GenerateArgs = {

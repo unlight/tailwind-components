@@ -1,4 +1,4 @@
-import { Category, generate, groupItems } from './program';
+import { Category, createLink, generate, groupItems } from './program';
 import { expect } from 'earljs';
 import { removeRef } from './scrapers/lofiui';
 
@@ -35,7 +35,9 @@ it('get category exact match', async () => {
     ];
     const result = await generate({ items });
     expect(result).toEqual(
-        expect.stringMatching('\\* Card - https://tailwindcomponents.com/component/card-1'),
+        expect.stringMatching(
+            '\\* Card - https://tailwindcomponents.com/component/card-1',
+        ),
     );
 });
 
@@ -47,7 +49,9 @@ it('get category from word', async () => {
         },
     ];
     const result = await generate({ items });
-    expect(result).toEqual(expect.stringMatching('\\* curvy card - https://example.com'));
+    expect(result).toEqual(
+        expect.stringMatching('\\* curvy card - https://example.com'),
+    );
 });
 
 it('get category exact pluralize', async () => {
@@ -58,7 +62,9 @@ it('get category exact pluralize', async () => {
         },
     ];
     const result = await generate({ items });
-    expect(result).toEqual(expect.stringMatching('## Card\n\\* Cards - https://example.com'));
+    expect(result).toEqual(
+        expect.stringMatching('## Card\n\\* Cards - https://example.com'),
+    );
 });
 
 it('keywords exact', async () => {
@@ -69,7 +75,9 @@ it('keywords exact', async () => {
         },
     ];
     const result = await generate({ items });
-    expect(result).toEqual(expect.stringMatching(`## Alert\n\\* toast - https://example.com`));
+    expect(result).toEqual(
+        expect.stringMatching(`## Alert\n\\* toast - https://example.com`),
+    );
 });
 
 it('keywords plurals', async () => {
@@ -81,11 +89,22 @@ it('keywords plurals', async () => {
     ];
     const result = await generate({ items });
     expect(result).toEqual(
-        expect.stringMatching(`## Navigation\n\\* Navbars With Search - https://example.com`),
+        expect.stringMatching(
+            `## Navigation\n\\* Navbars With Search - https://example.com`,
+        ),
     );
 });
 
 it('remove ref link', () => {
     const link = 'https://codepen.io/collection/XpqYVp/?ref=lofiui.robstinson&x=1';
     expect(removeRef(link)).toEqual('https://codepen.io/collection/XpqYVp/?x=1');
+});
+
+it.only('createLink', () => {
+    expect(createLink({ name: 'wip', link: 'http://example.com/aaa' })).toEqual(
+        '* wip - [example.com/aaa](http://example.com/aaa)',
+    );
+    expect(createLink({ name: 'wip', link: 'http://www.example.com/aaa' })).toEqual(
+        '* wip - [example.com/aaa](http://www.example.com/aaa)',
+    );
 });
