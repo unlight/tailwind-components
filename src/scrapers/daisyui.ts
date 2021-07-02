@@ -1,7 +1,7 @@
 import { uniq } from 'lodash';
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
+export default async function daisyui({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://daisyui.com/components/button', {
         waitUntil: 'networkidle0',

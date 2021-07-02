@@ -1,6 +1,6 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
+export default async function mambaui({ page }: ScraperArgs): Promise<CompomentLink[]> {
     await page.goto('https://mambaui.com/components');
 
     const result = await page.$$eval(

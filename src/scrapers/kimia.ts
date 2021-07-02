@@ -1,15 +1,13 @@
 import { uniq } from 'lodash';
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function tailwindelements({
-    page,
-}: ScraperArgs): Promise<CompomentLink[]> {
+export default async function kimia({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
-    await page.goto('https://tailwind-elements.com/mdb-go/quick-start/', {
+    await page.goto('https://kimia-ui.vercel.app/components', {
         waitUntil: 'networkidle2',
     });
-    const links = await page.$$eval(
-        'a[href^="/docs/standard/components/"]',
+    const sections = await page.$$eval(
+        'a.font-medium[href^="/components/"]',
         elements => {
             return elements.map(a => ({
                 link: (a as HTMLAnchorElement).href,
@@ -17,9 +15,10 @@ export default async function tailwindelements({
             }));
         },
     );
-    for (const { link, category } of links) {
+
+    for (const { link, category } of sections) {
         await page.goto(link, { waitUntil: 'networkidle0' });
-        let names = await page.$$eval('figcaption h2', elements => {
+        let names = await page.$$eval('main h2.font-bold', elements => {
             return elements.map(element => element.textContent!.trim());
         });
         names = uniq(names);

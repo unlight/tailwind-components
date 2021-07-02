@@ -1,6 +1,6 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
+export default async function kitwind({ page }: ScraperArgs): Promise<CompomentLink[]> {
     await page.goto('https://kitwind.io/products/kometa/components', {
         waitUntil: 'networkidle0',
     });

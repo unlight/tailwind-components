@@ -36,7 +36,7 @@ async function program(options?: ProgramOptions) {
     for await (const [index, scraper] of scrapers.entries()) {
         let tryCount = 3;
         while (--tryCount >= 0) {
-            console.log(`Progress: ${index + 1}/${scrapers.length}`);
+            console.log(`Progress: ${scraper.name} ${index + 1}/${scrapers.length}`);
             try {
                 let scraperItems = await scraper({ page });
                 items.push(...scraperItems);
@@ -123,7 +123,11 @@ class Keyword {
 const categoryList = [
     new Category({
         name: 'Accordion',
-        keywords: [new Keyword('accordion'), new Keyword('collapsible')],
+        keywords: [
+            new Keyword('accordion'),
+            new Keyword('collapsible'),
+            new Keyword('collapse'),
+        ],
     }),
     new Category({
         name: 'Alert/Notification',
@@ -155,7 +159,12 @@ const categoryList = [
             new Keyword('pills'),
             new Keyword('tag line'),
             new Keyword('chips'),
+            new Keyword('label-tag'),
         ],
+    }),
+    new Category({
+        name: 'Tooltips',
+        keywords: [new Keyword('tooltip')],
     }),
     new Category({
         name: 'Date/Time',
@@ -254,6 +263,7 @@ const categoryList = [
             new Keyword('navbars with', 5),
             new Keyword('responsive navbar', 8),
             new Keyword('navigation bar', 10),
+            new Keyword('navs'),
         ],
     }),
     new Category({ name: 'Page' }),

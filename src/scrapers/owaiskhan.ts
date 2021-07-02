@@ -1,6 +1,8 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
+export default async function owaiskhan({
+    page,
+}: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://treact.owaiskhan.me/', { waitUntil: 'networkidle0' });
     await autoScroll(page);
@@ -8,11 +10,16 @@ export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> 
         '#componentDemos [class^="MainLandingPage__ComponentsContainer"] [class^="MainLandingPage___StyledDiv2"]',
     );
     for (const section of sections) {
-        const heading = await section.evaluate((s) => s.querySelector('h3')?.textContent);
-        const componentHeadings = await section.$$('[class^="MainLandingPage__ComponentHeading"]');
+        const heading = await section.evaluate(s => s.querySelector('h3')?.textContent);
+        const componentHeadings = await section.$$(
+            '[class^="MainLandingPage__ComponentHeading"]',
+        );
         for (const componentHeading of componentHeadings) {
-            const name = componentHeading!.$eval('h6', (x) => x.textContent);
-            const link = componentHeading!.$eval('a[href', (x) => (x as HTMLAnchorElement).href);
+            const name = componentHeading!.$eval('h6', x => x.textContent);
+            const link = componentHeading!.$eval(
+                'a[href',
+                x => (x as HTMLAnchorElement).href,
+            );
             result.push({
                 name: `${heading} ${await name}`,
                 link: await link,

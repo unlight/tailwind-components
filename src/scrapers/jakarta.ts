@@ -1,6 +1,6 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-export default async function ({ page }: ScraperArgs): Promise<CompomentLink[]> {
+export default async function jakarta({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [
         {
             name: 'Dashboard widgets',
