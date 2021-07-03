@@ -722,6 +722,7 @@
 *   Profile Card - [tailwindtoolbox.com/templates/profile-card](https://www.tailwindtoolbox.com/templates/profile-card)
 *   Application UI Data Display Description Lists Left-aligned striped in card - [tailwindui.com/preview#component-66e73ff022ab21fdbf81058dc9789219](https://tailwindui.com/preview#component-66e73ff022ab21fdbf81058dc9789219)
 *   Application UI Forms Form Layouts Two-column cards with separate submit actions - [tailwindui.com/preview#component-db11f83176d113e39bf2559da9344b1c](https://tailwindui.com/preview#component-db11f83176d113e39bf2559da9344b1c)
+*   Page Sections cards - [blocks.wickedtemplates.com/cards](https://blocks.wickedtemplates.com/cards)
 *   Cards Big section cards - [windmill-dashboard.vercel.app/cards.html](https://windmill-dashboard.vercel.app/cards.html)
 *   Cards Responsive cards - [windmill-dashboard.vercel.app/cards.html](https://windmill-dashboard.vercel.app/cards.html)
 *   Cards Cards with title - [windmill-dashboard.vercel.app/cards.html](https://windmill-dashboard.vercel.app/cards.html)
@@ -1036,7 +1037,7 @@
 *   Multi Section Form - [tailwindtoolbox.com/templates/multi-section-form](https://www.tailwindtoolbox.com/templates/multi-section-form)
 *   Application UI Forms Input Groups Input with inline leading add-on and trailing dropdown - [tailwindui.com/preview#component-2607d970262ada86428f063c72b1e7bd](https://tailwindui.com/preview#component-2607d970262ada86428f063c72b1e7bd)
 *   Forms forms - [blocks.wickedtemplates.com/forms](https://blocks.wickedtemplates.com/forms)
-*   Forms forms - [blocks.wickedtemplates.com/auth](https://blocks.wickedtemplates.com/auth)
+*   Forms auth - [blocks.wickedtemplates.com/auth](https://blocks.wickedtemplates.com/auth)
 *   Forms Elements - [windmill-dashboard.vercel.app/forms.html](https://windmill-dashboard.vercel.app/forms.html)
 *   Forms Validation - [windmill-dashboard.vercel.app/forms.html](https://windmill-dashboard.vercel.app/forms.html)
 *   Forms Icons - [windmill-dashboard.vercel.app/forms.html](https://windmill-dashboard.vercel.app/forms.html)
@@ -1218,6 +1219,7 @@
 *   Footer 2 - [tailwindow.github.io/component-tailwindcss/components/footer/footer-2/index.html](https://tailwindow.github.io/component-tailwindcss/components/footer/footer-2/index.html)
 *   Application UI Navigation Pagination Card footer with page buttons - [tailwindui.com/preview#component-69eb9381f977800aa890ce8f7d9e2d20](https://tailwindui.com/preview#component-69eb9381f977800aa890ce8f7d9e2d20)
 *   Application UI Overlays Modals Simple with gray footer - [tailwindui.com/preview#component-47a5888a08838ad98779d50878d359b3](https://tailwindui.com/preview#component-47a5888a08838ad98779d50878d359b3)
+*   Page Sections footer - [blocks.wickedtemplates.com/footers](https://blocks.wickedtemplates.com/footers)
 
 ## Hero
 
@@ -1436,15 +1438,10 @@
 *   Marketing Elements Headers Centered with bottom border - [tailwindui.com/preview#component-1c0390a81b16cf5028aeff08be955766](https://tailwindui.com/preview#component-1c0390a81b16cf5028aeff08be955766)
 *   Marketing Elements Banners Header banner - [tailwindui.com/preview#component-1a63aa510db7761c581486c7259487e8](https://tailwindui.com/preview#component-1a63aa510db7761c581486c7259487e8)
 *   Page Sections left headers - [blocks.wickedtemplates.com/left-headers](https://blocks.wickedtemplates.com/left-headers)
-*   Page Sections left headers - [blocks.wickedtemplates.com/centered-headers](https://blocks.wickedtemplates.com/centered-headers)
-*   Page Sections left headers - [blocks.wickedtemplates.com/right-headers](https://blocks.wickedtemplates.com/right-headers)
-*   Page Sections left headers - [blocks.wickedtemplates.com/pricing](https://blocks.wickedtemplates.com/pricing)
-*   Page Sections left headers - [blocks.wickedtemplates.com/cards](https://blocks.wickedtemplates.com/cards)
-*   Page Sections left headers - [blocks.wickedtemplates.com/grids](https://blocks.wickedtemplates.com/grids)
-*   Page Sections left headers - [blocks.wickedtemplates.com/clients](https://blocks.wickedtemplates.com/clients)
-*   Page Sections left headers - [blocks.wickedtemplates.com/footers](https://blocks.wickedtemplates.com/footers)
+*   Page Sections centered headers - [blocks.wickedtemplates.com/centered-headers](https://blocks.wickedtemplates.com/centered-headers)
+*   Page Sections right headers - [blocks.wickedtemplates.com/right-headers](https://blocks.wickedtemplates.com/right-headers)
 *   Navigation navigation - [blocks.wickedtemplates.com/navigation](https://blocks.wickedtemplates.com/navigation)
-*   Navigation navigation - [blocks.wickedtemplates.com/sidebars](https://blocks.wickedtemplates.com/sidebars)
+*   Navigation sidebars - [blocks.wickedtemplates.com/sidebars](https://blocks.wickedtemplates.com/sidebars)
 
 ## Page
 
@@ -1505,6 +1502,8 @@
 *   Application UI Headings Page Headings With meta and actions - [tailwindui.com/preview#component-7654075f650c9f1044bfcf1b1b6ffd77](https://tailwindui.com/preview#component-7654075f650c9f1044bfcf1b1b6ffd77)
 *   Marketing Page Sections Feature Sections Centered 2x2 grid - [tailwindui.com/preview#component-64ac58e032276db96bf343a8d4f332a8](https://tailwindui.com/preview#component-64ac58e032276db96bf343a8d4f332a8)
 *   Marketing Page Sections CTA Sections Simple justified - [tailwindui.com/preview#component-90c79fbd0596cc4e601da985ca825994](https://tailwindui.com/preview#component-90c79fbd0596cc4e601da985ca825994)
+*   Page Sections grids - [blocks.wickedtemplates.com/grids](https://blocks.wickedtemplates.com/grids)
+*   Page Sections clients - [blocks.wickedtemplates.com/clients](https://blocks.wickedtemplates.com/clients)
 
 ### 404
 
@@ -1556,6 +1555,7 @@
 *   Pricing - Pricing card 8 - [tailwind-kit.com/components/pricing](https://www.tailwind-kit.com/components/pricing)
 *   Pricing - Pricing card 9 - [tailwind-kit.com/components/pricing](https://www.tailwind-kit.com/components/pricing)
 *   Pricing - Publicity - [tailwind-kit.com/components/pricing](https://www.tailwind-kit.com/components/pricing)
+*   Page Sections pricing - [blocks.wickedtemplates.com/pricing](https://blocks.wickedtemplates.com/pricing)
 
 ### Testimonial
 
