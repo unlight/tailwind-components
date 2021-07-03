@@ -1,4 +1,3 @@
-import { trim } from 'lodash';
 import { CompomentLink, ScraperArgs } from '../types';
 
 export default async function wickedtemplates({
@@ -6,15 +5,20 @@ export default async function wickedtemplates({
 }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://blocks.wickedtemplates.com/');
-    const sections = await page.$$('section.text-left[id]');
+    const sections = await page.$$('section .container');
     for (const section of sections) {
-        const name1 = section.$eval('h2', x => x.textContent!.trim());
-        const name2 = section.$eval('h1', x => x.textContent!.trim());
-        const link = section.$eval('a[href]', x => (x as HTMLAnchorElement).href);
-        result.push({
-            link: await link,
-            name: trim(await name1) + ' ' + trim(await name2, '. '),
-        });
+        const category = await section.$eval('header', x => x.textContent!.trim());
+        for (const block of await section.$$('a')) {
+            const name = await section.$eval('figcaption p', x =>
+                x.textContent!.trim(),
+            );
+            const link = await block.evaluate(x => (x as HTMLAnchorElement).href);
+            result.push({
+                name: `${category} ${name}`,
+                link,
+            });
+        }
     }
+
     return result;
 }

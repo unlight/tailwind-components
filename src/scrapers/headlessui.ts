@@ -4,17 +4,14 @@ export default async function headlessui({
     page,
 }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
-    await page.goto(
-        'https://github.com/tailwindlabs/headlessui/tree/develop/packages/%40headlessui-react',
-    );
+    await page.goto('https://headlessui.dev/');
 
-    const elements = await page.$x(
-        '//h2[text()="Components"]/following-sibling::ul[1]/li',
-    );
+    const elements = await page.$$('.grid a[class]');
+
     for (const elementHandle of elements) {
-        const { link, name } = await elementHandle.$eval('a', x => ({
-            link: (x as HTMLAnchorElement).href,
+        const { link, name } = await elementHandle.evaluate(x => ({
             name: x.textContent!,
+            link: (x as HTMLAnchorElement).href,
         }));
         result.push({ link, name });
     }

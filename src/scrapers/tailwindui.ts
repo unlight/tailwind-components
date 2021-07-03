@@ -4,16 +4,20 @@ export default async function tailwindui({
     page,
 }: ScraperArgs): Promise<CompomentLink[]> {
     await page.goto('https://tailwindui.com/preview');
-    return page.$$eval('div.mt-16 > div.space-y-16 > div', elements =>
-        elements.map(element => {
-            const category = element.querySelector('h2')!.textContent!.trim();
-            const name = element.querySelector('h3')!.textContent!.trim();
-            return {
-                name: `${category} ${name}`,
-                link: `https://tailwindui.com/preview${element
-                    .querySelector('h3 a')!
-                    .getAttribute('href')}`,
-            };
-        }),
+    const result = await page.$$eval(
+        '.max-w-container > section[id^=component]',
+        elements =>
+            elements.map(element => {
+                const category = Array.from(element.querySelectorAll('nav a'))
+                    .map(x => x.textContent!.trim())
+                    .join(' ');
+                const name = element.querySelector('h2')!.textContent!.trim();
+                return {
+                    name: `${category} ${name}`,
+                    link: (element.querySelector('h2 a') as HTMLAnchorElement).href,
+                };
+            }),
     );
+
+    return result;
 }

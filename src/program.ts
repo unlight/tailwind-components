@@ -8,10 +8,11 @@ import yargs from 'yargs';
 
 /**
  * RESOURCES:
+ * https://tailwind-css-components.appseed.us/
  * https://tailwindcss-custom-forms.netlify.app/
  * https://kamona-wd.github.io/kwd-dashboard/
- * https://kimia-ui.vercel.app/components
  * https://tailwinduikit.com/components
+ * https://www.creative-tim.com/
  */
 
 if (require.main?.filename === __filename) {
@@ -36,9 +37,12 @@ async function program(options?: ProgramOptions) {
     for await (const [index, scraper] of scrapers.entries()) {
         let tryCount = 3;
         while (--tryCount >= 0) {
-            console.log(`Progress: ${scraper.name} ${index + 1}/${scrapers.length}`);
+            process.stdout.write(
+                `\nProgress: ${scraper.name} ${index + 1}/${scrapers.length} ...`,
+            );
             try {
                 let scraperItems = await scraper({ page });
+                process.stdout.write(` +${scraperItems.length}`);
                 items.push(...scraperItems);
                 break;
             } catch (error) {
@@ -46,6 +50,7 @@ async function program(options?: ProgramOptions) {
                 console.log(`Tries left: ${tryCount}`);
             }
         }
+        process.stdout.write(` Total: ${items.length}`);
     }
     await browser.close();
     const content = await generate({ items });

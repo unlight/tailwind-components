@@ -1,6 +1,5 @@
 import { Category, createLink, generate, groupItems } from './program';
 import { expect } from 'earljs';
-import { removeRef } from './scrapers/lofiui';
 
 const link = 'https://example.com';
 
@@ -95,12 +94,7 @@ it('keywords plurals', async () => {
     );
 });
 
-it('remove ref link', () => {
-    const link = 'https://codepen.io/collection/XpqYVp/?ref=lofiui.robstinson&x=1';
-    expect(removeRef(link)).toEqual('https://codepen.io/collection/XpqYVp/?x=1');
-});
-
-it.only('createLink', () => {
+it('createLink', () => {
     expect(createLink({ name: 'wip', link: 'http://example.com/aaa' })).toEqual(
         '* wip - [example.com/aaa](http://example.com/aaa)',
     );
