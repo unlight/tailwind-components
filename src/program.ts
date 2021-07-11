@@ -8,6 +8,7 @@ import yargs from 'yargs';
 
 /**
  * RESOURCES:
+ * https://www.vechaiui.com/
  * https://tailwind-css-components.appseed.us/
  * https://tailwindcss-custom-forms.netlify.app/
  * https://kamona-wd.github.io/kwd-dashboard/
@@ -158,20 +159,6 @@ const categoryList = [
         ],
     }),
     new Category({
-        name: 'Tags',
-        keywords: [
-            new Keyword('tagline'),
-            new Keyword('pills'),
-            new Keyword('tag line'),
-            new Keyword('chips'),
-            new Keyword('label-tag'),
-        ],
-    }),
-    new Category({
-        name: 'Tooltips',
-        keywords: [new Keyword('tooltip')],
-    }),
-    new Category({
         name: 'Date/Time',
         keywords: [
             new Keyword('calendar'),
@@ -308,6 +295,20 @@ const categoryList = [
             new Keyword('toogle'),
             new Keyword('toggle button', 2),
         ],
+    }),
+    new Category({
+        name: 'Tags',
+        keywords: [
+            new Keyword('tagline'),
+            new Keyword('pills'),
+            new Keyword('tag line'),
+            new Keyword('chips'),
+            new Keyword('label-tag'),
+        ],
+    }),
+    new Category({
+        name: 'Tooltips',
+        keywords: [new Keyword('tooltip')],
     }),
     new Category({ name: 'Table' }),
     new Category({ name: 'List' }),
