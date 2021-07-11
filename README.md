@@ -1,75 +1,43 @@
 # Tailwind Components
 
 ## Table of Contents
-
 *   [Accordion](#accordion)
-
 *   [Alert/Notification](#alertnotification)
-
 *   [Avatar](#avatar)
-
 *   [Badge](#badge)
-
 *   [Breadcrumb](#breadcrumb)
-
 *   [Button](#button)
-
 *   [Card](#card)
-
 *   [Dashboard Widgets](#dashboard-widgets)
-
 *   [Date/Time](#datetime)
-
 *   [Dropdown](#dropdown)
-
 *   [Form](#form)
-
     *   [Contact](#contact)
     *   [Login](#login)
     *   [Register](#register)
     *   [Search](#search)
     *   [Upload](#upload)
-
 *   [Footer](#footer)
-
 *   [Hero](#hero)
-
 *   [Loading/Spinner](#loadingspinner)
-
 *   [Modal](#modal)
-
 *   [Navigation/Header](#navigationheader)
-
 *   [Page](#page)
-
     *   [404](#404)
     *   [Pricing](#pricing)
     *   [Testimonial](#testimonial)
-
 *   [Pagination](#pagination)
-
 *   [Progress Bar](#progress-bar)
-
 *   [Sidebar](#sidebar)
-
 *   [Comment](#comment)
-
 *   [Step](#step)
-
 *   [Switch](#switch)
-
 *   [Tags](#tags)
-
 *   [Tooltips](#tooltips)
-
 *   [Table](#table)
-
 *   [List](#list)
-
 *   [Tab](#tab)
-
 *   [Timeline](#timeline)
-
 *   [Other](#other)
 
 ## Accordion
