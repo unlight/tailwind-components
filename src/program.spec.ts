@@ -1,5 +1,5 @@
 import { Category, createLink, generate, groupItems } from './program';
-import { expect } from 'earljs';
+import expect from 'expect';
 
 const link = 'https://example.com';
 
