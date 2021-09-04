@@ -14,7 +14,7 @@ export default async function daisyui({ page }: ScraperArgs): Promise<CompomentL
     });
     for (const { link, category } of links) {
         await page.goto(link);
-        let names = await page.$$eval('main .text-xs.capitalize', elements => {
+        let names = await page.$$eval('main .py-2 > .text-xs.pt-4', elements => {
             return elements.map(element => element.textContent!.trim());
         });
         names = uniq(names);
