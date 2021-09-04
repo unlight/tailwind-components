@@ -8,12 +8,10 @@ import yargs from 'yargs';
 
 /**
  * RESOURCES:
- * https://www.vechaiui.com/
- * https://tailwind-css-components.appseed.us/
  * https://tailwindcss-custom-forms.netlify.app/
  * https://kamona-wd.github.io/kwd-dashboard/
- * https://tailwinduikit.com/components
  * https://www.creative-tim.com/
+ * https://www.vechaiui.com/
  */
 
 if (require.main?.filename === __filename) {
