@@ -4,7 +4,7 @@ export default async function tailblocks({
     page,
 }: ScraperArgs): Promise<CompomentLink[]> {
     await page.goto('https://mertjf.github.io/tailblocks/', {
-        waitUntil: 'networkidle2',
+        waitUntil: 'networkidle0',
     });
     const result: CompomentLink[] = await page.$$eval(
         '#root aside > .blocks',

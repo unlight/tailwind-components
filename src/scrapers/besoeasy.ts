@@ -6,7 +6,7 @@ export default async function besoeasy({
 }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://tailwind.besoeasy.com/', {
-        waitUntil: 'networkidle2',
+        waitUntil: 'networkidle0',
     });
     const sections = await page.$$eval('#files > li a[href]', elements => {
         return elements.map(a => ({
@@ -15,7 +15,7 @@ export default async function besoeasy({
         }));
     });
     for (const section of sections) {
-        await page.goto(section.link);
+        await page.goto(section.link, { waitUntil: 'networkidle0' });
         const links = await page.$$eval('#files > li a[href]', elements => {
             return elements.map(element => {
                 const a = element as HTMLAnchorElement;

@@ -8,14 +8,21 @@ export default async function daisyui({ page }: ScraperArgs): Promise<CompomentL
     });
     const links = await page.$$eval('li > a[href^="/components/"]', elements => {
         return elements.map(a => ({
+            href: a.getAttribute('href'),
             link: (a as HTMLAnchorElement).href,
             category: a.textContent!.trim(),
         }));
     });
-    for (const { link, category } of links) {
+
+    for (const { href, link, category } of links) {
         await page.goto(link);
+        // const navLink = await page.$(`li > a[href^="${href}"]`);
+        // await navLink?.click();
+        // await page.waitForNetworkIdle();
         let names = await page.$$eval('main .py-2 > .text-xs.pt-4', elements => {
-            return elements.map(element => element.textContent!.trim());
+            return elements.map(element => {
+                return element.textContent!.trim();
+            });
         });
         names = uniq(names);
         for (let name of names) {

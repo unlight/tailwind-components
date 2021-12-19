@@ -4,7 +4,7 @@ import { CompomentLink, ScraperArgs } from '../types';
 export default async function kimia({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://kimia-ui.vercel.app/components', {
-        waitUntil: 'networkidle2',
+        waitUntil: 'networkidle0',
     });
     const sections = await page.$$eval(
         'a.font-medium[href^="/components/"]',

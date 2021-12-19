@@ -4,7 +4,9 @@ export default async function tailwindesign({
     page,
 }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
-    await page.goto('https://tailwindesign.com/components/alert');
+    await page.goto('https://tailwindesign.com/components/alert', {
+        waitUntil: 'networkidle0',
+    });
 
     const links = await page.$$eval(
         'a[href^="/components"], a[href^="/advances"]',

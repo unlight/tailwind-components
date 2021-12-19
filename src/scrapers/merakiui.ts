@@ -3,7 +3,7 @@ import { CompomentLink, ScraperArgs } from '../types';
 export default async function merakiui({
     page,
 }: ScraperArgs): Promise<CompomentLink[]> {
-    await page.goto('https://merakiui.com/');
+    await page.goto('https://merakiui.com/', { waitUntil: 'networkidle0' });
     const sections = await page.$$('.container button.cursor-pointer');
     const result: CompomentLink[] = [];
     for (const section of sections) {

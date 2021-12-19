@@ -139,6 +139,7 @@ const categoryList = [
             new Keyword('Alert'),
             new Keyword('notification'),
             new Keyword('toast'),
+            new Keyword('snackbar'),
         ],
     }),
     new Category({ name: 'Avatar' }),

@@ -1,7 +1,7 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
 export default async function sailui({ page }: ScraperArgs): Promise<CompomentLink[]> {
-    await page.goto('https://sailui.github.io/');
+    await page.goto('https://sailui.github.io/', { waitUntil: 'networkidle0' });
     const categories = await page.$$eval('h2.font-bold:not(.text-center)', elements =>
         elements.map(h => h.textContent),
     );

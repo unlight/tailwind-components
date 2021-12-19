@@ -4,7 +4,7 @@ export default async function headlessui({
     page,
 }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
-    await page.goto('https://headlessui.dev/');
+    await page.goto('https://headlessui.dev/', { waitUntil: 'networkidle0' });
 
     const elements = await page.$$('.grid a[class]');
 

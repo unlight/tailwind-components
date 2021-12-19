@@ -4,7 +4,9 @@ export default async function tailwindow({
     page,
 }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
-    await page.goto('https://tailwindow.github.io/component-tailwindcss/');
+    await page.goto('https://tailwindow.github.io/component-tailwindcss/', {
+        waitUntil: 'networkidle0',
+    });
     const sections = await page.$$eval('li a[href]', elements =>
         elements.map(x => ({
             name: x.textContent!,

@@ -6,7 +6,7 @@ export default async function tailwindelements({
 }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://tailwind-elements.com/mdb-go/quick-start/', {
-        waitUntil: 'networkidle2',
+        waitUntil: 'networkidle0',
     });
     const links = await page.$$eval(
         'a[href^="/docs/standard/components/"]',

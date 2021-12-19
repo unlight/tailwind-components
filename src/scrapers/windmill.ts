@@ -4,7 +4,9 @@ export default async function windmill({
     page,
 }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
-    await page.goto('https://windmill-dashboard.vercel.app');
+    await page.goto('https://windmill-dashboard.vercel.app', {
+        waitUntil: 'networkidle0',
+    });
 
     const sections = await page.$$eval(
         'aside[class*="md:block"] ul a[href]',
@@ -19,7 +21,7 @@ export default async function windmill({
     );
 
     for (const { link } of sections) {
-        await page.goto(link);
+        await page.goto(link, { waitUntil: 'networkidle0' });
         const category = await page.$eval('h2', x => x.textContent!.trim());
         const elements = await page.$$eval('h4', elements => {
             return elements.map(element => element.textContent!.trim());

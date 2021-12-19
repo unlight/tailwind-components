@@ -3,7 +3,7 @@ import { CompomentLink, ScraperArgs } from '../types';
 export default async function appseed({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://tailwind-css-components.appseed.us', {
-        waitUntil: 'networkidle2',
+        waitUntil: 'networkidle0',
     });
     const elements = await page.$$eval(
         '#directory-listing li a[href$=".html"]',

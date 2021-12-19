@@ -7,7 +7,7 @@ export default async function tailwindkit({
 }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://www.tailwind-kit.com/components', {
-        waitUntil: 'networkidle2',
+        waitUntil: 'networkidle0',
     });
     const sectionLinks = await page.$$eval('main a[href^="/components"]', elements => {
         return elements.map(element => (element as HTMLAnchorElement).href);

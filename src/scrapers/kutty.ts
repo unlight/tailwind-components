@@ -2,7 +2,9 @@ import { CompomentLink, ScraperArgs } from '../types';
 
 export default async function kutty({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
-    await page.goto('https://kutty.netlify.app/components/');
+    await page.goto('https://kutty.netlify.app/components/', {
+        waitUntil: 'networkidle0',
+    });
     const sections = await page.$$('a.card');
     for (const section of sections) {
         const category = section.evaluate(

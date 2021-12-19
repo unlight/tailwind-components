@@ -5,7 +5,9 @@ export default async function tailwindtemplates({
     page,
 }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
-    await page.goto('https://tailwindtemplates.io/welcome/');
+    await page.goto('https://tailwindtemplates.io/welcome/', {
+        waitUntil: 'networkidle0',
+    });
     const pageUrls = await page
         .$x('//p[contains(@class,"text-base")][text()="Basic"]/following-sibling::*//a')
         .then(elementsHandle => {
@@ -18,7 +20,7 @@ export default async function tailwindtemplates({
             );
         });
     for (const pageUrl of pageUrls) {
-        await page.goto(pageUrl);
+        await page.goto(pageUrl, { waitUntil: 'networkidle0' });
         const components = await page.$$eval('.sticky.top-0 a[href]', elements => {
             return elements.map(a => ({
                 name: a.textContent!.trim(),

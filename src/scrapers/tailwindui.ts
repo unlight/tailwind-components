@@ -3,7 +3,7 @@ import { CompomentLink, ScraperArgs } from '../types';
 export default async function tailwindui({
     page,
 }: ScraperArgs): Promise<CompomentLink[]> {
-    await page.goto('https://tailwindui.com/preview');
+    await page.goto('https://tailwindui.com/preview', { waitUntil: 'networkidle0' });
     const result = await page.$$eval(
         '.max-w-container > section[id^=component]',
         elements =>
