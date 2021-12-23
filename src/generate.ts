@@ -23,6 +23,7 @@ const categoryList = [
             new Keyword('notification'),
             new Keyword('toast'),
             new Keyword('snackbar'),
+            new Keyword('Callout'),
         ],
     }),
     new Category({ name: 'Avatar' }),
@@ -39,6 +40,14 @@ const categoryList = [
             new Keyword('statistic'),
             new Keyword('weather ui component', 5),
         ],
+    }),
+    new Category({
+        name: 'Slider/Carousel',
+        keywords: [new Keyword('carousel'), new Keyword('slider')],
+    }),
+    new Category({
+        name: 'Cookies',
+        keywords: [new Keyword('Cookie Policy'), new Keyword('cookie')],
     }),
     new Category({
         name: 'Date/Time',
@@ -59,6 +68,7 @@ const categoryList = [
             new Keyword('multi select'),
             new Keyword('drop down'),
             new Keyword('select'),
+            new Keyword('popover'),
         ],
     }),
     new Category({
@@ -103,6 +113,7 @@ const categoryList = [
         parent: 'Form',
         keywords: [new Keyword('search box', 5)],
     }),
+
     new Category({
         name: 'Upload',
         parent: 'Form',
@@ -159,6 +170,10 @@ const categoryList = [
     new Category({ name: 'Pagination' }),
     new Category({ name: 'Progress Bar', keywords: [new Keyword('progress')] }),
     new Category({
+        name: 'Skeleton',
+        keywords: [new Keyword('skeleton')],
+    }),
+    new Category({
         name: 'Sidebar',
         keywords: [
             new Keyword('side panel', 2),
@@ -166,6 +181,7 @@ const categoryList = [
             new Keyword('slide-overs', 2),
             new Keyword('drawer', 2),
             new Keyword('sliding', 2),
+            new Keyword('Sidenav', 2),
         ],
     }),
     new Category({ name: 'Comment', keywords: [new Keyword('comment form', 2)] }),

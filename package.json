@@ -13,16 +13,6 @@
     "program:x": "ts-node src/program.ts --only=xxx",
     "generate": "npm run program && npm run remark:update"
   },
-  "config": {
-    "commitizen": {
-      "path": "node_modules/cz-customizable"
-    }
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "precise-commits"
-    }
-  },
   "devDependencies": {
     "@types/lodash": "^4.14.178",
     "@types/mocha": "^9.0.0",
@@ -37,6 +27,8 @@
     "pluralize": "^8.0.0",
     "prettier": "^2.5.1",
     "puppeteer": "^13.0.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-adblocker": "^2.12.0",
     "remark": "^14.0.2",
     "remark-cli": "^10.0.1",
     "remark-toc": "^8.0.1",

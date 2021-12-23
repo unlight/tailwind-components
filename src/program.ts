@@ -1,10 +1,11 @@
-import puppeteer from 'puppeteer';
+import puppeteer from 'puppeteer-extra';
 import { getScrapers } from './scrapers';
 import { promises as fs } from 'fs';
 import _ from 'lodash';
 import yargs from 'yargs';
 import { generate } from './generate';
 import { CompomentLink } from './types';
+import AdblockerPlugin from 'puppeteer-extra-plugin-adblocker';
 
 /**
  * RESOURCES:
@@ -24,6 +25,7 @@ type ProgramOptions = {
 };
 
 async function program(options?: ProgramOptions) {
+    puppeteer.use(AdblockerPlugin({ blockTrackers: true }));
     const browser = await puppeteer.launch({
         headless: false,
         slowMo: options?.slowmo,
@@ -35,7 +37,7 @@ async function program(options?: ProgramOptions) {
     const items: CompomentLink[] = [];
     for await (const [index, scraper] of scrapers.entries()) {
         let tryCount = 3;
-        while (--tryCount >= 0) {
+        while (tryCount--) {
             process.stdout.write(
                 `\nProgress: ${scraper.name} ${index + 1}/${scrapers.length} ...`,
             );
