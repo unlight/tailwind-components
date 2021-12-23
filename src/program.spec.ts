@@ -1,5 +1,6 @@
-import { Category, createLink, generate, groupItems } from './program';
 import expect from 'expect';
+import { createLink, generate, groupItems } from './generate';
+import { Category } from './category';
 
 const link = 'https://example.com';
 

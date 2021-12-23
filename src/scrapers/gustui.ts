@@ -19,7 +19,7 @@ export default async function gustui({ page }: ScraperArgs): Promise<CompomentLi
                     c.nextElementSibling!.querySelectorAll(
                         'a[href^="/docs/application/"]',
                     ),
-                ).map(element => element.getAttribute('href'));
+                ).map((element: any) => element.getAttribute('href'));
             })
             .then(hrefs => hrefs.jsonValue())) as string[];
         for (const href of hrefs) {
@@ -29,7 +29,7 @@ export default async function gustui({ page }: ScraperArgs): Promise<CompomentLi
             const section = await page
                 .$('h1')
                 .then(x => x!.evaluateHandle(h => h.nextElementSibling));
-            const names = (await section.evaluate(s =>
+            const names = (await section.evaluate((s: any) =>
                 Array.from<Element>(s.querySelectorAll('[id] span.text-lg')).map(
                     x => x.textContent!,
                 ),

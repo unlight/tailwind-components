@@ -9,7 +9,7 @@ export default async function kitwind({ page }: ScraperArgs): Promise<CompomentL
         '.grid a[href^="/products/kometa/components/"]',
         elements => {
             return elements.map(x => {
-                const name = x.querySelector('header')!.textContent;
+                const name = x.querySelector('header')!.textContent!;
                 return {
                     name,
                     link: (x as HTMLAnchorElement).href,
