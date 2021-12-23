@@ -3,15 +3,13 @@ import { CompomentLink, ScraperArgs } from '../types';
 export default async function gustui({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://www.gustui.com/docs', {
-        waitUntil: 'networkidle0',
+        waitUntil: 'load',
     });
     const sectionLinks = await page.$$eval('a[href^="/docs/application/"]', elements =>
         elements.map(a => a.getAttribute('href')),
     );
     for (const sectionLink of sectionLinks) {
-        await page.goto(`https://www.gustui.com${sectionLink}`, {
-            waitUntil: 'networkidle0',
-        });
+        await page.goto(`https://www.gustui.com${sectionLink}`, {});
         const section = await page.$(`a[href="${sectionLink}"]`);
         const hrefs = (await section!
             .evaluateHandle(c => {
@@ -24,7 +22,7 @@ export default async function gustui({ page }: ScraperArgs): Promise<CompomentLi
             .then(hrefs => hrefs.jsonValue())) as string[];
         for (const href of hrefs) {
             const link = `https://www.gustui.com${href}`;
-            await page.goto(link, { waitUntil: 'networkidle0' });
+            await page.goto(link, {});
             const category = await page.$eval('h1', h => h.textContent);
             const section = await page
                 .$('h1')
