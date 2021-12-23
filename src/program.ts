@@ -9,6 +9,7 @@ import AdblockerPlugin from 'puppeteer-extra-plugin-adblocker';
 
 /**
  * RESOURCES:
+ * https://flowbite.com/#components
  * https://tailwindcss-custom-forms.netlify.app/
  * https://kamona-wd.github.io/kwd-dashboard/
  * https://www.creative-tim.com/
