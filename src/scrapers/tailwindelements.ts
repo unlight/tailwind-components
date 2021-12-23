@@ -5,7 +5,7 @@ export default async function tailwindelements({
     page,
 }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
-    await page.goto('https://tailwind-elements.com/mdb-go/quick-start/', {
+    await page.goto('https://tailwind-elements.com/quick-start/', {
         waitUntil: 'networkidle0',
     });
     const links = await page.$$eval(
@@ -19,7 +19,7 @@ export default async function tailwindelements({
     );
     for (const { link, category } of links) {
         await page.goto(link, { waitUntil: 'networkidle0' });
-        let names = await page.$$eval('figcaption h2', elements => {
+        let names = await page.$$eval('main h2', elements => {
             return elements.map(element => element.textContent!.trim());
         });
         names = uniq(names);
