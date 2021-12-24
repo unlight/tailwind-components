@@ -221,14 +221,34 @@ export async function generate({ items }: GenerateArgs) {
 
     for (const category of categoryList) {
         const items = categories[category.name] || [];
-        const section =
-            `##${category.parent ? '#' : ''} ${category.name}\n` +
-            items.map(createLink).join('\n');
+        if (items.length === 0) {
+            continue;
+        }
+
+        const itemsByLink = _(items)
+            .groupBy(x => x.link)
+            .mapValues(items => {
+                return items.map(x => x.name).join(', ');
+            })
+            .entries()
+            .map(([link, name]) => {
+                return { link, name };
+            })
+            .value();
+
+        // console.log('itemsByLink', itemsByLink);
+
+        let section = `##${category.parent ? '#' : ''} ${category.name}\n`;
+        section += itemsByLink.map(createLink).join('\n');
+
         content.push(section);
     }
     return content.join('\n');
 }
 
+/**
+ * Group items to categories.
+ */
 export function groupItems(items: CompomentLink[]) {
     const [defaultCategory] = categoryList.slice(-1);
     const result: { [name: string]: CompomentLink[] } = {};
@@ -258,5 +278,5 @@ export function createLink({ name, link }: CompomentLink) {
     if (description.startsWith('www.')) {
         description = description.slice(4);
     }
-    return `* ${name} - [${description}](${link})`;
+    return `* ${name || '?'}: [${description}](${link})`;
 }

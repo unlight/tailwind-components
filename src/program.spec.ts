@@ -30,14 +30,12 @@ it('get category exact match', async () => {
     const items = [
         {
             name: 'Card',
-            link: 'https://tailwindcomponents.com/component/card-1',
+            link: 'https://example.com',
         },
     ];
     const result = await generate({ items });
     expect(result).toEqual(
-        expect.stringMatching(
-            '\\* Card - https://tailwindcomponents.com/component/card-1',
-        ),
+        expect.stringContaining('* Card: [example.com](https://example.com)'),
     );
 });
 
@@ -50,7 +48,7 @@ it('get category from word', async () => {
     ];
     const result = await generate({ items });
     expect(result).toEqual(
-        expect.stringMatching('\\* curvy card - https://example.com'),
+        expect.stringContaining('curvy card: [example.com](https://example.com)'),
     );
 });
 
@@ -62,8 +60,10 @@ it('get category exact pluralize', async () => {
         },
     ];
     const result = await generate({ items });
+
+    expect(result).toEqual(expect.stringContaining(`## Card`));
     expect(result).toEqual(
-        expect.stringMatching('## Card\n\\* Cards - https://example.com'),
+        expect.stringContaining(`* Cards: [example.com](https://example.com)`),
     );
 });
 
@@ -75,8 +75,10 @@ it('keywords exact', async () => {
         },
     ];
     const result = await generate({ items });
+
+    expect(result).toEqual(expect.stringContaining(`## Alert`));
     expect(result).toEqual(
-        expect.stringMatching(`## Alert\n\\* toast - https://example.com`),
+        expect.stringContaining(`* toast: [example.com](https://example.com)`),
     );
 });
 
@@ -88,18 +90,39 @@ it('keywords plurals', async () => {
         },
     ];
     const result = await generate({ items });
+
+    expect(result).toEqual(expect.stringContaining(`## Navigation/Header`));
     expect(result).toEqual(
-        expect.stringMatching(
-            `## Navigation\n\\* Navbars With Search - https://example.com`,
+        expect.stringContaining(
+            `Navbars With Search: [example.com](https://example.com)`,
         ),
     );
 });
 
 it('createLink', () => {
     expect(createLink({ name: 'wip', link: 'http://example.com/aaa' })).toEqual(
-        '* wip - [example.com/aaa](http://example.com/aaa)',
+        '* wip: [example.com/aaa](http://example.com/aaa)',
     );
     expect(createLink({ name: 'wip', link: 'http://www.example.com/aaa' })).toEqual(
-        '* wip - [example.com/aaa](http://www.example.com/aaa)',
+        '* wip: [example.com/aaa](http://www.example.com/aaa)',
+    );
+});
+
+it('only link for several components', async () => {
+    const items = [
+        {
+            name: 'Other',
+            link: 'https://example.com/1',
+        },
+        {
+            name: 'Dummy',
+            link: 'https://example.com/1',
+        },
+    ];
+    const result = await generate({ items });
+    expect(result).toEqual(
+        expect.stringContaining(
+            '* Other, Dummy: [example.com/1](https://example.com/1)',
+        ),
     );
 });
