@@ -1,11 +1,10 @@
-import puppeteer from 'puppeteer-extra';
+import puppeteer from 'puppeteer';
 import { getScrapers } from './scrapers';
 import { promises as fs } from 'fs';
 import _ from 'lodash';
 import yargs from 'yargs';
 import { generate } from './generate';
 import { CompomentLink } from './types';
-import AdblockerPlugin from 'puppeteer-extra-plugin-adblocker';
 
 /**
  * RESOURCES:
@@ -25,7 +24,6 @@ type ProgramOptions = {
 };
 
 async function program(options?: ProgramOptions) {
-    puppeteer.use(AdblockerPlugin({ blockTrackers: true }));
     const browser = await puppeteer.launch({
         headless: false,
         slowMo: options?.slowmo,
