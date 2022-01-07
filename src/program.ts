@@ -8,8 +8,6 @@ import { CompomentLink } from './types';
 
 /**
  * RESOURCES:
- * https://tailwindcss-custom-forms.netlify.app/
- * https://kamona-wd.github.io/kwd-dashboard/
  * https://www.creative-tim.com/
  * https://www.vechaiui.com/
  */

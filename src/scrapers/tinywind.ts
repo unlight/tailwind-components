@@ -34,7 +34,5 @@ export default async function tinywind({
         });
     }
 
-    console.log('result', result);
-
     return result;
 }
