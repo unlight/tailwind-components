@@ -4,7 +4,7 @@ import { CompomentLink, ScraperArgs } from '../types';
 export default async function daisyui({ page }: ScraperArgs): Promise<CompomentLink[]> {
     const result: CompomentLink[] = [];
     await page.goto('https://daisyui.com/components/button', {
-        waitUntil: 'networkidle0',
+        waitUntil: 'networkidle2',
     });
     const links = await page.$$eval('li > a[href^="/components/"]', elements => {
         return elements.map(a => ({

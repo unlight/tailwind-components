@@ -1,5 +1,5 @@
 import expect from 'expect';
-import { createLink, generate, groupItems } from './generate';
+import { createLink, generateJson, generateMarkdown, groupItems } from './generate';
 import { Category } from './category';
 
 const link = 'https://example.com';
@@ -33,7 +33,7 @@ it('get category exact match', async () => {
             link: 'https://example.com',
         },
     ];
-    const result = await generate({ items });
+    const result = await generateMarkdown({ items });
     expect(result).toEqual(
         expect.stringContaining('* Card: [example.com](https://example.com)'),
     );
@@ -46,7 +46,7 @@ it('get category from word', async () => {
             link: 'https://example.com',
         },
     ];
-    const result = await generate({ items });
+    const result = await generateMarkdown({ items });
     expect(result).toEqual(
         expect.stringContaining('curvy card: [example.com](https://example.com)'),
     );
@@ -59,7 +59,7 @@ it('get category exact pluralize', async () => {
             link: 'https://example.com',
         },
     ];
-    const result = await generate({ items });
+    const result = await generateMarkdown({ items });
 
     expect(result).toEqual(expect.stringContaining(`## Card`));
     expect(result).toEqual(
@@ -74,7 +74,7 @@ it('keywords exact', async () => {
             link: 'https://example.com',
         },
     ];
-    const result = await generate({ items });
+    const result = await generateMarkdown({ items });
 
     expect(result).toEqual(expect.stringContaining(`## Alert`));
     expect(result).toEqual(
@@ -89,7 +89,7 @@ it('keywords plurals', async () => {
             link: 'https://example.com',
         },
     ];
-    const result = await generate({ items });
+    const result = await generateMarkdown({ items });
 
     expect(result).toEqual(expect.stringContaining(`## Navigation/Header`));
     expect(result).toEqual(
@@ -119,10 +119,24 @@ it('only link for several components', async () => {
             link: 'https://example.com/1',
         },
     ];
-    const result = await generate({ items });
+    const result = await generateMarkdown({ items });
     expect(result).toEqual(
         expect.stringContaining(
             '* Other, Dummy: [example.com/1](https://example.com/1)',
         ),
     );
+});
+
+it('generateJson 1', async () => {
+    const items = [
+        {
+            name: 'Dummy',
+            link: 'https://example.com/1',
+        },
+        {
+            name: 'Dummy2',
+            link: 'https://example.com/1',
+        },
+    ];
+    const result = await generateJson({ items });
 });

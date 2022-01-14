@@ -3,7 +3,7 @@ import { getScrapers } from './scrapers';
 import { promises as fs } from 'fs';
 import _ from 'lodash';
 import yargs from 'yargs';
-import { generate } from './generate';
+import { updateComponenentsJson, generateMarkdown } from './generate';
 import { CompomentLink } from './types';
 
 /**
@@ -19,6 +19,7 @@ if (require.main?.filename === __filename) {
 type ProgramOptions = {
     only?: string;
     slowmo?: number;
+    format?: string;
 };
 
 async function program(options?: ProgramOptions) {
@@ -50,6 +51,18 @@ async function program(options?: ProgramOptions) {
         process.stdout.write(` Total: ${items.length}`);
     }
     await browser.close();
-    const content = await generate({ items });
-    await fs.writeFile('README.md', content);
+    switch (options?.format) {
+        case 'markdown':
+            {
+                await generateMarkdown({ items });
+                const content = await generateMarkdown({ items });
+                await fs.writeFile('README.md', content);
+            }
+            break;
+        default:
+            await updateComponenentsJson({
+                items,
+                componentsJsonPath: require.resolve(process.cwd() + '/components.json'),
+            });
+    }
 }

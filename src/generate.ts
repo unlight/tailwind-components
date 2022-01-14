@@ -2,6 +2,7 @@ import { CompomentLink } from './types';
 import { Category } from './category';
 import { Keyword } from './keyword';
 import _ from 'lodash';
+import fs from 'fs/promises';
 
 type GenerateArgs = {
     items: CompomentLink[];
@@ -215,7 +216,67 @@ const categoryList = [
     new Category({ name: 'Other' }),
 ];
 
-export async function generate({ items }: GenerateArgs) {
+type ComponentItem = {
+    name: string;
+    link: string;
+    category?: string;
+    parent?: string;
+};
+
+export async function updateComponenentsJson({
+    items,
+    componentsJsonPath,
+}: GenerateArgs & { componentsJsonPath: string }) {
+    const generated = await generateJson({ items });
+    const components = require(componentsJsonPath) as ComponentItem[];
+    for (const item of generated) {
+        const component = components.find(c => c.link === item.link);
+        if (!component) {
+            components.push(item);
+        } else {
+            component.name = item.name;
+            component.category = item.category;
+            component.parent = item.parent;
+        }
+    }
+
+    await fs.writeFile(componentsJsonPath, JSON.stringify(components, null, 2));
+}
+
+async function generateJson({ items }: GenerateArgs) {
+    const categories = groupItems(items);
+    const result: ComponentItem[] = [];
+
+    for (const category of categoryList) {
+        const items = categories[category.name] || [];
+        if (items.length === 0) {
+            continue;
+        }
+
+        const itemsByLink = _(items)
+            .groupBy(x => x.link)
+            .mapValues(items => {
+                return items.map(x => x.name).join(', ');
+            })
+            .entries()
+            .map(([link, name]) => {
+                return { link, name };
+            })
+            .value();
+
+        for (const item of itemsByLink) {
+            result.push({
+                name: item.name,
+                link: item.link,
+                category: category.name,
+                parent: category.parent,
+            });
+        }
+    }
+    return result;
+}
+
+export async function generateMarkdown({ items }: GenerateArgs) {
     let content: string[] = ['# Tailwind Components', '## Table of Contents'];
     const categories = groupItems(items);
 
@@ -235,8 +296,6 @@ export async function generate({ items }: GenerateArgs) {
                 return { link, name };
             })
             .value();
-
-        // console.log('itemsByLink', itemsByLink);
 
         let section = `##${category.parent ? '#' : ''} ${category.name}\n`;
         section += itemsByLink.map(createLink).join('\n');
