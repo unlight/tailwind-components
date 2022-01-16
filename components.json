@@ -110,9 +110,9 @@
     "category": "Alert/Notification"
   },
   {
-    "name": "Components Default alerts, Components Alerts with icon, Components Dismissable alerts, Alerts Default alerts, Alerts Alerts with icon, Alerts Dismissable alerts, Alerts Border accent, Alerts Additional content",
+    "name": "Components Border accent, Components Additional content",
     "link": "https://flowbite.com/docs/components/alerts/",
-    "category": "Alert/Notification"
+    "category": "Other"
   },
   {
     "name": "Alerts",
@@ -130,19 +130,19 @@
     "category": "Alert/Notification"
   },
   {
-    "name": "Alerts Success Pop , Alerts Info Pop , Alerts Warning Pop , Alerts Error Pop , Alerts Notification Pop , Alerts Success Full Width , Alerts Info Full Width , Alerts Warning Full Width , Alerts Error Full Width , Dropdowns Notification ",
+    "name": "Features Simple , Features Centered , Features Media , Features Trusted By , Sections About Me , Sections Products With Side Links , Sections Paragraph With Image , Teams Simple , Teams Side By Side , Teams With Filter , Teams Background ",
     "link": "https://merakiui.com/",
-    "category": "Alert/Notification"
+    "category": "Other"
   },
   {
-    "name": "Alerts",
+    "name": "Typography, Links",
     "link": "https://sailui.github.io/",
-    "category": "Alert/Notification"
+    "category": "Other"
   },
   {
-    "name": "Ui components Traditional Alerts, Ui components Misc Alerts",
+    "name": "Ui components Cards",
     "link": "https://tailwindadmin.netlify.app/ui.html",
-    "category": "Alert/Notification"
+    "category": "Card"
   },
   {
     "name": "Notification",
@@ -440,9 +440,9 @@
     "category": "Avatar"
   },
   {
-    "name": "indicator\n                new a badge as indicator for avatar",
+    "name": "indicator\n                new indicator indicator-start, indicator\n                new indicator indicator-center, indicator\n                new indicator [indicator-end is default], indicator\n                new indicator indicator-middle indicator-start, indicator\n                new indicator indicator-middle indicator-center, indicator\n                new indicator indicator-middle [indicator-end is default], indicator\n                new indicator indicator-bottom indicator-start, indicator\n                new indicator indicator-bottom indicator-center, indicator\n                new indicator indicator-bottom [indicator-end is default], indicator\n                new multiple indicators",
     "link": "https://daisyui.com/components/indicator",
-    "category": "Avatar"
+    "category": "Other"
   },
   {
     "name": "Avatar",
@@ -555,9 +555,9 @@
     "category": "Avatar"
   },
   {
-    "name": "Tables Table with avatars",
+    "name": "Tables Table with actions",
     "link": "https://windmill-dashboard.vercel.app/tables.html",
-    "category": "Avatar"
+    "category": "Table"
   },
   {
     "name": "Badge",
@@ -575,7 +575,7 @@
     "category": "Badge"
   },
   {
-    "name": "Badge Default example, Badge Larger badges, Badge Badges as links, Badge Badges with icon, Badge Badge with icon only, Badges→ Default example, Badges→ Larger badges, Badges→ Badges as links, Badges→ Badges with icon, Badges→ Badge with icon only",
+    "name": "Badge Default badge, Badge Larger badges, Badge Badges as links, Badge Badges with icon, Badge Badge with icon only, Badges→ Default badge, Badges→ Larger badges, Badges→ Badges as links, Badges→ Badges with icon, Badges→ Badge with icon only",
     "link": "https://flowbite.com/docs/components/badge/",
     "category": "Badge"
   },
@@ -630,9 +630,9 @@
     "category": "Badge"
   },
   {
-    "name": "Dividers With badge",
+    "name": "Dividers With heading",
     "link": "https://tinywind.dev/components/dividers",
-    "category": "Badge"
+    "category": "Other"
   },
   {
     "name": "breadcrumbs, breadcrumbs with icon, breadcrumbs overflow scroll",
@@ -640,7 +640,7 @@
     "category": "Breadcrumb"
   },
   {
-    "name": "Breadcrumb Default example, Breadcrumb With background",
+    "name": "Breadcrumb Default breadcrumb, Breadcrumb With background",
     "link": "https://flowbite.com/docs/components/breadcrumb/",
     "category": "Breadcrumb"
   },
@@ -715,9 +715,9 @@
     "category": "Button"
   },
   {
-    "name": "stat with buttons, colors and more",
+    "name": "stat single stat, stat with figure, stats row, stats row items-center, stats grid-flow-row",
     "link": "https://daisyui.com/components/stat",
-    "category": "Button"
+    "category": "Other"
   },
   {
     "name": "Button Github",
@@ -735,14 +735,14 @@
     "category": "Button"
   },
   {
-    "name": "Card Card with action button",
+    "name": "Card Card with form inputs",
     "link": "https://flowbite.com/docs/components/card/",
-    "category": "Button"
+    "category": "Form"
   },
   {
-    "name": "List Group List group with buttons",
+    "name": "List Group Default example, List Group List group with links, List Group List group with icons",
     "link": "https://flowbite.com/docs/components/list-group/",
-    "category": "Button"
+    "category": "List"
   },
   {
     "name": "Buttons",
@@ -1240,24 +1240,24 @@
     "category": "Button"
   },
   {
-    "name": "Dropdown Link button",
+    "name": "Dropdown Basic example, Dropdown Colors, Dropdown Sizing, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Menu item disabled, Dropdown Menu item header, Dropdown Menu items divider, Dropdown Menu item text, Dropdown Dark dropdowns",
     "link": "https://tailwind-elements.com/docs/standard/components/dropdown/",
-    "category": "Button"
+    "category": "Dropdown"
   },
   {
-    "name": "Link Button link",
+    "name": "Link Basic example, Link Classic blue link, Link Within the sentence, Link primary, Link secondary, Link success, Link danger, Link warning, Link info, Link light, Link dark, Link white, Link Underline on hover",
     "link": "https://tailwind-elements.com/docs/standard/components/link/",
-    "category": "Button"
+    "category": "Other"
   },
   {
-    "name": "List group Buttons",
+    "name": "List group Basic example, List group Active items, List group Disabled items, List group Links, List group Flush",
     "link": "https://tailwind-elements.com/docs/standard/components/listgroup/",
-    "category": "Button"
+    "category": "List"
   },
   {
-    "name": "Pills with buttons",
+    "name": "Pills Basic example, Pills Fill, Pills Justify, Pills Vertical",
     "link": "https://tailwind-elements.com/docs/standard/components/pills/",
-    "category": "Button"
+    "category": "Tags"
   },
   {
     "name": "button",
@@ -1290,9 +1290,9 @@
     "category": "Button"
   },
   {
-    "name": "Forms Buttons",
+    "name": "Forms Elements, Forms Validation, Forms Icons",
     "link": "https://windmill-dashboard.vercel.app/forms.html",
-    "category": "Button"
+    "category": "Form"
   },
   {
     "name": "Buttons Sizes, Buttons Icons",
@@ -1315,9 +1315,9 @@
     "category": "Card"
   },
   {
-    "name": "stack\n                new stacked cards with border, stack\n                new stacked cards with shadow",
+    "name": "stack\n                new 3 divs without stack, stack\n                new 3 divs with stack, stack\n                new stacked images",
     "link": "https://daisyui.com/components/stack",
-    "category": "Card"
+    "category": "Other"
   },
   {
     "name": "Card Blog Posts",
@@ -2715,9 +2715,9 @@
     "category": "Card"
   },
   {
-    "name": "Cards Simple card, Cards Card with image, Cards With ripple effect, Cards Horizontal",
+    "name": "Cards Card with header and footer",
     "link": "https://tailwind-elements.com/docs/standard/components/cards/",
-    "category": "Card"
+    "category": "Footer"
   },
   {
     "name": "card",
@@ -2765,9 +2765,10 @@
     "category": "Dashboard Widgets"
   },
   {
-    "name": "Page Statistic",
+    "name": "Page Testimonial",
     "link": "https://mertjf.github.io/tailblocks",
-    "category": "Dashboard Widgets"
+    "category": "Testimonial",
+    "parent": "Page"
   },
   {
     "name": "Statistic",
@@ -2980,9 +2981,9 @@
     "category": "Dropdown"
   },
   {
-    "name": "dropdown, dropdown dropdown-end, dropdown dropdown-top, dropdown dropdown-top dropdown-end, dropdown dropdown-left, dropdown dropdown-left dropdown-end, dropdown dropdown-right, dropdown dropdown-right dropdown-end, dropdown dropdown-hover, dropdown dropdown-open, dropdown helper dropdown",
+    "name": "dropdown dorpdown in navbar",
     "link": "https://daisyui.com/components/dropdown",
-    "category": "Dropdown"
+    "category": "Navigation/Header"
   },
   {
     "name": "form-select select, form-select select primary, form-select select secondary, form-select select accent, form-select select info, form-select select success, form-select select warning, form-select select error, form-select select with labels, form-select select sizes, form-select select disabled",
@@ -3000,9 +3001,9 @@
     "category": "Dropdown"
   },
   {
-    "name": "Dropdowns Dropdown example, Dropdowns Dropdown divider, Dropdowns Dropdown header, Dropdowns Sizing, Dropdowns Placement",
+    "name": "Dropdowns Dropdown navbar",
     "link": "https://flowbite.com/docs/components/dropdowns/",
-    "category": "Dropdown"
+    "category": "Navigation/Header"
   },
   {
     "name": "Menu (Dropdown)",
@@ -3230,9 +3231,9 @@
     "category": "Dropdown"
   },
   {
-    "name": "hero with form",
+    "name": "hero, hero with figure",
     "link": "https://daisyui.com/components/hero",
-    "category": "Form"
+    "category": "Hero"
   },
   {
     "name": "form-checkbox checkbox, form-checkbox checkbox with label and container, form-checkbox checkbox primary, form-checkbox checkbox secondary, form-checkbox checkbox accent, form-checkbox checkbox sizes, form-checkbox checkbox disabled",
@@ -3290,14 +3291,14 @@
     "category": "Form"
   },
   {
-    "name": "Forms Form example, Forms Input Sizing, Forms Disabled inputs, Forms Shadow inputs, Forms Helper text, Forms Input element with icon, Forms Input element with addon, Forms Success and error validation, Forms Textarea, Forms Select input, Forms Checkbox, Forms Radio",
+    "name": "Forms Toggle Switch",
     "link": "https://flowbite.com/docs/components/forms/",
-    "category": "Form"
+    "category": "Switch"
   },
   {
-    "name": "Modal Modal with form inputs",
+    "name": "Modal Default modal, Modal Pop-up modal, Modal Sizing, Modal Javascript",
     "link": "https://flowbite.com/docs/components/modal/",
-    "category": "Form"
+    "category": "Modal"
   },
   {
     "name": "Forms",
@@ -5390,9 +5391,9 @@
     "category": "Navigation/Header"
   },
   {
-    "name": "drawer navbar menu for desktop + drawer for mobile",
+    "name": "drawer sliding drawer menu, drawer sliding drawer for mobile only, drawer-end",
     "link": "https://daisyui.com/components/drawer",
-    "category": "Navigation/Header"
+    "category": "Sidebar"
   },
   {
     "name": "dropdown dorpdown in navbar",
@@ -7306,9 +7307,9 @@
     "category": "Tags"
   },
   {
-    "name": "Tabs Tabs in pills",
+    "name": "Tabs Default tabs, Tabs Tabs with underline, Tabs Tabs with icons, Tabs Full width tabs, Tabs Interactive tabs",
     "link": "https://flowbite.com/docs/components/tabs/",
-    "category": "Tags"
+    "category": "Tab"
   },
   {
     "name": "Tags",
@@ -7316,9 +7317,9 @@
     "category": "Tags"
   },
   {
-    "name": "Tab as Pill",
+    "name": "Tab Variant 1, Tab Variant 2",
     "link": "https://kimia-ui.vercel.app/components/tab",
-    "category": "Tags"
+    "category": "Tab"
   },
   {
     "name": "Mentions & Hashtags",
@@ -7651,9 +7652,9 @@
     "category": "List"
   },
   {
-    "name": "Typography Lists, Typography List position",
+    "name": "Typography Font Size, Typography Font Weight, Typography Line Height, Typography Text Decoration",
     "link": "https://flowbite.com/docs/components/typography/",
-    "category": "List"
+    "category": "Other"
   },
   {
     "name": "List Group Simple List Group, List Group Colored List Group, List Group as Link",
@@ -7776,9 +7777,9 @@
     "category": "List"
   },
   {
-    "name": "Typography Lists, Typography List Position",
+    "name": "Typography Font Size, Typography Font Weight, Typography Line Height, Typography Text Decoration",
     "link": "https://tailwind-elements.com/docs/standard/components/typography/",
-    "category": "List"
+    "category": "Other"
   },
   {
     "name": "Minimalist Blog",
@@ -7796,9 +7797,9 @@
     "category": "List"
   },
   {
-    "name": "Empty states List",
+    "name": "Empty states Basic, Empty states Minimal",
     "link": "https://tinywind.dev/components/empty-states",
-    "category": "List"
+    "category": "Other"
   },
   {
     "name": "List groups Basic",
@@ -11173,6 +11174,370 @@
   {
     "name": "Charts Doughnut/Pie, Charts Lines, Charts Bars",
     "link": "https://windmill-dashboard.vercel.app/charts.html",
+    "category": "Other"
+  },
+  {
+    "name": "Toast NEW Default toast, Toast NEW Colors, Toast NEW Simple toast, Toast NEW Undo button, Toast NEW Toast message, Toast NEW Push notification, Toast NEW Interactive toast, Toast NEW Position",
+    "link": "https://flowbite.com/docs/components/toast/",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Alerts Assorted Alerts",
+    "link": "https://www.gustui.com/docs/application/components/alerts",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Toasts Simple Toast, Toasts Toast With Icon",
+    "link": "https://www.gustui.com/docs/application/components/toasts",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Badges - Badge, Badges - Badge with remove button, Badges - Badge with remove button and icon, Badges - Badge stroke with border, Badges - Badge line, Badges - Stroke with icon, Badges - Publicity, Badges - Line with icon, Badges - Line with button, Badges - Full button, Badges - List of badges, Badges - Pink badge, Badges - Black badge, Badges - Publicity, Badges - Light rounded badge",
+    "link": "https://www.tailwind-kit.com/components/badges",
+    "category": "Badge"
+  },
+  {
+    "name": "Alert - Modale, Alert - Modale with close btn",
+    "link": "https://www.tailwind-kit.com/components/alert",
+    "category": "Modal"
+  },
+  {
+    "name": "Sidebar - Light, Sidebar - With icons, Sidebar - Publicity, Sidebar - With border, Sidebar - With Divider, Sidebar - With gradient, Sidebar - Just icon",
+    "link": "https://www.tailwind-kit.com/components/sidebar",
+    "category": "Sidebar"
+  },
+  {
+    "name": "Lexicon Alert with button, Lexicon Alert Stripe, Lexicon Alert, Argon alerts, Orbit Alert, Biings alert, Alert 2, Alert accent 1, Alert rounded",
+    "link": "https://tailwindtemplates.io/templates?category=alert",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Avatars Standard Avatars, Avatars Avatars with Status, Avatars Avatars with Bottom Status",
+    "link": "https://www.gustui.com/docs/application/components/avatars",
+    "category": "Avatar"
+  },
+  {
+    "name": "Avatar - Simple full rounded avatar, Avatar - small full rounded avatar, Avatar - Big full rounded avatar, Avatar - Round avatar, Avatar - Publicity, Avatar - Square avatar, Avatar - Avatar with badge, Avatar - Multiple avatar, Avatar - Multiple small avatar, Avatar - Publicity, Avatar - Multiple big avatar, Avatar - With hover effect",
+    "link": "https://www.tailwind-kit.com/components/avatar",
+    "category": "Avatar"
+  },
+  {
+    "name": "Badges Standard Badges, Badges Closeable Badges",
+    "link": "https://www.gustui.com/docs/application/components/badges",
+    "category": "Badge"
+  },
+  {
+    "name": "Lexicon Badges, Argon Badges, Orbit Badges: Success, Orbit Badges: Critical, Orbit Badges: Warning, Orbit Badges: information, Orbit Badges: neutral",
+    "link": "https://tailwindtemplates.io/templates?category=badge",
+    "category": "Badge"
+  },
+  {
+    "name": "Buttons Primary Buttons, Buttons Secondary Buttons, Buttons Buttons with Icons, Buttons Assorted Buttons",
+    "link": "https://www.gustui.com/docs/application/components/buttons",
+    "category": "Button"
+  },
+  {
+    "name": "Buttons - Button, Buttons - Button with icon, Buttons - Icon button, Buttons - Publicity, Buttons - Animated button, Buttons - Disabled button, Buttons - Rounded Button, Buttons - Rounded Button and icon, Buttons - Rounded fat Button, Buttons - Button with information, Buttons - Multiple buttons, Buttons - Pager button, Buttons - Facebook button, Buttons - Google button, Buttons - GitHub button, Buttons - Publicity, Buttons - Store button, Buttons - Rounded button with effect, Buttons - Rounded button with icon, Buttons - Rounded icon, Buttons - Square button, Buttons - Square fat button, Buttons - Square with icon, Buttons - With variant background, Buttons - Publicity",
+    "link": "https://www.tailwind-kit.com/components/buttons",
+    "category": "Button"
+  },
+  {
+    "name": "Buttons - Light, Buttons - with 2 actions, Buttons - Vertical, Buttons - With description, Buttons - On left, Buttons - With image, Buttons - Publicity, Buttons - with image and desc, Buttons - with sub and image, Buttons - Notify cta, Buttons - Multiple images cta, Buttons - Publicity, Buttons - Watch cta, Buttons - Next Cta, Buttons - Timer event, Buttons - Bandeau number, Buttons - Bandeau Info",
+    "link": "https://www.tailwind-kit.com/components/cta",
+    "category": "Button"
+  },
+  {
+    "name": "Orbit Button Rounded, Orbit Subtle Button, Orbit Button Icon, Orbit Default Button, Lexicon Button group, Lexicon Split Button, Lexicon Dropdown Button, Lexicon Icon Text Button, Lexicon Icon Buttons, Lexicon Buttons",
+    "link": "https://tailwindtemplates.io/templates?category=button",
+    "category": "Button"
+  },
+  {
+    "name": "Argon Rounded Icon Button, Argon Icon button, Argon Link Buttons, Argon Outline Buttons, Argon Default Buttons, Biings buttons",
+    "link": "https://tailwindtemplates.io/templates?category=button&page=2",
+    "category": "Button"
+  },
+  {
+    "name": "Lexicon Text Area With message",
+    "link": "https://tailwindtemplates.io/templates?category=input",
+    "category": "Other"
+  },
+  {
+    "name": "Cards Simple Card, Cards Card With Image, Cards Stat Card",
+    "link": "https://www.gustui.com/docs/application/components/cards",
+    "category": "Card"
+  },
+  {
+    "name": "Data display - Publicity, Data display - Publicity, Data display - Publicity, Data display - Publicity, Data display - Covid data",
+    "link": "https://www.tailwind-kit.com/components/data",
+    "category": "Other"
+  },
+  {
+    "name": "Features - With images, Features - With Desc, Features - With border, Features - Publicity, Features - With 4 images",
+    "link": "https://www.tailwind-kit.com/components/feature",
+    "category": "Other"
+  },
+  {
+    "name": "Blog - With categ, Blog - With author, Blog - Publicity",
+    "link": "https://www.tailwind-kit.com/components/blog",
+    "category": "Other"
+  },
+  {
+    "name": "Lexicon Small Navigation Card, Lexicon Large Navigation Card, Lexicon Product Card with compare, Lexicon Product Card, Lexicon Folder Card, Lexicon User Card, Lexicon Empty User Card, Lexicon Empty Image Card, Lexicon Image card, Biings Cards",
+    "link": "https://tailwindtemplates.io/templates?category=card",
+    "category": "Card"
+  },
+  {
+    "name": "Profile card 3, Profile card 2, Profile card 1",
+    "link": "https://tailwindtemplates.io/templates?category=card&page=2",
+    "category": "Card"
+  },
+  {
+    "name": "Input - Simple, Input - Rounded, Input - with label, Input - required, Input - on error, Input - With indications, Input - Publicity, Input - Disabled, Input - with icon, Input - with helper, Input - Group, Input - textarea",
+    "link": "https://www.tailwind-kit.com/components/inputtext",
+    "category": "Form"
+  },
+  {
+    "name": "Dropdowns Standard Dropdown, Dropdowns Dropdown With Header/Icons, Dropdowns Dropdown With Sections",
+    "link": "https://www.gustui.com/docs/application/components/dropdowns",
+    "category": "Dropdown"
+  },
+  {
+    "name": "Forms Standard Form Group, Forms Horizontal Form Group, Forms Input With Label, Forms Horizontal Input With Label, Forms Input With Placeholder, Forms Input With Description, Forms Input With Error, Forms Textarea, Forms Checkbox Group, Forms Standard Radio Group, Forms Horizontal Radio Group",
+    "link": "https://www.gustui.com/docs/application/components/forms",
+    "category": "Form"
+  },
+  {
+    "name": "Drop Down - Simple ddm, Drop Down - With icon, Drop Down - With icon on items, Drop Down - Publicity, Drop Down - With icon on items with divider, Drop Down - With icon on items with desc, Drop Down - Large ddm, Drop Down - Ddm with form",
+    "link": "https://www.tailwind-kit.com/components/ddm",
+    "category": "Dropdown"
+  },
+  {
+    "name": "Select - simple, Select - with label, Select - custom, Select - custom with image",
+    "link": "https://www.tailwind-kit.com/components/inputselect",
+    "category": "Dropdown"
+  },
+  {
+    "name": "Form layout - Login with background",
+    "link": "https://www.tailwind-kit.com/components/form",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Argon Regular Input with icon, Argon Regular input with icon - Alternative, Argon Error Input - Alternative, Argon Success Input - Alternative, Argon Error Input, Argon Success Input, Argon Input (alternative), Argon Regular input, Biings input field: Required, Biings input field: Error",
+    "link": "https://tailwindtemplates.io/templates?category=input&page=2",
+    "category": "Form"
+  },
+  {
+    "name": "Biings Input Field, Biings Input with 1 icon, Biings Input with 2 icons, Biings succes input, Biings error input, Biings default & loading input, Biings default input",
+    "link": "https://tailwindtemplates.io/templates?category=input&page=3",
+    "category": "Form"
+  },
+  {
+    "name": "Lexicon Two Column Form, Lexicon Single Column Form",
+    "link": "https://tailwindtemplates.io/templates?category=form",
+    "category": "Form"
+  },
+  {
+    "name": "Accounts Simple Login, Accounts Side Login",
+    "link": "https://www.gustui.com/docs/application/pages/accounts",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Argon Login",
+    "link": "https://tailwindtemplates.io/templates?category=login",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Argon Sign Up",
+    "link": "https://tailwindtemplates.io/templates?category=sign-up",
+    "category": "Register",
+    "parent": "Form"
+  },
+  {
+    "name": "Other Restaurant Search",
+    "link": "https://www.gustui.com/docs/application/pages/other",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Header - Light, Header - Light with shadow, Header - Align right, Header - With profile ddm, Header - Publicity, Header - With icon on right, Header - Fat, Header - With center title",
+    "link": "https://www.tailwind-kit.com/components/header",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Footer - Simple, Footer - With socials, Footer - With socials and credits, Footer - full, Footer - Multiple, Footer - With socials, Footer - With socials and credits, Footer - Publicity, Footer - Multiple full, Footer - Light",
+    "link": "https://www.tailwind-kit.com/components/footer",
+    "category": "Footer"
+  },
+  {
+    "name": "Modals Standard Modal, Modals Modal With Icon, Modals Modal With Two Buttons",
+    "link": "https://www.gustui.com/docs/application/components/modals",
+    "category": "Modal"
+  },
+  {
+    "name": "Lexicon Confirmation Message",
+    "link": "https://tailwindtemplates.io/templates?category=modal",
+    "category": "Other"
+  },
+  {
+    "name": "Navs Standard Nav Menu, Navs Nav Menu With Search, Navs Nav With Middle Links",
+    "link": "https://www.gustui.com/docs/application/elements/navs",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Table - Simple Table, Table - With border, Table - Stylised, Table - With action, Table - Publicity",
+    "link": "https://www.tailwind-kit.com/components/table",
+    "category": "Table"
+  },
+  {
+    "name": "List - Simple list, List - With action, List - Bloc list, List - With desc, List - With desc and action, List - Publicity, List - With hover effect, List - Todo list, List - Desc bloc list",
+    "link": "https://www.tailwind-kit.com/components/list",
+    "category": "List"
+  },
+  {
+    "name": "Tailwind CSS 404 Error Page",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-404-error-page",
+    "category": "404",
+    "parent": "Page"
+  },
+  {
+    "name": "Tailwind Pricing Tables",
+    "link": "https://tailwindcomponents.com/component/tailwind-pricing-tables",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Pricing - Pricing card 1, Pricing - Pricing card 2, Pricing - Pricing card 3, Pricing - Publicity, Pricing - Pricing card 4, Pricing - Pricing card 5, Pricing - Pricing card 6, Pricing - Pricing card 7, Pricing - Pricing card 8, Pricing - Pricing card 9, Pricing - Publicity",
+    "link": "https://www.tailwind-kit.com/components/pricing",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Testimonials - Small, Testimonials - Head, Testimonials - Big, Testimonials - Publicity, Testimonials - Big with image on left, Testimonials - Multiple, Testimonials - Review, Testimonials - Review with rate",
+    "link": "https://www.tailwind-kit.com/components/testimonial",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Pagination Pagination Boxes",
+    "link": "https://www.gustui.com/docs/application/elements/pagination",
+    "category": "Pagination"
+  },
+  {
+    "name": "Lexicon Pagination bar, Lexicon Simple Pagination, Argon Pagination",
+    "link": "https://tailwindtemplates.io/templates?category=pagination",
+    "category": "Pagination"
+  },
+  {
+    "name": "Progress bar - Simple progress bar, Progress bar - Fat progress bar, Progress bar - With label, Progress bar - Colored, Progress bar - With badge, Progress bar - Publicity",
+    "link": "https://www.tailwind-kit.com/components/progress",
+    "category": "Progress Bar"
+  },
+  {
+    "name": "Skeletons - Simple, Skeletons - Card skeleton, Skeletons - Horizontal Card skeleton",
+    "link": "https://www.tailwind-kit.com/components/skeleton",
+    "category": "Skeleton"
+  },
+  {
+    "name": "Tabs Sliding Tabs, Tabs Sliding Tabs With Icons",
+    "link": "https://www.gustui.com/docs/application/components/tabs",
+    "category": "Sidebar"
+  },
+  {
+    "name": "Side Navs Simple Side Nav, Side Navs Side Filters",
+    "link": "https://www.gustui.com/docs/application/elements/side-navs",
+    "category": "Sidebar"
+  },
+  {
+    "name": "Dashboards Dashboard With Side Nav",
+    "link": "https://www.gustui.com/docs/application/pages/dashboards",
+    "category": "Sidebar"
+  },
+  {
+    "name": "Steps Chevron Dots",
+    "link": "https://www.gustui.com/docs/application/components/steps",
+    "category": "Step"
+  },
+  {
+    "name": "Toggles Standard Toggle, Toggles Toggle With Icon",
+    "link": "https://www.gustui.com/docs/application/components/toggles",
+    "category": "Switch"
+  },
+  {
+    "name": "Toggle - simple, Toggle - toggle, Toggle - radio",
+    "link": "https://www.tailwind-kit.com/components/toggle",
+    "category": "Switch"
+  },
+  {
+    "name": "Tables Standard Table, Tables Striped Table",
+    "link": "https://www.gustui.com/docs/application/elements/tables",
+    "category": "Table"
+  },
+  {
+    "name": "Lists Simple List, Lists List With Images, Lists Review List",
+    "link": "https://www.gustui.com/docs/application/elements/lists",
+    "category": "List"
+  },
+  {
+    "name": "Argon Tabs with Icons, Argon Tabs, Biings Boxed Tabs, Biings Tabs Rounded full, Biings Tabs Rounded, Biings Hanging Tabs, Biings Tabs",
+    "link": "https://tailwindtemplates.io/templates?category=tab",
+    "category": "Tab"
+  },
+  {
+    "name": "Timeline NEW Default timeline, Timeline NEW Vertical timeline, Timeline NEW Horizontal timeline, Timeline NEW Activity log, Timeline NEW Grouped timeline",
+    "link": "https://flowbite.com/docs/components/timeline/",
+    "category": "Timeline"
+  },
+  {
+    "name": "Slide Panels Slide Panel",
+    "link": "https://www.gustui.com/docs/application/elements/slide-panels",
+    "category": "Other"
+  },
+  {
+    "name": "Onboarding Simple Onboarding",
+    "link": "https://www.gustui.com/docs/application/pages/onboarding",
+    "category": "Other"
+  },
+  {
+    "name": "Tailwind CTA component",
+    "link": "https://tailwindcomponents.com/component/tailwind-cta-component",
+    "category": "Other"
+  },
+  {
+    "name": "Shopping - Simple, Shopping - Colorful, Shopping - 65 $, Shopping - Multiple, Shopping - With eval, Shopping - Classic, Shopping - Publicity, Shopping - Shopping, Shopping - Shipped",
+    "link": "https://www.tailwind-kit.com/components/shopping",
+    "category": "Other"
+  },
+  {
+    "name": "Profile / Team - Simple horizontal, Profile / Team - Simple vertical, Profile / Team - With action, Profile / Team - With cover, Profile / Team - Publicity, Profile / Team - Head, Profile / Team - Add, Profile / Team - With cover and info, Profile / Team - Publicity, Profile / Team - Photo Full",
+    "link": "https://www.tailwind-kit.com/components/profile",
+    "category": "Other"
+  },
+  {
+    "name": "Team - Simple, Team - Composition, Team - With background, Team - Publicity, Team - Multiple, Team - Big team, Team - Double team",
+    "link": "https://www.tailwind-kit.com/components/team",
+    "category": "Other"
+  },
+  {
+    "name": "FAQ - Simple FAQ, FAQ - Horizontal FAQ",
+    "link": "https://www.tailwind-kit.com/components/faq",
+    "category": "Other"
+  },
+  {
+    "name": "Biings Menu",
+    "link": "https://tailwindtemplates.io/templates?category=menu",
+    "category": "Other"
+  },
+  {
+    "name": "Argon Feature",
+    "link": "https://tailwindtemplates.io/templates?category=feature",
+    "category": "Other"
+  },
+  {
+    "name": "Argon Profile",
+    "link": "https://tailwindtemplates.io/templates?category=profile",
     "category": "Other"
   }
 ]
