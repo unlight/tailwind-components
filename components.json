@@ -8247,7 +8247,7 @@
     "category": "Other"
   },
   {
-    "name": "menu veritcal with icons, menu veritcal with icons and padding, menu bordered, hover-bordered, disabled, menu horizontal, menu veritcal with icon, menu horizontal with icon, menu veritcal with submenu",
+    "name": "menu with menu-title and padding, menu bordered, hover-bordered, disabled, menu-horizontal, menu responsive (menu-vertical lg:menu-horizontal), menu responsive (menu-compact lg:menu-normal), menu veritcal with icon, menu-horizontal with icon, menu veritcal with submenu",
     "link": "https://daisyui.com/components/menu",
     "category": "Other"
   },
@@ -11538,6 +11538,361 @@
   {
     "name": "Argon Profile",
     "link": "https://tailwindtemplates.io/templates?category=profile",
+    "category": "Other"
+  },
+  {
+    "name": "Accordions Style 1",
+    "link": "https://tailgrids.com/components/accordions",
+    "category": "Accordion"
+  },
+  {
+    "name": "Attention Alert Style 1, Attention Alert Style 2, Success Alert Style 1, Success Alert Style 2, Warning Alert Style 1, Warning Alert Style 2",
+    "link": "https://tailgrids.com/components/alerts",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Primary Badge, Secondary Badge, Dark Badge, Gray Badge, Light Badge, Warning Badge, Danger Badge, Success Badge, Info Badge",
+    "link": "https://tailgrids.com/components/badges",
+    "category": "Badge"
+  },
+  {
+    "name": "Breadcrumb Style 1, Breadcrumb Style 2, Breadcrumb Style 3, Breadcrumb Style 4, Breadcrumb Style 5, Breadcrumb Style 6, Breadcrumb Style 7, Breadcrumb Style 8, Breadcrumb Style 9",
+    "link": "https://tailgrids.com/components/breadcrumbs",
+    "category": "Breadcrumb"
+  },
+  {
+    "name": "Square Button Style 1, Square Button Style 2, Square Button Style 3, Semi Rounded Button Style 1, Semi Rounded Button Style 2, Semi Rounded Button Style 3, Full Rounded Button Style 1, Full Rounded Button Style 2, Full Rounded Button Style 3, Outline Button Style 1, Outline Button Style 2, Outline Button Style 3",
+    "link": "https://tailgrids.com/components/buttons",
+    "category": "Button"
+  },
+  {
+    "name": "Button Group Style 1, Button Group Style 2, Button Group Style 3, Button Group Style 4, Button Group Style 5, Button Group Style 6",
+    "link": "https://tailgrids.com/components/button-group",
+    "category": "Button"
+  },
+  {
+    "name": "Dropdown Button Style 1, Dropdown Button Style 2, Dropdown Button Style 3, Dropdown Button Style 4",
+    "link": "https://tailgrids.com/components/dropdown-buttons",
+    "category": "Button"
+  },
+  {
+    "name": "Card Style 1",
+    "link": "https://tailgrids.com/components/cards",
+    "category": "Card"
+  },
+  {
+    "name": "File upload",
+    "link": "https://tailgrids.com/components/forms",
+    "category": "Upload",
+    "parent": "Form"
+  },
+  {
+    "name": "Check Box Style 1, Check Box Style 2, Check Box Style 3, Check Box Style 4, Check Box Style 5",
+    "link": "https://tailgrids.com/components/checkbox",
+    "category": "Other"
+  },
+  {
+    "name": "Contact Style 1",
+    "link": "https://tailgrids.com/components/contacts",
+    "category": "Contact",
+    "parent": "Form"
+  },
+  {
+    "name": "Sign In / Sign Up Style 1",
+    "link": "https://tailgrids.com/components/signin-signup",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Footer Style 1",
+    "link": "https://tailgrids.com/components/footers",
+    "category": "Footer"
+  },
+  {
+    "name": "Header Style 1",
+    "link": "https://tailgrids.com/components/headers",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Modal Style 1",
+    "link": "https://tailgrids.com/components/modals",
+    "category": "Modal"
+  },
+  {
+    "name": "Navbar Style 1",
+    "link": "https://tailgrids.com/components/navbars",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Error Style 1",
+    "link": "https://tailgrids.com/components/error-pages",
+    "category": "Other"
+  },
+  {
+    "name": "Pricing Style 1",
+    "link": "https://tailgrids.com/components/pricing-tables",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Testimonial Style 1",
+    "link": "https://tailgrids.com/components/testimonials",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Pagination Style 1",
+    "link": "https://tailgrids.com/components/paginations",
+    "category": "Pagination"
+  },
+  {
+    "name": "Progress Bar Style 1, Progress Bar Style 2, Progress Bar Style 3, Progress Bar Style 4",
+    "link": "https://tailgrids.com/components/progress-bars",
+    "category": "Progress Bar"
+  },
+  {
+    "name": "Toggle Button Style 1, Toggle Button Style 2, Toggle Button Style 3, Toggle Button Style 4, Toggle Button Style 5, Toggle Button Style 6, Toggle Button Style 7, Toggle Button Style 8, Toggle Button Style 9",
+    "link": "https://tailgrids.com/components/toggle-switch",
+    "category": "Switch"
+  },
+  {
+    "name": "Tooltip Style 1, Tooltip Style 2, Tooltip Style 3",
+    "link": "https://tailgrids.com/components/tooltips",
+    "category": "Tooltips"
+  },
+  {
+    "name": "Table Style 1",
+    "link": "https://tailgrids.com/components/tables",
+    "category": "Table"
+  },
+  {
+    "name": "Order List Style 1, Order List Style 2, Order List Style 3, Unorder List Style 1, Unorder List Style 2, Unorder List Style 3, Unorder List Style 4, Unorder List Style 5, Unorder List Style 6",
+    "link": "https://tailgrids.com/components/list-styles",
+    "category": "List"
+  },
+  {
+    "name": "Tab Style 1",
+    "link": "https://tailgrids.com/components/tabs",
+    "category": "Tab"
+  },
+  {
+    "name": "Blog Style 1",
+    "link": "https://tailgrids.com/components/blogs",
+    "category": "Other"
+  },
+  {
+    "name": "Service Style 1",
+    "link": "https://tailgrids.com/components/features-services",
+    "category": "Other"
+  },
+  {
+    "name": "Portfolio Style 1",
+    "link": "https://tailgrids.com/components/portfolios",
+    "category": "Other"
+  },
+  {
+    "name": "Team Style 1",
+    "link": "https://tailgrids.com/components/teams",
+    "category": "Other"
+  },
+  {
+    "name": "Video Style 1",
+    "link": "https://tailgrids.com/components/videos",
+    "category": "Other"
+  },
+  {
+    "name": "Call to Action Style 1",
+    "link": "https://tailgrids.com/components/call-to-actions",
+    "category": "Other"
+  },
+  {
+    "name": "About Style 1",
+    "link": "https://tailgrids.com/components/about",
+    "category": "Other"
+  },
+  {
+    "name": "Brand Style 1",
+    "link": "https://tailgrids.com/components/brands",
+    "category": "Other"
+  },
+  {
+    "name": "Feedback alerts",
+    "link": "https://blocks.wickedtemplates.com/alerts",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Tailwind CSS users card list",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-users-card-list",
+    "category": "Card"
+  },
+  {
+    "name": "Page Sections cards",
+    "link": "https://blocks.wickedtemplates.com/cards",
+    "category": "Card"
+  },
+  {
+    "name": "Tailwind CSS form validation",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-form-validation",
+    "category": "Form"
+  },
+  {
+    "name": "search input",
+    "link": "https://tailwindcomponents.com/component/search-input-5",
+    "category": "Form"
+  },
+  {
+    "name": "Form Add Posts",
+    "link": "https://tailwindcomponents.com/component/form-add-posts",
+    "category": "Form"
+  },
+  {
+    "name": "Forms forms",
+    "link": "https://blocks.wickedtemplates.com/forms",
+    "category": "Form"
+  },
+  {
+    "name": "Forms auth",
+    "link": "https://blocks.wickedtemplates.com/auth",
+    "category": "Form"
+  },
+  {
+    "name": "Tailwind CSS Login Form",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-login-form",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Amazon Register",
+    "link": "https://tailwindcomponents.com/component/amazon-register",
+    "category": "Register",
+    "parent": "Form"
+  },
+  {
+    "name": "Multiple file upload with JS",
+    "link": "https://tailwindcomponents.com/component/multiple-file-upload-with-js",
+    "category": "Upload",
+    "parent": "Form"
+  },
+  {
+    "name": "Slanted Footer",
+    "link": "https://tailwindcomponents.com/component/slanted-footer",
+    "category": "Footer"
+  },
+  {
+    "name": "responsive footer",
+    "link": "https://tailwindcomponents.com/component/responsive-footer-8",
+    "category": "Footer"
+  },
+  {
+    "name": "Page Sections footer",
+    "link": "https://blocks.wickedtemplates.com/footers",
+    "category": "Footer"
+  },
+  {
+    "name": "Modals with TailwindV3",
+    "link": "https://tailwindcomponents.com/component/centered-with-single-action",
+    "category": "Modal"
+  },
+  {
+    "name": "Simple modal",
+    "link": "https://tailwindcomponents.com/component/simple-modal-1",
+    "category": "Modal"
+  },
+  {
+    "name": "Overlay modals",
+    "link": "https://blocks.wickedtemplates.com/modals",
+    "category": "Modal"
+  },
+  {
+    "name": "Responsive Navigation Menu",
+    "link": "https://tailwindcomponents.com/component/responsive-navigation-menu",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Page Sections left headers",
+    "link": "https://blocks.wickedtemplates.com/left-headers",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Page Sections centered headers",
+    "link": "https://blocks.wickedtemplates.com/centered-headers",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Page Sections right headers",
+    "link": "https://blocks.wickedtemplates.com/right-headers",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Navigation navigation",
+    "link": "https://blocks.wickedtemplates.com/navigation",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Navigation sidebars",
+    "link": "https://blocks.wickedtemplates.com/sidebars",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Page Sections grids",
+    "link": "https://blocks.wickedtemplates.com/grids",
+    "category": "Page"
+  },
+  {
+    "name": "Page Sections clients",
+    "link": "https://blocks.wickedtemplates.com/clients",
+    "category": "Page"
+  },
+  {
+    "name": "Simple 404 Page Template",
+    "link": "https://tailwindcomponents.com/component/simple-404-page-template",
+    "category": "404",
+    "parent": "Page"
+  },
+  {
+    "name": "Page Sections pricing",
+    "link": "https://blocks.wickedtemplates.com/pricing",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Tailwind CSS pagination",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-pagination",
+    "category": "Pagination"
+  },
+  {
+    "name": "Table",
+    "link": "https://mambaui.com/components/table",
+    "category": "Table"
+  },
+  {
+    "name": "Tailwind CSS Timeline",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-timeline",
+    "category": "Timeline"
+  },
+  {
+    "name": "Tailwind CSS Features / Services",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-features-services",
+    "category": "Other"
+  },
+  {
+    "name": "Meet the Team Section",
+    "link": "https://tailwindcomponents.com/component/meet-the-team-section",
+    "category": "Other"
+  },
+  {
+    "name": "Aditya Singh",
+    "link": "https://tailwindcomponents.com/component/aditya-singh",
+    "category": "Other"
+  },
+  {
+    "name": "Todos App",
+    "link": "https://tailwindcomponents.com/component/todos-app",
+    "category": "Other"
+  },
+  {
+    "name": "Overlay content",
+    "link": "https://blocks.wickedtemplates.com/content",
     "category": "Other"
   }
 ]
