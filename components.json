@@ -11894,5 +11894,10 @@
     "name": "Overlay content",
     "link": "https://blocks.wickedtemplates.com/content",
     "category": "Other"
+  },
+  {
+    "name": "Select add and remove",
+    "link": "https://tailwindcomponents.com/component/select-add-and-remove",
+    "category": "Dropdown"
   }
 ]

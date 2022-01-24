@@ -11,8 +11,9 @@
     "remark:update": "sh Taskfile remark_run --output",
     "program": "ts-node src/program.ts",
     "program:x": "ts-node src/program.ts --only=xxx",
-    "generate": "npm run program && npm run remark:update",
-    "json": "npm run program -- --format=json"
+    "generate": "npm run json && npm run readme",
+    "json": "npm run program -- --format=json",
+    "readme": "ts-node src/readme-components.ts && npm run remark:update"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.178",
