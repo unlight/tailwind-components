@@ -11899,5 +11899,312 @@
     "name": "Select add and remove",
     "link": "https://tailwindcomponents.com/component/select-add-and-remove",
     "category": "Dropdown"
+  },
+  {
+    "name": "Success Alert",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/success-alert",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Primary Alert With Actions",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/primary-alert-with-actions",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Warning Alert",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/warning-alert",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Danger Alert",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/danger-alert",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Primary Alert",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/primary-alert",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Delete Alert With Large Actions",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/delete-alert-with-large-actions",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Warning Alert with large Icon and Action",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/warning-alert-with-large-icon-and-action",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Basic Alerts",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/basic-alerts",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Basic Alerts With Header",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/basic-alerts-with-header",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Basic Alerts With Icon",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/basic-alerts-with-icon",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Basic Alerts With Filled Background",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/basic-alert-with-filled-background",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Basic Alerts With Border",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/basic-alerts-with-border",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Basic Closable Alerts",
+    "link": "https://postsrc.com/components/tailwind-css-alerts/basic-closable-alerts",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Basic User Avatar Round",
+    "link": "https://postsrc.com/components/tailwind-css-avatars/basic-user-avatar-round",
+    "category": "Avatar"
+  },
+  {
+    "name": "Stacked Avatar",
+    "link": "https://postsrc.com/components/tailwind-css-avatars/tailwind-css-stacked-avatar",
+    "category": "Avatar"
+  },
+  {
+    "name": "Basic User Avatar Square",
+    "link": "https://postsrc.com/components/tailwind-css-avatars/basic-user-avatar-square",
+    "category": "Avatar"
+  },
+  {
+    "name": "Avatar Round With Status",
+    "link": "https://postsrc.com/components/tailwind-css-avatars/avatar-round-with-status",
+    "category": "Avatar"
+  },
+  {
+    "name": "Default Badges With Icon",
+    "link": "https://postsrc.com/components/tailwind-css-badges/default-badges-with-icon",
+    "category": "Badge"
+  },
+  {
+    "name": "Default Badges",
+    "link": "https://postsrc.com/components/tailwind-css-badges/default-badges",
+    "category": "Badge"
+  },
+  {
+    "name": "Simple Number Badge",
+    "link": "https://postsrc.com/components/tailwind-css-badges/simple-number-badge",
+    "category": "Badge"
+  },
+  {
+    "name": "Simple Icon With Badge",
+    "link": "https://postsrc.com/components/tailwind-css-badges/simple-icon-with-badge",
+    "category": "Badge"
+  },
+  {
+    "name": "Button With Badge",
+    "link": "https://postsrc.com/components/buttons/button-with-badge",
+    "category": "Badge"
+  },
+  {
+    "name": "Basic Breadcrumbs Component",
+    "link": "https://postsrc.com/components/tailwind-css-breadcrumbs/basic-breadcrumbs-component",
+    "category": "Breadcrumb"
+  },
+  {
+    "name": "Basic Breadcrumbs With Slash Component",
+    "link": "https://postsrc.com/components/tailwind-css-breadcrumbs/basic-breadcrumbs-with-slash",
+    "category": "Breadcrumb"
+  },
+  {
+    "name": "Basic Breadcrumbs with Pipe Component",
+    "link": "https://postsrc.com/components/tailwind-css-breadcrumbs/breadcrumbs-with-pipie-component",
+    "category": "Breadcrumb"
+  },
+  {
+    "name": "Button with Icon",
+    "link": "https://postsrc.com/components/buttons/button-with-icon",
+    "category": "Button"
+  },
+  {
+    "name": "Button Group",
+    "link": "https://postsrc.com/components/buttons/button-group",
+    "category": "Button"
+  },
+  {
+    "name": "Outline Button",
+    "link": "https://postsrc.com/components/buttons/outline-button",
+    "category": "Button"
+  },
+  {
+    "name": "Gradient Button",
+    "link": "https://postsrc.com/components/buttons/gradient-button",
+    "category": "Button"
+  },
+  {
+    "name": "Default Button",
+    "link": "https://postsrc.com/components/buttons/default-button",
+    "category": "Button"
+  },
+  {
+    "name": "Button Size Variant",
+    "link": "https://postsrc.com/components/buttons/button-size-variant",
+    "category": "Button"
+  },
+  {
+    "name": "Rounded Icon Buttons",
+    "link": "https://postsrc.com/components/buttons/rounded-icon-buttons",
+    "category": "Button"
+  },
+  {
+    "name": "Pill Buttons",
+    "link": "https://postsrc.com/components/buttons/pill-buttons",
+    "category": "Button"
+  },
+  {
+    "name": "Dropdown Button",
+    "link": "https://postsrc.com/components/buttons/dropdown-button",
+    "category": "Button"
+  },
+  {
+    "name": "Button Pagination",
+    "link": "https://postsrc.com/components/tailwind-css-pagination/button-pagination-component",
+    "category": "Button"
+  },
+  {
+    "name": "Round buttons pagination",
+    "link": "https://postsrc.com/components/tailwind-css-pagination/round-button-pagination-component",
+    "category": "Button"
+  },
+  {
+    "name": "Basic Card",
+    "link": "https://postsrc.com/components/card/basic-card",
+    "category": "Card"
+  },
+  {
+    "name": "Basic Category Card",
+    "link": "https://postsrc.com/components/card/basic-category-card",
+    "category": "Card"
+  },
+  {
+    "name": "User Card",
+    "link": "https://postsrc.com/components/card/tailwind-css-user-card",
+    "category": "Card"
+  },
+  {
+    "name": "Order Card",
+    "link": "https://postsrc.com/components/card/tailwind-css-order-card",
+    "category": "Card"
+  },
+  {
+    "name": "Feature Card",
+    "link": "https://postsrc.com/components/card/feature-card-feature-card",
+    "category": "Card"
+  },
+  {
+    "name": "Property Card",
+    "link": "https://postsrc.com/components/card/tailwind-css-property-card",
+    "category": "Card"
+  },
+  {
+    "name": "Simple Feature Card",
+    "link": "https://postsrc.com/components/card/simple-feature-card",
+    "category": "Card"
+  },
+  {
+    "name": "Card With Image and Text Vertical",
+    "link": "https://postsrc.com/components/card/card-with-text-and-text-vertical",
+    "category": "Card"
+  },
+  {
+    "name": "Card With Image",
+    "link": "https://postsrc.com/components/card/card-with-image-component",
+    "category": "Card"
+  },
+  {
+    "name": "Card Image With Text Over",
+    "link": "https://postsrc.com/components/card/card-image-with-text-over-component",
+    "category": "Card"
+  },
+  {
+    "name": "Card With Text",
+    "link": "https://postsrc.com/components/card/card-with-text-component",
+    "category": "Card"
+  },
+  {
+    "name": "Blog Post Card",
+    "link": "https://postsrc.com/components/card/blog-post-card",
+    "category": "Card"
+  },
+  {
+    "name": "Card With Image and Text Horizontal",
+    "link": "https://postsrc.com/components/card/card-with-text-and-text-horizontal",
+    "category": "Card"
+  },
+  {
+    "name": "Basic Register Form",
+    "link": "https://postsrc.com/components/tailwind-css-register-form/tailwind-css-basic-register-form",
+    "category": "Form"
+  },
+  {
+    "name": "Basic Login Form",
+    "link": "https://postsrc.com/components/tailwind-css-login-form/tailwind-css-basic-login-form",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Pricing",
+    "link": "https://postsrc.com/components/tailwind-css-pricing/tailwind-css-pricing",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Bordered Pagination",
+    "link": "https://postsrc.com/components/tailwind-css-pagination/bordered-pagination-component",
+    "category": "Pagination"
+  },
+  {
+    "name": "Pagination With Icons",
+    "link": "https://postsrc.com/components/tailwind-css-pagination/pagination-with-icons-component",
+    "category": "Pagination"
+  },
+  {
+    "name": "Basic Loading Skeleton",
+    "link": "https://postsrc.com/components/skeleton/basic-skeleton",
+    "category": "Skeleton"
+  },
+  {
+    "name": "Complex Loading Skeleton",
+    "link": "https://postsrc.com/components/skeleton/tailwind-css-complex-loading-skeleton",
+    "category": "Skeleton"
+  },
+  {
+    "name": "Basic Tabs",
+    "link": "https://postsrc.com/components/tailwind-css-tabs/tailwind-css-basic-tabs",
+    "category": "Tab"
+  },
+  {
+    "name": "Basic Call To Action",
+    "link": "https://postsrc.com/components/tailwind-css-call-to-action/tailwind-css-basic-call-to-action",
+    "category": "Other"
+  },
+  {
+    "name": "Basic Filter",
+    "link": "https://postsrc.com/components/tailwind-css-filters/tailwind-css-basic-filter",
+    "category": "Other"
+  },
+  {
+    "name": "Basic Question and Answers",
+    "link": "https://postsrc.com/components/tailwind-css-question-and-answers/tailwind-css-basic-quesion-and-answers",
+    "category": "Other"
+  },
+  {
+    "name": "Basic Social Share",
+    "link": "https://postsrc.com/components/tailwind-css-social-share-box/basic-social-share",
+    "category": "Other"
   }
 ]

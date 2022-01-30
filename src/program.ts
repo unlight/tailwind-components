@@ -8,7 +8,7 @@ import { CompomentLink } from './types';
 
 /**
  * RESOURCES:
- * https://www.creative-tim.com/
+ * https://fancytailwind.com/browse-components
  * https://www.vechaiui.com/
  */
 
