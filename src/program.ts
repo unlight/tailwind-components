@@ -24,7 +24,7 @@ type ProgramOptions = {
 
 async function program(options?: ProgramOptions) {
     const browser = await puppeteer.launch({
-        headless: false,
+        headless: true,
         slowMo: options?.slowmo,
         defaultViewport: null,
         args: ['--start-maximized'],

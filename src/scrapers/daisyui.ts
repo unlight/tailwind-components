@@ -17,9 +17,10 @@ export default async function daisyui({ page }: ScraperArgs): Promise<CompomentL
     // todo: fix massive UnhandledPromiseRejectionWarning errors
     // ProtocolError: Protocol error (Page.createIsolatedWorld): No frame for given id found
     for (const { href, link, category } of links) {
-        const navLink = await page.$(`li > a[href="${href}"]`);
-        await navLink?.click();
-        await page.waitForTimeout(1000);
+        await page.goto(link, { waitUntil: 'load' });
+        // const navLink = await page.$(`li > a[href="${href}"]`);
+        // await navLink?.click();
+        // await page.waitForTimeout(1000);
         const names = await page.evaluate(() => {
             return Array.from(
                 document.querySelectorAll('main .py-2 > .text-xs.pt-4'),

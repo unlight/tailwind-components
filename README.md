@@ -14,6 +14,8 @@
 
 *   [Button](#button)
 
+*   [Call to Action](#call-to-action)
+
 *   [Card](#card)
 
 *   [Dashboard Widgets](#dashboard-widgets)
@@ -167,12 +169,30 @@
 *   Alerts: [tailwindtoolbox.com/components/alerts](https://www.tailwindtoolbox.com/components/alerts)
 *   Alert: [codepen.io/oidre/full/vYGBaVZ](https://codepen.io/oidre/full/vYGBaVZ)
 *   Alerts Basic with dismiss, Alerts Information with icon: [tinywind.dev/components/alerts](https://tinywind.dev/components/alerts)
-*   Toast NEW Default toast, Toast NEW Colors, Toast NEW Simple toast, Toast NEW Undo button, Toast NEW Toast message, Toast NEW Push notification, Toast NEW Interactive toast, Toast NEW Position: [flowbite.com/docs/components/toast/](https://flowbite.com/docs/components/toast/)
+*   Toast Default toast, Toast Colors, Toast Simple toast, Toast Undo button, Toast Toast message, Toast Push notification, Toast Interactive toast, Toast Position: [flowbite.com/docs/components/toast/](https://flowbite.com/docs/components/toast/)
 *   Alerts Assorted Alerts: [gustui.com/docs/application/components/alerts](https://www.gustui.com/docs/application/components/alerts)
 *   Toasts Simple Toast, Toasts Toast With Icon: [gustui.com/docs/application/components/toasts](https://www.gustui.com/docs/application/components/toasts)
 *   Lexicon Alert with button, Lexicon Alert Stripe, Lexicon Alert, Argon alerts, Orbit Alert, Biings alert, Alert 2, Alert accent 1, Alert rounded: [tailwindtemplates.io/templates?category=alert](https://tailwindtemplates.io/templates?category=alert)
 *   Attention Alert Style 1, Attention Alert Style 2, Success Alert Style 1, Success Alert Style 2, Warning Alert Style 1, Warning Alert Style 2: [tailgrids.com/components/alerts](https://tailgrids.com/components/alerts)
 *   Feedback alerts: [blocks.wickedtemplates.com/alerts](https://blocks.wickedtemplates.com/alerts)
+*   Success Alert: [postsrc.com/components/tailwind-css-alerts/success-alert](https://postsrc.com/components/tailwind-css-alerts/success-alert)
+*   Primary Alert With Actions: [postsrc.com/components/tailwind-css-alerts/primary-alert-with-actions](https://postsrc.com/components/tailwind-css-alerts/primary-alert-with-actions)
+*   Warning Alert: [postsrc.com/components/tailwind-css-alerts/warning-alert](https://postsrc.com/components/tailwind-css-alerts/warning-alert)
+*   Danger Alert: [postsrc.com/components/tailwind-css-alerts/danger-alert](https://postsrc.com/components/tailwind-css-alerts/danger-alert)
+*   Primary Alert: [postsrc.com/components/tailwind-css-alerts/primary-alert](https://postsrc.com/components/tailwind-css-alerts/primary-alert)
+*   Delete Alert With Large Actions: [postsrc.com/components/tailwind-css-alerts/delete-alert-with-large-actions](https://postsrc.com/components/tailwind-css-alerts/delete-alert-with-large-actions)
+*   Warning Alert with large Icon and Action: [postsrc.com/components/tailwind-css-alerts/warning-alert-with-large-icon-and-action](https://postsrc.com/components/tailwind-css-alerts/warning-alert-with-large-icon-and-action)
+*   Basic Alerts: [postsrc.com/components/tailwind-css-alerts/basic-alerts](https://postsrc.com/components/tailwind-css-alerts/basic-alerts)
+*   Basic Alerts With Header: [postsrc.com/components/tailwind-css-alerts/basic-alerts-with-header](https://postsrc.com/components/tailwind-css-alerts/basic-alerts-with-header)
+*   Basic Alerts With Icon: [postsrc.com/components/tailwind-css-alerts/basic-alerts-with-icon](https://postsrc.com/components/tailwind-css-alerts/basic-alerts-with-icon)
+*   Basic Alerts With Filled Background: [postsrc.com/components/tailwind-css-alerts/basic-alert-with-filled-background](https://postsrc.com/components/tailwind-css-alerts/basic-alert-with-filled-background)
+*   Basic Alerts With Border: [postsrc.com/components/tailwind-css-alerts/basic-alerts-with-border](https://postsrc.com/components/tailwind-css-alerts/basic-alerts-with-border)
+*   Basic Closable Alerts: [postsrc.com/components/tailwind-css-alerts/basic-closable-alerts](https://postsrc.com/components/tailwind-css-alerts/basic-closable-alerts)
+*   Fancy Alert 1: [fancytailwind.com/app/fancy-laboratory/molecules/alerts/alert1](https://fancytailwind.com/app/fancy-laboratory/molecules/alerts/alert1)
+*   Fancy Alert 2: [fancytailwind.com/app/fancy-laboratory/molecules/alerts/alert2](https://fancytailwind.com/app/fancy-laboratory/molecules/alerts/alert2)
+*   Fancy Alert 3: [fancytailwind.com/app/fancy-laboratory/molecules/alerts/alert3](https://fancytailwind.com/app/fancy-laboratory/molecules/alerts/alert3)
+*   Free Tailwind CSS Alert Component: [tailwindcomponents.com/component/free-tailwind-css-alert-component](https://tailwindcomponents.com/component/free-tailwind-css-alert-component)
+*   Toast: [tailwindcomponents.com/component/toast](https://tailwindcomponents.com/component/toast)
 
 ## Avatar
 
@@ -201,6 +221,18 @@
 *   Avatars Basic, Avatars Activity indicator: [tinywind.dev/components/avatars](https://tinywind.dev/components/avatars)
 *   Avatars Standard Avatars, Avatars Avatars with Status, Avatars Avatars with Bottom Status: [gustui.com/docs/application/components/avatars](https://www.gustui.com/docs/application/components/avatars)
 *   Avatar - Simple full rounded avatar, Avatar - small full rounded avatar, Avatar - Big full rounded avatar, Avatar - Round avatar, Avatar - Publicity, Avatar - Square avatar, Avatar - Avatar with badge, Avatar - Multiple avatar, Avatar - Multiple small avatar, Avatar - Publicity, Avatar - Multiple big avatar, Avatar - With hover effect: [tailwind-kit.com/components/avatar](https://www.tailwind-kit.com/components/avatar)
+*   Basic User Avatar Round: [postsrc.com/components/tailwind-css-avatars/basic-user-avatar-round](https://postsrc.com/components/tailwind-css-avatars/basic-user-avatar-round)
+*   Stacked Avatar: [postsrc.com/components/tailwind-css-avatars/tailwind-css-stacked-avatar](https://postsrc.com/components/tailwind-css-avatars/tailwind-css-stacked-avatar)
+*   Basic User Avatar Square: [postsrc.com/components/tailwind-css-avatars/basic-user-avatar-square](https://postsrc.com/components/tailwind-css-avatars/basic-user-avatar-square)
+*   Avatar Round With Status: [postsrc.com/components/tailwind-css-avatars/avatar-round-with-status](https://postsrc.com/components/tailwind-css-avatars/avatar-round-with-status)
+*   Fancy Avatar 1: [fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar1](https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar1)
+*   Fancy Avatar 1b: [fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar1b](https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar1b)
+*   Fancy Avatar 1c: [fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar1c](https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar1c)
+*   Fancy Avatar 2: [fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar2](https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar2)
+*   Fancy Avatar 2b: [fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar2b](https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar2b)
+*   Fancy Avatar 2c: [fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar2c](https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar2c)
+*   Fancy Avatar 7: [fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar7](https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar7)
+*   Free Tailwind CSS Avatar Component: [tailwindcomponents.com/component/free-tailwind-css-avatar-component](https://tailwindcomponents.com/component/free-tailwind-css-avatar-component)
 
 ## Badge
 
@@ -229,6 +261,18 @@
 *   Badges Standard Badges, Badges Closeable Badges: [gustui.com/docs/application/components/badges](https://www.gustui.com/docs/application/components/badges)
 *   Lexicon Badges, Argon Badges, Orbit Badges: Success, Orbit Badges: Critical, Orbit Badges: Warning, Orbit Badges: information, Orbit Badges: neutral: [tailwindtemplates.io/templates?category=badge](https://tailwindtemplates.io/templates?category=badge)
 *   Primary Badge, Secondary Badge, Dark Badge, Gray Badge, Light Badge, Warning Badge, Danger Badge, Success Badge, Info Badge: [tailgrids.com/components/badges](https://tailgrids.com/components/badges)
+*   Default Badges With Icon: [postsrc.com/components/tailwind-css-badges/default-badges-with-icon](https://postsrc.com/components/tailwind-css-badges/default-badges-with-icon)
+*   Default Badges: [postsrc.com/components/tailwind-css-badges/default-badges](https://postsrc.com/components/tailwind-css-badges/default-badges)
+*   Simple Number Badge: [postsrc.com/components/tailwind-css-badges/simple-number-badge](https://postsrc.com/components/tailwind-css-badges/simple-number-badge)
+*   Simple Icon With Badge: [postsrc.com/components/tailwind-css-badges/simple-icon-with-badge](https://postsrc.com/components/tailwind-css-badges/simple-icon-with-badge)
+*   Button With Badge: [postsrc.com/components/buttons/button-with-badge](https://postsrc.com/components/buttons/button-with-badge)
+*   Fancy Badge 1: [fancytailwind.com/app/fancy-laboratory/atoms/badges/badge1](https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge1)
+*   Fancy Badge 1b: [fancytailwind.com/app/fancy-laboratory/atoms/badges/badge1b](https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge1b)
+*   Fancy Badge 1c: [fancytailwind.com/app/fancy-laboratory/atoms/badges/badge1c](https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge1c)
+*   Fancy Badge 2: [fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2](https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2)
+*   Fancy Badge 2b: [fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2b](https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2b)
+*   Fancy Badge 2c: [fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2c](https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2c)
+*   Free Tailwind CSS Badge Component: [tailwindcomponents.com/component/free-tailwind-css-badge-component](https://tailwindcomponents.com/component/free-tailwind-css-badge-component)
 
 ## Breadcrumb
 
@@ -245,6 +289,10 @@
 *   Breadcrumbs: [tailwindcomponents.com/component/breadcrumbs](https://tailwindcomponents.com/component/breadcrumbs)
 *   breadcrumb: [tailwindesign.com/components/breadcrumb](https://tailwindesign.com/components/breadcrumb)
 *   Breadcrumb Style 1, Breadcrumb Style 2, Breadcrumb Style 3, Breadcrumb Style 4, Breadcrumb Style 5, Breadcrumb Style 6, Breadcrumb Style 7, Breadcrumb Style 8, Breadcrumb Style 9: [tailgrids.com/components/breadcrumbs](https://tailgrids.com/components/breadcrumbs)
+*   Basic Breadcrumbs Component: [postsrc.com/components/tailwind-css-breadcrumbs/basic-breadcrumbs-component](https://postsrc.com/components/tailwind-css-breadcrumbs/basic-breadcrumbs-component)
+*   Basic Breadcrumbs With Slash Component: [postsrc.com/components/tailwind-css-breadcrumbs/basic-breadcrumbs-with-slash](https://postsrc.com/components/tailwind-css-breadcrumbs/basic-breadcrumbs-with-slash)
+*   Basic Breadcrumbs with Pipe Component: [postsrc.com/components/tailwind-css-breadcrumbs/breadcrumbs-with-pipie-component](https://postsrc.com/components/tailwind-css-breadcrumbs/breadcrumbs-with-pipie-component)
+*   Fancy Breadcrumb 4: [fancytailwind.com/app/fancy-laboratory/molecules/breadcrumbs/breadcrumb4](https://fancytailwind.com/app/fancy-laboratory/molecules/breadcrumbs/breadcrumb4)
 
 ## Button
 
@@ -254,7 +302,7 @@
 *   indicator
     new a button as indicator for card: [daisyui.com/components/indicator](https://daisyui.com/components/indicator)
 *   Button Github: [devdojo.com/tailwindcss/playground?component=button-github](https://devdojo.com/tailwindcss/playground?component=button-github)
-*   Buttons NEW Default button, Buttons NEW Button pills, Buttons NEW Gradient monochrome, Buttons NEW Gradient duotone, Buttons NEW Gradient outline, Buttons NEW Colored shadows, Buttons NEW Social buttons, Buttons NEW Payment buttons, Buttons NEW Outline buttons, Buttons NEW Button sizes, Buttons NEW Buttons with icon, Buttons NEW Button with label, Buttons NEW Icon buttons, Buttons NEW Disabled: [flowbite.com/docs/components/buttons/](https://flowbite.com/docs/components/buttons/)
+*   Buttons NEW Default button, Buttons NEW Button pills, Buttons NEW Gradient monochrome, Buttons NEW Gradient duotone, Buttons NEW Gradient outline, Buttons NEW Colored shadows, Buttons NEW Social buttons, Buttons NEW Payment buttons, Buttons NEW Outline buttons, Buttons NEW Button sizes, Buttons NEW Buttons with icon, Buttons NEW Button with label, Buttons NEW Icon buttons, Buttons NEW Loader, Buttons NEW Disabled: [flowbite.com/docs/components/buttons/](https://flowbite.com/docs/components/buttons/)
 *   Button group Default example, Button group Group buttons with icons, Button group Outline, Button group Outlined with icon: [flowbite.com/docs/components/button-group/](https://flowbite.com/docs/components/button-group/)
 *   Buttons: [hyperui.dev/components/buttons](https://hyperui.dev/components/buttons)
 *   UI Buttons, Button Icon Rounded, Button Group: [zeroblack-c.github.io/jakarta-lte/pages/components/button.html](https://zeroblack-c.github.io/jakarta-lte/pages/components/button.html)
@@ -370,6 +418,57 @@
 *   Square Button Style 1, Square Button Style 2, Square Button Style 3, Semi Rounded Button Style 1, Semi Rounded Button Style 2, Semi Rounded Button Style 3, Full Rounded Button Style 1, Full Rounded Button Style 2, Full Rounded Button Style 3, Outline Button Style 1, Outline Button Style 2, Outline Button Style 3: [tailgrids.com/components/buttons](https://tailgrids.com/components/buttons)
 *   Button Group Style 1, Button Group Style 2, Button Group Style 3, Button Group Style 4, Button Group Style 5, Button Group Style 6: [tailgrids.com/components/button-group](https://tailgrids.com/components/button-group)
 *   Dropdown Button Style 1, Dropdown Button Style 2, Dropdown Button Style 3, Dropdown Button Style 4: [tailgrids.com/components/dropdown-buttons](https://tailgrids.com/components/dropdown-buttons)
+*   Button with Icon: [postsrc.com/components/buttons/button-with-icon](https://postsrc.com/components/buttons/button-with-icon)
+*   Button Group: [postsrc.com/components/buttons/button-group](https://postsrc.com/components/buttons/button-group)
+*   Outline Button: [postsrc.com/components/buttons/outline-button](https://postsrc.com/components/buttons/outline-button)
+*   Gradient Button: [postsrc.com/components/buttons/gradient-button](https://postsrc.com/components/buttons/gradient-button)
+*   Default Button: [postsrc.com/components/buttons/default-button](https://postsrc.com/components/buttons/default-button)
+*   Button Size Variant: [postsrc.com/components/buttons/button-size-variant](https://postsrc.com/components/buttons/button-size-variant)
+*   Rounded Icon Buttons: [postsrc.com/components/buttons/rounded-icon-buttons](https://postsrc.com/components/buttons/rounded-icon-buttons)
+*   Pill Buttons: [postsrc.com/components/buttons/pill-buttons](https://postsrc.com/components/buttons/pill-buttons)
+*   Dropdown Button: [postsrc.com/components/buttons/dropdown-button](https://postsrc.com/components/buttons/dropdown-button)
+*   Button Pagination: [postsrc.com/components/tailwind-css-pagination/button-pagination-component](https://postsrc.com/components/tailwind-css-pagination/button-pagination-component)
+*   Round buttons pagination: [postsrc.com/components/tailwind-css-pagination/round-button-pagination-component](https://postsrc.com/components/tailwind-css-pagination/round-button-pagination-component)
+*   Fancy Button 1: [fancytailwind.com/app/fancy-laboratory/molecules/buttons/button1](https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button1)
+*   Fancy Button 1b: [fancytailwind.com/app/fancy-laboratory/molecules/buttons/button1b](https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button1b)
+*   Fancy Button 1c: [fancytailwind.com/app/fancy-laboratory/molecules/buttons/button1c](https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button1c)
+*   Fancy Button 2: [fancytailwind.com/app/fancy-laboratory/molecules/buttons/button2](https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button2)
+*   Fancy Button 2b: [fancytailwind.com/app/fancy-laboratory/molecules/buttons/button2b](https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button2b)
+*   Fancy Button 2c: [fancytailwind.com/app/fancy-laboratory/molecules/buttons/button2c](https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button2c)
+*   Fancy Button 3: [fancytailwind.com/app/fancy-laboratory/molecules/buttons/button3](https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button3)
+*   Fancy Button 3b: [fancytailwind.com/app/fancy-laboratory/molecules/buttons/button3b](https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button3b)
+*   Fancy Button 3c: [fancytailwind.com/app/fancy-laboratory/molecules/buttons/button3c](https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button3c)
+*   Fancy Button Effect 1: [fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect1](https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect1)
+*   Fancy Button Effect 3: [fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect3](https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect3)
+*   Fancy Button Effect 10: [fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect10](https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect10)
+*   Fancy Button Effect 14: [fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect14](https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect14)
+*   Fancy Button Effect 24: [fancytailwind.com/app/fancy-laboratory/atoms/buttons/button24](https://fancytailwind.com/app/fancy-laboratory/atoms/buttons/button24)
+*   Fancy Button Effect 30: [fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect30](https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect30)
+*   Fancy Button Effect 33: [fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect33](https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect33)
+*   Fancy Button Group 1: [fancytailwind.com/app/fancy-laboratory/atoms/buttongroups/buttonGroup1](https://fancytailwind.com/app/fancy-laboratory/atoms/buttongroups/buttonGroup1)
+*   Fancy Button Group 2: [fancytailwind.com/app/fancy-laboratory/atoms/buttongroups/buttonGroup2](https://fancytailwind.com/app/fancy-laboratory/atoms/buttongroups/buttonGroup2)
+*   Fancy Button Social 1: [fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial1](https://fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial1)
+*   Fancy Button Social 2: [fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial2](https://fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial2)
+*   Fancy Button Social 3: [fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial3](https://fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial3)
+*   Fancy Button Social 4: [fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial4](https://fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial4)
+*   Button Groups: [hyperui.dev/components/button-groups](https://hyperui.dev/components/button-groups)
+*   Free Tailwind CSS Grouped Button Component: [tailwindcomponents.com/component/free-tailwind-css-grouped-button-component](https://tailwindcomponents.com/component/free-tailwind-css-grouped-button-component)
+*   Free Tailwind CSS Button Component: [tailwindcomponents.com/component/free-tailwind-css-button-component](https://tailwindcomponents.com/component/free-tailwind-css-button-component)
+
+## Call to Action
+
+*   Card Default example, Card Card with image, Card Horizontal card, Card Interactive card, Card E-commerce card, Card Call to action card, Card Card with list: [flowbite.com/docs/components/card/](https://flowbite.com/docs/components/card/)
+*   Card Call to Action: [tailwindcomponents.com/component/card-call-to-action](https://tailwindcomponents.com/component/card-call-to-action)
+*   call to action: [tailwind-css-components.appseed.us/call-to-action.html](https://tailwind-css-components.appseed.us/call-to-action.html)
+*   Marketing Call to Action: [kutty.netlify.app/components/call-to-action/](https://kutty.netlify.app/components/call-to-action/)
+*   Call to action: [mambaui.com/components/call-to-action](https://mambaui.com/components/call-to-action)
+*   Call To Action: [tailwindcomponents.com/component/call-to-action-basic](https://tailwindcomponents.com/component/call-to-action-basic)
+*   Call to Action Style 1: [tailgrids.com/components/call-to-actions](https://tailgrids.com/components/call-to-actions)
+*   Basic Call To Action: [postsrc.com/components/tailwind-css-call-to-action/tailwind-css-basic-call-to-action](https://postsrc.com/components/tailwind-css-call-to-action/tailwind-css-basic-call-to-action)
+*   Fancy Call To Action 2: [fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction2](https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction2)
+*   Fancy Call To Action 6: [fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction6](https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction6)
+*   Fancy Call To Action 8: [fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction8](https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction8)
+*   Fancy Call To Action 14: [fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction14](https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction14)
 
 ## Card
 
@@ -387,7 +486,6 @@
 *   Featured Event Card: [devdojo.com/tailwindcss/playground?component=featured-event-card](https://devdojo.com/tailwindcss/playground?component=featured-event-card)
 *   Profile Card: [devdojo.com/tailwindcss/playground?component=profile-card](https://devdojo.com/tailwindcss/playground?component=profile-card)
 *   Weather Card: [devdojo.com/tailwindcss/playground?component=weather-card](https://devdojo.com/tailwindcss/playground?component=weather-card)
-*   Card Default example, Card Card with image, Card Horizontal card, Card Interactive card, Card E-commerce card, Card Call to action card, Card Card with list: [flowbite.com/docs/components/card/](https://flowbite.com/docs/components/card/)
 *   Cards: [hyperui.dev/components/cards](https://hyperui.dev/components/cards)
 *   Product Cards: [hyperui.dev/components/product-cards](https://hyperui.dev/components/product-cards)
 *   Cards: [zeroblack-c.github.io/jakarta-lte/pages/components/card.html](https://zeroblack-c.github.io/jakarta-lte/pages/components/card.html)
@@ -447,7 +545,6 @@
 *   Cards Section: [tailwindcomponents.com/component/javascript-components](https://tailwindcomponents.com/component/javascript-components)
 *   Description Cards: [tailwindcomponents.com/component/description-cards](https://tailwindcomponents.com/component/description-cards)
 *   Landing Page Cards: [tailwindcomponents.com/component/landing-page-cards](https://tailwindcomponents.com/component/landing-page-cards)
-*   Card Call to Action: [tailwindcomponents.com/component/card-call-to-action](https://tailwindcomponents.com/component/card-call-to-action)
 *   Card Register: [tailwindcomponents.com/component/card-register](https://tailwindcomponents.com/component/card-register)
 *   Card Table: [tailwindcomponents.com/component/card-table](https://tailwindcomponents.com/component/card-table)
 *   Card Login: [tailwindcomponents.com/component/card-login](https://tailwindcomponents.com/component/card-login)
@@ -667,6 +764,27 @@
 *   Card Style 1: [tailgrids.com/components/cards](https://tailgrids.com/components/cards)
 *   Tailwind CSS users card list: [tailwindcomponents.com/component/tailwind-css-users-card-list](https://tailwindcomponents.com/component/tailwind-css-users-card-list)
 *   Page Sections cards: [blocks.wickedtemplates.com/cards](https://blocks.wickedtemplates.com/cards)
+*   Basic Card: [postsrc.com/components/card/basic-card](https://postsrc.com/components/card/basic-card)
+*   Basic Category Card: [postsrc.com/components/card/basic-category-card](https://postsrc.com/components/card/basic-category-card)
+*   User Card: [postsrc.com/components/card/tailwind-css-user-card](https://postsrc.com/components/card/tailwind-css-user-card)
+*   Order Card: [postsrc.com/components/card/tailwind-css-order-card](https://postsrc.com/components/card/tailwind-css-order-card)
+*   Feature Card: [postsrc.com/components/card/feature-card-feature-card](https://postsrc.com/components/card/feature-card-feature-card)
+*   Property Card: [postsrc.com/components/card/tailwind-css-property-card](https://postsrc.com/components/card/tailwind-css-property-card)
+*   Simple Feature Card: [postsrc.com/components/card/simple-feature-card](https://postsrc.com/components/card/simple-feature-card)
+*   Card With Image and Text Vertical: [postsrc.com/components/card/card-with-text-and-text-vertical](https://postsrc.com/components/card/card-with-text-and-text-vertical)
+*   Card With Image: [postsrc.com/components/card/card-with-image-component](https://postsrc.com/components/card/card-with-image-component)
+*   Card Image With Text Over: [postsrc.com/components/card/card-image-with-text-over-component](https://postsrc.com/components/card/card-image-with-text-over-component)
+*   Card With Text: [postsrc.com/components/card/card-with-text-component](https://postsrc.com/components/card/card-with-text-component)
+*   Blog Post Card: [postsrc.com/components/card/blog-post-card](https://postsrc.com/components/card/blog-post-card)
+*   Card With Image and Text Horizontal: [postsrc.com/components/card/card-with-text-and-text-horizontal](https://postsrc.com/components/card/card-with-text-and-text-horizontal)
+*   Fancy Blog Card 1: [fancytailwind.com/app/fancy-laboratory/molecules/blogcards/blogCard1](https://fancytailwind.com/app/fancy-laboratory/molecules/blogcards/blogCard1)
+*   Fancy Blog Card 2: [fancytailwind.com/app/fancy-laboratory/molecules/blogcards/blogCard2](https://fancytailwind.com/app/fancy-laboratory/molecules/blogcards/blogCard2)
+*   Fancy Blog Card 6: [fancytailwind.com/app/fancy-laboratory/molecules/blogcards/blogCard6](https://fancytailwind.com/app/fancy-laboratory/molecules/blogcards/blogCard6)
+*   Free Tailwind CSS Card Heading Component: [tailwindcomponents.com/component/free-tailwind-css-card-heading-component](https://tailwindcomponents.com/component/free-tailwind-css-card-heading-component)
+*   Free Tailwind CSS Grid Card Component: [tailwindcomponents.com/component/free-tailwind-css-grid-card-component](https://tailwindcomponents.com/component/free-tailwind-css-grid-card-component)
+*   Free Tailwind CSS Full Width With Right Grey Card Component: [tailwindcomponents.com/component/free-tailwind-css-full-width-with-right-grey-card-component](https://tailwindcomponents.com/component/free-tailwind-css-full-width-with-right-grey-card-component)
+*   Free Tailwind CSS Full Width Divided Into Three Card Component: [tailwindcomponents.com/component/free-tailwind-css-full-width-divided-into-three-card-component](https://tailwindcomponents.com/component/free-tailwind-css-full-width-divided-into-three-card-component)
+*   Tailwind Card Portfolio: [tailwindcomponents.com/component/tailwind-card-portfolio](https://tailwindcomponents.com/component/tailwind-card-portfolio)
 
 ## Dashboard Widgets
 
@@ -706,6 +824,8 @@
 *   Cookie Banner Tailwind CSS & Alpine JS: [tailwindcomponents.com/component/cookie-banner-tailwind-css-alpine-js](https://tailwindcomponents.com/component/cookie-banner-tailwind-css-alpine-js)
 *   Cookie Banner and Settings Modal: [tailwindcomponents.com/component/cookie-banner-and-settings-modal](https://tailwindcomponents.com/component/cookie-banner-and-settings-modal)
 *   Cookie Policy: [tailwindcomponents.com/component/cookie-policy](https://tailwindcomponents.com/component/cookie-policy)
+*   Fancy Cookie 5: [fancytailwind.com/app/fancy-laboratory/molecules/cookies/cookie5](https://fancytailwind.com/app/fancy-laboratory/molecules/cookies/cookie5)
+*   Fancy Cookie 6: [fancytailwind.com/app/fancy-laboratory/molecules/cookies/cookie6](https://fancytailwind.com/app/fancy-laboratory/molecules/cookies/cookie6)
 
 ## Date/Time
 
@@ -722,6 +842,7 @@
 *   Datepicker with TailwindCSS and AlpineJS: [tailwindcomponents.com/component/datepicker-with-tailwindcss-and-alpinejs](https://tailwindcomponents.com/component/datepicker-with-tailwindcss-and-alpinejs)
 *   Simple Calendar Day "icon": [tailwindcomponents.com/component/simple-calendar-day-icon](https://tailwindcomponents.com/component/simple-calendar-day-icon)
 *   Calendar Date: [tailwindcomponents.com/component/calendar-date](https://tailwindcomponents.com/component/calendar-date)
+*   Free Tailwind CSS Calendar Component: [tailwindcomponents.com/component/free-tailwind-css-calendar-component](https://tailwindcomponents.com/component/free-tailwind-css-calendar-component)
 
 ## Dropdown
 
@@ -779,6 +900,8 @@
 *   Drop Down - Simple ddm, Drop Down - With icon, Drop Down - With icon on items, Drop Down - Publicity, Drop Down - With icon on items with divider, Drop Down - With icon on items with desc, Drop Down - Large ddm, Drop Down - Ddm with form: [tailwind-kit.com/components/ddm](https://www.tailwind-kit.com/components/ddm)
 *   Select - simple, Select - with label, Select - custom, Select - custom with image: [tailwind-kit.com/components/inputselect](https://www.tailwind-kit.com/components/inputselect)
 *   Select add and remove: [tailwindcomponents.com/component/select-add-and-remove](https://tailwindcomponents.com/component/select-add-and-remove)
+*   Free Tailwind CSS Dropdown Component: [tailwindcomponents.com/component/free-tailwind-css-dropdown-component](https://tailwindcomponents.com/component/free-tailwind-css-dropdown-component)
+*   Free Tailwind CSS Popover Component: [tailwindcomponents.com/component/free-tailwind-css-popover-component](https://tailwindcomponents.com/component/free-tailwind-css-popover-component)
 
 ## Form
 
@@ -916,6 +1039,27 @@
 *   Form Add Posts: [tailwindcomponents.com/component/form-add-posts](https://tailwindcomponents.com/component/form-add-posts)
 *   Forms forms: [blocks.wickedtemplates.com/forms](https://blocks.wickedtemplates.com/forms)
 *   Forms auth: [blocks.wickedtemplates.com/auth](https://blocks.wickedtemplates.com/auth)
+*   Basic Register Form: [postsrc.com/components/tailwind-css-register-form/tailwind-css-basic-register-form](https://postsrc.com/components/tailwind-css-register-form/tailwind-css-basic-register-form)
+*   Fancy Input Effect 1: [fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect1](https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect1)
+*   Fancy Input Effect 1b: [fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect1b](https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect1b)
+*   Fancy Input Effect 2: [fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect2](https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect2)
+*   Fancy Input Effect 2b: [fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect2b](https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect2b)
+*   Fancy Input Effect 3: [fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect3](https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect3)
+*   Fancy Input Effect 3b: [fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect3b](https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect3b)
+*   Fancy Input Effect 4: [fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect4](https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect4)
+*   Fancy Input Effect 4b: [fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect4b](https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect4b)
+*   Fancy Input Group 1: [fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup1](https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup1)
+*   Fancy Input Group 1b: [fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup1b](https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup1b)
+*   Fancy Input Group 1c: [fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup1c](https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup1c)
+*   Fancy Input Group 2: [fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup2](https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup2)
+*   Fancy Input Group 2b: [fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup2b](https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup2b)
+*   Fancy Input Group 2c: [fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup2c](https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup2c)
+*   Fancy Simple Form 1: [fancytailwind.com/app/fancy-laboratory/molecules/simpleforms/simpleform1](https://fancytailwind.com/app/fancy-laboratory/molecules/simpleforms/simpleform1)
+*   Fancy Simple Form 2: [fancytailwind.com/app/fancy-laboratory/molecules/simpleforms/simpleform2](https://fancytailwind.com/app/fancy-laboratory/molecules/simpleforms/simpleform2)
+*   Fancy Sign Form 2: [fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm2](https://fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm2)
+*   Fancy Sign Form 6: [fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm6](https://fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm6)
+*   Free Tailwind CSS Input Group Component: [tailwindcomponents.com/component/free-tailwind-css-input-group-component](https://tailwindcomponents.com/component/free-tailwind-css-input-group-component)
+*   Free Tailwind CSS Form Layout Component: [tailwindcomponents.com/component/free-tailwind-css-form-layout-component](https://tailwindcomponents.com/component/free-tailwind-css-form-layout-component)
 
 ### Contact
 
@@ -938,6 +1082,9 @@
 *   Basic Contact Form - Nickname: [tailwindcomponents.com/component/basic-contact-form-nickname](https://tailwindcomponents.com/component/basic-contact-form-nickname)
 *   Contact List: [tailwindcomponents.com/component/contact-list](https://tailwindcomponents.com/component/contact-list)
 *   Contact Style 1: [tailgrids.com/components/contacts](https://tailgrids.com/components/contacts)
+*   Fancy Contact 1: [fancytailwind.com/app/fancy-laboratory/organisms/contacts/contact1](https://fancytailwind.com/app/fancy-laboratory/organisms/contacts/contact1)
+*   Fancy Contact 5: [fancytailwind.com/app/fancy-laboratory/organisms/contacts/contact5](https://fancytailwind.com/app/fancy-laboratory/organisms/contacts/contact5)
+*   Fancy Contact 9: [fancytailwind.com/app/fancy-laboratory/organisms/contacts/contact9](https://fancytailwind.com/app/fancy-laboratory/organisms/contacts/contact9)
 
 ### Login
 
@@ -1029,6 +1176,8 @@
 *   Argon Login: [tailwindtemplates.io/templates?category=login](https://tailwindtemplates.io/templates?category=login)
 *   Sign In / Sign Up Style 1: [tailgrids.com/components/signin-signup](https://tailgrids.com/components/signin-signup)
 *   Tailwind CSS Login Form: [tailwindcomponents.com/component/tailwind-css-login-form](https://tailwindcomponents.com/component/tailwind-css-login-form)
+*   Basic Login Form: [postsrc.com/components/tailwind-css-login-form/tailwind-css-basic-login-form](https://postsrc.com/components/tailwind-css-login-form/tailwind-css-basic-login-form)
+*   Free Tailwind CSS Sign In Component: [tailwindcomponents.com/component/free-tailwind-css-sign-in-component](https://tailwindcomponents.com/component/free-tailwind-css-sign-in-component)
 
 ### Register
 
@@ -1141,6 +1290,9 @@
 *   Slanted Footer: [tailwindcomponents.com/component/slanted-footer](https://tailwindcomponents.com/component/slanted-footer)
 *   responsive footer: [tailwindcomponents.com/component/responsive-footer-8](https://tailwindcomponents.com/component/responsive-footer-8)
 *   Page Sections footer: [blocks.wickedtemplates.com/footers](https://blocks.wickedtemplates.com/footers)
+*   Fancy Footer 1: [fancytailwind.com/app/fancy-laboratory/molecules/footers/footer1](https://fancytailwind.com/app/fancy-laboratory/molecules/footers/footer1)
+*   Fancy Footer 6: [fancytailwind.com/app/fancy-laboratory/molecules/footers/footer6](https://fancytailwind.com/app/fancy-laboratory/molecules/footers/footer6)
+*   Free Tailwind CSS Footer Component: [tailwindcomponents.com/component/free-tailwind-css-footer-component](https://tailwindcomponents.com/component/free-tailwind-css-footer-component)
 
 ## Hero
 
@@ -1173,6 +1325,14 @@
 *   Hero message: [tailwindcomponents.com/component/hero-message](https://tailwindcomponents.com/component/hero-message)
 *   Hero Product: [tailwindtoolbox.com/templates/hero-product](https://www.tailwindtoolbox.com/templates/hero-product)
 *   Marketing Page Sections Hero Sections With angled image on right: [tailwindui.com/preview#component-a3c09c7a3b8f4bd90d280722eaff9634](https://tailwindui.com/preview#component-a3c09c7a3b8f4bd90d280722eaff9634)
+*   Fancy Hero 1: [fancytailwind.com/app/fancy-laboratory/organisms/heros/hero1](https://fancytailwind.com/app/fancy-laboratory/organisms/heros/hero1)
+*   Fancy Hero 4: [fancytailwind.com/app/fancy-laboratory/organisms/heros/hero4](https://fancytailwind.com/app/fancy-laboratory/organisms/heros/hero4)
+*   Fancy Hero 8: [fancytailwind.com/app/fancy-laboratory/organisms/heros/hero8](https://fancytailwind.com/app/fancy-laboratory/organisms/heros/hero8)
+*   Fancy Hero 12: [fancytailwind.com/app/fancy-laboratory/organisms/heros/hero12](https://fancytailwind.com/app/fancy-laboratory/organisms/heros/hero12)
+*   Fancy Hero 25: [fancytailwind.com/app/fancy-laboratory/organisms/heros/hero25](https://fancytailwind.com/app/fancy-laboratory/organisms/heros/hero25)
+*   Free Tailwind CSS Hero Component: [tailwindcomponents.com/component/free-tailwind-css-hero-component-1](https://tailwindcomponents.com/component/free-tailwind-css-hero-component-1)
+*   Hero With Image: [tailwindcomponents.com/component/hero-with-image](https://tailwindcomponents.com/component/hero-with-image)
+*   Free Tailwind CSS Hero Component: [tailwindcomponents.com/component/free-tailwind-css-hero-component](https://tailwindcomponents.com/component/free-tailwind-css-hero-component)
 
 ## Loading/Spinner
 
@@ -1192,6 +1352,7 @@
 *   Spinner: [tailwindcomponents.com/component/spinner](https://tailwindcomponents.com/component/spinner)
 *   Full page overlay loading screen: [tailwindcomponents.com/component/full-page-overlay-loading-screen](https://tailwindcomponents.com/component/full-page-overlay-loading-screen)
 *   Spinners Basic example, Spinners Colors, Spinners Growing spinner, Spinners Colors of growing spinner, Spinners Margin, Spinners Flex, Spinners Floats, Spinners Text, Spinners Size small, Spinners Size large: [tailwind-elements.com/docs/standard/components/spinners/](https://tailwind-elements.com/docs/standard/components/spinners/)
+*   Spinner NEW Default spinner, Spinner NEW Colors, Spinner NEW Sizing, Spinner NEW Alignment: [flowbite.com/docs/components/spinner/](https://flowbite.com/docs/components/spinner/)
 
 ## Modal
 
@@ -1384,6 +1545,14 @@
 *   Page Sections right headers: [blocks.wickedtemplates.com/right-headers](https://blocks.wickedtemplates.com/right-headers)
 *   Navigation navigation: [blocks.wickedtemplates.com/navigation](https://blocks.wickedtemplates.com/navigation)
 *   Navigation sidebars: [blocks.wickedtemplates.com/sidebars](https://blocks.wickedtemplates.com/sidebars)
+*   Fancy Navbar 1: [fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar1](https://fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar1)
+*   Fancy Navbar 2: [fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar2](https://fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar2)
+*   Fancy Navbar 3: [fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar3](https://fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar3)
+*   Fancy Navbar 4: [fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar4](https://fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar4)
+*   Fancy Navbar 5: [fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar5](https://fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar5)
+*   Free Tailwind CSS Vertical Navigation Component: [tailwindcomponents.com/component/free-tailwind-css-vertical-navigation-component](https://tailwindcomponents.com/component/free-tailwind-css-vertical-navigation-component)
+*   Free Tailwind CSS Header Component: [tailwindcomponents.com/component/free-tailwind-css-header-component](https://tailwindcomponents.com/component/free-tailwind-css-header-component)
+*   Free Tailwind CSS  Horizontal Navigation Component: [tailwindcomponents.com/component/free-tailwind-css-horizontal-navigation-component](https://tailwindcomponents.com/component/free-tailwind-css-horizontal-navigation-component)
 
 ## Page
 
@@ -1456,6 +1625,7 @@
 *   Marketing Page Sections CTA Sections Simple justified: [tailwindui.com/preview#component-90c79fbd0596cc4e601da985ca825994](https://tailwindui.com/preview#component-90c79fbd0596cc4e601da985ca825994)
 *   Page Sections grids: [blocks.wickedtemplates.com/grids](https://blocks.wickedtemplates.com/grids)
 *   Page Sections clients: [blocks.wickedtemplates.com/clients](https://blocks.wickedtemplates.com/clients)
+*   Free Tailwind CSS Page Heading Component: [tailwindcomponents.com/component/free-tailwind-css-page-heading-component](https://tailwindcomponents.com/component/free-tailwind-css-page-heading-component)
 
 ### 404
 
@@ -1510,6 +1680,10 @@
 *   Pricing - Pricing card 1, Pricing - Pricing card 2, Pricing - Pricing card 3, Pricing - Publicity, Pricing - Pricing card 4, Pricing - Pricing card 5, Pricing - Pricing card 6, Pricing - Pricing card 7, Pricing - Pricing card 8, Pricing - Pricing card 9, Pricing - Publicity: [tailwind-kit.com/components/pricing](https://www.tailwind-kit.com/components/pricing)
 *   Pricing Style 1: [tailgrids.com/components/pricing-tables](https://tailgrids.com/components/pricing-tables)
 *   Page Sections pricing: [blocks.wickedtemplates.com/pricing](https://blocks.wickedtemplates.com/pricing)
+*   Pricing: [postsrc.com/components/tailwind-css-pricing/tailwind-css-pricing](https://postsrc.com/components/tailwind-css-pricing/tailwind-css-pricing)
+*   Fancy Pricing 1: [fancytailwind.com/app/fancy-laboratory/organisms/pricings/pricing1](https://fancytailwind.com/app/fancy-laboratory/organisms/pricings/pricing1)
+*   Fancy Pricing 10: [fancytailwind.com/app/fancy-laboratory/organisms/pricings/pricing10](https://fancytailwind.com/app/fancy-laboratory/organisms/pricings/pricing10)
+*   Free Tailwind CSS Pricing Component: [tailwindcomponents.com/component/free-tailwind-css-pricing-component](https://tailwindcomponents.com/component/free-tailwind-css-pricing-component)
 
 ### Testimonial
 
@@ -1539,6 +1713,10 @@
 *   testimonial card: [tailwindcomponents.com/component/testimonial-card](https://tailwindcomponents.com/component/testimonial-card)
 *   Testimonials - Small, Testimonials - Head, Testimonials - Big, Testimonials - Publicity, Testimonials - Big with image on left, Testimonials - Multiple, Testimonials - Review, Testimonials - Review with rate: [tailwind-kit.com/components/testimonial](https://www.tailwind-kit.com/components/testimonial)
 *   Testimonial Style 1: [tailgrids.com/components/testimonials](https://tailgrids.com/components/testimonials)
+*   Fancy Testimonials 3: [fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials3](https://fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials3)
+*   Fancy Testimonials 7: [fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials7](https://fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials7)
+*   Fancy Testimonials 9: [fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials9](https://fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials9)
+*   Fancy Testimonials 11: [fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials11](https://fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials11)
 
 ## Pagination
 
@@ -1562,6 +1740,12 @@
 *   Lexicon Pagination bar, Lexicon Simple Pagination, Argon Pagination: [tailwindtemplates.io/templates?category=pagination](https://tailwindtemplates.io/templates?category=pagination)
 *   Pagination Style 1: [tailgrids.com/components/paginations](https://tailgrids.com/components/paginations)
 *   Tailwind CSS pagination: [tailwindcomponents.com/component/tailwind-css-pagination](https://tailwindcomponents.com/component/tailwind-css-pagination)
+*   Bordered Pagination: [postsrc.com/components/tailwind-css-pagination/bordered-pagination-component](https://postsrc.com/components/tailwind-css-pagination/bordered-pagination-component)
+*   Pagination With Icons: [postsrc.com/components/tailwind-css-pagination/pagination-with-icons-component](https://postsrc.com/components/tailwind-css-pagination/pagination-with-icons-component)
+*   Fancy Pagination 4: [fancytailwind.com/app/fancy-laboratory/molecules/paginations/pagination4](https://fancytailwind.com/app/fancy-laboratory/molecules/paginations/pagination4)
+*   Fancy Pagination 11: [fancytailwind.com/app/fancy-laboratory/molecules/paginations/pagination11](https://fancytailwind.com/app/fancy-laboratory/molecules/paginations/pagination11)
+*   Fancy Pagination 12: [fancytailwind.com/app/fancy-laboratory/molecules/paginations/pagination12](https://fancytailwind.com/app/fancy-laboratory/molecules/paginations/pagination12)
+*   Free Tailwind CSS Pagination Component: [tailwindcomponents.com/component/free-tailwind-css-pagination-component](https://tailwindcomponents.com/component/free-tailwind-css-pagination-component)
 
 ## Progress Bar
 
@@ -1584,6 +1768,7 @@
 *   Progress Bar + Shimmer: [codepen.io/oidre/full/BaKBOqg](https://codepen.io/oidre/full/BaKBOqg)
 *   Progress bar - Simple progress bar, Progress bar - Fat progress bar, Progress bar - With label, Progress bar - Colored, Progress bar - With badge, Progress bar - Publicity: [tailwind-kit.com/components/progress](https://www.tailwind-kit.com/components/progress)
 *   Progress Bar Style 1, Progress Bar Style 2, Progress Bar Style 3, Progress Bar Style 4: [tailgrids.com/components/progress-bars](https://tailgrids.com/components/progress-bars)
+*   Free Tailwind CSS  Progress Bar Component: [tailwindcomponents.com/component/free-tailwind-css-progress-bar-component](https://tailwindcomponents.com/component/free-tailwind-css-progress-bar-component)
 
 ## Skeleton
 
@@ -1593,6 +1778,8 @@
 *   A card skeleton for loading: [tailwindcomponents.com/component/a-card-skeleton-for-loading](https://tailwindcomponents.com/component/a-card-skeleton-for-loading)
 *   Skeleton Loading: [codepen.io/muratbenli/pen/yLOYmgj](https://codepen.io/muratbenli/pen/yLOYmgj)
 *   Skeletons - Simple, Skeletons - Card skeleton, Skeletons - Horizontal Card skeleton: [tailwind-kit.com/components/skeleton](https://www.tailwind-kit.com/components/skeleton)
+*   Basic Loading Skeleton: [postsrc.com/components/skeleton/basic-skeleton](https://postsrc.com/components/skeleton/basic-skeleton)
+*   Complex Loading Skeleton: [postsrc.com/components/skeleton/tailwind-css-complex-loading-skeleton](https://postsrc.com/components/skeleton/tailwind-css-complex-loading-skeleton)
 
 ## Sidebar
 
@@ -1632,6 +1819,7 @@
 *   Tabs Sliding Tabs, Tabs Sliding Tabs With Icons: [gustui.com/docs/application/components/tabs](https://www.gustui.com/docs/application/components/tabs)
 *   Side Navs Simple Side Nav, Side Navs Side Filters: [gustui.com/docs/application/elements/side-navs](https://www.gustui.com/docs/application/elements/side-navs)
 *   Dashboards Dashboard With Side Nav: [gustui.com/docs/application/pages/dashboards](https://www.gustui.com/docs/application/pages/dashboards)
+*   Free Tailwind CSS  Sidebar Layout Component: [tailwindcomponents.com/component/free-tailwind-css-sidebar-layout-component](https://tailwindcomponents.com/component/free-tailwind-css-sidebar-layout-component)
 
 ## Comment
 
@@ -1644,6 +1832,7 @@
 *   comments: [tailwindcomponents.com/component/comments](https://tailwindcomponents.com/component/comments)
 *   Comment form: [tailwindcomponents.com/component/comment-form](https://tailwindcomponents.com/component/comment-form)
 *   Comment: [tailwindcomponents.com/component/comment](https://tailwindcomponents.com/component/comment)
+*   Comment with TailwindV3: [tailwindcomponents.com/component/comment-with-tailwindv3](https://tailwindcomponents.com/component/comment-with-tailwindv3)
 
 ## Step
 
@@ -1665,6 +1854,10 @@
 *   Multistep Form with TailwindCSS and AlpineJS: [tailwindcomponents.com/component/multistep-form-with-tailwindcss-and-alpinejs](https://tailwindcomponents.com/component/multistep-form-with-tailwindcss-and-alpinejs)
 *   Stepper Basic, Stepper Vertical stepper: [tailwind-elements.com/docs/standard/components/stepper/](https://tailwind-elements.com/docs/standard/components/stepper/)
 *   Steps Chevron Dots: [gustui.com/docs/application/components/steps](https://www.gustui.com/docs/application/components/steps)
+*   Fancy Steps 3: [fancytailwind.com/app/fancy-laboratory/molecules/steps/steps3](https://fancytailwind.com/app/fancy-laboratory/molecules/steps/steps3)
+*   Fancy Steps 4: [fancytailwind.com/app/fancy-laboratory/molecules/steps/steps4](https://fancytailwind.com/app/fancy-laboratory/molecules/steps/steps4)
+*   Fancy Steps 7: [fancytailwind.com/app/fancy-laboratory/molecules/steps/steps7](https://fancytailwind.com/app/fancy-laboratory/molecules/steps/steps7)
+*   Fancy Steps 12: [fancytailwind.com/app/fancy-laboratory/molecules/steps/steps12](https://fancytailwind.com/app/fancy-laboratory/molecules/steps/steps12)
 
 ## Switch
 
@@ -1732,6 +1925,7 @@
 *   Tooltip: [tailwindcomponents.com/component/tooltip](https://tailwindcomponents.com/component/tooltip)
 *   Tooltip Basic example, Tooltip Four directions, Tooltip With custom HTML, Tooltip Disabled: [tailwind-elements.com/docs/standard/components/tooltip/](https://tailwind-elements.com/docs/standard/components/tooltip/)
 *   Tooltip Style 1, Tooltip Style 2, Tooltip Style 3: [tailgrids.com/components/tooltips](https://tailgrids.com/components/tooltips)
+*   Free Tailwind CSS Tooltip Component: [tailwindcomponents.com/component/free-tailwind-css-tooltip-component](https://tailwindcomponents.com/component/free-tailwind-css-tooltip-component)
 
 ## Table
 
@@ -1776,6 +1970,9 @@
 *   Tables Standard Table, Tables Striped Table: [gustui.com/docs/application/elements/tables](https://www.gustui.com/docs/application/elements/tables)
 *   Table Style 1: [tailgrids.com/components/tables](https://tailgrids.com/components/tables)
 *   Table: [mambaui.com/components/table](https://mambaui.com/components/table)
+*   Fancy Table 1: [fancytailwind.com/app/fancy-laboratory/molecules/tables/table1](https://fancytailwind.com/app/fancy-laboratory/molecules/tables/table1)
+*   Fancy Table 1b: [fancytailwind.com/app/fancy-laboratory/molecules/tables/table1b](https://fancytailwind.com/app/fancy-laboratory/molecules/tables/table1b)
+*   Tailwind CSS Tables: [tailwindcomponents.com/component/tailwind-css-tables](https://tailwindcomponents.com/component/tailwind-css-tables)
 
 ## List
 
@@ -1812,6 +2009,13 @@
 *   List - Simple list, List - With action, List - Bloc list, List - With desc, List - With desc and action, List - Publicity, List - With hover effect, List - Todo list, List - Desc bloc list: [tailwind-kit.com/components/list](https://www.tailwind-kit.com/components/list)
 *   Lists Simple List, Lists List With Images, Lists Review List: [gustui.com/docs/application/elements/lists](https://www.gustui.com/docs/application/elements/lists)
 *   Order List Style 1, Order List Style 2, Order List Style 3, Unorder List Style 1, Unorder List Style 2, Unorder List Style 3, Unorder List Style 4, Unorder List Style 5, Unorder List Style 6: [tailgrids.com/components/list-styles](https://tailgrids.com/components/list-styles)
+*   Fancy Product List 1: [fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList1](https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList1)
+*   Fancy Product List 5: [fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList5](https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList5)
+*   Fancy Product List 16: [fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList16](https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList16)
+*   Fancy Product List 20: [fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList20](https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList20)
+*   Fancy Stacked List 1: [fancytailwind.com/app/fancy-laboratory/molecules/stackedlists/stackedList1](https://fancytailwind.com/app/fancy-laboratory/molecules/stackedlists/stackedList1)
+*   Fancy Stacked List 6: [fancytailwind.com/app/fancy-laboratory/molecules/stackedlists/stackedList6](https://fancytailwind.com/app/fancy-laboratory/molecules/stackedlists/stackedList6)
+*   Prodcut List: [tailwindcomponents.com/component/prodcut-list](https://tailwindcomponents.com/component/prodcut-list)
 
 ## Tab
 
@@ -1837,6 +2041,12 @@
 *   Tabs: [tailwindcomponents.com/component/tabs](https://tailwindcomponents.com/component/tabs)
 *   Argon Tabs with Icons, Argon Tabs, Biings Boxed Tabs, Biings Tabs Rounded full, Biings Tabs Rounded, Biings Hanging Tabs, Biings Tabs: [tailwindtemplates.io/templates?category=tab](https://tailwindtemplates.io/templates?category=tab)
 *   Tab Style 1: [tailgrids.com/components/tabs](https://tailgrids.com/components/tabs)
+*   Basic Tabs: [postsrc.com/components/tailwind-css-tabs/tailwind-css-basic-tabs](https://postsrc.com/components/tailwind-css-tabs/tailwind-css-basic-tabs)
+*   Fancy Tabs 1: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs1](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs1)
+*   Fancy Tabs 3: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs3](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs3)
+*   Fancy Tabs 4: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs4](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs4)
+*   Fancy Tabs 11: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs11](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs11)
+*   Free Tailwind CSS Tab Component: [tailwindcomponents.com/component/free-tailwind-css-tab-component](https://tailwindcomponents.com/component/free-tailwind-css-tab-component)
 
 ## Timeline
 
@@ -1855,6 +2065,7 @@
 *   Timeline: [tailwindcomponents.com/component/timeline](https://tailwindcomponents.com/component/timeline)
 *   Timeline NEW Default timeline, Timeline NEW Vertical timeline, Timeline NEW Horizontal timeline, Timeline NEW Activity log, Timeline NEW Grouped timeline: [flowbite.com/docs/components/timeline/](https://flowbite.com/docs/components/timeline/)
 *   Tailwind CSS Timeline: [tailwindcomponents.com/component/tailwind-css-timeline](https://tailwindcomponents.com/component/tailwind-css-timeline)
+*   Timeline Basic example, Timeline Primary color, Timeline Horizontal: [tailwind-elements.com/docs/standard/components/timeline/](https://tailwind-elements.com/docs/standard/components/timeline/)
 
 ## Other
 
@@ -1910,7 +2121,6 @@
 *   Subheading: [a17t.miles.land/typography/subheading/](https://a17t.miles.land/typography/subheading/)
 *   Support: [a17t.miles.land/typography/support/](https://a17t.miles.land/typography/support/)
 *   Supra: [a17t.miles.land/typography/supra/](https://a17t.miles.land/typography/supra/)
-*   call to action: [tailwind-css-components.appseed.us/call-to-action.html](https://tailwind-css-components.appseed.us/call-to-action.html)
 *   content: [tailwind-css-components.appseed.us/content.html](https://tailwind-css-components.appseed.us/content.html)
 *   faq: [tailwind-css-components.appseed.us/faq.html](https://tailwind-css-components.appseed.us/faq.html)
 *   features: [tailwind-css-components.appseed.us/features.html](https://tailwind-css-components.appseed.us/features.html)
@@ -2003,7 +2213,6 @@
 *   Stats: [kitwind.io/products/kometa/components/stats](https://kitwind.io/products/kometa/components/stats)
 *   Application Empty State: [kutty.netlify.app/components/empty-state/](https://kutty.netlify.app/components/empty-state/)
 *   Marketing Blog Post: [kutty.netlify.app/components/blog-post/](https://kutty.netlify.app/components/blog-post/)
-*   Marketing Call to Action: [kutty.netlify.app/components/call-to-action/](https://kutty.netlify.app/components/call-to-action/)
 *   Marketing FAQ: [kutty.netlify.app/components/faq/](https://kutty.netlify.app/components/faq/)
 *   Marketing Features: [kutty.netlify.app/components/features/](https://kutty.netlify.app/components/features/)
 *   Marketing Logos: [kutty.netlify.app/components/logos/](https://kutty.netlify.app/components/logos/)
@@ -2047,7 +2256,6 @@
 *   Kanban Board: [codepen.io/robstinson/pen/PoNdjOM](https://codepen.io/robstinson/pen/PoNdjOM)
 *   Article: [mambaui.com/components/article](https://mambaui.com/components/article)
 *   Blog: [mambaui.com/components/blog](https://mambaui.com/components/blog)
-*   Call to action: [mambaui.com/components/call-to-action](https://mambaui.com/components/call-to-action)
 *   Error: [mambaui.com/components/error](https://mambaui.com/components/error)
 *   Faq: [mambaui.com/components/faq](https://mambaui.com/components/faq)
 *   Feature: [mambaui.com/components/feature](https://mambaui.com/components/feature)
@@ -2309,7 +2517,6 @@
 *   Github Clone: [tailwindcomponents.com/component/github-clone](https://tailwindcomponents.com/component/github-clone)
 *   Goals: [tailwindcomponents.com/component/goals](https://tailwindcomponents.com/component/goals)
 *   Simple Dashboard Layout: [tailwindcomponents.com/component/simple-dashboard](https://tailwindcomponents.com/component/simple-dashboard)
-*   Call To Action: [tailwindcomponents.com/component/call-to-action-basic](https://tailwindcomponents.com/component/call-to-action-basic)
 *   responsive dashboard layout: [tailwindcomponents.com/component/responsive-dashboard-layout](https://tailwindcomponents.com/component/responsive-dashboard-layout)
 *   Jira Dashboard: [tailwindcomponents.com/component/jira-dashboard](https://tailwindcomponents.com/component/jira-dashboard)
 *   Tailwind CSS Admin Template: [tailwindcomponents.com/component/tailwind-css-admin-template](https://tailwindcomponents.com/component/tailwind-css-admin-template)
@@ -2547,7 +2754,6 @@
 *   Portfolio Style 1: [tailgrids.com/components/portfolios](https://tailgrids.com/components/portfolios)
 *   Team Style 1: [tailgrids.com/components/teams](https://tailgrids.com/components/teams)
 *   Video Style 1: [tailgrids.com/components/videos](https://tailgrids.com/components/videos)
-*   Call to Action Style 1: [tailgrids.com/components/call-to-actions](https://tailgrids.com/components/call-to-actions)
 *   About Style 1: [tailgrids.com/components/about](https://tailgrids.com/components/about)
 *   Brand Style 1: [tailgrids.com/components/brands](https://tailgrids.com/components/brands)
 *   Tailwind CSS Features / Services: [tailwindcomponents.com/component/tailwind-css-features-services](https://tailwindcomponents.com/component/tailwind-css-features-services)
@@ -2555,3 +2761,79 @@
 *   Aditya Singh: [tailwindcomponents.com/component/aditya-singh](https://tailwindcomponents.com/component/aditya-singh)
 *   Todos App: [tailwindcomponents.com/component/todos-app](https://tailwindcomponents.com/component/todos-app)
 *   Overlay content: [blocks.wickedtemplates.com/content](https://blocks.wickedtemplates.com/content)
+*   Basic Filter: [postsrc.com/components/tailwind-css-filters/tailwind-css-basic-filter](https://postsrc.com/components/tailwind-css-filters/tailwind-css-basic-filter)
+*   Basic Question and Answers: [postsrc.com/components/tailwind-css-question-and-answers/tailwind-css-basic-quesion-and-answers](https://postsrc.com/components/tailwind-css-question-and-answers/tailwind-css-basic-quesion-and-answers)
+*   Basic Social Share: [postsrc.com/components/tailwind-css-social-share-box/basic-social-share](https://postsrc.com/components/tailwind-css-social-share-box/basic-social-share)
+*   Fancy Banner 1: [fancytailwind.com/app/fancy-laboratory/molecules/banners/banner1](https://fancytailwind.com/app/fancy-laboratory/molecules/banners/banner1)
+*   Fancy Banner 2: [fancytailwind.com/app/fancy-laboratory/molecules/banners/banner2](https://fancytailwind.com/app/fancy-laboratory/molecules/banners/banner2)
+*   Fancy Banner 14: [fancytailwind.com/app/fancy-laboratory/molecules/banners/banner14](https://fancytailwind.com/app/fancy-laboratory/molecules/banners/banner14)
+*   Fancy Burger 1: [fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger1](https://fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger1)
+*   Fancy Burger 7: [fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger7](https://fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger7)
+*   Fancy Burger 17: [fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger17](https://fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger17)
+*   Fancy Burger 21: [fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger21](https://fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger21)
+*   Fancy Category Filter 1: [fancytailwind.com/app/fancy-laboratory/molecules/categoryfilters/categoryFilter1](https://fancytailwind.com/app/fancy-laboratory/molecules/categoryfilters/categoryFilter1)
+*   Fancy Category Filter 4: [fancytailwind.com/app/fancy-laboratory/molecules/categoryfilters/categoryFilter4](https://fancytailwind.com/app/fancy-laboratory/molecules/categoryfilters/categoryFilter4)
+*   Fancy Faq 1: [fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq1](https://fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq1)
+*   Fancy Faq 6: [fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq6](https://fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq6)
+*   Fancy Features 3: [fancytailwind.com/app/fancy-laboratory/molecules/features/features3](https://fancytailwind.com/app/fancy-laboratory/molecules/features/features3)
+*   Fancy Features 5: [fancytailwind.com/app/fancy-laboratory/molecules/features/features5](https://fancytailwind.com/app/fancy-laboratory/molecules/features/features5)
+*   Fancy Features 11: [fancytailwind.com/app/fancy-laboratory/molecules/features/features11](https://fancytailwind.com/app/fancy-laboratory/molecules/features/features11)
+*   Fancy Features 16: [fancytailwind.com/app/fancy-laboratory/molecules/features/features16](https://fancytailwind.com/app/fancy-laboratory/molecules/features/features16)
+*   Fancy Guarantees 1: [fancytailwind.com/app/fancy-laboratory/molecules/guarantees/guarantees1](https://fancytailwind.com/app/fancy-laboratory/molecules/guarantees/guarantees1)
+*   Fancy Guarantees 2: [fancytailwind.com/app/fancy-laboratory/molecules/guarantees/guarantees2](https://fancytailwind.com/app/fancy-laboratory/molecules/guarantees/guarantees2)
+*   Fancy Guarantees 7: [fancytailwind.com/app/fancy-laboratory/molecules/guarantees/guarantees7](https://fancytailwind.com/app/fancy-laboratory/molecules/guarantees/guarantees7)
+*   Fancy Logo Cloud 3: [fancytailwind.com/app/fancy-laboratory/molecules/logoclouds/logoCloud3](https://fancytailwind.com/app/fancy-laboratory/molecules/logoclouds/logoCloud3)
+*   Fancy Logo Cloud 6: [fancytailwind.com/app/fancy-laboratory/molecules/logoclouds/logoCloud6](https://fancytailwind.com/app/fancy-laboratory/molecules/logoclouds/logoCloud6)
+*   Fancy NavItem 1: [fancytailwind.com/app/fancy-laboratory/atoms/navitems/navItem1](https://fancytailwind.com/app/fancy-laboratory/atoms/navitems/navItem1)
+*   Fancy NavItem 10: [fancytailwind.com/app/fancy-laboratory/atoms/navitems/navItem10](https://fancytailwind.com/app/fancy-laboratory/atoms/navitems/navItem10)
+*   Fancy NavItem 16: [fancytailwind.com/app/fancy-laboratory/atoms/navitems/navItem16](https://fancytailwind.com/app/fancy-laboratory/atoms/navitems/navItem16)
+*   Fancy Newsletter 3: [fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter3](https://fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter3)
+*   Fancy Newsletter 6: [fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter6](https://fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter6)
+*   Fancy Newsletter 8: [fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter8](https://fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter8)
+*   Fancy Newsletter 11: [fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter11](https://fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter11)
+*   Fancy Product Category 1: [fancytailwind.com/app/fancy-laboratory/organisms/productcategories/productCategory1](https://fancytailwind.com/app/fancy-laboratory/organisms/productcategories/productCategory1)
+*   Fancy Product Category 5: [fancytailwind.com/app/fancy-laboratory/organisms/productcategories/productCategory5](https://fancytailwind.com/app/fancy-laboratory/organisms/productcategories/productCategory5)
+*   Fancy Product Category 8: [fancytailwind.com/app/fancy-laboratory/organisms/productcategories/productCategory8](https://fancytailwind.com/app/fancy-laboratory/organisms/productcategories/productCategory8)
+*   Fancy Product Details 4: [fancytailwind.com/app/fancy-laboratory/organisms/productdetails/productDetails4](https://fancytailwind.com/app/fancy-laboratory/organisms/productdetails/productDetails4)
+*   Fancy Product Details 9: [fancytailwind.com/app/fancy-laboratory/organisms/productdetails/productDetails9](https://fancytailwind.com/app/fancy-laboratory/organisms/productdetails/productDetails9)
+*   Fancy Product Reviews 2: [fancytailwind.com/app/fancy-laboratory/molecules/productreviews/productReviews2](https://fancytailwind.com/app/fancy-laboratory/molecules/productreviews/productReviews2)
+*   Fancy Product Reviews 6: [fancytailwind.com/app/fancy-laboratory/molecules/productreviews/productReviews6](https://fancytailwind.com/app/fancy-laboratory/molecules/productreviews/productReviews6)
+*   Fancy Product Reviews 10: [fancytailwind.com/app/fancy-laboratory/molecules/productreviews/productReviews10](https://fancytailwind.com/app/fancy-laboratory/molecules/productreviews/productReviews10)
+*   Fancy Product Suggestion 6: [fancytailwind.com/app/fancy-laboratory/molecules/productsuggestions/productSuggestion6](https://fancytailwind.com/app/fancy-laboratory/molecules/productsuggestions/productSuggestion6)
+*   Fancy Product Suggestion 10: [fancytailwind.com/app/fancy-laboratory/molecules/productsuggestions/productSuggestion10](https://fancytailwind.com/app/fancy-laboratory/molecules/productsuggestions/productSuggestion10)
+*   Fancy Section Heading 1: [fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading1](https://fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading1)
+*   Fancy Section Heading 2: [fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading2](https://fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading2)
+*   Fancy Section Heading 4: [fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading4](https://fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading4)
+*   Fancy Section Heading 8: [fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading8](https://fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading8)
+*   Fancy Shopping Cart 4: [fancytailwind.com/app/fancy-laboratory/organisms/shoppingcarts/shoppingCart4](https://fancytailwind.com/app/fancy-laboratory/organisms/shoppingcarts/shoppingCart4)
+*   Fancy Social Share 1: [fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare1](https://fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare1)
+*   Fancy Social Share 2: [fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare2](https://fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare2)
+*   Fancy Social Share 3: [fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare3](https://fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare3)
+*   Fancy Social Share 4: [fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare4](https://fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare4)
+*   Fancy Stats 3: [fancytailwind.com/app/fancy-laboratory/molecules/stats/stats3](https://fancytailwind.com/app/fancy-laboratory/molecules/stats/stats3)
+*   Fancy Stats 9: [fancytailwind.com/app/fancy-laboratory/molecules/stats/stats9](https://fancytailwind.com/app/fancy-laboratory/molecules/stats/stats9)
+*   Fancy Team 1: [fancytailwind.com/app/fancy-laboratory/organisms/teams/team1](https://fancytailwind.com/app/fancy-laboratory/organisms/teams/team1)
+*   Fancy Team 9: [fancytailwind.com/app/fancy-laboratory/organisms/teams/team9](https://fancytailwind.com/app/fancy-laboratory/organisms/teams/team9)
+*   Fancy Team 11: [fancytailwind.com/app/fancy-laboratory/organisms/teams/team11](https://fancytailwind.com/app/fancy-laboratory/organisms/teams/team11)
+*   Fancy Team 12: [fancytailwind.com/app/fancy-laboratory/organisms/teams/team12](https://fancytailwind.com/app/fancy-laboratory/organisms/teams/team12)
+*   Fancy Text Effect 1: [fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect1](https://fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect1)
+*   Fancy Text Effect 3: [fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect3](https://fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect3)
+*   Fancy Text Effect 5: [fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect5](https://fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect5)
+*   Fancy Text Effect 17: [fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect17](https://fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect17)
+*   Fancy Text Hover Effect 2: [fancytailwind.com/app/fancy-laboratory/atoms/texthovereffects/textHoverEffect2](https://fancytailwind.com/app/fancy-laboratory/atoms/texthovereffects/textHoverEffect2)
+*   Free Tailwind CSS Action Panel Component: [tailwindcomponents.com/component/free-tailwind-css-action-panel-component](https://tailwindcomponents.com/component/free-tailwind-css-action-panel-component)
+*   Free Tailwind CSS 3 X 3 X 3 X 3 Col Grid Component: [tailwindcomponents.com/component/free-tailwind-css-3-x-3-x-3-x-3-col-grid-component](https://tailwindcomponents.com/component/free-tailwind-css-3-x-3-x-3-x-3-col-grid-component)
+*   Free Tailwind CSS 4 X 4 X 4 Col  Grid Component: [tailwindcomponents.com/component/free-tailwind-css-4-x-4-x-4-col-grid-component](https://tailwindcomponents.com/component/free-tailwind-css-4-x-4-x-4-col-grid-component)
+*   Free Tailwind CSS Team Component: [tailwindcomponents.com/component/free-tailwind-css-team-component](https://tailwindcomponents.com/component/free-tailwind-css-team-component)
+*   Free Tailwind CSS Boxed Layout Component: [tailwindcomponents.com/component/free-tailwind-css-boxed-layout-component](https://tailwindcomponents.com/component/free-tailwind-css-boxed-layout-component)
+*   Free Tailwind CSS Action Panel Component: [tailwindcomponents.com/component/free-tailwind-css-stat-component-1](https://tailwindcomponents.com/component/free-tailwind-css-stat-component-1)
+*   Free Tailwind CSS Stat Component: [tailwindcomponents.com/component/free-tailwind-css-stat-component](https://tailwindcomponents.com/component/free-tailwind-css-stat-component)
+*   Free Tailwind CSS Product Component: [tailwindcomponents.com/component/free-tailwind-css-product-component-1](https://tailwindcomponents.com/component/free-tailwind-css-product-component-1)
+*   Free Tailwind CSS Newsletter Component: [tailwindcomponents.com/component/free-tailwind-css-newsletter-component](https://tailwindcomponents.com/component/free-tailwind-css-newsletter-component)
+*   Free Tailwind CSS Content Component: [tailwindcomponents.com/component/free-tailwind-css-content-component](https://tailwindcomponents.com/component/free-tailwind-css-content-component)
+*   Free Tailwind CSS Feature Component: [tailwindcomponents.com/component/free-tailwind-css-feature-component](https://tailwindcomponents.com/component/free-tailwind-css-feature-component)
+*   Free Tailwind CSS Blog Component: [tailwindcomponents.com/component/free-tailwind-css-blog-component](https://tailwindcomponents.com/component/free-tailwind-css-blog-component)
+*   Free Tailwind CSS Cloud Logo Component: [tailwindcomponents.com/component/free-tailwind-css-cloud-logo-component](https://tailwindcomponents.com/component/free-tailwind-css-cloud-logo-component)
+*   Free Tailwind CSS FAQ Component: [tailwindcomponents.com/component/free-tailwind-css-404-page-component](https://tailwindcomponents.com/component/free-tailwind-css-404-page-component)
+*   Datetime Range Picker: [tailwindcomponents.com/component/datetime-range-picker](https://tailwindcomponents.com/component/datetime-range-picker)
+*   Vite - Vue3 – Tailwind: [github.com/web2033/vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter)

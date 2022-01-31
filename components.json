@@ -725,7 +725,7 @@
     "category": "Button"
   },
   {
-    "name": "Buttons NEW Default button, Buttons NEW Button pills, Buttons NEW Gradient monochrome, Buttons NEW Gradient duotone, Buttons NEW Gradient outline, Buttons NEW Colored shadows, Buttons NEW Social buttons, Buttons NEW Payment buttons, Buttons NEW Outline buttons, Buttons NEW Button sizes, Buttons NEW Buttons with icon, Buttons NEW Button with label, Buttons NEW Icon buttons, Buttons NEW Disabled",
+    "name": "Buttons NEW Default button, Buttons NEW Button pills, Buttons NEW Gradient monochrome, Buttons NEW Gradient duotone, Buttons NEW Gradient outline, Buttons NEW Colored shadows, Buttons NEW Social buttons, Buttons NEW Payment buttons, Buttons NEW Outline buttons, Buttons NEW Button sizes, Buttons NEW Buttons with icon, Buttons NEW Button with label, Buttons NEW Icon buttons, Buttons NEW Loader, Buttons NEW Disabled",
     "link": "https://flowbite.com/docs/components/buttons/",
     "category": "Button"
   },
@@ -11177,7 +11177,7 @@
     "category": "Other"
   },
   {
-    "name": "Toast NEW Default toast, Toast NEW Colors, Toast NEW Simple toast, Toast NEW Undo button, Toast NEW Toast message, Toast NEW Push notification, Toast NEW Interactive toast, Toast NEW Position",
+    "name": "Toast Default toast, Toast Colors, Toast Simple toast, Toast Undo button, Toast Toast message, Toast Push notification, Toast Interactive toast, Toast Position",
     "link": "https://flowbite.com/docs/components/toast/",
     "category": "Alert/Notification"
   },
@@ -12205,6 +12205,1097 @@
   {
     "name": "Basic Social Share",
     "link": "https://postsrc.com/components/tailwind-css-social-share-box/basic-social-share",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Alert 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/alerts/alert1",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Fancy Alert 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/alerts/alert2",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Fancy Alert 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/alerts/alert3",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Fancy Avatar 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar1",
+    "category": "Avatar"
+  },
+  {
+    "name": "Fancy Avatar 1b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar1b",
+    "category": "Avatar"
+  },
+  {
+    "name": "Fancy Avatar 1c",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar1c",
+    "category": "Avatar"
+  },
+  {
+    "name": "Fancy Avatar 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar2",
+    "category": "Avatar"
+  },
+  {
+    "name": "Fancy Avatar 2b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar2b",
+    "category": "Avatar"
+  },
+  {
+    "name": "Fancy Avatar 2c",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar2c",
+    "category": "Avatar"
+  },
+  {
+    "name": "Fancy Avatar 7",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar7",
+    "category": "Avatar"
+  },
+  {
+    "name": "Fancy Badge 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge1",
+    "category": "Badge"
+  },
+  {
+    "name": "Fancy Badge 1b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge1b",
+    "category": "Badge"
+  },
+  {
+    "name": "Fancy Badge 1c",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge1c",
+    "category": "Badge"
+  },
+  {
+    "name": "Fancy Badge 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2",
+    "category": "Badge"
+  },
+  {
+    "name": "Fancy Badge 2b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2b",
+    "category": "Badge"
+  },
+  {
+    "name": "Fancy Badge 2c",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2c",
+    "category": "Badge"
+  },
+  {
+    "name": "Fancy Blog Card 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/blogcards/blogCard1",
+    "category": "Card"
+  },
+  {
+    "name": "Fancy Blog Card 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/blogcards/blogCard2",
+    "category": "Card"
+  },
+  {
+    "name": "Fancy Blog Card 6",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/blogcards/blogCard6",
+    "category": "Card"
+  },
+  {
+    "name": "Fancy Banner 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/banners/banner1",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Banner 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/banners/banner2",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Banner 14",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/banners/banner14",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Alert Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-alert-component",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Toast",
+    "link": "https://tailwindcomponents.com/component/toast",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Free Tailwind CSS Avatar Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-avatar-component",
+    "category": "Avatar"
+  },
+  {
+    "name": "Free Tailwind CSS Badge Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-badge-component",
+    "category": "Badge"
+  },
+  {
+    "name": "Fancy Breadcrumb 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/breadcrumbs/breadcrumb4",
+    "category": "Breadcrumb"
+  },
+  {
+    "name": "Fancy Button 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button1",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button 1b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button1b",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button 1c",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button1c",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button2",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button 2b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button2b",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button 2c",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button2c",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button3",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button 3b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button3b",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button 3c",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button3c",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Effect 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect1",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Effect 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect3",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Effect 10",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect10",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Effect 14",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect14",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Effect 24",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/buttons/button24",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Effect 30",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect30",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Effect 33",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/buttoneffects/buttonEffect33",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Group 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/buttongroups/buttonGroup1",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Group 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/buttongroups/buttonGroup2",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Social 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial1",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Social 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial2",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Social 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial3",
+    "category": "Button"
+  },
+  {
+    "name": "Fancy Button Social 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/buttonsocials/buttonSocial4",
+    "category": "Button"
+  },
+  {
+    "name": "Spinner NEW Default spinner, Spinner NEW Colors, Spinner NEW Sizing, Spinner NEW Alignment",
+    "link": "https://flowbite.com/docs/components/spinner/",
+    "category": "Loading/Spinner"
+  },
+  {
+    "name": "Button Groups",
+    "link": "https://hyperui.dev/components/button-groups",
+    "category": "Button"
+  },
+  {
+    "name": "Free Tailwind CSS Grouped Button Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-grouped-button-component",
+    "category": "Button"
+  },
+  {
+    "name": "Free Tailwind CSS Button Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-button-component",
+    "category": "Button"
+  },
+  {
+    "name": "Free Tailwind CSS Card Heading Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-card-heading-component",
+    "category": "Card"
+  },
+  {
+    "name": "Free Tailwind CSS Grid Card Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-grid-card-component",
+    "category": "Card"
+  },
+  {
+    "name": "Free Tailwind CSS Full Width With Right Grey Card Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-full-width-with-right-grey-card-component",
+    "category": "Card"
+  },
+  {
+    "name": "Free Tailwind CSS Full Width Divided Into Three Card Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-full-width-divided-into-three-card-component",
+    "category": "Card"
+  },
+  {
+    "name": "Tailwind Card Portfolio",
+    "link": "https://tailwindcomponents.com/component/tailwind-card-portfolio",
+    "category": "Card"
+  },
+  {
+    "name": "Fancy Cookie 5",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/cookies/cookie5",
+    "category": "Cookies"
+  },
+  {
+    "name": "Fancy Cookie 6",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/cookies/cookie6",
+    "category": "Cookies"
+  },
+  {
+    "name": "Free Tailwind CSS Calendar Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-calendar-component",
+    "category": "Date/Time"
+  },
+  {
+    "name": "Free Tailwind CSS Dropdown Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-dropdown-component",
+    "category": "Dropdown"
+  },
+  {
+    "name": "Free Tailwind CSS Popover Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-popover-component",
+    "category": "Dropdown"
+  },
+  {
+    "name": "Fancy Input Effect 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect1",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Effect 1b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect1b",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Effect 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect2",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Effect 2b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect2b",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Effect 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect3",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Effect 3b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect3b",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Effect 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect4",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Effect 4b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/inputeffects/inputEffect4b",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Group 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup1",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Group 1b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup1b",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Group 1c",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup1c",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Group 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup2",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Group 2b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup2b",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Input Group 2c",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/inputgroups/inputGroup2c",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Simple Form 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/simpleforms/simpleform1",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Simple Form 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/simpleforms/simpleform2",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Sign Form 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm2",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Sign Form 6",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm6",
+    "category": "Form"
+  },
+  {
+    "name": "Free Tailwind CSS Input Group Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-input-group-component",
+    "category": "Form"
+  },
+  {
+    "name": "Free Tailwind CSS Form Layout Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-form-layout-component",
+    "category": "Form"
+  },
+  {
+    "name": "Fancy Contact 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/contacts/contact1",
+    "category": "Contact",
+    "parent": "Form"
+  },
+  {
+    "name": "Fancy Contact 5",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/contacts/contact5",
+    "category": "Contact",
+    "parent": "Form"
+  },
+  {
+    "name": "Fancy Contact 9",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/contacts/contact9",
+    "category": "Contact",
+    "parent": "Form"
+  },
+  {
+    "name": "Free Tailwind CSS Sign In Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-sign-in-component",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Fancy Footer 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/footers/footer1",
+    "category": "Footer"
+  },
+  {
+    "name": "Fancy Footer 6",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/footers/footer6",
+    "category": "Footer"
+  },
+  {
+    "name": "Free Tailwind CSS Footer Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-footer-component",
+    "category": "Footer"
+  },
+  {
+    "name": "Fancy Hero 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/heros/hero1",
+    "category": "Hero"
+  },
+  {
+    "name": "Fancy Hero 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/heros/hero4",
+    "category": "Hero"
+  },
+  {
+    "name": "Fancy Hero 8",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/heros/hero8",
+    "category": "Hero"
+  },
+  {
+    "name": "Fancy Hero 12",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/heros/hero12",
+    "category": "Hero"
+  },
+  {
+    "name": "Fancy Hero 25",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/heros/hero25",
+    "category": "Hero"
+  },
+  {
+    "name": "Free Tailwind CSS Hero Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-hero-component-1",
+    "category": "Hero"
+  },
+  {
+    "name": "Hero With Image",
+    "link": "https://tailwindcomponents.com/component/hero-with-image",
+    "category": "Hero"
+  },
+  {
+    "name": "Free Tailwind CSS Hero Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-hero-component",
+    "category": "Hero"
+  },
+  {
+    "name": "Fancy Navbar 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar1",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Fancy Navbar 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar2",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Fancy Navbar 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar3",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Fancy Navbar 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar4",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Fancy Navbar 5",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/navbars/navbar5",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Free Tailwind CSS Vertical Navigation Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-vertical-navigation-component",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Free Tailwind CSS Header Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-header-component",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Free Tailwind CSS  Horizontal Navigation Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-horizontal-navigation-component",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Free Tailwind CSS Page Heading Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-page-heading-component",
+    "category": "Page"
+  },
+  {
+    "name": "Fancy Pricing 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/pricings/pricing1",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Fancy Pricing 10",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/pricings/pricing10",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Free Tailwind CSS Pricing Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-pricing-component",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Fancy Testimonials 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials3",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Fancy Testimonials 7",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials7",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Fancy Testimonials 9",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials9",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Fancy Testimonials 11",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/testimonials/testimonials11",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Fancy Pagination 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/paginations/pagination4",
+    "category": "Pagination"
+  },
+  {
+    "name": "Fancy Pagination 11",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/paginations/pagination11",
+    "category": "Pagination"
+  },
+  {
+    "name": "Fancy Pagination 12",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/paginations/pagination12",
+    "category": "Pagination"
+  },
+  {
+    "name": "Free Tailwind CSS Pagination Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-pagination-component",
+    "category": "Pagination"
+  },
+  {
+    "name": "Free Tailwind CSS  Progress Bar Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-progress-bar-component",
+    "category": "Progress Bar"
+  },
+  {
+    "name": "Free Tailwind CSS  Sidebar Layout Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-sidebar-layout-component",
+    "category": "Sidebar"
+  },
+  {
+    "name": "Comment with TailwindV3",
+    "link": "https://tailwindcomponents.com/component/comment-with-tailwindv3",
+    "category": "Comment"
+  },
+  {
+    "name": "Fancy Steps 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/steps/steps3",
+    "category": "Step"
+  },
+  {
+    "name": "Fancy Steps 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/steps/steps4",
+    "category": "Step"
+  },
+  {
+    "name": "Fancy Steps 7",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/steps/steps7",
+    "category": "Step"
+  },
+  {
+    "name": "Fancy Steps 12",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/steps/steps12",
+    "category": "Step"
+  },
+  {
+    "name": "Free Tailwind CSS Tooltip Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-tooltip-component",
+    "category": "Tooltips"
+  },
+  {
+    "name": "Fancy Table 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/tables/table1",
+    "category": "Table"
+  },
+  {
+    "name": "Fancy Table 1b",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/tables/table1b",
+    "category": "Table"
+  },
+  {
+    "name": "Tailwind CSS Tables",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-tables",
+    "category": "Table"
+  },
+  {
+    "name": "Fancy Product List 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList1",
+    "category": "List"
+  },
+  {
+    "name": "Fancy Product List 5",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList5",
+    "category": "List"
+  },
+  {
+    "name": "Fancy Product List 16",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList16",
+    "category": "List"
+  },
+  {
+    "name": "Fancy Product List 20",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList20",
+    "category": "List"
+  },
+  {
+    "name": "Fancy Stacked List 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/stackedlists/stackedList1",
+    "category": "List"
+  },
+  {
+    "name": "Fancy Stacked List 6",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/stackedlists/stackedList6",
+    "category": "List"
+  },
+  {
+    "name": "Prodcut List",
+    "link": "https://tailwindcomponents.com/component/prodcut-list",
+    "category": "List"
+  },
+  {
+    "name": "Fancy Tabs 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs1",
+    "category": "Tab"
+  },
+  {
+    "name": "Fancy Tabs 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs3",
+    "category": "Tab"
+  },
+  {
+    "name": "Fancy Tabs 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs4",
+    "category": "Tab"
+  },
+  {
+    "name": "Fancy Tabs 11",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs11",
+    "category": "Tab"
+  },
+  {
+    "name": "Free Tailwind CSS Tab Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-tab-component",
+    "category": "Tab"
+  },
+  {
+    "name": "Timeline Basic example, Timeline Primary color, Timeline Horizontal",
+    "link": "https://tailwind-elements.com/docs/standard/components/timeline/",
+    "category": "Timeline"
+  },
+  {
+    "name": "Fancy Burger 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger1",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Burger 7",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger7",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Burger 17",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger17",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Burger 21",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/burgers/burger21",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Call To Action 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction2",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Call To Action 6",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction6",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Call To Action 8",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction8",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Call To Action 14",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction14",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Category Filter 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/categoryfilters/categoryFilter1",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Category Filter 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/categoryfilters/categoryFilter4",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Faq 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq1",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Faq 6",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq6",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Features 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/features/features3",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Features 5",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/features/features5",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Features 11",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/features/features11",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Features 16",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/features/features16",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Guarantees 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/guarantees/guarantees1",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Guarantees 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/guarantees/guarantees2",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Guarantees 7",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/guarantees/guarantees7",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Logo Cloud 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/logoclouds/logoCloud3",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Logo Cloud 6",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/logoclouds/logoCloud6",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy NavItem 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/navitems/navItem1",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy NavItem 10",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/navitems/navItem10",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy NavItem 16",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/navitems/navItem16",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Newsletter 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter3",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Newsletter 6",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter6",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Newsletter 8",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter8",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Newsletter 11",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/newsletters/newsletter11",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Product Category 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/productcategories/productCategory1",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Product Category 5",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/productcategories/productCategory5",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Product Category 8",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/productcategories/productCategory8",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Product Details 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/productdetails/productDetails4",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Product Details 9",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/productdetails/productDetails9",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Product Reviews 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/productreviews/productReviews2",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Product Reviews 6",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/productreviews/productReviews6",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Product Reviews 10",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/productreviews/productReviews10",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Product Suggestion 6",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/productsuggestions/productSuggestion6",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Product Suggestion 10",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/productsuggestions/productSuggestion10",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Section Heading 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading1",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Section Heading 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading2",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Section Heading 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading4",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Section Heading 8",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/sectionheadings/sectionHeading8",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Shopping Cart 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/shoppingcarts/shoppingCart4",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Social Share 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare1",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Social Share 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare2",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Social Share 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare3",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Social Share 4",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/socialshare/socialShare4",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Stats 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/stats/stats3",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Stats 9",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/stats/stats9",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Team 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/teams/team1",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Team 9",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/teams/team9",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Team 11",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/teams/team11",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Team 12",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/teams/team12",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Text Effect 1",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect1",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Text Effect 3",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect3",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Text Effect 5",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect5",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Text Effect 17",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/texteffects/textEffect17",
+    "category": "Other"
+  },
+  {
+    "name": "Fancy Text Hover Effect 2",
+    "link": "https://fancytailwind.com/app/fancy-laboratory/atoms/texthovereffects/textHoverEffect2",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Action Panel Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-action-panel-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS 3 X 3 X 3 X 3 Col Grid Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-3-x-3-x-3-x-3-col-grid-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS 4 X 4 X 4 Col  Grid Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-4-x-4-x-4-col-grid-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Team Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-team-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Boxed Layout Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-boxed-layout-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Action Panel Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-stat-component-1",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Stat Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-stat-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Product Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-product-component-1",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Newsletter Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-newsletter-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Content Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-content-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Feature Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-feature-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Blog Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-blog-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Cloud Logo Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-cloud-logo-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS FAQ Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-404-page-component",
+    "category": "Other"
+  },
+  {
+    "name": "Datetime Range Picker",
+    "link": "https://tailwindcomponents.com/component/datetime-range-picker",
+    "category": "Other"
+  },
+  {
+    "name": "Vite - Vue3 – Tailwind",
+    "link": "https://github.com/web2033/vite-vue3-tailwind-starter",
     "category": "Other"
   }
 ]

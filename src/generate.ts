@@ -31,6 +31,10 @@ const categoryList = [
     new Category({ name: 'Badge' }),
     new Category({ name: 'Breadcrumb' }),
     new Category({ name: 'Button' }),
+    new Category({
+        name: 'Call to Action',
+        keywords: [new Keyword('call to action', 2)],
+    }),
     new Category({ name: 'Card' }),
     new Category({
         name: 'Dashboard Widgets',
