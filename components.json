@@ -385,7 +385,7 @@
     "category": "Alert/Notification"
   },
   {
-    "name": "Notifications Simple notification, Notifications Classic badge notification, Notifications Notification within tabs, Notifications Notification within button, Notifications Notification within image (center and middle), Notifications Notification within avatar, Notifications Button as a notification for card, Notifications Notification within input, Notifications Notification start, Notifications Notification center, Notifications Notification end (default), Notifications Notification middle start, Notifications Notification middle center, Notifications Notification middle end, Notifications Notification bottom start, Notifications Notification bottom center, Notifications Notification bottom end, Notifications Multiple notifications",
+    "name": "Notifications Simple notification, Notifications Classic badge notification, Notifications Notification within tabs, Notifications Notification within button, Notifications Notification within avatar, Notifications Notification start, Notifications Notification center, Notifications Notification end (default), Notifications Notification middle start, Notifications Notification middle center, Notifications Notification middle end, Notifications Notification bottom start, Notifications Notification bottom center, Notifications Notification bottom end",
     "link": "https://tailwind-elements.com/docs/standard/components/notifications/",
     "category": "Alert/Notification"
   },
@@ -725,7 +725,7 @@
     "category": "Button"
   },
   {
-    "name": "Buttons NEW Default button, Buttons NEW Button pills, Buttons NEW Gradient monochrome, Buttons NEW Gradient duotone, Buttons NEW Gradient outline, Buttons NEW Colored shadows, Buttons NEW Social buttons, Buttons NEW Payment buttons, Buttons NEW Outline buttons, Buttons NEW Button sizes, Buttons NEW Buttons with icon, Buttons NEW Button with label, Buttons NEW Icon buttons, Buttons NEW Loader, Buttons NEW Disabled",
+    "name": "Buttons Default button, Buttons Button pills, Buttons Gradient monochrome, Buttons Gradient duotone, Buttons Gradient outline, Buttons Colored shadows, Buttons Social buttons, Buttons Payment buttons, Buttons Outline buttons, Buttons Button sizes, Buttons Buttons with icon, Buttons Button with label, Buttons Icon buttons, Buttons Loader, Buttons Disabled",
     "link": "https://flowbite.com/docs/components/buttons/",
     "category": "Button"
   },
@@ -735,9 +735,10 @@
     "category": "Button"
   },
   {
-    "name": "Card Card with form inputs",
+    "name": "Card Pricing card",
     "link": "https://flowbite.com/docs/components/card/",
-    "category": "Form"
+    "category": "Pricing",
+    "parent": "Page"
   },
   {
     "name": "List Group Default example, List Group List group with links, List Group List group with icons",
@@ -1245,7 +1246,7 @@
     "category": "Dropdown"
   },
   {
-    "name": "Link Basic example, Link Classic blue link, Link Within the sentence, Link primary, Link secondary, Link success, Link danger, Link warning, Link info, Link light, Link dark, Link white, Link Underline on hover",
+    "name": "Link Colored links, Link Within the sentence, Link Underline, Link Underline on hover",
     "link": "https://tailwind-elements.com/docs/standard/components/link/",
     "category": "Other"
   },
@@ -1677,7 +1678,7 @@
   {
     "name": "Card Call to Action",
     "link": "https://tailwindcomponents.com/component/card-call-to-action",
-    "category": "Card"
+    "category": "Call to Action"
   },
   {
     "name": "Card Register",
@@ -3296,7 +3297,7 @@
     "category": "Switch"
   },
   {
-    "name": "Modal Default modal, Modal Pop-up modal, Modal Sizing, Modal Javascript",
+    "name": "Modal Default modal, Modal Pop-up modal, Modal Form elements, Modal Crypto wallet, Modal Sizing, Modal Javascript",
     "link": "https://flowbite.com/docs/components/modal/",
     "category": "Modal"
   },
@@ -7472,7 +7473,7 @@
     "category": "Table"
   },
   {
-    "name": "Tables Default example, Tables Striped table",
+    "name": "Tables Default table, Tables Striped rows, Tables Hover state",
     "link": "https://flowbite.com/docs/components/tables/",
     "category": "Table"
   },
@@ -7777,7 +7778,7 @@
     "category": "List"
   },
   {
-    "name": "Typography Font Size, Typography Font Weight, Typography Line Height, Typography Text Decoration",
+    "name": "Typography Headings, Typography Tailwind Elements, Typography Customizing headings, Typography Display headings, Typography Display 1, Typography Display 2, Typography Lead, Typography Inline text elements, Typography Blockquotes, Typography Text alignment, Typography Text wrapping and overflow, Typography Text nowrap, Typography Font weight and italics, Typography Line height",
     "link": "https://tailwind-elements.com/docs/standard/components/typography/",
     "category": "Other"
   },
@@ -8049,7 +8050,7 @@
   {
     "name": "call to action",
     "link": "https://tailwind-css-components.appseed.us/call-to-action.html",
-    "category": "Other"
+    "category": "Call to Action"
   },
   {
     "name": "content",
@@ -8369,7 +8370,7 @@
   {
     "name": "Radio Group",
     "link": "https://headlessui.dev/react/radio-group",
-    "category": "Other"
+    "category": "Form"
   },
   {
     "name": "Transition",
@@ -8539,7 +8540,7 @@
   {
     "name": "Marketing Call to Action",
     "link": "https://kutty.netlify.app/components/call-to-action/",
-    "category": "Other"
+    "category": "Call to Action"
   },
   {
     "name": "Marketing FAQ",
@@ -8759,7 +8760,7 @@
   {
     "name": "Call to action",
     "link": "https://mambaui.com/components/call-to-action",
-    "category": "Other"
+    "category": "Call to Action"
   },
   {
     "name": "Error",
@@ -9064,7 +9065,7 @@
   {
     "name": "Tailwind CSS radio",
     "link": "https://tailwindcomponents.com/component/tailwind-css-radio",
-    "category": "Other"
+    "category": "Form"
   },
   {
     "name": "Elegant Subscribe",
@@ -9799,7 +9800,7 @@
   {
     "name": "Animated Radio Group",
     "link": "https://tailwindcomponents.com/component/animated-radio-group",
-    "category": "Other"
+    "category": "Form"
   },
   {
     "name": "Subscribe banner",
@@ -10079,7 +10080,7 @@
   {
     "name": "Call To Action",
     "link": "https://tailwindcomponents.com/component/call-to-action-basic",
-    "category": "Other"
+    "category": "Call to Action"
   },
   {
     "name": "responsive dashboard layout",
@@ -10777,7 +10778,7 @@
     "category": "Other"
   },
   {
-    "name": "Gallery Basic, Gallery Mix, Gallery Captions, Gallery Shooting Stars, Gallery Hover, Gallery THE SUBTITLE",
+    "name": "Gallery Basic, Gallery Mix",
     "link": "https://tailwind-elements.com/docs/standard/components/gallery/",
     "category": "Other"
   },
@@ -10787,7 +10788,7 @@
     "category": "Other"
   },
   {
-    "name": "Icons SVG Icons, Icons Sizing",
+    "name": "Icons Sizing, Icons Examples of svg icons, Icons Fixed Width Icons",
     "link": "https://tailwind-elements.com/docs/standard/components/icons/",
     "category": "Other"
   },
@@ -11486,7 +11487,7 @@
     "category": "Tab"
   },
   {
-    "name": "Timeline NEW Default timeline, Timeline NEW Vertical timeline, Timeline NEW Horizontal timeline, Timeline NEW Activity log, Timeline NEW Grouped timeline",
+    "name": "Timeline Default timeline, Timeline Vertical timeline, Timeline Horizontal timeline, Timeline Activity log, Timeline Grouped timeline",
     "link": "https://flowbite.com/docs/components/timeline/",
     "category": "Timeline"
   },
@@ -11703,7 +11704,7 @@
   {
     "name": "Call to Action Style 1",
     "link": "https://tailgrids.com/components/call-to-actions",
-    "category": "Other"
+    "category": "Call to Action"
   },
   {
     "name": "About Style 1",
@@ -12190,7 +12191,7 @@
   {
     "name": "Basic Call To Action",
     "link": "https://postsrc.com/components/tailwind-css-call-to-action/tailwind-css-basic-call-to-action",
-    "category": "Other"
+    "category": "Call to Action"
   },
   {
     "name": "Basic Filter",
@@ -13760,7 +13761,8 @@
   {
     "name": "File Drop Box",
     "link": "https://mynaui.com/file/#drop-box",
-    "category": "Other"
+    "category": "Upload",
+    "parent": "Form"
   },
   {
     "name": "File Error",
@@ -13770,27 +13772,27 @@
   {
     "name": "Radio Basic",
     "link": "https://mynaui.com/radio/#basic",
-    "category": "Other"
+    "category": "Form"
   },
   {
     "name": "Radio Disabled",
     "link": "https://mynaui.com/radio/#disabled",
-    "category": "Other"
+    "category": "Form"
   },
   {
     "name": "Radio Error",
     "link": "https://mynaui.com/radio/#error",
-    "category": "Other"
+    "category": "Form"
   },
   {
     "name": "Radio Vertical",
     "link": "https://mynaui.com/radio/#vertical",
-    "category": "Other"
+    "category": "Form"
   },
   {
     "name": "Radio With Description",
     "link": "https://mynaui.com/radio/#with-description",
-    "category": "Other"
+    "category": "Form"
   },
   {
     "name": "Range Basic",
@@ -13835,6 +13837,136 @@
   {
     "name": "Rating View Only",
     "link": "https://mynaui.com/rating/#view-only",
+    "category": "Other"
+  },
+  {
+    "name": "alert 1.html",
+    "link": "https://tailwind.besoeasy.com/alert/1.html",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "alert 2.html",
+    "link": "https://tailwind.besoeasy.com/alert/2.html",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "alert 3.html",
+    "link": "https://tailwind.besoeasy.com/alert/3.html",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Free Tailwind CSS Notification Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-notification-component",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Badged Buttons",
+    "link": "https://tailwindcomponents.com/component/badged-buttons",
+    "category": "Badge"
+  },
+  {
+    "name": "Free Tailwind CSS Toggle Checkbox Radio Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-toggle-checkbox-radio-component",
+    "category": "Form"
+  },
+  {
+    "name": "Footer NEW Default footer, Footer NEW Footer with logo, Footer NEW Social media icons, Footer NEW Sitemap links",
+    "link": "https://flowbite.com/docs/components/footer/",
+    "category": "Footer"
+  },
+  {
+    "name": "popup 3.html",
+    "link": "https://tailwind.besoeasy.com/popup/3.html",
+    "category": "Modal"
+  },
+  {
+    "name": "Free Tailwind CSS Modal Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-modal-component",
+    "category": "Modal"
+  },
+  {
+    "name": "progress 1.html",
+    "link": "https://tailwind.besoeasy.com/progress/1.html",
+    "category": "Progress Bar"
+  },
+  {
+    "name": "progress 2.html",
+    "link": "https://tailwind.besoeasy.com/progress/2.html",
+    "category": "Progress Bar"
+  },
+  {
+    "name": "table 1.html",
+    "link": "https://tailwind.besoeasy.com/table/1.html",
+    "category": "Table"
+  },
+  {
+    "name": "table 2.html",
+    "link": "https://tailwind.besoeasy.com/table/2.html",
+    "category": "Table"
+  },
+  {
+    "name": "table 3.html",
+    "link": "https://tailwind.besoeasy.com/table/3.html",
+    "category": "Table"
+  },
+  {
+    "name": "table 4.html",
+    "link": "https://tailwind.besoeasy.com/table/4.html",
+    "category": "Table"
+  },
+  {
+    "name": "table 6.html",
+    "link": "https://tailwind.besoeasy.com/table/6.html",
+    "category": "Table"
+  },
+  {
+    "name": "Free Tailwind CSS Advance Table Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-advance-table-component",
+    "category": "Table"
+  },
+  {
+    "name": "Free Tailwind CSS List Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-list-component",
+    "category": "List"
+  },
+  {
+    "name": "Free Tailwind CSS Best Sellers Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-best-sellers-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Product Reviews Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-product-reviews-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Banners Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-banners-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Checkouts Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-checkouts-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS FAQs Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-faqs-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS ECommerce CTA Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-ecommerce-cta-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Note Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-note-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Graph Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-graph-component",
     "category": "Other"
   }
 ]
