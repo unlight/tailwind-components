@@ -12951,22 +12951,22 @@
   {
     "name": "Fancy Call To Action 2",
     "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction2",
-    "category": "Other"
+    "category": "Call to Action"
   },
   {
     "name": "Fancy Call To Action 6",
     "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction6",
-    "category": "Other"
+    "category": "Call to Action"
   },
   {
     "name": "Fancy Call To Action 8",
     "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction8",
-    "category": "Other"
+    "category": "Call to Action"
   },
   {
     "name": "Fancy Call To Action 14",
     "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/calltoactions/callToAction14",
-    "category": "Other"
+    "category": "Call to Action"
   },
   {
     "name": "Fancy Category Filter 1",
@@ -13296,6 +13296,545 @@
   {
     "name": "Vite - Vue3 – Tailwind",
     "link": "https://github.com/web2033/vite-vue3-tailwind-starter",
+    "category": "Other"
+  },
+  {
+    "name": "Avatar Basic",
+    "link": "https://mynaui.com/avatar/#basic",
+    "category": "Avatar"
+  },
+  {
+    "name": "Avatar Basic Rounded",
+    "link": "https://mynaui.com/avatar/#basic-rounded",
+    "category": "Avatar"
+  },
+  {
+    "name": "Avatar Sizes",
+    "link": "https://mynaui.com/avatar/#sizes",
+    "category": "Avatar"
+  },
+  {
+    "name": "Avatar Placeholder Sizes",
+    "link": "https://mynaui.com/avatar/#placeholder-sizes",
+    "category": "Avatar"
+  },
+  {
+    "name": "Avatar With Indicator",
+    "link": "https://mynaui.com/avatar/#with-indicator",
+    "category": "Avatar"
+  },
+  {
+    "name": "Avatar Group Basic",
+    "link": "https://mynaui.com/avatar-group/#basic",
+    "category": "Avatar"
+  },
+  {
+    "name": "Avatar Group Reverse Order",
+    "link": "https://mynaui.com/avatar-group/#reverse-order",
+    "category": "Avatar"
+  },
+  {
+    "name": "Avatar Group Sizes",
+    "link": "https://mynaui.com/avatar-group/#sizes",
+    "category": "Avatar"
+  },
+  {
+    "name": "Avatar Group Text",
+    "link": "https://mynaui.com/avatar-group/#text",
+    "category": "Avatar"
+  },
+  {
+    "name": "Avatar Group Centered",
+    "link": "https://mynaui.com/avatar-group/#centered",
+    "category": "Avatar"
+  },
+  {
+    "name": "Select Prefix Avatar",
+    "link": "https://mynaui.com/select/#prefix-avatar",
+    "category": "Avatar"
+  },
+  {
+    "name": "Textarea Editor Avatar",
+    "link": "https://mynaui.com/textarea/#editor-avatar",
+    "category": "Avatar"
+  },
+  {
+    "name": "Badge Basic",
+    "link": "https://mynaui.com/badge/#basic",
+    "category": "Badge"
+  },
+  {
+    "name": "Badge Light Colors",
+    "link": "https://mynaui.com/badge/#light-colors",
+    "category": "Badge"
+  },
+  {
+    "name": "Badge With Dot",
+    "link": "https://mynaui.com/badge/#with-dot",
+    "category": "Badge"
+  },
+  {
+    "name": "Badge Close Button",
+    "link": "https://mynaui.com/badge/#close-button",
+    "category": "Badge"
+  },
+  {
+    "name": "Badge Only Dot",
+    "link": "https://mynaui.com/badge/#only-dot",
+    "category": "Badge"
+  },
+  {
+    "name": "Badge Numbers",
+    "link": "https://mynaui.com/badge/#numbers",
+    "category": "Badge"
+  },
+  {
+    "name": "Breadcrumb Basic",
+    "link": "https://mynaui.com/breadcrumb/#basic",
+    "category": "Breadcrumb"
+  },
+  {
+    "name": "Breadcrumb More Items",
+    "link": "https://mynaui.com/breadcrumb/#more-items",
+    "category": "Breadcrumb"
+  },
+  {
+    "name": "Breadcrumb Caret",
+    "link": "https://mynaui.com/breadcrumb/#caret",
+    "category": "Breadcrumb"
+  },
+  {
+    "name": "Breadcrumb More Items Caret",
+    "link": "https://mynaui.com/breadcrumb/#more-items-caret",
+    "category": "Breadcrumb"
+  },
+  {
+    "name": "Breadcrumb Icons",
+    "link": "https://mynaui.com/breadcrumb/#icons",
+    "category": "Breadcrumb"
+  },
+  {
+    "name": "Buttons Basic",
+    "link": "https://mynaui.com/buttons/#basic",
+    "category": "Button"
+  },
+  {
+    "name": "Buttons Basic Button Sizes",
+    "link": "https://mynaui.com/buttons/#basic_button_sizes",
+    "category": "Button"
+  },
+  {
+    "name": "Buttons Primary",
+    "link": "https://mynaui.com/buttons/#primary",
+    "category": "Button"
+  },
+  {
+    "name": "Buttons Prefix Icon",
+    "link": "https://mynaui.com/buttons/#prefix_icon",
+    "category": "Button"
+  },
+  {
+    "name": "Buttons Suffix Icon",
+    "link": "https://mynaui.com/buttons/#suffix_icon",
+    "category": "Button"
+  },
+  {
+    "name": "Button Group Basic",
+    "link": "https://mynaui.com/button-group/#basic",
+    "category": "Button"
+  },
+  {
+    "name": "Button Group Dropdown Buttons",
+    "link": "https://mynaui.com/button-group/#dropdown-buttons",
+    "category": "Button"
+  },
+  {
+    "name": "Button Group Split Button",
+    "link": "https://mynaui.com/button-group/#split-button",
+    "category": "Button"
+  },
+  {
+    "name": "Button Group With Border",
+    "link": "https://mynaui.com/button-group/#with-border",
+    "category": "Button"
+  },
+  {
+    "name": "Button Group With Icon",
+    "link": "https://mynaui.com/button-group/#with-icon",
+    "category": "Button"
+  },
+  {
+    "name": "Spinner On Button",
+    "link": "https://mynaui.com/spinner/#on-button",
+    "category": "Button"
+  },
+  {
+    "name": "File With Button",
+    "link": "https://mynaui.com/file/#with-button",
+    "category": "Button"
+  },
+  {
+    "name": "Input Group With Button",
+    "link": "https://mynaui.com/input-group/#with-button",
+    "category": "Button"
+  },
+  {
+    "name": "Input Group With Icon Button",
+    "link": "https://mynaui.com/input-group/#with-icon-button",
+    "category": "Button"
+  },
+  {
+    "name": "Search With Button",
+    "link": "https://mynaui.com/search/#with-button",
+    "category": "Button"
+  },
+  {
+    "name": "Select Basic",
+    "link": "https://mynaui.com/select/#basic",
+    "category": "Dropdown"
+  },
+  {
+    "name": "Select Disabled",
+    "link": "https://mynaui.com/select/#disabled",
+    "category": "Dropdown"
+  },
+  {
+    "name": "Select Error",
+    "link": "https://mynaui.com/select/#error",
+    "category": "Dropdown"
+  },
+  {
+    "name": "Select Prefix Icon",
+    "link": "https://mynaui.com/select/#prefix-icon",
+    "category": "Dropdown"
+  },
+  {
+    "name": "Checkbox Basic",
+    "link": "https://mynaui.com/checkbox/#basic",
+    "category": "Form"
+  },
+  {
+    "name": "Checkbox Disabled",
+    "link": "https://mynaui.com/checkbox/#disabled",
+    "category": "Form"
+  },
+  {
+    "name": "Checkbox Error",
+    "link": "https://mynaui.com/checkbox/#error",
+    "category": "Form"
+  },
+  {
+    "name": "Checkbox Vertical",
+    "link": "https://mynaui.com/checkbox/#vertical",
+    "category": "Form"
+  },
+  {
+    "name": "Checkbox With Description",
+    "link": "https://mynaui.com/checkbox/#with-description",
+    "category": "Form"
+  },
+  {
+    "name": "Input Basic",
+    "link": "https://mynaui.com/input/#basic",
+    "category": "Form"
+  },
+  {
+    "name": "Input Disabled",
+    "link": "https://mynaui.com/input/#disabled",
+    "category": "Form"
+  },
+  {
+    "name": "Input Error",
+    "link": "https://mynaui.com/input/#error",
+    "category": "Form"
+  },
+  {
+    "name": "Input Icon Prefix",
+    "link": "https://mynaui.com/input/#icon-prefix",
+    "category": "Form"
+  },
+  {
+    "name": "Input Icon Suffix",
+    "link": "https://mynaui.com/input/#icon-suffix",
+    "category": "Form"
+  },
+  {
+    "name": "Input Group Simple",
+    "link": "https://mynaui.com/input-group/#simple",
+    "category": "Form"
+  },
+  {
+    "name": "Input Group With Prefix Text",
+    "link": "https://mynaui.com/input-group/#with-prefix-text",
+    "category": "Form"
+  },
+  {
+    "name": "Input Group With Suffix Text",
+    "link": "https://mynaui.com/input-group/#with-suffix-text",
+    "category": "Form"
+  },
+  {
+    "name": "Textarea Basic",
+    "link": "https://mynaui.com/textarea/#basic",
+    "category": "Form"
+  },
+  {
+    "name": "Textarea Disabled",
+    "link": "https://mynaui.com/textarea/#disabled",
+    "category": "Form"
+  },
+  {
+    "name": "Textarea Editor",
+    "link": "https://mynaui.com/textarea/#editor",
+    "category": "Form"
+  },
+  {
+    "name": "Textarea Error",
+    "link": "https://mynaui.com/textarea/#error",
+    "category": "Form"
+  },
+  {
+    "name": "Search Basic",
+    "link": "https://mynaui.com/search/#basic",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Search Disabled",
+    "link": "https://mynaui.com/search/#disabled",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Search Error",
+    "link": "https://mynaui.com/search/#error",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Search Borderless",
+    "link": "https://mynaui.com/search/#borderless",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Footer Simple With Social",
+    "link": "https://mynaui.com/footer/#simple-with-social",
+    "category": "Footer"
+  },
+  {
+    "name": "Footer Simple With Links",
+    "link": "https://mynaui.com/footer/#simple-with-links",
+    "category": "Footer"
+  },
+  {
+    "name": "Footer 4 Grid",
+    "link": "https://mynaui.com/footer/#4-grid",
+    "category": "Footer"
+  },
+  {
+    "name": "Spinner Basic",
+    "link": "https://mynaui.com/spinner/#basic",
+    "category": "Loading/Spinner"
+  },
+  {
+    "name": "Spinner Colors",
+    "link": "https://mynaui.com/spinner/#colors",
+    "category": "Loading/Spinner"
+  },
+  {
+    "name": "Spinner Sizes",
+    "link": "https://mynaui.com/spinner/#sizes",
+    "category": "Loading/Spinner"
+  },
+  {
+    "name": "Spinner With Text",
+    "link": "https://mynaui.com/spinner/#with-text",
+    "category": "Loading/Spinner"
+  },
+  {
+    "name": "Header Centered Links",
+    "link": "https://mynaui.com/header/#centered-links",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Header Centered Logo",
+    "link": "https://mynaui.com/header/#centered-logo",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Header Right Links",
+    "link": "https://mynaui.com/header/#right-links",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Progress Basic",
+    "link": "https://mynaui.com/progress/#basic",
+    "category": "Progress Bar"
+  },
+  {
+    "name": "Progress Colors",
+    "link": "https://mynaui.com/progress/#colors",
+    "category": "Progress Bar"
+  },
+  {
+    "name": "Progress Indeterminate",
+    "link": "https://mynaui.com/progress/#indeterminate",
+    "category": "Progress Bar"
+  },
+  {
+    "name": "Progress Multiple",
+    "link": "https://mynaui.com/progress/#multiple",
+    "category": "Progress Bar"
+  },
+  {
+    "name": "Progress Sizes",
+    "link": "https://mynaui.com/progress/#sizes",
+    "category": "Progress Bar"
+  },
+  {
+    "name": "Range Steps",
+    "link": "https://mynaui.com/range/#steps",
+    "category": "Step"
+  },
+  {
+    "name": "Switch Basic",
+    "link": "https://mynaui.com/switch/#basic",
+    "category": "Switch"
+  },
+  {
+    "name": "Switch With Icon",
+    "link": "https://mynaui.com/switch/#with-icon",
+    "category": "Switch"
+  },
+  {
+    "name": "Switch With Label",
+    "link": "https://mynaui.com/switch/#with-label",
+    "category": "Switch"
+  },
+  {
+    "name": "Switch Sizes",
+    "link": "https://mynaui.com/switch/#sizes",
+    "category": "Switch"
+  },
+  {
+    "name": "Switch Colors",
+    "link": "https://mynaui.com/switch/#colors",
+    "category": "Switch"
+  },
+  {
+    "name": "Tooltip Top",
+    "link": "https://mynaui.com/tooltip/#top",
+    "category": "Tooltips"
+  },
+  {
+    "name": "Tooltip Bottom",
+    "link": "https://mynaui.com/tooltip/#bottom",
+    "category": "Tooltips"
+  },
+  {
+    "name": "Tooltip Right",
+    "link": "https://mynaui.com/tooltip/#right",
+    "category": "Tooltips"
+  },
+  {
+    "name": "Tooltip Left",
+    "link": "https://mynaui.com/tooltip/#left",
+    "category": "Tooltips"
+  },
+  {
+    "name": "Tooltip Without Tip",
+    "link": "https://mynaui.com/tooltip/#without-tip",
+    "category": "Tooltips"
+  },
+  {
+    "name": "File Basic",
+    "link": "https://mynaui.com/file/#basic",
+    "category": "Other"
+  },
+  {
+    "name": "File Disabled",
+    "link": "https://mynaui.com/file/#disabled",
+    "category": "Other"
+  },
+  {
+    "name": "File Drop Box",
+    "link": "https://mynaui.com/file/#drop-box",
+    "category": "Other"
+  },
+  {
+    "name": "File Error",
+    "link": "https://mynaui.com/file/#error",
+    "category": "Other"
+  },
+  {
+    "name": "Radio Basic",
+    "link": "https://mynaui.com/radio/#basic",
+    "category": "Other"
+  },
+  {
+    "name": "Radio Disabled",
+    "link": "https://mynaui.com/radio/#disabled",
+    "category": "Other"
+  },
+  {
+    "name": "Radio Error",
+    "link": "https://mynaui.com/radio/#error",
+    "category": "Other"
+  },
+  {
+    "name": "Radio Vertical",
+    "link": "https://mynaui.com/radio/#vertical",
+    "category": "Other"
+  },
+  {
+    "name": "Radio With Description",
+    "link": "https://mynaui.com/radio/#with-description",
+    "category": "Other"
+  },
+  {
+    "name": "Range Basic",
+    "link": "https://mynaui.com/range/#basic",
+    "category": "Other"
+  },
+  {
+    "name": "Range Disabled",
+    "link": "https://mynaui.com/range/#disabled",
+    "category": "Other"
+  },
+  {
+    "name": "Range Min and Max",
+    "link": "https://mynaui.com/range/#min-and-max",
+    "category": "Other"
+  },
+  {
+    "name": "Range With Label",
+    "link": "https://mynaui.com/range/#with-label",
+    "category": "Other"
+  },
+  {
+    "name": "Rating Basic",
+    "link": "https://mynaui.com/rating/#basic",
+    "category": "Other"
+  },
+  {
+    "name": "Rating Colors",
+    "link": "https://mynaui.com/rating/#colors",
+    "category": "Other"
+  },
+  {
+    "name": "Rating Disabled",
+    "link": "https://mynaui.com/rating/#disabled",
+    "category": "Other"
+  },
+  {
+    "name": "Rating Sizes",
+    "link": "https://mynaui.com/rating/#sizes",
+    "category": "Other"
+  },
+  {
+    "name": "Rating View Only",
+    "link": "https://mynaui.com/rating/#view-only",
     "category": "Other"
   }
 ]

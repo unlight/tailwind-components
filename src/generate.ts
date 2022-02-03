@@ -84,6 +84,7 @@ const categoryList = [
             new Keyword('text field', 2),
             new Keyword('textarea', 1),
             new Keyword('checkbox', 1),
+            new Keyword('radio', 1),
         ],
     }),
     new Category({
@@ -122,7 +123,7 @@ const categoryList = [
     new Category({
         name: 'Upload',
         parent: 'Form',
-        keywords: [new Keyword('file upload', 8)],
+        keywords: [new Keyword('file upload', 8), new Keyword('file drop', 2)],
     }),
     new Category({ name: 'Footer', keywords: [new Keyword('footer', 2)] }),
     new Category({ name: 'Hero' }),

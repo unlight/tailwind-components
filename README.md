@@ -233,6 +233,18 @@
 *   Fancy Avatar 2c: [fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar2c](https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar2c)
 *   Fancy Avatar 7: [fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar7](https://fancytailwind.com/app/fancy-laboratory/atoms/avatars/avatar7)
 *   Free Tailwind CSS Avatar Component: [tailwindcomponents.com/component/free-tailwind-css-avatar-component](https://tailwindcomponents.com/component/free-tailwind-css-avatar-component)
+*   Avatar Basic: [mynaui.com/avatar/#basic](https://mynaui.com/avatar/#basic)
+*   Avatar Basic Rounded: [mynaui.com/avatar/#basic-rounded](https://mynaui.com/avatar/#basic-rounded)
+*   Avatar Sizes: [mynaui.com/avatar/#sizes](https://mynaui.com/avatar/#sizes)
+*   Avatar Placeholder Sizes: [mynaui.com/avatar/#placeholder-sizes](https://mynaui.com/avatar/#placeholder-sizes)
+*   Avatar With Indicator: [mynaui.com/avatar/#with-indicator](https://mynaui.com/avatar/#with-indicator)
+*   Avatar Group Basic: [mynaui.com/avatar-group/#basic](https://mynaui.com/avatar-group/#basic)
+*   Avatar Group Reverse Order: [mynaui.com/avatar-group/#reverse-order](https://mynaui.com/avatar-group/#reverse-order)
+*   Avatar Group Sizes: [mynaui.com/avatar-group/#sizes](https://mynaui.com/avatar-group/#sizes)
+*   Avatar Group Text: [mynaui.com/avatar-group/#text](https://mynaui.com/avatar-group/#text)
+*   Avatar Group Centered: [mynaui.com/avatar-group/#centered](https://mynaui.com/avatar-group/#centered)
+*   Select Prefix Avatar: [mynaui.com/select/#prefix-avatar](https://mynaui.com/select/#prefix-avatar)
+*   Textarea Editor Avatar: [mynaui.com/textarea/#editor-avatar](https://mynaui.com/textarea/#editor-avatar)
 
 ## Badge
 
@@ -273,6 +285,12 @@
 *   Fancy Badge 2b: [fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2b](https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2b)
 *   Fancy Badge 2c: [fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2c](https://fancytailwind.com/app/fancy-laboratory/atoms/badges/badge2c)
 *   Free Tailwind CSS Badge Component: [tailwindcomponents.com/component/free-tailwind-css-badge-component](https://tailwindcomponents.com/component/free-tailwind-css-badge-component)
+*   Badge Basic: [mynaui.com/badge/#basic](https://mynaui.com/badge/#basic)
+*   Badge Light Colors: [mynaui.com/badge/#light-colors](https://mynaui.com/badge/#light-colors)
+*   Badge With Dot: [mynaui.com/badge/#with-dot](https://mynaui.com/badge/#with-dot)
+*   Badge Close Button: [mynaui.com/badge/#close-button](https://mynaui.com/badge/#close-button)
+*   Badge Only Dot: [mynaui.com/badge/#only-dot](https://mynaui.com/badge/#only-dot)
+*   Badge Numbers: [mynaui.com/badge/#numbers](https://mynaui.com/badge/#numbers)
 
 ## Breadcrumb
 
@@ -293,6 +311,11 @@
 *   Basic Breadcrumbs With Slash Component: [postsrc.com/components/tailwind-css-breadcrumbs/basic-breadcrumbs-with-slash](https://postsrc.com/components/tailwind-css-breadcrumbs/basic-breadcrumbs-with-slash)
 *   Basic Breadcrumbs with Pipe Component: [postsrc.com/components/tailwind-css-breadcrumbs/breadcrumbs-with-pipie-component](https://postsrc.com/components/tailwind-css-breadcrumbs/breadcrumbs-with-pipie-component)
 *   Fancy Breadcrumb 4: [fancytailwind.com/app/fancy-laboratory/molecules/breadcrumbs/breadcrumb4](https://fancytailwind.com/app/fancy-laboratory/molecules/breadcrumbs/breadcrumb4)
+*   Breadcrumb Basic: [mynaui.com/breadcrumb/#basic](https://mynaui.com/breadcrumb/#basic)
+*   Breadcrumb More Items: [mynaui.com/breadcrumb/#more-items](https://mynaui.com/breadcrumb/#more-items)
+*   Breadcrumb Caret: [mynaui.com/breadcrumb/#caret](https://mynaui.com/breadcrumb/#caret)
+*   Breadcrumb More Items Caret: [mynaui.com/breadcrumb/#more-items-caret](https://mynaui.com/breadcrumb/#more-items-caret)
+*   Breadcrumb Icons: [mynaui.com/breadcrumb/#icons](https://mynaui.com/breadcrumb/#icons)
 
 ## Button
 
@@ -454,6 +477,21 @@
 *   Button Groups: [hyperui.dev/components/button-groups](https://hyperui.dev/components/button-groups)
 *   Free Tailwind CSS Grouped Button Component: [tailwindcomponents.com/component/free-tailwind-css-grouped-button-component](https://tailwindcomponents.com/component/free-tailwind-css-grouped-button-component)
 *   Free Tailwind CSS Button Component: [tailwindcomponents.com/component/free-tailwind-css-button-component](https://tailwindcomponents.com/component/free-tailwind-css-button-component)
+*   Buttons Basic: [mynaui.com/buttons/#basic](https://mynaui.com/buttons/#basic)
+*   Buttons Basic Button Sizes: [mynaui.com/buttons/#basic\_button\_sizes](https://mynaui.com/buttons/#basic_button_sizes)
+*   Buttons Primary: [mynaui.com/buttons/#primary](https://mynaui.com/buttons/#primary)
+*   Buttons Prefix Icon: [mynaui.com/buttons/#prefix\_icon](https://mynaui.com/buttons/#prefix_icon)
+*   Buttons Suffix Icon: [mynaui.com/buttons/#suffix\_icon](https://mynaui.com/buttons/#suffix_icon)
+*   Button Group Basic: [mynaui.com/button-group/#basic](https://mynaui.com/button-group/#basic)
+*   Button Group Dropdown Buttons: [mynaui.com/button-group/#dropdown-buttons](https://mynaui.com/button-group/#dropdown-buttons)
+*   Button Group Split Button: [mynaui.com/button-group/#split-button](https://mynaui.com/button-group/#split-button)
+*   Button Group With Border: [mynaui.com/button-group/#with-border](https://mynaui.com/button-group/#with-border)
+*   Button Group With Icon: [mynaui.com/button-group/#with-icon](https://mynaui.com/button-group/#with-icon)
+*   Spinner On Button: [mynaui.com/spinner/#on-button](https://mynaui.com/spinner/#on-button)
+*   File With Button: [mynaui.com/file/#with-button](https://mynaui.com/file/#with-button)
+*   Input Group With Button: [mynaui.com/input-group/#with-button](https://mynaui.com/input-group/#with-button)
+*   Input Group With Icon Button: [mynaui.com/input-group/#with-icon-button](https://mynaui.com/input-group/#with-icon-button)
+*   Search With Button: [mynaui.com/search/#with-button](https://mynaui.com/search/#with-button)
 
 ## Call to Action
 
@@ -902,6 +940,10 @@
 *   Select add and remove: [tailwindcomponents.com/component/select-add-and-remove](https://tailwindcomponents.com/component/select-add-and-remove)
 *   Free Tailwind CSS Dropdown Component: [tailwindcomponents.com/component/free-tailwind-css-dropdown-component](https://tailwindcomponents.com/component/free-tailwind-css-dropdown-component)
 *   Free Tailwind CSS Popover Component: [tailwindcomponents.com/component/free-tailwind-css-popover-component](https://tailwindcomponents.com/component/free-tailwind-css-popover-component)
+*   Select Basic: [mynaui.com/select/#basic](https://mynaui.com/select/#basic)
+*   Select Disabled: [mynaui.com/select/#disabled](https://mynaui.com/select/#disabled)
+*   Select Error: [mynaui.com/select/#error](https://mynaui.com/select/#error)
+*   Select Prefix Icon: [mynaui.com/select/#prefix-icon](https://mynaui.com/select/#prefix-icon)
 
 ## Form
 
@@ -1060,6 +1102,23 @@
 *   Fancy Sign Form 6: [fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm6](https://fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm6)
 *   Free Tailwind CSS Input Group Component: [tailwindcomponents.com/component/free-tailwind-css-input-group-component](https://tailwindcomponents.com/component/free-tailwind-css-input-group-component)
 *   Free Tailwind CSS Form Layout Component: [tailwindcomponents.com/component/free-tailwind-css-form-layout-component](https://tailwindcomponents.com/component/free-tailwind-css-form-layout-component)
+*   Checkbox Basic: [mynaui.com/checkbox/#basic](https://mynaui.com/checkbox/#basic)
+*   Checkbox Disabled: [mynaui.com/checkbox/#disabled](https://mynaui.com/checkbox/#disabled)
+*   Checkbox Error: [mynaui.com/checkbox/#error](https://mynaui.com/checkbox/#error)
+*   Checkbox Vertical: [mynaui.com/checkbox/#vertical](https://mynaui.com/checkbox/#vertical)
+*   Checkbox With Description: [mynaui.com/checkbox/#with-description](https://mynaui.com/checkbox/#with-description)
+*   Input Basic: [mynaui.com/input/#basic](https://mynaui.com/input/#basic)
+*   Input Disabled: [mynaui.com/input/#disabled](https://mynaui.com/input/#disabled)
+*   Input Error: [mynaui.com/input/#error](https://mynaui.com/input/#error)
+*   Input Icon Prefix: [mynaui.com/input/#icon-prefix](https://mynaui.com/input/#icon-prefix)
+*   Input Icon Suffix: [mynaui.com/input/#icon-suffix](https://mynaui.com/input/#icon-suffix)
+*   Input Group Simple: [mynaui.com/input-group/#simple](https://mynaui.com/input-group/#simple)
+*   Input Group With Prefix Text: [mynaui.com/input-group/#with-prefix-text](https://mynaui.com/input-group/#with-prefix-text)
+*   Input Group With Suffix Text: [mynaui.com/input-group/#with-suffix-text](https://mynaui.com/input-group/#with-suffix-text)
+*   Textarea Basic: [mynaui.com/textarea/#basic](https://mynaui.com/textarea/#basic)
+*   Textarea Disabled: [mynaui.com/textarea/#disabled](https://mynaui.com/textarea/#disabled)
+*   Textarea Editor: [mynaui.com/textarea/#editor](https://mynaui.com/textarea/#editor)
+*   Textarea Error: [mynaui.com/textarea/#error](https://mynaui.com/textarea/#error)
 
 ### Contact
 
@@ -1226,6 +1285,10 @@
 *   Dropdown with search box: [tailwindcomponents.com/component/dropdown-with-search-box](https://tailwindcomponents.com/component/dropdown-with-search-box)
 *   Searchy: [tailwindtoolbox.com/components/searchy](https://www.tailwindtoolbox.com/components/searchy)
 *   Other Restaurant Search: [gustui.com/docs/application/pages/other](https://www.gustui.com/docs/application/pages/other)
+*   Search Basic: [mynaui.com/search/#basic](https://mynaui.com/search/#basic)
+*   Search Disabled: [mynaui.com/search/#disabled](https://mynaui.com/search/#disabled)
+*   Search Error: [mynaui.com/search/#error](https://mynaui.com/search/#error)
+*   Search Borderless: [mynaui.com/search/#borderless](https://mynaui.com/search/#borderless)
 
 ### Upload
 
@@ -1293,6 +1356,9 @@
 *   Fancy Footer 1: [fancytailwind.com/app/fancy-laboratory/molecules/footers/footer1](https://fancytailwind.com/app/fancy-laboratory/molecules/footers/footer1)
 *   Fancy Footer 6: [fancytailwind.com/app/fancy-laboratory/molecules/footers/footer6](https://fancytailwind.com/app/fancy-laboratory/molecules/footers/footer6)
 *   Free Tailwind CSS Footer Component: [tailwindcomponents.com/component/free-tailwind-css-footer-component](https://tailwindcomponents.com/component/free-tailwind-css-footer-component)
+*   Footer Simple With Social: [mynaui.com/footer/#simple-with-social](https://mynaui.com/footer/#simple-with-social)
+*   Footer Simple With Links: [mynaui.com/footer/#simple-with-links](https://mynaui.com/footer/#simple-with-links)
+*   Footer 4 Grid: [mynaui.com/footer/#4-grid](https://mynaui.com/footer/#4-grid)
 
 ## Hero
 
@@ -1353,6 +1419,10 @@
 *   Full page overlay loading screen: [tailwindcomponents.com/component/full-page-overlay-loading-screen](https://tailwindcomponents.com/component/full-page-overlay-loading-screen)
 *   Spinners Basic example, Spinners Colors, Spinners Growing spinner, Spinners Colors of growing spinner, Spinners Margin, Spinners Flex, Spinners Floats, Spinners Text, Spinners Size small, Spinners Size large: [tailwind-elements.com/docs/standard/components/spinners/](https://tailwind-elements.com/docs/standard/components/spinners/)
 *   Spinner NEW Default spinner, Spinner NEW Colors, Spinner NEW Sizing, Spinner NEW Alignment: [flowbite.com/docs/components/spinner/](https://flowbite.com/docs/components/spinner/)
+*   Spinner Basic: [mynaui.com/spinner/#basic](https://mynaui.com/spinner/#basic)
+*   Spinner Colors: [mynaui.com/spinner/#colors](https://mynaui.com/spinner/#colors)
+*   Spinner Sizes: [mynaui.com/spinner/#sizes](https://mynaui.com/spinner/#sizes)
+*   Spinner With Text: [mynaui.com/spinner/#with-text](https://mynaui.com/spinner/#with-text)
 
 ## Modal
 
@@ -1553,6 +1623,9 @@
 *   Free Tailwind CSS Vertical Navigation Component: [tailwindcomponents.com/component/free-tailwind-css-vertical-navigation-component](https://tailwindcomponents.com/component/free-tailwind-css-vertical-navigation-component)
 *   Free Tailwind CSS Header Component: [tailwindcomponents.com/component/free-tailwind-css-header-component](https://tailwindcomponents.com/component/free-tailwind-css-header-component)
 *   Free Tailwind CSS  Horizontal Navigation Component: [tailwindcomponents.com/component/free-tailwind-css-horizontal-navigation-component](https://tailwindcomponents.com/component/free-tailwind-css-horizontal-navigation-component)
+*   Header Centered Links: [mynaui.com/header/#centered-links](https://mynaui.com/header/#centered-links)
+*   Header Centered Logo: [mynaui.com/header/#centered-logo](https://mynaui.com/header/#centered-logo)
+*   Header Right Links: [mynaui.com/header/#right-links](https://mynaui.com/header/#right-links)
 
 ## Page
 
@@ -1769,6 +1842,11 @@
 *   Progress bar - Simple progress bar, Progress bar - Fat progress bar, Progress bar - With label, Progress bar - Colored, Progress bar - With badge, Progress bar - Publicity: [tailwind-kit.com/components/progress](https://www.tailwind-kit.com/components/progress)
 *   Progress Bar Style 1, Progress Bar Style 2, Progress Bar Style 3, Progress Bar Style 4: [tailgrids.com/components/progress-bars](https://tailgrids.com/components/progress-bars)
 *   Free Tailwind CSS  Progress Bar Component: [tailwindcomponents.com/component/free-tailwind-css-progress-bar-component](https://tailwindcomponents.com/component/free-tailwind-css-progress-bar-component)
+*   Progress Basic: [mynaui.com/progress/#basic](https://mynaui.com/progress/#basic)
+*   Progress Colors: [mynaui.com/progress/#colors](https://mynaui.com/progress/#colors)
+*   Progress Indeterminate: [mynaui.com/progress/#indeterminate](https://mynaui.com/progress/#indeterminate)
+*   Progress Multiple: [mynaui.com/progress/#multiple](https://mynaui.com/progress/#multiple)
+*   Progress Sizes: [mynaui.com/progress/#sizes](https://mynaui.com/progress/#sizes)
 
 ## Skeleton
 
@@ -1858,6 +1936,7 @@
 *   Fancy Steps 4: [fancytailwind.com/app/fancy-laboratory/molecules/steps/steps4](https://fancytailwind.com/app/fancy-laboratory/molecules/steps/steps4)
 *   Fancy Steps 7: [fancytailwind.com/app/fancy-laboratory/molecules/steps/steps7](https://fancytailwind.com/app/fancy-laboratory/molecules/steps/steps7)
 *   Fancy Steps 12: [fancytailwind.com/app/fancy-laboratory/molecules/steps/steps12](https://fancytailwind.com/app/fancy-laboratory/molecules/steps/steps12)
+*   Range Steps: [mynaui.com/range/#steps](https://mynaui.com/range/#steps)
 
 ## Switch
 
@@ -1888,6 +1967,11 @@
 *   Toggles Standard Toggle, Toggles Toggle With Icon: [gustui.com/docs/application/components/toggles](https://www.gustui.com/docs/application/components/toggles)
 *   Toggle - simple, Toggle - toggle, Toggle - radio: [tailwind-kit.com/components/toggle](https://www.tailwind-kit.com/components/toggle)
 *   Toggle Button Style 1, Toggle Button Style 2, Toggle Button Style 3, Toggle Button Style 4, Toggle Button Style 5, Toggle Button Style 6, Toggle Button Style 7, Toggle Button Style 8, Toggle Button Style 9: [tailgrids.com/components/toggle-switch](https://tailgrids.com/components/toggle-switch)
+*   Switch Basic: [mynaui.com/switch/#basic](https://mynaui.com/switch/#basic)
+*   Switch With Icon: [mynaui.com/switch/#with-icon](https://mynaui.com/switch/#with-icon)
+*   Switch With Label: [mynaui.com/switch/#with-label](https://mynaui.com/switch/#with-label)
+*   Switch Sizes: [mynaui.com/switch/#sizes](https://mynaui.com/switch/#sizes)
+*   Switch Colors: [mynaui.com/switch/#colors](https://mynaui.com/switch/#colors)
 
 ## Tags
 
@@ -1926,6 +2010,11 @@
 *   Tooltip Basic example, Tooltip Four directions, Tooltip With custom HTML, Tooltip Disabled: [tailwind-elements.com/docs/standard/components/tooltip/](https://tailwind-elements.com/docs/standard/components/tooltip/)
 *   Tooltip Style 1, Tooltip Style 2, Tooltip Style 3: [tailgrids.com/components/tooltips](https://tailgrids.com/components/tooltips)
 *   Free Tailwind CSS Tooltip Component: [tailwindcomponents.com/component/free-tailwind-css-tooltip-component](https://tailwindcomponents.com/component/free-tailwind-css-tooltip-component)
+*   Tooltip Top: [mynaui.com/tooltip/#top](https://mynaui.com/tooltip/#top)
+*   Tooltip Bottom: [mynaui.com/tooltip/#bottom](https://mynaui.com/tooltip/#bottom)
+*   Tooltip Right: [mynaui.com/tooltip/#right](https://mynaui.com/tooltip/#right)
+*   Tooltip Left: [mynaui.com/tooltip/#left](https://mynaui.com/tooltip/#left)
+*   Tooltip Without Tip: [mynaui.com/tooltip/#without-tip](https://mynaui.com/tooltip/#without-tip)
 
 ## Table
 
@@ -2837,3 +2926,21 @@
 *   Free Tailwind CSS FAQ Component: [tailwindcomponents.com/component/free-tailwind-css-404-page-component](https://tailwindcomponents.com/component/free-tailwind-css-404-page-component)
 *   Datetime Range Picker: [tailwindcomponents.com/component/datetime-range-picker](https://tailwindcomponents.com/component/datetime-range-picker)
 *   Vite - Vue3 – Tailwind: [github.com/web2033/vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter)
+*   File Basic: [mynaui.com/file/#basic](https://mynaui.com/file/#basic)
+*   File Disabled: [mynaui.com/file/#disabled](https://mynaui.com/file/#disabled)
+*   File Drop Box: [mynaui.com/file/#drop-box](https://mynaui.com/file/#drop-box)
+*   File Error: [mynaui.com/file/#error](https://mynaui.com/file/#error)
+*   Radio Basic: [mynaui.com/radio/#basic](https://mynaui.com/radio/#basic)
+*   Radio Disabled: [mynaui.com/radio/#disabled](https://mynaui.com/radio/#disabled)
+*   Radio Error: [mynaui.com/radio/#error](https://mynaui.com/radio/#error)
+*   Radio Vertical: [mynaui.com/radio/#vertical](https://mynaui.com/radio/#vertical)
+*   Radio With Description: [mynaui.com/radio/#with-description](https://mynaui.com/radio/#with-description)
+*   Range Basic: [mynaui.com/range/#basic](https://mynaui.com/range/#basic)
+*   Range Disabled: [mynaui.com/range/#disabled](https://mynaui.com/range/#disabled)
+*   Range Min and Max: [mynaui.com/range/#min-and-max](https://mynaui.com/range/#min-and-max)
+*   Range With Label: [mynaui.com/range/#with-label](https://mynaui.com/range/#with-label)
+*   Rating Basic: [mynaui.com/rating/#basic](https://mynaui.com/rating/#basic)
+*   Rating Colors: [mynaui.com/rating/#colors](https://mynaui.com/rating/#colors)
+*   Rating Disabled: [mynaui.com/rating/#disabled](https://mynaui.com/rating/#disabled)
+*   Rating Sizes: [mynaui.com/rating/#sizes](https://mynaui.com/rating/#sizes)
+*   Rating View Only: [mynaui.com/rating/#view-only](https://mynaui.com/rating/#view-only)
