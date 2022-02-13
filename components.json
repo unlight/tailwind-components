@@ -60,12 +60,12 @@
     "category": "Accordion"
   },
   {
-    "name": "Accordion Basic example, Accordion Item #1, Accordion Item #2, Accordion Item #3, Accordion Flush, Accordion Always open",
+    "name": "Accordion Basic example, Accordion Item #1, Accordion Item #2, Accordion Item #3, Accordion Flush, Accordion Always open, Accordion Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/accordion/",
     "category": "Accordion"
   },
   {
-    "name": "Collapse Basic example, Collapse Horizontal, Collapse Multiple targets, Collapse With scroll",
+    "name": "Collapse Basic example, Collapse Horizontal, Collapse Multiple targets, Collapse With scroll, Collapse Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/collapse/",
     "category": "Accordion"
   },
@@ -385,7 +385,7 @@
     "category": "Alert/Notification"
   },
   {
-    "name": "Notifications Simple notification, Notifications Classic badge notification, Notifications Notification within tabs, Notifications Notification within button, Notifications Notification within avatar, Notifications Notification start, Notifications Notification center, Notifications Notification end (default), Notifications Notification middle start, Notifications Notification middle center, Notifications Notification middle end, Notifications Notification bottom start, Notifications Notification bottom center, Notifications Notification bottom end",
+    "name": "Notifications Simple notification, Notifications Classic badge notification, Notifications Notification within tabs, Notifications Notification within button, Notifications Notification within avatar, Notifications Notification start, Notifications Notification center, Notifications Notification end (default), Notifications Notification middle start, Notifications Notification middle center, Notifications Notification middle end, Notifications Notification bottom start, Notifications Notification bottom center, Notifications Notification bottom end, Notifications Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/notifications/",
     "category": "Alert/Notification"
   },
@@ -520,7 +520,7 @@
     "category": "Avatar"
   },
   {
-    "name": "Avatar Basic example, Avatar With shadow, Avatar Square, Avatar With content",
+    "name": "Avatar Basic example, Avatar With shadow, Avatar Square, Avatar With content, Avatar Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/avatar/",
     "category": "Avatar"
   },
@@ -575,7 +575,7 @@
     "category": "Badge"
   },
   {
-    "name": "Badge Default badge, Badge Larger badges, Badge Badges as links, Badge Badges with icon, Badge Badge with icon only, Badges→ Default badge, Badges→ Larger badges, Badges→ Badges as links, Badges→ Badges with icon, Badges→ Badge with icon only",
+    "name": "Badge Default badge, Badge Larger badges, Badge Badges as links, Badge Badges with icon, Badge Badge with icon only",
     "link": "https://flowbite.com/docs/components/badge/",
     "category": "Badge"
   },
@@ -640,7 +640,7 @@
     "category": "Breadcrumb"
   },
   {
-    "name": "Breadcrumb Default breadcrumb, Breadcrumb With background",
+    "name": "Breadcrumb Default breadcrumb, Breadcrumb Solid background",
     "link": "https://flowbite.com/docs/components/breadcrumb/",
     "category": "Breadcrumb"
   },
@@ -1231,32 +1231,32 @@
     "category": "Button"
   },
   {
-    "name": "Button group Basic example, Button group Active state, Button group Outline styles, Button group Toolbar, Button group Sizing, Button group Colors",
+    "name": "Button group Basic example, Button group Active state, Button group Outline styles, Button group Toolbar, Button group Sizing, Button group Colors, Button group Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/button-group/",
     "category": "Button"
   },
   {
-    "name": "Buttons Basic example, Buttons With ripple, Buttons Colors, Buttons Outline, Buttons Rounded, Buttons Rounded outline, Buttons Floating, Buttons Sizes, Buttons Active state, Buttons Disabled state, Buttons With icon, Buttons Block buttons",
+    "name": "Buttons Basic example, Buttons With ripple, Buttons Colors, Buttons Outline, Buttons Rounded, Buttons Rounded outline, Buttons Floating, Buttons Sizes, Buttons Active state, Buttons Disabled state, Buttons With icon, Buttons Block buttons, Buttons Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/buttons/",
     "category": "Button"
   },
   {
-    "name": "Dropdown Basic example, Dropdown Colors, Dropdown Sizing, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Menu item disabled, Dropdown Menu item header, Dropdown Menu items divider, Dropdown Menu item text, Dropdown Dark dropdowns",
+    "name": "Dropdown Basic example, Dropdown Colors, Dropdown Sizing, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Menu item disabled, Dropdown Menu item header, Dropdown Menu items divider, Dropdown Menu item text, Dropdown Dark dropdowns, Dropdown Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/dropdown/",
     "category": "Dropdown"
   },
   {
-    "name": "Link Colored links, Link Within the sentence, Link Underline, Link Underline on hover",
+    "name": "Link Colored links, Link Within the sentence, Link Underline, Link Underline on hover, Link Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/link/",
     "category": "Other"
   },
   {
-    "name": "List group Basic example, List group Active items, List group Disabled items, List group Links, List group Flush",
+    "name": "List group Basic example, List group Active items, List group Disabled items, List group Links, List group Flush, List group Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/listgroup/",
     "category": "List"
   },
   {
-    "name": "Pills Basic example, Pills Fill, Pills Justify, Pills Vertical",
+    "name": "Pills Basic example, Pills Fill, Pills Justify, Pills Vertical, Pills Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/pills/",
     "category": "Tags"
   },
@@ -2867,7 +2867,7 @@
     "category": "Slider/Carousel"
   },
   {
-    "name": "Carousel Basic example, Carousel Slides only, Carousel With controls, Carousel With indicators, Carousel Crossfade, Carousel Dark variant",
+    "name": "Carousel Basic example, Carousel Slides only, Carousel With controls, Carousel With indicators, Carousel Crossfade, Carousel Dark variant, Carousel Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/carousel/",
     "category": "Slider/Carousel"
   },
@@ -3207,7 +3207,7 @@
     "category": "Dropdown"
   },
   {
-    "name": "Popover Basic example, Popover Four directions, Popover Dismiss on next click, Popover Disabled",
+    "name": "Popover Basic example, Popover Four directions, Popover Dismiss on next click, Popover Disabled, Popover Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/popover/",
     "category": "Dropdown"
   },
@@ -5347,7 +5347,7 @@
     "category": "Modal"
   },
   {
-    "name": "Modal Basic example, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Sizes, Modal Fullscreen modal",
+    "name": "Modal Basic example, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Sizes, Modal Fullscreen modal, Modal Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/modal/",
     "category": "Modal"
   },
@@ -6798,7 +6798,7 @@
     "category": "Pagination"
   },
   {
-    "name": "Pagination Basic example, Pagination Icons, Pagination Disabled and active states, Pagination Sizing, Pagination Shape",
+    "name": "Pagination Basic example, Pagination Icons, Pagination Disabled and active states, Pagination Sizing, Pagination Shape, Pagination Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/pagination/",
     "category": "Pagination"
   },
@@ -7173,7 +7173,7 @@
     "category": "Step"
   },
   {
-    "name": "Stepper Basic, Stepper Vertical stepper",
+    "name": "Stepper Basic, Stepper Vertical stepper, Stepper Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/stepper/",
     "category": "Step"
   },
@@ -7453,7 +7453,7 @@
     "category": "Tooltips"
   },
   {
-    "name": "Tooltip Basic example, Tooltip Four directions, Tooltip With custom HTML, Tooltip Disabled",
+    "name": "Tooltip Basic example, Tooltip Four directions, Tooltip With custom HTML, Tooltip Disabled, Tooltip Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/tooltip/",
     "category": "Tooltips"
   },
@@ -7618,7 +7618,7 @@
     "category": "Table"
   },
   {
-    "name": "Tables Basic example, Tables Variants, Tables Striped, Tables Hoverable, Tables Bordered, Tables Borderless, Tables Small, Tables Light Head, Tables Dark Head, Tables Always responsive",
+    "name": "Tables Basic example, Tables Variants, Tables Striped, Tables Hoverable, Tables Bordered, Tables Borderless, Tables Small, Tables Light Head, Tables Dark Head, Tables Always responsive, Tables Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/tables/",
     "category": "Table"
   },
@@ -7778,7 +7778,7 @@
     "category": "List"
   },
   {
-    "name": "Typography Headings, Typography Tailwind Elements, Typography Customizing headings, Typography Display headings, Typography Display 1, Typography Display 2, Typography Lead, Typography Inline text elements, Typography Blockquotes, Typography Text alignment, Typography Text wrapping and overflow, Typography Text nowrap, Typography Font weight and italics, Typography Line height",
+    "name": "Typography Headings, Typography Tailwind Elements, Typography Customizing headings, Typography Display headings, Typography Display 1, Typography Display 2, Typography Lead, Typography Inline text elements, Typography Blockquotes, Typography Text alignment, Typography Text wrapping and overflow, Typography Text nowrap, Typography Font weight and italics, Typography Line height, Typography Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/typography/",
     "category": "Other"
   },
@@ -10773,17 +10773,17 @@
     "category": "Other"
   },
   {
-    "name": "Charts Line chart, Charts Bar chart, Charts Radar chart, Charts Pie chart, Charts Doughnut chart",
+    "name": "Charts Line chart, Charts Bar chart, Charts Radar chart, Charts Pie chart, Charts Doughnut chart, Charts Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/charts/",
     "category": "Other"
   },
   {
-    "name": "Gallery Basic, Gallery Mix",
+    "name": "Gallery Basic, Gallery Mix, Gallery Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/gallery/",
     "category": "Other"
   },
   {
-    "name": "Headings H1, Headings H2, Headings Tailwind Elements, Headings H3, Headings H4, Headings H5, Headings H6",
+    "name": "Headings H1, Headings H2, Headings Tailwind Elements, Headings H3, Headings H4, Headings H5, Headings H6, Headings Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/headings/",
     "category": "Other"
   },
@@ -10793,7 +10793,7 @@
     "category": "Other"
   },
   {
-    "name": "Images Responsive images, Images Thumbnails, Images Shadows, Images Shadow on hover, Images Shapes",
+    "name": "Images Responsive images, Images Thumbnails, Images Shadows, Images Shadow on hover, Images Shapes, Images Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/images/",
     "category": "Other"
   },
@@ -10803,22 +10803,22 @@
     "category": "Other"
   },
   {
-    "name": "Mask Basic example, Mask Color, Mask Gradient, Mask Opacity, Mask Content, Mask Ripple, Mask Link regular, Mask Link with ripple",
+    "name": "Mask Basic example, Mask Color, Mask Gradient, Mask Opacity, Mask Content, Mask Ripple, Mask Link regular, Mask Link with ripple, Mask Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/mask/",
     "category": "Other"
   },
   {
-    "name": "Offcanvas Basic example, Offcanvas Placement - top, Offcanvas Placement - right, Offcanvas Placement - bottom",
+    "name": "Offcanvas Basic example, Offcanvas Placement - top, Offcanvas Placement - right, Offcanvas Placement - bottom, Offcanvas Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/offcanvas/",
     "category": "Other"
   },
   {
-    "name": "Paragraphs Basic, Paragraphs Lead, Paragraphs Quote, Paragraphs Small, Paragraphs Inline text elements",
+    "name": "Paragraphs Basic, Paragraphs Lead, Paragraphs Quote, Paragraphs Small, Paragraphs Inline text elements, Paragraphs Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/paragraphs/",
     "category": "Other"
   },
   {
-    "name": "Rating Basic, Rating Filled, Rating Custom icons, Rating Emoji",
+    "name": "Rating Basic, Rating Filled, Rating Custom icons, Rating Emoji, Rating Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/rating/",
     "category": "Other"
   },
@@ -11467,7 +11467,7 @@
     "category": "Switch"
   },
   {
-    "name": "Toggle - simple, Toggle - toggle, Toggle - radio",
+    "name": "Toggle - simple, Toggle - toggle",
     "link": "https://www.tailwind-kit.com/components/toggle",
     "category": "Switch"
   },
@@ -12925,7 +12925,7 @@
     "category": "Tab"
   },
   {
-    "name": "Timeline Basic example, Timeline Primary color, Timeline Horizontal",
+    "name": "Timeline Basic example, Timeline Horizontal example, Timeline Primary color, Timeline Icons, Timeline Related resources",
     "link": "https://tailwind-elements.com/docs/standard/components/timeline/",
     "category": "Timeline"
   },
@@ -13967,6 +13967,418 @@
   {
     "name": "Free Tailwind CSS Graph Component",
     "link": "https://tailwindcomponents.com/component/free-tailwind-css-graph-component",
+    "category": "Other"
+  },
+  {
+    "name": "Accordion NEW Default accordion, Accordion NEW Always open, Accordion NEW Color options, Accordion NEW Flush accordion, Accordion NEW Arrow style, Accordion→ Default accordion, Accordion→ Always open, Accordion→ Color options, Accordion→ Flush accordion, Accordion→ Arrow style",
+    "link": "https://flowbite.com/docs/components/accordion/",
+    "category": "Accordion"
+  },
+  {
+    "name": "Tailwind CSS accordion",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-accordion",
+    "category": "Accordion"
+  },
+  {
+    "name": "Notification Card",
+    "link": "https://tailwindcomponents.com/component/notification-card-2",
+    "category": "Alert/Notification"
+  },
+  {
+    "name": "Social buttons Icons, Social buttons Brand colors & size, Social buttons Social button, Social buttons Sample brands, Social buttons Floating social, Social buttons Text, Social buttons Only icon button",
+    "link": "https://tailwind-elements.com/docs/standard/components/social-buttons/",
+    "category": "Button"
+  },
+  {
+    "name": "Sidebar NEW Default sidebar, Sidebar NEW Content separator, Sidebar NEW Logo branding",
+    "link": "https://flowbite.com/docs/components/sidebar/",
+    "category": "Sidebar"
+  },
+  {
+    "name": "Header Only Buttons",
+    "link": "https://mynaui.com/header/#only-buttons",
+    "category": "Button"
+  },
+  {
+    "name": "Contact Me Card",
+    "link": "https://codepen.io/stackdiary/pen/zYPozeb",
+    "category": "Card"
+  },
+  {
+    "name": "Digital Product Card",
+    "link": "https://codepen.io/stackdiary/pen/MWObvgz",
+    "category": "Card"
+  },
+  {
+    "name": "Product Features Card",
+    "link": "https://codepen.io/stackdiary/pen/QWOGMGV",
+    "category": "Card"
+  },
+  {
+    "name": "Blog Post Card",
+    "link": "https://codepen.io/stackdiary/pen/rNYWzEx",
+    "category": "Card"
+  },
+  {
+    "name": "Instagram Card",
+    "link": "https://codepen.io/stackdiary/pen/VwrmWxw",
+    "category": "Card"
+  },
+  {
+    "name": "eCommerce Product Card",
+    "link": "https://codepen.io/stackdiary/pen/XWzNedN",
+    "category": "Card"
+  },
+  {
+    "name": "Latest Project Card",
+    "link": "https://codepen.io/stackdiary/pen/yLPVzbe",
+    "category": "Card"
+  },
+  {
+    "name": "Statistics Card",
+    "link": "https://codepen.io/stackdiary/pen/MWObENo",
+    "category": "Card"
+  },
+  {
+    "name": "Blog Article Card",
+    "link": "https://codepen.io/stackdiary/pen/GRONyKr",
+    "category": "Card"
+  },
+  {
+    "name": "Tweet Card (Small)",
+    "link": "https://codepen.io/stackdiary/pen/PoObjxW",
+    "category": "Card"
+  },
+  {
+    "name": "Team Members Card",
+    "link": "https://codepen.io/stackdiary/pen/vYWypNy",
+    "category": "Card"
+  },
+  {
+    "name": "Minimalist team card",
+    "link": "https://tailwindcomponents.com/component/minimalist-team-card",
+    "category": "Card"
+  },
+  {
+    "name": "Card list",
+    "link": "https://tailwindcomponents.com/component/card-list-1",
+    "category": "Card"
+  },
+  {
+    "name": "Profile Card",
+    "link": "https://tailwindcomponents.com/component/profile-card-16",
+    "category": "Card"
+  },
+  {
+    "name": "Crypto Currency Card",
+    "link": "https://tailwindcomponents.com/component/crypto-currency-card",
+    "category": "Card"
+  },
+  {
+    "name": "Tailwind CSS Mobile App Card",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-mobile-app-card",
+    "category": "Card"
+  },
+  {
+    "name": "Free Tailwind CSS Carousels Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-carousels-component",
+    "category": "Slider/Carousel"
+  },
+  {
+    "name": "Video Responsive video 21:9, Video Responsive video 16:9, Video Responsive video 4:3, Video Responsive video 1:1, Video iframe, Video with autoplay option, Video hover to play",
+    "link": "https://tailwind-elements.com/docs/standard/components/video/",
+    "category": "Other"
+  },
+  {
+    "name": "Video carousel Basic example, Video carousel Full page carousel, Video carousel Learn Tailwind Elements, Video carousel You can place here any content, Video carousel And cover it with any mask",
+    "link": "https://tailwind-elements.com/docs/standard/components/video-carousel/",
+    "category": "Slider/Carousel"
+  },
+  {
+    "name": "Cookie Notice Card",
+    "link": "https://codepen.io/stackdiary/pen/bGYBawv",
+    "category": "Cookies"
+  },
+  {
+    "name": "Free Tailwind CSS Cookies Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-cookies-component",
+    "category": "Cookies"
+  },
+  {
+    "name": "Custom Calendar",
+    "link": "https://tailwindcomponents.com/component/custom-calendar",
+    "category": "Date/Time"
+  },
+  {
+    "name": "color selection",
+    "link": "https://tailwindcomponents.com/component/color-selection",
+    "category": "Dropdown"
+  },
+  {
+    "name": "inputs with icons",
+    "link": "https://tailwindcomponents.com/component/inputs-with-icons",
+    "category": "Form"
+  },
+  {
+    "name": "Login And Register Form With Error Message",
+    "link": "https://tailwindcomponents.com/component/login-and-register-form-with-error-message",
+    "category": "Form"
+  },
+  {
+    "name": "Contact Page",
+    "link": "https://tailwindcomponents.com/component/contact-page-2",
+    "category": "Contact",
+    "parent": "Form"
+  },
+  {
+    "name": "Tailwind CSS Contact Form",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-contact-form",
+    "category": "Contact",
+    "parent": "Form"
+  },
+  {
+    "name": "Ojas Search results",
+    "link": "https://tailwindcomponents.com/component/ojas-search-results",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Footer Left Aligned",
+    "link": "https://mynaui.com/footer/#left-aligned",
+    "category": "Footer"
+  },
+  {
+    "name": "Footer Links Grid",
+    "link": "https://mynaui.com/footer/#links-grid",
+    "category": "Footer"
+  },
+  {
+    "name": "Ojas Footer",
+    "link": "https://tailwindcomponents.com/component/ojas-footer",
+    "category": "Footer"
+  },
+  {
+    "name": "Tailwind CSS Footer",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-footer",
+    "category": "Footer"
+  },
+  {
+    "name": "Free Tailwind CSS Footers Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-footers-component",
+    "category": "Footer"
+  },
+  {
+    "name": "Free Tailwind CSS Heros Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-heros-component",
+    "category": "Hero"
+  },
+  {
+    "name": "Tailwind CSS Spinner",
+    "link": "https://tailwindcomponents.com/component/spinner-3",
+    "category": "Loading/Spinner"
+  },
+  {
+    "name": "Free Tailwind CSS Modals Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-modals-component",
+    "category": "Modal"
+  },
+  {
+    "name": "Header Left Links",
+    "link": "https://mynaui.com/header/#left-links",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Navbar in tailwind",
+    "link": "https://tailwindcomponents.com/component/navbar-in-tailwind",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Simple Navigation",
+    "link": "https://tailwindcomponents.com/component/simple-navigation",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Free Tailwind CSS Navigations Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-navigations-component",
+    "category": "Navigation/Header"
+  },
+  {
+    "name": "Jumbotron Basic example, Jumbotron Hello world!, Jumbotron Background image, Jumbotron Heading, Jumbotron The background photo shows Lido di Ostia",
+    "link": "https://tailwind-elements.com/docs/standard/components/jumbotron/",
+    "category": "Other"
+  },
+  {
+    "name": "Team page",
+    "link": "https://tailwindcomponents.com/component/team-page",
+    "category": "Page"
+  },
+  {
+    "name": "Checkout Page",
+    "link": "https://tailwindcomponents.com/component/checkout-page-2",
+    "category": "Page"
+  },
+  {
+    "name": "Free Tailwind CSS Page Headings Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-page-headings-component",
+    "category": "Page"
+  },
+  {
+    "name": "Product Pricing Card",
+    "link": "https://codepen.io/stackdiary/pen/BamQdZr",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Membership Pricing Card",
+    "link": "https://codepen.io/stackdiary/pen/xxPRLjV",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Testimonial Card",
+    "link": "https://codepen.io/stackdiary/pen/jOaVLQR",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Testimonials Basic example, Testimonials with background image, Testimonials Small testimonials carousel, Testimonials with colorful cards, Testimonials Two columns testimonials, Testimonials Related resources",
+    "link": "https://tailwind-elements.com/docs/standard/components/testimonials/",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Responsive Sidebar TailwindCSS",
+    "link": "https://tailwindcomponents.com/component/responsive-sidebar-tailwindcss",
+    "category": "Sidebar"
+  },
+  {
+    "name": "Sidebar",
+    "link": "https://tailwindcomponents.com/component/sidebar-2",
+    "category": "Sidebar"
+  },
+  {
+    "name": "Tailwind CSS Table",
+    "link": "https://tailwindcomponents.com/component/tables",
+    "category": "Table"
+  },
+  {
+    "name": "Free Tailwind CSS Wishlists Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-wishlists-component",
+    "category": "List"
+  },
+  {
+    "name": "Discussion Section",
+    "link": "https://tailwindcomponents.com/component/discussion-section",
+    "category": "Other"
+  },
+  {
+    "name": "Gonewz Template",
+    "link": "https://tailwindcomponents.com/component/gonewz-template",
+    "category": "Other"
+  },
+  {
+    "name": "Gokemon Template",
+    "link": "https://tailwindcomponents.com/component/gokemon-template",
+    "category": "Other"
+  },
+  {
+    "name": "Embed YT live stream",
+    "link": "https://tailwindcomponents.com/component/embed-yt-live-stream",
+    "category": "Other"
+  },
+  {
+    "name": "Confirmation Boxes With Different Colors For Different Messages",
+    "link": "https://tailwindcomponents.com/component/confirmation-boxes-with-different-colors-for-different-messages",
+    "category": "Other"
+  },
+  {
+    "name": "Choosing Option To Go For",
+    "link": "https://tailwindcomponents.com/component/choosing-option-to-go-for",
+    "category": "Other"
+  },
+  {
+    "name": "Floating labels",
+    "link": "https://tailwindcomponents.com/component/floating-labels",
+    "category": "Other"
+  },
+  {
+    "name": "Email Subscription",
+    "link": "https://tailwindcomponents.com/component/email-subscription",
+    "category": "Other"
+  },
+  {
+    "name": "Create",
+    "link": "https://tailwindcomponents.com/component/create",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Socials Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-socials-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Product Grids Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-product-grids-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Shopping Carts Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-shopping-carts-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Product Categories Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-product-categories-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Quick Views Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-quick-views-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Product Details Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-product-details-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Partners Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-partners-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Order Summaries Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-order-summaries-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Newsletters Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-newsletters-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Filters Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-filters-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Highlights Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-highlights-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Featured Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-featured-component",
+    "category": "Other"
+  },
+  {
+    "name": "Free Tailwind CSS Blogs Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-blogs-component",
+    "category": "Other"
+  },
+  {
+    "name": "Hover effects Basic example, Hover effects Color, Hover effects Gradient, Hover effects Zoom, Hover effects Shadow, Hover effects Related resources",
+    "link": "https://tailwind-elements.com/docs/standard/components/hover-effects/",
     "category": "Other"
   }
 ]
