@@ -116,11 +116,6 @@
   },
   {
     "name": "Alerts",
-    "link": "https://hyperui.dev/components/alerts",
-    "category": "Alert/Notification"
-  },
-  {
-    "name": "Alerts",
     "link": "https://codepen.io/robstinson/pen/eYzpbvN",
     "category": "Alert/Notification"
   },
@@ -645,11 +640,6 @@
     "category": "Breadcrumb"
   },
   {
-    "name": "Breadcrumbs",
-    "link": "https://hyperui.dev/components/breadcrumbs",
-    "category": "Breadcrumb"
-  },
-  {
     "name": "Breadcrumb",
     "link": "https://mambaui.com/components/breadcrumb",
     "category": "Breadcrumb"
@@ -744,11 +734,6 @@
     "name": "List Group Default example, List Group List group with links, List Group List group with icons",
     "link": "https://flowbite.com/docs/components/list-group/",
     "category": "List"
-  },
-  {
-    "name": "Buttons",
-    "link": "https://hyperui.dev/components/buttons",
-    "category": "Button"
   },
   {
     "name": "UI Buttons, Button Icon Rounded, Button Group",
@@ -1373,16 +1358,6 @@
   {
     "name": "Card Default example, Card Card with image, Card Horizontal card, Card Interactive card, Card E-commerce card, Card Call to action card, Card Card with list",
     "link": "https://flowbite.com/docs/components/card/",
-    "category": "Card"
-  },
-  {
-    "name": "Cards",
-    "link": "https://hyperui.dev/components/cards",
-    "category": "Card"
-  },
-  {
-    "name": "Product Cards",
-    "link": "https://hyperui.dev/components/product-cards",
     "category": "Card"
   },
   {
@@ -3302,16 +3277,6 @@
     "category": "Modal"
   },
   {
-    "name": "Forms",
-    "link": "https://hyperui.dev/components/forms",
-    "category": "Form"
-  },
-  {
-    "name": "Inputs",
-    "link": "https://hyperui.dev/components/inputs",
-    "category": "Form"
-  },
-  {
     "name": "Input Addon",
     "link": "https://layoutsfortailwind.lalokalabs.dev/ui/input-addon",
     "category": "Form"
@@ -4743,11 +4708,6 @@
   },
   {
     "name": "Footers",
-    "link": "https://hyperui.dev/components/footers",
-    "category": "Footer"
-  },
-  {
-    "name": "Footers",
     "link": "https://kitwind.io/products/kometa/components/footers",
     "category": "Footer"
   },
@@ -5197,11 +5157,6 @@
     "category": "Modal"
   },
   {
-    "name": "Popups",
-    "link": "https://hyperui.dev/components/popups",
-    "category": "Modal"
-  },
-  {
     "name": "Modal Default, Modal With animation, Modal Not closed on Click Outside, Modal Large, Modal Extra Large",
     "link": "https://kimia-ui.vercel.app/components/modal",
     "category": "Modal"
@@ -5424,11 +5379,6 @@
   {
     "name": "Navbar Default navbar, Navbar Navbar with dropdown, Navbar Navbar with search, Navbar Navbar with CTA button",
     "link": "https://flowbite.com/docs/components/navbar/",
-    "category": "Navigation/Header"
-  },
-  {
-    "name": "Navigations",
-    "link": "https://hyperui.dev/components/navigations",
     "category": "Navigation/Header"
   },
   {
@@ -6644,12 +6594,6 @@
     "parent": "Page"
   },
   {
-    "name": "Testimonials",
-    "link": "https://hyperui.dev/components/testimonials",
-    "category": "Testimonial",
-    "parent": "Page"
-  },
-  {
     "name": "Marketing Testimonials",
     "link": "https://kutty.netlify.app/components/testimonials/",
     "category": "Testimonial",
@@ -6745,11 +6689,6 @@
   {
     "name": "Pagination Default pagination, Pagination Pagination with icons, Pagination Previous and next, Pagination Previous and next with icons, Pagination Table data pagination, Pagination Table data pagination with icons",
     "link": "https://flowbite.com/docs/components/pagination/",
-    "category": "Pagination"
-  },
-  {
-    "name": "Pagination",
-    "link": "https://hyperui.dev/components/pagination",
     "category": "Pagination"
   },
   {
@@ -7313,11 +7252,6 @@
     "category": "Tab"
   },
   {
-    "name": "Tags",
-    "link": "https://hyperui.dev/components/tags",
-    "category": "Tags"
-  },
-  {
     "name": "Tab Variant 1, Tab Variant 2",
     "link": "https://kimia-ui.vercel.app/components/tab",
     "category": "Tab"
@@ -7820,11 +7754,6 @@
   {
     "name": "Tabs",
     "link": "https://headlessui.dev/react/tabs",
-    "category": "Tab"
-  },
-  {
-    "name": "Tabs",
-    "link": "https://hyperui.dev/components/tabs",
     "category": "Tab"
   },
   {
@@ -8375,76 +8304,6 @@
   {
     "name": "Transition",
     "link": "https://headlessui.dev/react/transition",
-    "category": "Other"
-  },
-  {
-    "name": "Announcements",
-    "link": "https://hyperui.dev/components/announcements",
-    "category": "Other"
-  },
-  {
-    "name": "Banners",
-    "link": "https://hyperui.dev/components/banners",
-    "category": "Other"
-  },
-  {
-    "name": "Carts",
-    "link": "https://hyperui.dev/components/carts",
-    "category": "Other"
-  },
-  {
-    "name": "Content",
-    "link": "https://hyperui.dev/components/content",
-    "category": "Other"
-  },
-  {
-    "name": "CTAs",
-    "link": "https://hyperui.dev/components/ctas",
-    "category": "Other"
-  },
-  {
-    "name": "Empty States",
-    "link": "https://hyperui.dev/components/empty-states",
-    "category": "Other"
-  },
-  {
-    "name": "FAQs",
-    "link": "https://hyperui.dev/components/faqs",
-    "category": "Other"
-  },
-  {
-    "name": "Off Canvas Menus",
-    "link": "https://hyperui.dev/components/off-canvas-menus",
-    "category": "Other"
-  },
-  {
-    "name": "Stats",
-    "link": "https://hyperui.dev/components/stats",
-    "category": "Other"
-  },
-  {
-    "name": "Titles",
-    "link": "https://hyperui.dev/components/titles",
-    "category": "Other"
-  },
-  {
-    "name": "Filters",
-    "link": "https://hyperui.dev/components/filters",
-    "category": "Other"
-  },
-  {
-    "name": "Products",
-    "link": "https://hyperui.dev/components/products",
-    "category": "Other"
-  },
-  {
-    "name": "Product Collections",
-    "link": "https://hyperui.dev/components/product-collections",
-    "category": "Other"
-  },
-  {
-    "name": "Reviews",
-    "link": "https://hyperui.dev/components/reviews",
     "category": "Other"
   },
   {
@@ -12457,11 +12316,6 @@
     "name": "Spinner NEW Default spinner, Spinner NEW Colors, Spinner NEW Sizing, Spinner NEW Alignment",
     "link": "https://flowbite.com/docs/components/spinner/",
     "category": "Loading/Spinner"
-  },
-  {
-    "name": "Button Groups",
-    "link": "https://hyperui.dev/components/button-groups",
-    "category": "Button"
   },
   {
     "name": "Free Tailwind CSS Grouped Button Component",
