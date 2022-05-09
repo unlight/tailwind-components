@@ -1,10 +1,10 @@
 {
   "name": "tailwind-components",
   "scripts": {
-    "test:r": "mocha -r ts-node/register/transpile-only --no-timeouts src/**/*.spec.ts",
-    "test:w": "mocha -r ts-node/register/transpile-only --no-timeouts --watch-files src/**/*.ts --watch src/**/*.spec.ts",
-    "test:d": "node --inspect -r ts-node/register/transpile-only node_modules/mocha/bin/_mocha --no-timeouts --watch-files src/**/*.ts --watch src/**/*.spec.ts",
-    "test:brk": "node --inspect-brk -r ts-node/register/transpile-only node_modules/mocha/bin/_mocha --no-timeouts src/**/*.spec.ts",
+    "test:r": "mocha -r ts-node/register --no-timeouts src/**/*.spec.ts",
+    "test:w": "mocha -r ts-node/register --no-timeouts --watch-files src/**/*.ts --watch src/**/*.spec.ts",
+    "test:d": "node --inspect -r ts-node/register node_modules/mocha/bin/mocha --no-timeouts --watch-files src/**/*.ts --watch src/**/*.spec.ts",
+    "test:brk": "node --inspect-brk -r ts-node/register node_modules/mocha/bin/mocha --no-timeouts src/**/*.spec.ts",
     "tscheck": "echo tscheck... && tsc --noEmit",
     "tscheck:w": "npm run tscheck -- --watch",
     "remark": "sh Taskfile remark_run",

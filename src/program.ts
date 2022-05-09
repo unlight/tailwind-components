@@ -8,7 +8,6 @@ import { CompomentLink } from './types';
 
 /**
  * RESOURCES:
- * https://fancytailwind.com/browse-components
  * https://www.vechaiui.com/
  */
 
@@ -24,7 +23,7 @@ type ProgramOptions = {
 
 async function program(options?: ProgramOptions) {
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
     slowMo: options?.slowmo,
     defaultViewport: null,
     args: ['--start-maximized'],
