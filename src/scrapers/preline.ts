@@ -47,6 +47,10 @@ export default async function preline({ page }: ScraperArgs): Promise<CompomentL
     });
 
     for (const variantion of variantions) {
+      const betterName = `${name} ${variantion}`
+        .replace(/[<>#]/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
       result.push({
         name: `${name} ${variantion}`.trim(),
         link,
