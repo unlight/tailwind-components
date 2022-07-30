@@ -1,12 +1,11 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-// fix me
 export default async function wickedtemplates({
   page,
 }: ScraperArgs): Promise<CompomentLink[]> {
   const result: CompomentLink[] = [];
   await page.goto('https://blocks.wickedtemplates.com/');
-  const sections = await page.$$('section .container');
+  const sections = await page.$$('.container.items-center');
   for (const section of sections) {
     const category = await section.$eval('header', x => x.textContent!.trim());
     for (const block of await section.$$('a')) {

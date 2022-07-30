@@ -1,11 +1,13 @@
 import { CompomentLink, ScraperArgs } from '../types';
 
-// todo: fix me
 export default async function gustui({ page }: ScraperArgs): Promise<CompomentLink[]> {
   const result: CompomentLink[] = [];
   await page.goto('https://www.gustui.com/docs', {
     waitUntil: 'load',
   });
+
+  page.waitForNavigation({ timeout: 60_000 });
+
   const sectionLinks = await page.$$eval('a[href^="/docs/application/"]', elements =>
     elements.map(a => a.getAttribute('href')),
   );
@@ -19,9 +21,10 @@ export default async function gustui({ page }: ScraperArgs): Promise<CompomentLi
         ).map((element: any) => element.getAttribute('href'));
       })
       .then(hrefs => hrefs.jsonValue())) as string[];
+
     for (const href of hrefs) {
       const link = `https://www.gustui.com${href}`;
-      await page.goto(link, {});
+      await page.goto(link, { waitUntil: 'networkidle0' });
       const category = await page.$eval('h1', h => h.textContent);
       const section = await page
         .$('h1')
@@ -36,5 +39,6 @@ export default async function gustui({ page }: ScraperArgs): Promise<CompomentLi
       }
     }
   }
+
   return result;
 }
