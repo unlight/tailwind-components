@@ -208,6 +208,8 @@
 *   Alert component: [tailwindcomponents.com/component/alert-component-2](https://tailwindcomponents.com/component/alert-component-2)
 *   Alerts Color variants, Alerts Solid color variants, Alerts Soft color variants, Alerts With description, Alerts With list, Alerts Actions, Alerts Link on right, Alerts Dismiss button, Alerts Discovery: [preline.co/docs/alerts.html](https://preline.co/docs/alerts.html)
 *   Toasts Basic usage, Toasts Example, Toasts Condensed, Toasts Color variants, Toasts Solid color variants, Toasts Soft color variants, Toasts Message with loading indicator, Toasts With actions, Toasts Stack, Toasts Placement, Toasts Dismiss button: [preline.co/docs/toasts.html](https://preline.co/docs/toasts.html)
+*   notification notification 1, notification notification 1: [tailwinduikit.com/components/webapp/overlay/notification#notification\_1](https://tailwinduikit.com/components/webapp/overlay/notification#notification_1)
+*   alert simple with action button warning, alert simple with action button warning: [tailwinduikit.com/components/webapp/feedback/alert#simple\_with\_action\_button\_warning](https://tailwinduikit.com/components/webapp/feedback/alert#simple_with_action_button_warning)
 
 ## Avatar
 
@@ -265,6 +267,7 @@
 *   Avatar placeholder: [tailwindcomponents.com/component/avatar-placeholder](https://tailwindcomponents.com/component/avatar-placeholder)
 *   Tailwind CSS Avatar: [tailwindcomponents.com/component/tailwind-css-avatar](https://tailwindcomponents.com/component/tailwind-css-avatar)
 *   Avatar Group Stack, Avatar Group Grid, Avatar Group Border color, Avatar Group With dropdown: [preline.co/docs/avatar-group.html](https://preline.co/docs/avatar-group.html)
+*   avatar avatars circle image, avatar avatars circle image: [tailwinduikit.com/components/webapp/UI\_element/avatar#avatars\_circle\_image](https://tailwinduikit.com/components/webapp/UI_element/avatar#avatars_circle_image)
 
 ## Badge
 
@@ -313,6 +316,7 @@
 *   Badged Buttons: [tailwindcomponents.com/component/badged-buttons](https://tailwindcomponents.com/component/badged-buttons)
 *   Badge Simple, Badge With Close, Badge Hashtag, Badge Split with Content and Close, Badge Split with Content and Image, Badge Service Status: [hyperui.dev/components/badges](https://www.hyperui.dev/components/badges)
 *   Badge Color variants, Badge Solid color variants, Badge Soft color variants, Badge Shape, Badge Rounded badges, Badge Max width, Badge Badge with indicator, Badge Badge with remove button, Badge With button, Badge Positioned, Badge Profile: [preline.co/docs/badge.html](https://preline.co/docs/badge.html)
+*   badge large rectangle bullet, badge large rectangle bullet: [tailwinduikit.com/components/webapp/UI\_element/badge#large\_rectangle\_bullet](https://tailwinduikit.com/components/webapp/UI_element/badge#large_rectangle_bullet)
 
 ## Breadcrumb
 
@@ -529,6 +533,9 @@
 *   Buttons Types, Buttons Sizes, Buttons Color variants, Buttons Solid color variants, Buttons Outline color variants, Buttons Ghost color variants, Buttons Soft color variants, Buttons Shape, Buttons Pilled Button, Buttons Block Button, Buttons Icon, Buttons Loading, Buttons Disabled: [preline.co/docs/buttons.html](https://preline.co/docs/buttons.html)
 *   Button Group Basic usage, Button Group Example, Button Group Sizes, Button Group Button group break, Button Group Vertical: [preline.co/docs/button-group.html](https://preline.co/docs/button-group.html)
 *   Scroll back to top button Basic example, Scroll back to top button : [tailwind-elements.com/docs/standard/components/scroll-back-to-top-button/](https://tailwind-elements.com/docs/standard/components/scroll-back-to-top-button/)
+*   horizontal navigation light with button, horizontal navigation light with button: [tailwinduikit.com/components/webapp/navigation/horizontal\_navigation#light\_with\_button](https://tailwinduikit.com/components/webapp/navigation/horizontal_navigation#light_with_button)
+*   button button small, button button small: [tailwinduikit.com/components/webapp/UI\_element/button#button\_small](https://tailwinduikit.com/components/webapp/UI_element/button#button_small)
+*   grouped button filter-1, grouped button filter-1: [tailwinduikit.com/components/webapp/UI\_element/grouped\_button#filter\_1](https://tailwinduikit.com/components/webapp/UI_element/grouped_button#filter_1)
 
 ## Call to Action
 
@@ -911,6 +918,11 @@
 *   Fancy Web3 Cards 4: [fancytailwind.com/app/fancy-laboratory/molecules/web3cards/web3Cards4](https://fancytailwind.com/app/fancy-laboratory/molecules/web3cards/web3Cards4)
 *   Fancy Web3 Cards 6: [fancytailwind.com/app/fancy-laboratory/molecules/web3cards/web3Cards6](https://fancytailwind.com/app/fancy-laboratory/molecules/web3cards/web3Cards6)
 *   Simple Feature Card Alt: [postsrc.com/components/card/simple-feature-card-2](https://postsrc.com/components/card/simple-feature-card-2)
+*   card full width with right grey, card full width with right grey: [tailwinduikit.com/components/webapp/layout/card#full\_width\_with\_right\_grey](https://tailwinduikit.com/components/webapp/layout/card#full_width_with_right_grey)
+*   card full width divided into three, card full width divided into three: [tailwinduikit.com/components/webapp/layout/card#full\_width\_divided\_into\_three](https://tailwinduikit.com/components/webapp/layout/card#full_width_divided_into_three)
+*   grid card single card with title and description, grid card single card with title and description: [tailwinduikit.com/components/webapp/layout/grid\_card#single\_card\_with\_title\_and\_description](https://tailwinduikit.com/components/webapp/layout/grid_card#single_card_with_title_and_description)
+*   card heading grey tabs on right, card heading grey tabs on right: [tailwinduikit.com/components/webapp/heading/card\_heading#grey\_tabs\_on\_right](https://tailwinduikit.com/components/webapp/heading/card_heading#grey_tabs_on_right)
+*   note 4 by 3 multiple styled cards, note 4 by 3 multiple styled cards: [tailwinduikit.com/components/webapp/note/note#4\_by\_3\_multiple\_styled\_cards](https://tailwinduikit.com/components/webapp/note/note#4_by_3_multiple_styled_cards)
 
 ## Dashboard Widgets
 
@@ -949,6 +961,7 @@
 *   Progress Slider Component: [tailwindcomponents.com/component/progress-slider-component](https://tailwindcomponents.com/component/progress-slider-component)
 *   Carousel: [mambaui.com/components/carousel](https://mambaui.com/components/carousel)
 *   Slider: [mambaui.com/components/slider](https://mambaui.com/components/slider)
+*   slider slider, slider slider: [tailwinduikit.com/components/webapp/UI\_element/slider#slider](https://tailwinduikit.com/components/webapp/UI_element/slider#slider)
 
 ## Cookies
 
@@ -981,6 +994,7 @@
 *   Calendar Date: [tailwindcomponents.com/component/calendar-date](https://tailwindcomponents.com/component/calendar-date)
 *   Free Tailwind CSS Calendar Component: [tailwindcomponents.com/component/free-tailwind-css-calendar-component](https://tailwindcomponents.com/component/free-tailwind-css-calendar-component)
 *   Custom Calendar: [tailwindcomponents.com/component/custom-calendar](https://tailwindcomponents.com/component/custom-calendar)
+*   calendar calendar 2, calendar calendar 2: [tailwinduikit.com/components/webapp/calendar/calendar#calendar\_2](https://tailwinduikit.com/components/webapp/calendar/calendar#calendar_2)
 
 ## Dropdown
 
@@ -1055,6 +1069,8 @@
 *   Popover: [headlessui.com/react/popover](https://headlessui.com/react/popover)
 *   Select Basic usage, Select Example, Select Sizes, Select Shape, Select Pilled select, Select Disabled, Select Label, Select Hidden label, Select Validation states: [preline.co/docs/select.html](https://preline.co/docs/select.html)
 *   Popovers When to use, Popovers Purpose of content, Popovers Interactions, Popovers Conclusion, Popovers Four directions, Popovers Focus event, Popovers Hover event, Popovers With content, Popovers JavaScript behavior, Popovers Options, Popovers Classes, Popovers Methods, Popovers Events: [preline.co/docs/popovers.html](https://preline.co/docs/popovers.html)
+*   dropdown dropdown 2, dropdown dropdown 2: [tailwinduikit.com/components/webapp/form/dropdown#dropdown\_2](https://tailwinduikit.com/components/webapp/form/dropdown#dropdown_2)
+*   popover simple popover, popover simple popover: [tailwinduikit.com/components/webapp/UI\_element/popover#simple\_popover](https://tailwinduikit.com/components/webapp/UI_element/popover#simple_popover)
 
 ## Form
 
@@ -1255,6 +1271,9 @@
 *   Input Basic usage, Input Example, Input Placeholder, Input Sizes, Input Shape, Input Pilled input, Input Readonly, Input Disabled, Input Label, Input Hidden label, Input Helper text, Input Inline helper text, Input Corner hint, Input Validation states: [preline.co/docs/input.html](https://preline.co/docs/input.html)
 *   Checkbox Basic usage, Checkbox Default, Checkbox Disabled, Checkbox Checkbox group, Checkbox List with description, Checkbox Checkbox within form input, Checkbox On right, Checkbox With list group, Checkbox With horizontal list group: [preline.co/docs/checkbox.html](https://preline.co/docs/checkbox.html)
 *   Radio Basic usage, Radio Default, Radio Disabled, Radio Inline radio group, Radio Vertical radio group, Radio List with description, Radio Radio within form input, Radio On right, Radio With list group, Radio With horizontal list group: [preline.co/docs/radio.html](https://preline.co/docs/radio.html)
+*   form layout simple form, form layout simple form: [tailwinduikit.com/components/webapp/form/form\_layout#simple\_form](https://tailwinduikit.com/components/webapp/form/form_layout#simple_form)
+*   input group input with label, input group input with label: [tailwinduikit.com/components/webapp/form/input\_group#input\_with\_label](https://tailwinduikit.com/components/webapp/form/input_group#input_with_label)
+*   toggle checkbox radio radio small, toggle checkbox radio radio small: [tailwinduikit.com/components/webapp/form/toggle\_checkbox\_radio#radio\_small](https://tailwinduikit.com/components/webapp/form/toggle_checkbox_radio#radio_small)
 
 ### Contact
 
@@ -1388,6 +1407,7 @@
 *   Login page: [tailwindcomponents.com/component/login-page-9](https://tailwindcomponents.com/component/login-page-9)
 *   Twitter login: [tailwindcomponents.com/component/twitter-login](https://tailwindcomponents.com/component/twitter-login)
 *   Login form Basic example, Login form , Login form v.2, Login form v.3: [tailwind-elements.com/docs/standard/components/login-form/](https://tailwind-elements.com/docs/standard/components/login-form/)
+*   sign in sign in, sign in sign in: [tailwinduikit.com/components/webapp/form/sign\_in#sign\_in](https://tailwinduikit.com/components/webapp/form/sign_in#sign_in)
 
 ### Register
 
@@ -1449,6 +1469,7 @@
 *   search bar transparent bg: [tailwindcomponents.com/component/search-bar-transparent-bg](https://tailwindcomponents.com/component/search-bar-transparent-bg)
 *   search-bar: [tailwindcomponents.com/component/search-bar-3](https://tailwindcomponents.com/component/search-bar-3)
 *   Input Group Search box with loading: [preline.co/docs/input-group.html](https://preline.co/docs/input-group.html)
+*   search search, search search: [tailwinduikit.com/components/webapp/UI\_element/search#search](https://tailwinduikit.com/components/webapp/UI_element/search#search)
 
 ### Upload
 
@@ -1685,6 +1706,7 @@
 *   Dialog (Modal): [headlessui.com/react/dialog](https://headlessui.com/react/dialog)
 *   Modal: [mambaui.com/components/modal](https://mambaui.com/components/modal)
 *   Modal Basic usage, Modal Example, Modal Animations, Modal Slide down animation, Modal Slide up animation, Modal Sizes, Modal Static backdrop, Modal Scrolling behavior, Modal Vertically centered, Modal Focus management, Modal Toggle between modals, Modal Fullscreen Modal, Modal JavaScript behavior, Modal Options, Modal Classes, Modal Methods, Modal Events: [preline.co/docs/modal.html](https://preline.co/docs/modal.html)
+*   modal left aligned form, modal left aligned form: [tailwinduikit.com/components/webapp/overlay/modal#left\_aligned\_form](https://tailwinduikit.com/components/webapp/overlay/modal#left_aligned_form)
 
 ## Navigation/Header
 
@@ -1854,6 +1876,8 @@
 *   Fancy Store Navigation 8: [fancytailwind.com/app/fancy-laboratory/molecules/storenavigation/storeNavigation8](https://fancytailwind.com/app/fancy-laboratory/molecules/storenavigation/storeNavigation8)
 *   Navbar Basic usage, Navbar Example, Navbar Responsive behaviors, Navbar With horizontal scroll, Navbar With collapse, Navbar Collapse with animation, Navbar Brand, Navbar SVG, Navbar SVG and text, Navbar Image, Navbar Image and text, Navbar Alignment, Navbar With mega menu, Navbar Color variants: [preline.co/docs/navbar.html](https://preline.co/docs/navbar.html)
 *   Headers Jumbotron, Headers , Headers Background image: [tailwind-elements.com/docs/standard/components/headers/](https://tailwind-elements.com/docs/standard/components/headers/)
+*   header header 1, header header 1: [tailwinduikit.com/components/webapp/navigation/header#header\_1](https://tailwinduikit.com/components/webapp/navigation/header#header_1)
+*   vertical navigation sidebar 2, vertical navigation sidebar 2: [tailwinduikit.com/components/webapp/navigation/vertical\_navigation#sidebar\_2](https://tailwinduikit.com/components/webapp/navigation/vertical_navigation#sidebar_2)
 
 ## Page
 
@@ -1936,6 +1960,7 @@
 *   Github Profile Page Clone+Javascript: [tailwindcomponents.com/component/github-profile-page-clone](https://tailwindcomponents.com/component/github-profile-page-clone)
 *   Digital Ocean - Banner Homepage: [tailwindcomponents.com/component/digital-ocean-banner-homepage](https://tailwindcomponents.com/component/digital-ocean-banner-homepage)
 *   Author Link Page: [scastiel.gumroad.com/l/author-link-page](https://scastiel.gumroad.com/l/author-link-page)
+*   page heading simple with sub text and border, page heading simple with sub text and border: [tailwinduikit.com/components/webapp/heading/page\_heading#simple\_with\_sub\_text\_and\_border](https://tailwinduikit.com/components/webapp/heading/page_heading#simple_with_sub_text_and_border)
 
 ### 404
 
@@ -2080,6 +2105,7 @@
 *   Tailwind CSS Pagination: [tailwindcomponents.com/component/tailwind-css-pagination-1](https://tailwindcomponents.com/component/tailwind-css-pagination-1)
 *   Pagination #With Fraction: [hyperui.dev/components/application-ui/pagination](https://www.hyperui.dev/components/application-ui/pagination)
 *   Pagination Basic usage, Pagination Example, Pagination Working with icons, Pagination Disabled and active state, Pagination Alignment: [preline.co/docs/pagination.html](https://preline.co/docs/pagination.html)
+*   pagination pagination 2, pagination pagination 2: [tailwinduikit.com/components/webapp/navigation/pagination#pagination\_2](https://tailwinduikit.com/components/webapp/navigation/pagination#pagination_2)
 
 ## Progress Bar
 
@@ -2118,6 +2144,7 @@
 *   Progress Bar With Different Color Variants: [postsrc.com/components/tailwind-css-progress-bars/progress-bar-with-different-color-variants](https://postsrc.com/components/tailwind-css-progress-bars/progress-bar-with-different-color-variants)
 *   Progress Bar With Label Outside: [postsrc.com/components/tailwind-css-progress-bars/progress-bar-with-label-outside](https://postsrc.com/components/tailwind-css-progress-bars/progress-bar-with-label-outside)
 *   Progress Basic usage, Progress Example, Progress Labels, Progress Height, Progress Vertical progress, Progress Multiple bars: [preline.co/docs/progress.html](https://preline.co/docs/progress.html)
+*   progress bar thin with steps, progress bar thin with steps: [tailwinduikit.com/components/webapp/UI\_element/progress\_bar#thin\_with\_steps](https://tailwinduikit.com/components/webapp/UI_element/progress_bar#thin_with_steps)
 
 ## Skeleton
 
@@ -2177,6 +2204,7 @@
 *   Menu profile sidebar: [tailwindcomponents.com/component/menu-profile-sidebar](https://tailwindcomponents.com/component/menu-profile-sidebar)
 *   Tailwind CSS Sidebar: [tailwindcomponents.com/component/tailwind-css-sidebar](https://tailwindcomponents.com/component/tailwind-css-sidebar)
 *   Sidebar New Basic usage, Sidebar New Example, Sidebar New JavaScript behavior, Sidebar New Options, Sidebar New Classes, Sidebar New Methods, Sidebar New Events: [preline.co/docs/sidebar.html](https://preline.co/docs/sidebar.html)
+*   sidebar layout light with icons at bottom, sidebar layout light with icons at bottom: [tailwinduikit.com/components/webapp/master\_layout/sidebar\_layout#light\_with\_icons\_at\_bottom](https://tailwinduikit.com/components/webapp/master_layout/sidebar_layout#light_with_icons_at_bottom)
 
 ## Comment
 
@@ -2258,6 +2286,7 @@
 *   Filter #Sectioned with Toggle on Mobile: [hyperui.dev/components/ecommerce/filters](https://www.hyperui.dev/components/ecommerce/filters)
 *   Switch (Toggle): [headlessui.com/react/switch](https://headlessui.com/react/switch)
 *   Basic Toggle Component: [postsrc.com/components/tailwind-css-toggle/basic-toggle-component](https://postsrc.com/components/tailwind-css-toggle/basic-toggle-component)
+*   action panel simple with toggle, action panel simple with toggle: [tailwinduikit.com/components/webapp/form/action\_panel#simple\_with\_toggle](https://tailwinduikit.com/components/webapp/form/action_panel#simple_with_toggle)
 
 ## Tags
 
@@ -2303,6 +2332,8 @@
 *   Avatar Displaying a tooltip: [preline.co/docs/avatar.html](https://preline.co/docs/avatar.html)
 *   Switch With tooltip: [preline.co/docs/switch.html](https://preline.co/docs/switch.html)
 *   Tooltips When to use, Tooltips Purpose of content, Tooltips Interactions, Tooltips Conclusion, Tooltips Basic usage, Tooltips Example, Tooltips JavaScript behavior, Tooltips Options, Tooltips Classes, Tooltips Methods, Tooltips Events: [preline.co/docs/tooltips.html](https://preline.co/docs/tooltips.html)
+*   tooltip simple, tooltip simple: [tailwinduikit.com/components/webapp/UI\_element/tooltip#simple](https://tailwinduikit.com/components/webapp/UI_element/tooltip#simple)
+*   tooltip with steps alternate, tooltip with steps alternate: [tailwinduikit.com/components/webapp/UI\_element/tooltip#with\_steps\_alternate](https://tailwinduikit.com/components/webapp/UI_element/tooltip#with_steps_alternate)
 
 ## Table
 
@@ -2361,8 +2392,9 @@
 *   Simple Table: [tailwindcomponents.com/component/simple-table](https://tailwindcomponents.com/component/simple-table)
 *   Simple server status table: [tailwindcomponents.com/component/simple-server-status-table](https://tailwindcomponents.com/component/simple-server-status-table)
 *   Opensea - Notable Drops: [tailwindcomponents.com/component/opensea-notable-drops](https://tailwindcomponents.com/component/opensea-notable-drops)
-*   Tables Basic usage, Tables Example, Tables Accented tables, Tables Striped rows, Tables Hoverable rows, Tables Highlighted tables, Tables Table borders, Tables Bordered tables, Tables Tables without borders, Tables Rounded tables, Tables Table thead horizontally divided, Tables With shadow, Tables Anatomy, Tables Headless, Tables Table foot, Tables Captions, Tables Responsive tables, Tables Overflow, Tables Table with <div>: [preline.co/docs/tables.html](https://preline.co/docs/tables.html)
+*   Tables Basic usage, Tables Example, Tables Accented tables, Tables Striped rows, Tables Hoverable rows, Tables Highlighted tables, Tables Table borders, Tables Bordered tables, Tables Tables without borders, Tables Rounded tables, Tables Table thead horizontally divided, Tables With shadow, Tables Anatomy, Tables Headless, Tables Table foot, Tables Captions, Tables Responsive tables, Tables Overflow, Tables Table with div: [preline.co/docs/tables.html](https://preline.co/docs/tables.html)
 *   Table #Simple, Table #With Border, Table #Ecommerce with Title Sorting: [hyperui.dev/components/application-ui/tables](https://www.hyperui.dev/components/application-ui/tables)
+*   advance table tasks, advance table tasks: [tailwinduikit.com/components/webapp/table/advance\_table#tasks](https://tailwinduikit.com/components/webapp/table/advance_table#tasks)
 
 ## List
 
@@ -2413,6 +2445,7 @@
 *   Digital Ocean - Tutorial Lists: [tailwindcomponents.com/component/digital-ocean-tutorial-lists](https://tailwindcomponents.com/component/digital-ocean-tutorial-lists)
 *   List Group Basic usage, List Group Example, List Group Icons, List Group Links, List Group Striped, List Group Flush, List Group No gutters, List Group Horizontal: [preline.co/docs/list-group.html](https://preline.co/docs/list-group.html)
 *   Lists Basic usage, Lists Setting the list style type, Lists Separator, Lists Checked style, Lists List checked color variations: [preline.co/docs/lists.html](https://preline.co/docs/lists.html)
+*   list list 1, list list 1: [tailwinduikit.com/components/webapp/table/list#list\_1](https://tailwinduikit.com/components/webapp/table/list#list_1)
 
 ## Tab
 
@@ -2447,6 +2480,7 @@
 *   Tabs: [tailwindcomponents.com/component/tabs-3](https://tailwindcomponents.com/component/tabs-3)
 *   Tab #Underline/Active with Text and Border Color, Tab #Underline with Icon/Active Border Color, Tab #Underline/Active Border, Tab #Underline/Active Border and Inactive Background: [hyperui.dev/components/marketing/tabs](https://www.hyperui.dev/components/marketing/tabs)
 *   Tabs: [headlessui.com/react/tabs](https://headlessui.com/react/tabs)
+*   tab tab with icons, tab tab with icons: [tailwinduikit.com/components/webapp/navigation/tab#tab\_with\_icons](https://tailwinduikit.com/components/webapp/navigation/tab#tab_with_icons)
 
 ## Timeline
 
@@ -3347,9 +3381,7 @@
 *   Stat #Simple with Grid, Stat #Simple with Grid (Dark): [hyperui.dev/components/marketing/stats](https://www.hyperui.dev/components/marketing/stats)
 *   Empty State #Bordered with Action, Empty State #With Action: [hyperui.dev/components/application-ui/empty-states](https://www.hyperui.dev/components/application-ui/empty-states)
 *   Stat #From Value and Floating Stat, Stat #From Value and Floating Stat (Dark), Stat #Icon and Stat, Stat #Icon and Stat (Dark), Stat #Simple with Stat, Stat #Simple with Stat (Dark), Stat #Simple with Icon, Stat #Simple with Icon (Dark), Stat #Stacked with Stat, Stat #Stacked with Stat (Dark), Stat #Stacked with Stat and Icon, Stat #Stacked with Stat and Icon (Dark): [hyperui.dev/components/application-ui/stats](https://www.hyperui.dev/components/application-ui/stats)
-*   Scrollspy JavaScript behavior, Scrollspy Options, Scrollspy >
-
-                    Classes: [preline.co/docs/scrollspy.html](https://preline.co/docs/scrollspy.html)
+*   Scrollspy JavaScript behavior, Scrollspy Options, Scrollspy Classes: [preline.co/docs/scrollspy.html](https://preline.co/docs/scrollspy.html)
 *   Nextly (Landing): [web3templates.com/templates/stablo-minimal-blog-website-template](https://web3templates.com/templates/stablo-minimal-blog-website-template)
 *   Fancy Promo Section 1: [fancytailwind.com/app/fancy-laboratory/molecules/promosections/promoSection1](https://fancytailwind.com/app/fancy-laboratory/molecules/promosections/promoSection1)
 *   Fancy Promo Section 9: [fancytailwind.com/app/fancy-laboratory/molecules/promosections/promoSection9](https://fancytailwind.com/app/fancy-laboratory/molecules/promosections/promoSection9)
@@ -3400,3 +3432,9 @@
 *   Offcanvas Basic usage, Offcanvas Example, Offcanvas Placement, Offcanvas Backdrop, Offcanvas JavaScript behavior, Offcanvas Options, Offcanvas Classes, Offcanvas Methods, Offcanvas Events: [preline.co/docs/offcanvas.html](https://preline.co/docs/offcanvas.html)
 *   Astro boilerplate: [github.com/ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate)
 *   Soft UI Dashboard: [github.com/creativetimofficial/soft-ui-dashboard-tailwind](https://github.com/creativetimofficial/soft-ui-dashboard-tailwind)
+*   boxed layout light with Grey background, boxed layout light with Grey background: [tailwinduikit.com/components/webapp/master\_layout/boxed\_layout#light\_with\_grey\_background](https://tailwinduikit.com/components/webapp/master_layout/boxed_layout#light_with_grey_background)
+*   grid 4 x 4 x 4 col grid, grid 4 x 4 x 4 col grid: [tailwinduikit.com/components/webapp/layout/grid#4\_x\_4\_x\_4\_col\_grid](https://tailwinduikit.com/components/webapp/layout/grid#4_x_4_x_4_col_grid)
+*   grid 3 x 3 x 3 x 3 col grid, grid 3 x 3 x 3 x 3 col grid: [tailwinduikit.com/components/webapp/layout/grid#3\_x\_3\_x\_3\_x\_3\_col\_grid](https://tailwinduikit.com/components/webapp/layout/grid#3_x_3_x_3_x_3_col_grid)
+*   gauge gauge 1, gauge gauge 1: [tailwinduikit.com/components/webapp/UI\_element/gauge#gauge\_1](https://tailwinduikit.com/components/webapp/UI_element/gauge#gauge_1)
+*   loader loader 1, loader loader 1: [tailwinduikit.com/components/webapp/UI\_element/loader#loader\_1](https://tailwinduikit.com/components/webapp/UI_element/loader#loader_1)
+*   graph line graph, graph line graph: [tailwinduikit.com/components/webapp/graph/graph#line\_graph](https://tailwinduikit.com/components/webapp/graph/graph#line_graph)

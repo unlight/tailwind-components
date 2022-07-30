@@ -52,7 +52,7 @@ export default async function preline({ page }: ScraperArgs): Promise<CompomentL
         .replace(/\s+/g, ' ')
         .trim();
       result.push({
-        name: `${name} ${variantion}`.trim(),
+        name: `${betterName}`.trim(),
         link,
       });
     }

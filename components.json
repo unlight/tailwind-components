@@ -18204,7 +18204,7 @@
     "parent": null
   },
   {
-    "name": "Tables Basic usage, Tables Example, Tables Accented tables, Tables Striped rows, Tables Hoverable rows, Tables Highlighted tables, Tables Table borders, Tables Bordered tables, Tables Tables without borders, Tables Rounded tables, Tables Table thead horizontally divided, Tables With shadow, Tables Anatomy, Tables Headless, Tables Table foot, Tables Captions, Tables Responsive tables, Tables Overflow, Tables Table with <div>",
+    "name": "Tables Basic usage, Tables Example, Tables Accented tables, Tables Striped rows, Tables Hoverable rows, Tables Highlighted tables, Tables Table borders, Tables Bordered tables, Tables Tables without borders, Tables Rounded tables, Tables Table thead horizontally divided, Tables With shadow, Tables Anatomy, Tables Headless, Tables Table foot, Tables Captions, Tables Responsive tables, Tables Overflow, Tables Table with div",
     "link": "https://preline.co/docs/tables.html",
     "category": "Table",
     "parent": null
@@ -18396,7 +18396,7 @@
     "parent": null
   },
   {
-    "name": "Scrollspy JavaScript behavior, Scrollspy Options, Scrollspy >\n                \n                  \n                    \n                      \n                    \n                  \n                  Classes",
+    "name": "Scrollspy JavaScript behavior, Scrollspy Options, Scrollspy Classes",
     "link": "https://preline.co/docs/scrollspy.html",
     "category": "Other",
     "parent": null
@@ -18824,6 +18824,246 @@
   {
     "name": "Soft UI Dashboard",
     "link": "https://github.com/creativetimofficial/soft-ui-dashboard-tailwind",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "notification notification 1, notification notification 1",
+    "link": "https://tailwinduikit.com/components/webapp/overlay/notification#notification_1",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "alert simple with action button warning, alert simple with action button warning",
+    "link": "https://tailwinduikit.com/components/webapp/feedback/alert#simple_with_action_button_warning",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "avatar avatars circle image, avatar avatars circle image",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/avatar#avatars_circle_image",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": "badge large rectangle bullet, badge large rectangle bullet",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/badge#large_rectangle_bullet",
+    "category": "Badge",
+    "parent": null
+  },
+  {
+    "name": "horizontal navigation light with button, horizontal navigation light with button",
+    "link": "https://tailwinduikit.com/components/webapp/navigation/horizontal_navigation#light_with_button",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "button button small, button button small",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/button#button_small",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "grouped button filter-1, grouped button filter-1",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/grouped_button#filter_1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "card full width with right grey, card full width with right grey",
+    "link": "https://tailwinduikit.com/components/webapp/layout/card#full_width_with_right_grey",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "card full width divided into three, card full width divided into three",
+    "link": "https://tailwinduikit.com/components/webapp/layout/card#full_width_divided_into_three",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "grid card single card with title and description, grid card single card with title and description",
+    "link": "https://tailwinduikit.com/components/webapp/layout/grid_card#single_card_with_title_and_description",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "card heading grey tabs on right, card heading grey tabs on right",
+    "link": "https://tailwinduikit.com/components/webapp/heading/card_heading#grey_tabs_on_right",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "note 4 by 3 multiple styled cards, note 4 by 3 multiple styled cards",
+    "link": "https://tailwinduikit.com/components/webapp/note/note#4_by_3_multiple_styled_cards",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "slider slider, slider slider",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/slider#slider",
+    "category": "Slider/Carousel",
+    "parent": null
+  },
+  {
+    "name": "calendar calendar 2, calendar calendar 2",
+    "link": "https://tailwinduikit.com/components/webapp/calendar/calendar#calendar_2",
+    "category": "Date/Time",
+    "parent": null
+  },
+  {
+    "name": "dropdown dropdown 2, dropdown dropdown 2",
+    "link": "https://tailwinduikit.com/components/webapp/form/dropdown#dropdown_2",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "popover simple popover, popover simple popover",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/popover#simple_popover",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "form layout simple form, form layout simple form",
+    "link": "https://tailwinduikit.com/components/webapp/form/form_layout#simple_form",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "input group input with label, input group input with label",
+    "link": "https://tailwinduikit.com/components/webapp/form/input_group#input_with_label",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "toggle checkbox radio radio small, toggle checkbox radio radio small",
+    "link": "https://tailwinduikit.com/components/webapp/form/toggle_checkbox_radio#radio_small",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "sign in sign in, sign in sign in",
+    "link": "https://tailwinduikit.com/components/webapp/form/sign_in#sign_in",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "search search, search search",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/search#search",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "modal left aligned form, modal left aligned form",
+    "link": "https://tailwinduikit.com/components/webapp/overlay/modal#left_aligned_form",
+    "category": "Modal",
+    "parent": null
+  },
+  {
+    "name": "header header 1, header header 1",
+    "link": "https://tailwinduikit.com/components/webapp/navigation/header#header_1",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "vertical navigation sidebar 2, vertical navigation sidebar 2",
+    "link": "https://tailwinduikit.com/components/webapp/navigation/vertical_navigation#sidebar_2",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "page heading simple with sub text and border, page heading simple with sub text and border",
+    "link": "https://tailwinduikit.com/components/webapp/heading/page_heading#simple_with_sub_text_and_border",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "pagination pagination 2, pagination pagination 2",
+    "link": "https://tailwinduikit.com/components/webapp/navigation/pagination#pagination_2",
+    "category": "Pagination",
+    "parent": null
+  },
+  {
+    "name": "progress bar thin with steps, progress bar thin with steps",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/progress_bar#thin_with_steps",
+    "category": "Progress Bar",
+    "parent": null
+  },
+  {
+    "name": "sidebar layout light with icons at bottom, sidebar layout light with icons at bottom",
+    "link": "https://tailwinduikit.com/components/webapp/master_layout/sidebar_layout#light_with_icons_at_bottom",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "action panel simple with toggle, action panel simple with toggle",
+    "link": "https://tailwinduikit.com/components/webapp/form/action_panel#simple_with_toggle",
+    "category": "Switch",
+    "parent": null
+  },
+  {
+    "name": "tooltip simple, tooltip simple",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/tooltip#simple",
+    "category": "Tooltips",
+    "parent": null
+  },
+  {
+    "name": "tooltip with steps alternate, tooltip with steps alternate",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/tooltip#with_steps_alternate",
+    "category": "Tooltips",
+    "parent": null
+  },
+  {
+    "name": "advance table tasks, advance table tasks",
+    "link": "https://tailwinduikit.com/components/webapp/table/advance_table#tasks",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "list list 1, list list 1",
+    "link": "https://tailwinduikit.com/components/webapp/table/list#list_1",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "tab tab with icons, tab tab with icons",
+    "link": "https://tailwinduikit.com/components/webapp/navigation/tab#tab_with_icons",
+    "category": "Tab",
+    "parent": null
+  },
+  {
+    "name": "boxed layout light with Grey background, boxed layout light with Grey background",
+    "link": "https://tailwinduikit.com/components/webapp/master_layout/boxed_layout#light_with_grey_background",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "grid 4 x 4 x 4 col grid, grid 4 x 4 x 4 col grid",
+    "link": "https://tailwinduikit.com/components/webapp/layout/grid#4_x_4_x_4_col_grid",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "grid 3 x 3 x 3 x 3 col grid, grid 3 x 3 x 3 x 3 col grid",
+    "link": "https://tailwinduikit.com/components/webapp/layout/grid#3_x_3_x_3_x_3_col_grid",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "gauge gauge 1, gauge gauge 1",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/gauge#gauge_1",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "loader loader 1, loader loader 1",
+    "link": "https://tailwinduikit.com/components/webapp/UI_element/loader#loader_1",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "graph line graph, graph line graph",
+    "link": "https://tailwinduikit.com/components/webapp/graph/graph#line_graph",
     "category": "Other",
     "parent": null
   }
