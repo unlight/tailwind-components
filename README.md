@@ -214,6 +214,7 @@
 *   alert simple with action button warning, alert simple with action button warning: [tailwinduikit.com/components/webapp/feedback/alert#simple\_with\_action\_button\_warning](https://tailwinduikit.com/components/webapp/feedback/alert#simple_with_action_button_warning)
 *   Notification: [tailwindcomponents.com/component/notification-4](https://tailwindcomponents.com/component/notification-4)
 *   Tagged alert: [tailwindcomponents.com/component/tagged-alert](https://tailwindcomponents.com/component/tagged-alert)
+*   components Alert: [wickedblocks.dev/groups/alert](https://wickedblocks.dev/groups/alert)
 
 ## Avatar
 
@@ -272,6 +273,8 @@
 *   Tailwind CSS Avatar: [tailwindcomponents.com/component/tailwind-css-avatar](https://tailwindcomponents.com/component/tailwind-css-avatar)
 *   Avatar Group Stack, Avatar Group Grid, Avatar Group Border color, Avatar Group With dropdown: [preline.co/docs/avatar-group.html](https://preline.co/docs/avatar-group.html)
 *   avatar avatars circle image, avatar avatars circle image: [tailwinduikit.com/components/webapp/UI\_element/avatar#avatars\_circle\_image](https://tailwinduikit.com/components/webapp/UI_element/avatar#avatars_circle_image)
+*   Custom with avatar: [tailwindui.com/components/preview#component-71d9116be789a254c260369f03472985](https://tailwindui.com/components/preview#component-71d9116be789a254c260369f03472985)
+*   Avatar group stacked bottom to top: [tailwindui.com/components/preview#component-e4a92edf4f12acee331db4190019b4ef](https://tailwindui.com/components/preview#component-e4a92edf4f12acee331db4190019b4ef)
 
 ## Badge
 
@@ -550,6 +553,9 @@
 *   Round buttons pagination: [tailwindcomponents.com/component/round-buttons-pagination](https://tailwindcomponents.com/component/round-buttons-pagination)
 *   simple tab button: [tailwindcomponents.com/component/simple-tab-button](https://tailwindcomponents.com/component/simple-tab-button)
 *   Free Custom Radio Button Group: [tailwindcomponents.com/component/custom-radio-group](https://tailwindcomponents.com/component/custom-radio-group)
+*   Simple dark with menu button on left: [tailwindui.com/components/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331](https://tailwindui.com/components/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331)
+*   With close button on outside: [tailwindui.com/components/preview#component-91416d48f50d19d1ad826e5a6c77b1e9](https://tailwindui.com/components/preview#component-91416d48f50d19d1ad826e5a6c77b1e9)
+*   components Button: [wickedblocks.dev/groups/button](https://wickedblocks.dev/groups/button)
 
 ## Call to Action
 
@@ -955,6 +961,9 @@
 *   Property Card: [tailwindcomponents.com/component/property-card-3](https://tailwindcomponents.com/component/property-card-3)
 *   User Profile Card: [tailwindcomponents.com/component/user-profile-card-2](https://tailwindcomponents.com/component/user-profile-card-2)
 *   Checkout card: [tailwindcomponents.com/component/checkout-card](https://tailwindcomponents.com/component/checkout-card)
+*   Left-aligned striped in card: [tailwindui.com/components/preview#component-66e73ff022ab21fdbf81058dc9789219](https://tailwindui.com/components/preview#component-66e73ff022ab21fdbf81058dc9789219)
+*   Two-column cards with separate submit actions: [tailwindui.com/components/preview#component-db11f83176d113e39bf2559da9344b1c](https://tailwindui.com/components/preview#component-db11f83176d113e39bf2559da9344b1c)
+*   sections Card: [wickedblocks.dev/groups/card](https://wickedblocks.dev/groups/card)
 
 ## Dashboard Widgets
 
@@ -1107,6 +1116,8 @@
 *   Navigation Blog With Dropdown + Search and Logo: [tailwindcomponents.com/component/navigation-blog-with-dropdown-search-and-logo](https://tailwindcomponents.com/component/navigation-blog-with-dropdown-search-and-logo)
 *   Dropdown for User menu: [tailwindcomponents.com/component/dropdown-for-user-menu](https://tailwindcomponents.com/component/dropdown-for-user-menu)
 *   Select input field: [tailwindcomponents.com/component/select-input-field](https://tailwindcomponents.com/component/select-input-field)
+*   Input with inline leading add-on and trailing dropdown: [tailwindui.com/components/preview#component-2607d970262ada86428f063c72b1e7bd](https://tailwindui.com/components/preview#component-2607d970262ada86428f063c72b1e7bd)
+*   With color and size selector: [tailwindui.com/components/preview#component-8f33b33d19bbb2608bb5ae6488344e88](https://tailwindui.com/components/preview#component-8f33b33d19bbb2608bb5ae6488344e88)
 
 ## Form
 
@@ -1316,6 +1327,7 @@
 *   Textarea: [tailwindcomponents.com/component/textarea](https://tailwindcomponents.com/component/textarea)
 *   Search Input Field: [tailwindcomponents.com/component/search-input-field](https://tailwindcomponents.com/component/search-input-field)
 *   Simple rounded text form: [tailwindcomponents.com/component/simple-rounded-text-form](https://tailwindcomponents.com/component/simple-rounded-text-form)
+*   forms Login: [wickedblocks.dev/groups/login](https://wickedblocks.dev/groups/login)
 
 ### Contact
 
@@ -1484,6 +1496,7 @@
 *   Argon Sign Up: [tailwindtemplates.io/templates?category=sign-up](https://tailwindtemplates.io/templates?category=sign-up)
 *   Amazon Register: [tailwindcomponents.com/component/amazon-register](https://tailwindcomponents.com/component/amazon-register)
 *   E-Commerce Registration Page: [tailwindcomponents.com/component/e-commerce-registration-page](https://tailwindcomponents.com/component/e-commerce-registration-page)
+*   Registration form: [tailwindcomponents.com/component/registration-form-1](https://tailwindcomponents.com/component/registration-form-1)
 
 ### Search
 
@@ -1623,6 +1636,9 @@
 *   Product Footer navigation: [hyperui.dev/components/ecommerce/products](https://www.hyperui.dev/components/ecommerce/products)
 *   Radio Group Footer navigation: [hyperui.dev/components/application-ui/radio-groups](https://www.hyperui.dev/components/application-ui/radio-groups)
 *   Footer: [tailwindcomponents.com/component/footer-10](https://tailwindcomponents.com/component/footer-10)
+*   Card footer with page buttons: [tailwindui.com/components/preview#component-69eb9381f977800aa890ce8f7d9e2d20](https://tailwindui.com/components/preview#component-69eb9381f977800aa890ce8f7d9e2d20)
+*   Simple with gray footer: [tailwindui.com/components/preview#component-47a5888a08838ad98779d50878d359b3](https://tailwindui.com/components/preview#component-47a5888a08838ad98779d50878d359b3)
+*   navigation Footer: [wickedblocks.dev/groups/footer](https://wickedblocks.dev/groups/footer)
 
 ## Hero
 
@@ -1666,6 +1682,7 @@
 *   Free Tailwind CSS Heros Component: [tailwindcomponents.com/component/free-tailwind-css-heros-component](https://tailwindcomponents.com/component/free-tailwind-css-heros-component)
 *   Food delevery hero section: [tailwindcomponents.com/component/food-delevery-hero-section](https://tailwindcomponents.com/component/food-delevery-hero-section)
 *   Hero Big Grid: [tailwindcomponents.com/component/hero-big-grid](https://tailwindcomponents.com/component/hero-big-grid)
+*   sections Hero: [wickedblocks.dev/groups/hero](https://wickedblocks.dev/groups/hero)
 
 ## Loading/Spinner
 
@@ -1764,6 +1781,7 @@
 *   Modal Basic usage, Modal Example, Modal Animations, Modal Slide down animation, Modal Slide up animation, Modal Sizes, Modal Static backdrop, Modal Scrolling behavior, Modal Vertically centered, Modal Focus management, Modal Toggle between modals, Modal Fullscreen Modal, Modal JavaScript behavior, Modal Options, Modal Classes, Modal Methods, Modal Events: [preline.co/docs/modal.html](https://preline.co/docs/modal.html)
 *   modal left aligned form, modal left aligned form: [tailwinduikit.com/components/webapp/overlay/modal#left\_aligned\_form](https://tailwinduikit.com/components/webapp/overlay/modal#left_aligned_form)
 *   Free Tailwind CSS Modal Component: [tailwindcomponents.com/component/free-tailwind-css-modal-component-2](https://tailwindcomponents.com/component/free-tailwind-css-modal-component-2)
+*   sections Modal: [wickedblocks.dev/groups/modal](https://wickedblocks.dev/groups/modal)
 
 ## Navigation/Header
 
@@ -1940,6 +1958,10 @@
 *   Tailwind CSS Header: [tailwindcomponents.com/component/tailwind-header](https://tailwindcomponents.com/component/tailwind-header)
 *   Blog Header or CTA: [tailwindcomponents.com/component/blog-header-or-cta](https://tailwindcomponents.com/component/blog-header-or-cta)
 *   simple nav & sidebar: [tailwindcomponents.com/component/simple-nav-sidebar](https://tailwindcomponents.com/component/simple-nav-sidebar)
+*   Dark nav with white page header: [tailwindui.com/components/preview#component-10058606cac5398d7fa2c73b64089874](https://tailwindui.com/components/preview#component-10058606cac5398d7fa2c73b64089874)
+*   Header banner: [tailwindui.com/components/preview#component-1a63aa510db7761c581486c7259487e8](https://tailwindui.com/components/preview#component-1a63aa510db7761c581486c7259487e8)
+*   navigation Header: [wickedblocks.dev/groups/header](https://wickedblocks.dev/groups/header)
+*   navigation Sidebar: [wickedblocks.dev/groups/sidebar](https://wickedblocks.dev/groups/sidebar)
 
 ## Page
 
@@ -2106,6 +2128,7 @@
 *   Pricing section checkbox: [tailwindcomponents.com/component/pricing-section-checkbox](https://tailwindcomponents.com/component/pricing-section-checkbox)
 *   Popular Pricing section: [tailwindcomponents.com/component/popular-pricing-section](https://tailwindcomponents.com/component/popular-pricing-section)
 *   Pricing section: [tailwindcomponents.com/component/pricing-section](https://tailwindcomponents.com/component/pricing-section)
+*   sections Pricing: [wickedblocks.dev/groups/pricing](https://wickedblocks.dev/groups/pricing)
 
 ### Testimonial
 
@@ -2282,6 +2305,8 @@
 *   Sidebar New Basic usage, Sidebar New Example, Sidebar New JavaScript behavior, Sidebar New Options, Sidebar New Classes, Sidebar New Methods, Sidebar New Events: [preline.co/docs/sidebar.html](https://preline.co/docs/sidebar.html)
 *   sidebar layout light with icons at bottom, sidebar layout light with icons at bottom: [tailwinduikit.com/components/webapp/master\_layout/sidebar\_layout#light\_with\_icons\_at\_bottom](https://tailwinduikit.com/components/webapp/master_layout/sidebar_layout#light_with_icons_at_bottom)
 *   Compact sidebar: [tailwindcomponents.com/component/compact-sidebar](https://tailwindcomponents.com/component/compact-sidebar)
+*   Slide-over: [tailwindui.com/components/preview#component-ee213165d75da7e921c0bf15f3ab054b](https://tailwindui.com/components/preview#component-ee213165d75da7e921c0bf15f3ab054b)
+*   With inline actions and expandable sidebar filters: [tailwindui.com/components/preview#component-e799517f86cc2fc79bf0eebb45c16eea](https://tailwindui.com/components/preview#component-e799517f86cc2fc79bf0eebb45c16eea)
 
 ## Comment
 
@@ -3559,3 +3584,21 @@
 *   CTA section: [tailwindcomponents.com/component/cta-section](https://tailwindcomponents.com/component/cta-section)
 *   infopediya: [tailwindcomponents.com/component/infopediya](https://tailwindcomponents.com/component/infopediya)
 *   Concept dabbly: [tailwindcomponents.com/component/social-media-concept](https://tailwindcomponents.com/component/social-media-concept)
+*   Simple: [tailwindui.com/components/preview#component-f8a14da22f26a67757b19f2fe3ca00ed](https://tailwindui.com/components/preview#component-f8a14da22f26a67757b19f2fe3ca00ed)
+*   Simple no labels: [tailwindui.com/components/preview#component-55b9c2097342175b8ddfccf8a30fb68f](https://tailwindui.com/components/preview#component-55b9c2097342175b8ddfccf8a30fb68f)
+*   With dividers: [tailwindui.com/components/preview#component-1f10562f6266c9b3ef15ff792edd508e](https://tailwindui.com/components/preview#component-1f10562f6266c9b3ef15ff792edd508e)
+*   With meta and actions: [tailwindui.com/components/preview#component-7654075f650c9f1044bfcf1b1b6ffd77](https://tailwindui.com/components/preview#component-7654075f650c9f1044bfcf1b1b6ffd77)
+*   With inline price: [tailwindui.com/components/preview#component-adec20dfa6eac091f5bee40e244c6823](https://tailwindui.com/components/preview#component-adec20dfa6eac091f5bee40e244c6823)
+*   Three-column: [tailwindui.com/components/preview#component-37995021e5cdf0c643346920ff40b13b](https://tailwindui.com/components/preview#component-37995021e5cdf0c643346920ff40b13b)
+*   With image grid: [tailwindui.com/components/preview#component-6bf262ecea63105e5f1fc57ec12057f9](https://tailwindui.com/components/preview#component-6bf262ecea63105e5f1fc57ec12057f9)
+*   With featured categories: [tailwindui.com/components/preview#component-870de0c4ec620ad31bb8538a2886e3f0](https://tailwindui.com/components/preview#component-870de0c4ec620ad31bb8538a2886e3f0)
+*   With image grid: [tailwindui.com/components/preview#component-2904df5d10ee9fc81ba07d1ad61a27ca](https://tailwindui.com/components/preview#component-2904df5d10ee9fc81ba07d1ad61a27ca)
+*   Simple: [tailwindui.com/components/preview#component-230be426f17b26e949896d17c505e0d3](https://tailwindui.com/components/preview#component-230be426f17b26e949896d17c505e0d3)
+*   With image tiles: [tailwindui.com/components/preview#component-abf8794a557c496e493e847c71fc90c7](https://tailwindui.com/components/preview#component-abf8794a557c496e493e847c71fc90c7)
+*   Centered with bottom border: [tailwindui.com/components/preview#component-1c0390a81b16cf5028aeff08be955766](https://tailwindui.com/components/preview#component-1c0390a81b16cf5028aeff08be955766)
+*   Centered 2x2 grid: [tailwindui.com/components/preview#component-64ac58e032276db96bf343a8d4f332a8](https://tailwindui.com/components/preview#component-64ac58e032276db96bf343a8d4f332a8)
+*   With angled image on right: [tailwindui.com/components/preview#component-a3c09c7a3b8f4bd90d280722eaff9634](https://tailwindui.com/components/preview#component-a3c09c7a3b8f4bd90d280722eaff9634)
+*   Simple justified: [tailwindui.com/components/preview#component-90c79fbd0596cc4e601da985ca825994](https://tailwindui.com/components/preview#component-90c79fbd0596cc4e601da985ca825994)
+*   sections Client: [wickedblocks.dev/groups/client](https://wickedblocks.dev/groups/client)
+*   sections Content: [wickedblocks.dev/groups/content](https://wickedblocks.dev/groups/content)
+*   sections Grid: [wickedblocks.dev/groups/grid](https://wickedblocks.dev/groups/grid)

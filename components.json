@@ -12845,12 +12845,14 @@
   {
     "name": "Alerts Assorted Alerts",
     "link": "https://www.gustui.com/docs/application/components/alerts",
-    "category": "Alert/Notification"
+    "category": "Alert/Notification",
+    "parent": null
   },
   {
     "name": "Toasts Simple Toast, Toasts Toast With Icon",
     "link": "https://www.gustui.com/docs/application/components/toasts",
-    "category": "Alert/Notification"
+    "category": "Alert/Notification",
+    "parent": null
   },
   {
     "name": "Badges - Badge, Badges - Badge with remove button, Badges - Badge with remove button and icon, Badges - Badge stroke with border, Badges - Badge line, Badges - Stroke with icon, Badges - Publicity, Badges - Line with icon, Badges - Line with button, Badges - Full button, Badges - List of badges, Badges - Pink badge, Badges - Black badge, Badges - Publicity, Badges - Light rounded badge",
@@ -12879,7 +12881,8 @@
   {
     "name": "Avatars Standard Avatars, Avatars Avatars with Status, Avatars Avatars with Bottom Status",
     "link": "https://www.gustui.com/docs/application/components/avatars",
-    "category": "Avatar"
+    "category": "Avatar",
+    "parent": null
   },
   {
     "name": "Avatar - Simple full rounded avatar, Avatar - small full rounded avatar, Avatar - Big full rounded avatar, Avatar - Round avatar, Avatar - Publicity, Avatar - Square avatar, Avatar - Avatar with badge, Avatar - Multiple avatar, Avatar - Multiple small avatar, Avatar - Publicity, Avatar - Multiple big avatar, Avatar - With hover effect",
@@ -12890,7 +12893,8 @@
   {
     "name": "Badges Standard Badges, Badges Closeable Badges",
     "link": "https://www.gustui.com/docs/application/components/badges",
-    "category": "Badge"
+    "category": "Badge",
+    "parent": null
   },
   {
     "name": "Primer Diff Stat, Primer State Labels, Primer Outline Label",
@@ -12901,7 +12905,8 @@
   {
     "name": "Buttons Primary Buttons, Buttons Secondary Buttons, Buttons Buttons with Icons, Buttons Assorted Buttons",
     "link": "https://www.gustui.com/docs/application/components/buttons",
-    "category": "Button"
+    "category": "Button",
+    "parent": null
   },
   {
     "name": "Buttons - Button, Buttons - Button with icon, Buttons - Icon button, Buttons - Publicity, Buttons - Animated button, Buttons - Disabled button, Buttons - Rounded Button, Buttons - Rounded Button and icon, Buttons - Rounded fat Button, Buttons - Button with information, Buttons - Multiple buttons, Buttons - Pager button, Buttons - Facebook button, Buttons - Google button, Buttons - GitHub button, Buttons - Publicity, Buttons - Store button, Buttons - Rounded button with effect, Buttons - Rounded button with icon, Buttons - Rounded icon, Buttons - Square button, Buttons - Square fat button, Buttons - Square with icon, Buttons - With variant background, Buttons - Publicity",
@@ -12936,7 +12941,8 @@
   {
     "name": "Cards Simple Card, Cards Card With Image, Cards Stat Card",
     "link": "https://www.gustui.com/docs/application/components/cards",
-    "category": "Card"
+    "category": "Card",
+    "parent": null
   },
   {
     "name": "Data display - Publicity, Data display - Publicity, Data display - Publicity, Data display - Publicity, Data display - Covid data",
@@ -12977,12 +12983,14 @@
   {
     "name": "Dropdowns Standard Dropdown, Dropdowns Dropdown With Header/Icons, Dropdowns Dropdown With Sections",
     "link": "https://www.gustui.com/docs/application/components/dropdowns",
-    "category": "Dropdown"
+    "category": "Dropdown",
+    "parent": null
   },
   {
     "name": "Forms Standard Form Group, Forms Horizontal Form Group, Forms Input With Label, Forms Horizontal Input With Label, Forms Input With Placeholder, Forms Input With Description, Forms Input With Error, Forms Textarea, Forms Checkbox Group, Forms Standard Radio Group, Forms Horizontal Radio Group",
     "link": "https://www.gustui.com/docs/application/components/forms",
-    "category": "Form"
+    "category": "Form",
+    "parent": null
   },
   {
     "name": "Drop Down - Simple ddm, Drop Down - With icon, Drop Down - With icon on items, Drop Down - Publicity, Drop Down - With icon on items with divider, Drop Down - With icon on items with desc, Drop Down - Large ddm, Drop Down - Ddm with form",
@@ -13059,7 +13067,8 @@
   {
     "name": "Modals Standard Modal, Modals Modal With Icon, Modals Modal With Two Buttons",
     "link": "https://www.gustui.com/docs/application/components/modals",
-    "category": "Modal"
+    "category": "Modal",
+    "parent": null
   },
   {
     "name": "Lexicon Confirmation Message",
@@ -13070,7 +13079,8 @@
   {
     "name": "Navs Standard Nav Menu, Navs Nav Menu With Search, Navs Nav With Middle Links",
     "link": "https://www.gustui.com/docs/application/elements/navs",
-    "category": "Navigation/Header"
+    "category": "Navigation/Header",
+    "parent": null
   },
   {
     "name": "Table - Simple Table, Table - With border, Table - Stylised, Table - With action, Table - Publicity",
@@ -13111,7 +13121,8 @@
   {
     "name": "Pagination Pagination Boxes",
     "link": "https://www.gustui.com/docs/application/elements/pagination",
-    "category": "Pagination"
+    "category": "Pagination",
+    "parent": null
   },
   {
     "name": "Lexicon Pagination bar, Lexicon Simple Pagination, Argon Pagination",
@@ -13134,27 +13145,32 @@
   {
     "name": "Tabs Sliding Tabs, Tabs Sliding Tabs With Icons",
     "link": "https://www.gustui.com/docs/application/components/tabs",
-    "category": "Sidebar"
+    "category": "Sidebar",
+    "parent": null
   },
   {
     "name": "Side Navs Simple Side Nav, Side Navs Side Filters",
     "link": "https://www.gustui.com/docs/application/elements/side-navs",
-    "category": "Sidebar"
+    "category": "Sidebar",
+    "parent": null
   },
   {
     "name": "Dashboards Dashboard With Side Nav",
     "link": "https://www.gustui.com/docs/application/pages/dashboards",
-    "category": "Sidebar"
+    "category": "Sidebar",
+    "parent": null
   },
   {
     "name": "Steps Chevron Dots",
     "link": "https://www.gustui.com/docs/application/components/steps",
-    "category": "Step"
+    "category": "Step",
+    "parent": null
   },
   {
     "name": "Toggles Standard Toggle, Toggles Toggle With Icon",
     "link": "https://www.gustui.com/docs/application/components/toggles",
-    "category": "Switch"
+    "category": "Switch",
+    "parent": null
   },
   {
     "name": "Toggle - simple, Toggle - toggle",
@@ -13165,12 +13181,14 @@
   {
     "name": "Tables Standard Table, Tables Striped Table",
     "link": "https://www.gustui.com/docs/application/elements/tables",
-    "category": "Table"
+    "category": "Table",
+    "parent": null
   },
   {
     "name": "Lists Simple List, Lists List With Images, Lists Review List",
     "link": "https://www.gustui.com/docs/application/elements/lists",
-    "category": "List"
+    "category": "List",
+    "parent": null
   },
   {
     "name": "Argon Tabs with Icons, Argon Tabs, Biings Boxed Tabs, Biings Tabs Rounded full, Biings Tabs Rounded, Biings Hanging Tabs, Biings Tabs",
@@ -13187,12 +13205,14 @@
   {
     "name": "Slide Panels Slide Panel",
     "link": "https://www.gustui.com/docs/application/elements/slide-panels",
-    "category": "Other"
+    "category": "Other",
+    "parent": null
   },
   {
     "name": "Onboarding Simple Onboarding",
     "link": "https://www.gustui.com/docs/application/pages/onboarding",
-    "category": "Other"
+    "category": "Other",
+    "parent": null
   },
   {
     "name": "Tailwind CTA component",
@@ -19792,5 +19812,263 @@
     "link": "https://tailwindcomponents.com/component/social-media-concept",
     "category": "Other",
     "parent": null
+  },
+  {
+    "name": " Custom with avatar",
+    "link": "https://tailwindui.com/components/preview#component-71d9116be789a254c260369f03472985",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": " Avatar group stacked bottom to top",
+    "link": "https://tailwindui.com/components/preview#component-e4a92edf4f12acee331db4190019b4ef",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": " Simple dark with menu button on left",
+    "link": "https://tailwindui.com/components/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": " With close button on outside",
+    "link": "https://tailwindui.com/components/preview#component-91416d48f50d19d1ad826e5a6c77b1e9",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": " Left-aligned striped in card",
+    "link": "https://tailwindui.com/components/preview#component-66e73ff022ab21fdbf81058dc9789219",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": " Two-column cards with separate submit actions",
+    "link": "https://tailwindui.com/components/preview#component-db11f83176d113e39bf2559da9344b1c",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": " Input with inline leading add-on and trailing dropdown",
+    "link": "https://tailwindui.com/components/preview#component-2607d970262ada86428f063c72b1e7bd",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": " With color and size selector",
+    "link": "https://tailwindui.com/components/preview#component-8f33b33d19bbb2608bb5ae6488344e88",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": " Card footer with page buttons",
+    "link": "https://tailwindui.com/components/preview#component-69eb9381f977800aa890ce8f7d9e2d20",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": " Simple with gray footer",
+    "link": "https://tailwindui.com/components/preview#component-47a5888a08838ad98779d50878d359b3",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": " Dark nav with white page header",
+    "link": "https://tailwindui.com/components/preview#component-10058606cac5398d7fa2c73b64089874",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": " Header banner",
+    "link": "https://tailwindui.com/components/preview#component-1a63aa510db7761c581486c7259487e8",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": " Slide-over",
+    "link": "https://tailwindui.com/components/preview#component-ee213165d75da7e921c0bf15f3ab054b",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": " With inline actions and expandable sidebar filters",
+    "link": "https://tailwindui.com/components/preview#component-e799517f86cc2fc79bf0eebb45c16eea",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindui.com/components/preview#component-f8a14da22f26a67757b19f2fe3ca00ed",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple no labels",
+    "link": "https://tailwindui.com/components/preview#component-55b9c2097342175b8ddfccf8a30fb68f",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With dividers",
+    "link": "https://tailwindui.com/components/preview#component-1f10562f6266c9b3ef15ff792edd508e",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With meta and actions",
+    "link": "https://tailwindui.com/components/preview#component-7654075f650c9f1044bfcf1b1b6ffd77",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With inline price",
+    "link": "https://tailwindui.com/components/preview#component-adec20dfa6eac091f5bee40e244c6823",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Three-column",
+    "link": "https://tailwindui.com/components/preview#component-37995021e5cdf0c643346920ff40b13b",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With image grid",
+    "link": "https://tailwindui.com/components/preview#component-6bf262ecea63105e5f1fc57ec12057f9",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With featured categories",
+    "link": "https://tailwindui.com/components/preview#component-870de0c4ec620ad31bb8538a2886e3f0",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With image grid",
+    "link": "https://tailwindui.com/components/preview#component-2904df5d10ee9fc81ba07d1ad61a27ca",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindui.com/components/preview#component-230be426f17b26e949896d17c505e0d3",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With image tiles",
+    "link": "https://tailwindui.com/components/preview#component-abf8794a557c496e493e847c71fc90c7",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Centered with bottom border",
+    "link": "https://tailwindui.com/components/preview#component-1c0390a81b16cf5028aeff08be955766",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Centered 2x2 grid",
+    "link": "https://tailwindui.com/components/preview#component-64ac58e032276db96bf343a8d4f332a8",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With angled image on right",
+    "link": "https://tailwindui.com/components/preview#component-a3c09c7a3b8f4bd90d280722eaff9634",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple justified",
+    "link": "https://tailwindui.com/components/preview#component-90c79fbd0596cc4e601da985ca825994",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "components Alert",
+    "link": "https://wickedblocks.dev/groups/alert",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "components Button",
+    "link": "https://wickedblocks.dev/groups/button",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "sections Card",
+    "link": "https://wickedblocks.dev/groups/card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "forms Login",
+    "link": "https://wickedblocks.dev/groups/login",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "navigation Footer",
+    "link": "https://wickedblocks.dev/groups/footer",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": "sections Hero",
+    "link": "https://wickedblocks.dev/groups/hero",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "sections Modal",
+    "link": "https://wickedblocks.dev/groups/modal",
+    "category": "Modal",
+    "parent": null
+  },
+  {
+    "name": "navigation Header",
+    "link": "https://wickedblocks.dev/groups/header",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "navigation Sidebar",
+    "link": "https://wickedblocks.dev/groups/sidebar",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "sections Pricing",
+    "link": "https://wickedblocks.dev/groups/pricing",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "sections Client",
+    "link": "https://wickedblocks.dev/groups/client",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "sections Content",
+    "link": "https://wickedblocks.dev/groups/content",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "sections Grid",
+    "link": "https://wickedblocks.dev/groups/grid",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Registration form",
+    "link": "https://tailwindcomponents.com/component/registration-form-1",
+    "category": "Register",
+    "parent": "Form"
   }
 ]
