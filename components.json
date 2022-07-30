@@ -4547,7 +4547,7 @@
     "parent": "Form"
   },
   {
-    "name": "Working Contact Form (No Backend)",
+    "name": "Working Contact Form (send email without Backend server)",
     "link": "https://tailwindcomponents.com/component/working-contact-form-no-backend",
     "category": "Contact",
     "parent": "Form"
@@ -7154,7 +7154,7 @@
     "parent": null
   },
   {
-    "name": "Landing Page with twinkling stars 🌟",
+    "name": "Landing Page with twinkling stars ?",
     "link": "https://tailwindcomponents.com/component/landing-page-with-twinkling-stars",
     "category": "Page",
     "parent": null
@@ -13509,7 +13509,7 @@
     "parent": "Form"
   },
   {
-    "name": "Slanted Footer, Slanted Footer",
+    "name": "Slanted Footer",
     "link": "https://tailwindcomponents.com/component/slanted-footer",
     "category": "Footer",
     "parent": null
@@ -19064,6 +19064,732 @@
   {
     "name": "graph line graph, graph line graph",
     "link": "https://tailwinduikit.com/components/webapp/graph/graph#line_graph",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Accordion",
+    "link": "https://tailwindcomponents.com/component/accordion-2",
+    "category": "Accordion",
+    "parent": null
+  },
+  {
+    "name": "Q&A section with Collapse",
+    "link": "https://tailwindcomponents.com/component/qa-section-with-collapse",
+    "category": "Accordion",
+    "parent": null
+  },
+  {
+    "name": "Notification",
+    "link": "https://tailwindcomponents.com/component/notification-4",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Tagged alert",
+    "link": "https://tailwindcomponents.com/component/tagged-alert",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Breadcrumb Full Width with Icons",
+    "link": "https://tailwindcomponents.com/component/breadcrumb-full-width-with-icons",
+    "category": "Breadcrumb",
+    "parent": null
+  },
+  {
+    "name": "Buttons",
+    "link": "https://tailwindcomponents.com/component/buttons-6",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Material Design Button Variants",
+    "link": "https://tailwindcomponents.com/component/material-design-button-variants",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Login/register button",
+    "link": "https://tailwindcomponents.com/component/loginregister-button",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Animated edit button",
+    "link": "https://tailwindcomponents.com/component/animated-edit-button",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Button + Variants",
+    "link": "https://tailwindcomponents.com/component/button-variants",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Simple Buttons",
+    "link": "https://tailwindcomponents.com/component/simplebuttons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Round buttons pagination",
+    "link": "https://tailwindcomponents.com/component/round-buttons-pagination",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "simple tab button",
+    "link": "https://tailwindcomponents.com/component/simple-tab-button",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Free Custom Radio Button Group",
+    "link": "https://tailwindcomponents.com/component/custom-radio-group",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Simple Subscribe Newsletter Call to Action CTA",
+    "link": "https://tailwindcomponents.com/component/simple-subscribe-newsletter-call-to-action-cta",
+    "category": "Call to Action",
+    "parent": null
+  },
+  {
+    "name": "Subscribe to Newsletter - Minimal Call to Action",
+    "link": "https://tailwindcomponents.com/component/subscribe-to-newsletter-minimal-call-to-action",
+    "category": "Call to Action",
+    "parent": null
+  },
+  {
+    "name": "Subscribe to Newsletter - Call to Action - Blog",
+    "link": "https://tailwindcomponents.com/component/subscribe-to-newsletter-call-to-action-blog",
+    "category": "Call to Action",
+    "parent": null
+  },
+  {
+    "name": "Tailwindcss Card",
+    "link": "https://tailwindcomponents.com/component/tailwindcss-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Title-Image-Description cards",
+    "link": "https://tailwindcomponents.com/component/title-image-description-cards",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Material Design Card",
+    "link": "https://tailwindcomponents.com/component/material-design-card-1",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "User Profile Social Card",
+    "link": "https://tailwindcomponents.com/component/user-profile-card-4",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Tailwind Card Popups",
+    "link": "https://tailwindcomponents.com/component/tailwind-card-popups",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Trading Card",
+    "link": "https://tailwindcomponents.com/component/trading-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Plants Card",
+    "link": "https://tailwindcomponents.com/component/plants-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Credit Card",
+    "link": "https://tailwindcomponents.com/component/credit-card-2",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Cards",
+    "link": "https://tailwindcomponents.com/component/cards-9",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "User post card",
+    "link": "https://tailwindcomponents.com/component/user-post-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Image text card",
+    "link": "https://tailwindcomponents.com/component/image-text-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Card Template",
+    "link": "https://tailwindcomponents.com/component/card-template",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Property Card",
+    "link": "https://tailwindcomponents.com/component/property-card-3",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "User Profile Card",
+    "link": "https://tailwindcomponents.com/component/user-profile-card-2",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Checkout card",
+    "link": "https://tailwindcomponents.com/component/checkout-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Slider",
+    "link": "https://tailwindcomponents.com/component/slider-2",
+    "category": "Slider/Carousel",
+    "parent": null
+  },
+  {
+    "name": "Navigation Blog With Dropdown + Search and Logo",
+    "link": "https://tailwindcomponents.com/component/navigation-blog-with-dropdown-search-and-logo",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Dropdown for User menu",
+    "link": "https://tailwindcomponents.com/component/dropdown-for-user-menu",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Select input field",
+    "link": "https://tailwindcomponents.com/component/select-input-field",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Custome File Input",
+    "link": "https://tailwindcomponents.com/component/custome-file-input",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "edit input",
+    "link": "https://tailwindcomponents.com/component/edit-input",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "password input with show/hide icon",
+    "link": "https://tailwindcomponents.com/component/password-input-with-showhide-icon",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Textarea",
+    "link": "https://tailwindcomponents.com/component/textarea",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Search Input Field",
+    "link": "https://tailwindcomponents.com/component/search-input-field",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Simple rounded text form",
+    "link": "https://tailwindcomponents.com/component/simple-rounded-text-form",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Floating Label Contact Form",
+    "link": "https://tailwindcomponents.com/component/floating-label-contact-form",
+    "category": "Contact",
+    "parent": "Form"
+  },
+  {
+    "name": "Tailwind Contact Form",
+    "link": "https://tailwindcomponents.com/component/tailwind-contact-form",
+    "category": "Contact",
+    "parent": "Form"
+  },
+  {
+    "name": "Login Page",
+    "link": "https://tailwindcomponents.com/component/login-page-14",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Dark login",
+    "link": "https://tailwindcomponents.com/component/dark-login",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Login form",
+    "link": "https://tailwindcomponents.com/component/login-form-20",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "login form",
+    "link": "https://tailwindcomponents.com/component/login-form-19",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Login Page With Image",
+    "link": "https://tailwindcomponents.com/component/login-page-with-image",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Simple Login Form",
+    "link": "https://tailwindcomponents.com/component/simple-login-form-2",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Google Search",
+    "link": "https://tailwindcomponents.com/component/google-search",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Tailwind Search Bar",
+    "link": "https://tailwindcomponents.com/component/tailwind-search-bar",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Voice Search",
+    "link": "https://tailwindcomponents.com/component/voice-search",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Sidebar with search",
+    "link": "https://tailwindcomponents.com/component/sidebar-with-search",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Footer",
+    "link": "https://tailwindcomponents.com/component/footer-10",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": "Hero Big Grid",
+    "link": "https://tailwindcomponents.com/component/hero-big-grid",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "Free Tailwind CSS Modal Component",
+    "link": "https://tailwindcomponents.com/component/free-tailwind-css-modal-component-2",
+    "category": "Modal",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Navbar",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-navbar",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Dashboard Sidebar Navigation",
+    "link": "https://tailwindcomponents.com/component/dashboard-sidebar-navigation",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Header",
+    "link": "https://tailwindcomponents.com/component/tailwind-header",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Blog Header or CTA",
+    "link": "https://tailwindcomponents.com/component/blog-header-or-cta",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "simple nav & sidebar",
+    "link": "https://tailwindcomponents.com/component/simple-nav-sidebar",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Tailwindcss App Landing Page",
+    "link": "https://tailwindcomponents.com/component/tailwindcss-app-landing-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Landing Page",
+    "link": "https://tailwindcomponents.com/component/tailwind-landing-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Comming Soon Page",
+    "link": "https://tailwindcomponents.com/component/comming-soon-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Page Scroll Sticky",
+    "link": "https://tailwindcomponents.com/component/page-scroll-sticky",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Products page with Side Links",
+    "link": "https://tailwindcomponents.com/component/products-page-with-side-links",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Error 404",
+    "link": "https://tailwindcomponents.com/component/error-404-1",
+    "category": "404",
+    "parent": "Page"
+  },
+  {
+    "name": "Pricing Plans",
+    "link": "https://tailwindcomponents.com/component/pricing-plans-1",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Pricing",
+    "link": "https://tailwindcomponents.com/component/pricing-2",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Pricing section checkbox select",
+    "link": "https://tailwindcomponents.com/component/pricing-section-checkbox-select",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Pricing section checkbox",
+    "link": "https://tailwindcomponents.com/component/pricing-section-checkbox",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Popular Pricing section",
+    "link": "https://tailwindcomponents.com/component/popular-pricing-section",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Pricing section",
+    "link": "https://tailwindcomponents.com/component/pricing-section",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Simple Pagination Component",
+    "link": "https://tailwindcomponents.com/component/simple-pagination-component",
+    "category": "Pagination",
+    "parent": null
+  },
+  {
+    "name": "Radial progress with Daisyui",
+    "link": "https://tailwindcomponents.com/component/radial-progress-with-daisyui",
+    "category": "Progress Bar",
+    "parent": null
+  },
+  {
+    "name": "Compact sidebar",
+    "link": "https://tailwindcomponents.com/component/compact-sidebar",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Table",
+    "link": "https://tailwindcomponents.com/component/table-7",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Table List menu",
+    "link": "https://tailwindcomponents.com/component/table-list-menu",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Table with actions inside",
+    "link": "https://tailwindcomponents.com/component/table-with-actions-inside",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "terminal",
+    "link": "https://tailwindcomponents.com/component/terminal-1",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Create User Profile",
+    "link": "https://tailwindcomponents.com/component/create-user-profile",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Link In Bio Mobile UI",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-link-in-bio-mobile-ui",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Weather Widget",
+    "link": "https://tailwindcomponents.com/component/weather-widget-2",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Widgets components",
+    "link": "https://tailwindcomponents.com/component/widgets-components",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "detail",
+    "link": "https://tailwindcomponents.com/component/detail",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "News",
+    "link": "https://tailwindcomponents.com/component/news-3",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Reviews count",
+    "link": "https://tailwindcomponents.com/component/reviews-count",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Send Love",
+    "link": "https://tailwindcomponents.com/component/send-love",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind cartoon",
+    "link": "https://tailwindcomponents.com/component/tailwind-cartoon",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "CTA Component Box",
+    "link": "https://tailwindcomponents.com/component/cta-component-box",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Blog Grid",
+    "link": "https://tailwindcomponents.com/component/blog-grid-1",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Email Verification Call out",
+    "link": "https://tailwindcomponents.com/component/email-verification-call-out",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "User status circle",
+    "link": "https://tailwindcomponents.com/component/user-status-circle",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Small Bio Paper",
+    "link": "https://tailwindcomponents.com/component/small-bio-paper",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "About Me",
+    "link": "https://tailwindcomponents.com/component/about-me",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Count automatic to a given number with AlpineJS",
+    "link": "https://tailwindcomponents.com/component/count-up-with-alpinejs",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Chatwoot Features Component in TailwindCSS",
+    "link": "https://tailwindcomponents.com/component/chatwoot-features-component-in-tailwindcss",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Grid",
+    "link": "https://tailwindcomponents.com/component/grid-1",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Level Up Your Designs",
+    "link": "https://tailwindcomponents.com/component/level-up-your-designs",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Grid Responsive",
+    "link": "https://tailwindcomponents.com/component/grid-responsive",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Chatroom",
+    "link": "https://tailwindcomponents.com/component/chatroom",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "filter & reset",
+    "link": "https://tailwindcomponents.com/component/filter-reset",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Gallery",
+    "link": "https://tailwindcomponents.com/component/gallery-4",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "social feed",
+    "link": "https://tailwindcomponents.com/component/social-feed",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Wysiwyg Editor",
+    "link": "https://tailwindcomponents.com/component/wysiwyg-editor",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Messanger Design",
+    "link": "https://tailwindcomponents.com/component/messanger-design",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Team Section",
+    "link": "https://tailwindcomponents.com/component/team-section-2",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Services Section",
+    "link": "https://tailwindcomponents.com/component/services-section",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Component Hover effect",
+    "link": "https://tailwindcomponents.com/component/component-hover-effect",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "manage product cart",
+    "link": "https://tailwindcomponents.com/component/manage-product-cart",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Nikhil Padwal",
+    "link": "https://tailwindcomponents.com/component/nikhil-padwal",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Team section",
+    "link": "https://tailwindcomponents.com/component/team-section-1",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Text Gradient",
+    "link": "https://tailwindcomponents.com/component/text-gradient",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Minimal Portfolio",
+    "link": "https://tailwindcomponents.com/component/minimal-portfolio",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Skip Link",
+    "link": "https://tailwindcomponents.com/component/skip-link",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Feature Component with Trusted By section",
+    "link": "https://tailwindcomponents.com/component/feature-component-with-trusted-by-section",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Q&A section",
+    "link": "https://tailwindcomponents.com/component/qa-section",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "CTA section",
+    "link": "https://tailwindcomponents.com/component/cta-section",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "infopediya",
+    "link": "https://tailwindcomponents.com/component/infopediya",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Concept dabbly",
+    "link": "https://tailwindcomponents.com/component/social-media-concept",
     "category": "Other",
     "parent": null
   }
