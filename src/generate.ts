@@ -137,7 +137,11 @@ const categoryList = [
   }),
   new Category({
     name: 'Modal',
-    keywords: [new Keyword('modal'), new Keyword('popup'), new Keyword('popup box', 2)],
+    keywords: [
+      new Keyword('modal'),
+      new Keyword('popup'),
+      new Keyword('popup box', 2),
+    ],
   }),
   new Category({
     name: 'Navigation/Header',
@@ -179,6 +183,7 @@ const categoryList = [
     name: 'Sidebar',
     keywords: [
       new Keyword('side panel', 2),
+      new Keyword('side menu', 2),
       new Keyword('side nav', 2),
       new Keyword('slide-overs', 2),
       new Keyword('drawer', 2),
