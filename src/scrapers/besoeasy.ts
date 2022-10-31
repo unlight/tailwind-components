@@ -1,32 +1,23 @@
-import { trim } from 'lodash';
+import { trim, snakeCase } from 'lodash';
 import { CompomentLink, ScraperArgs } from '../types';
 
 export default async function besoeasy({
   page,
 }: ScraperArgs): Promise<CompomentLink[]> {
-  // todo: fix me
   const result: CompomentLink[] = [];
   await page.goto('https://tailwind.besoeasy.com/', {
     waitUntil: 'networkidle0',
   });
-  const sections = await page.$$eval('#files > li a[href]', elements => {
-    return elements.map(a => ({
-      link: (a as HTMLAnchorElement).href,
-      category: a.textContent!.trim(),
-    }));
+  const links = await page.$$eval('.container > a[href]', elements => {
+    return elements.map(a => (a as HTMLAnchorElement).href);
   });
-  for (const section of sections) {
-    await page.goto(section.link, { waitUntil: 'networkidle0' });
-    const links = await page.$$eval('#files > li a[href]', elements => {
-      return elements.map(element => {
-        const a = element as HTMLAnchorElement;
-        return { href: a.href, title: a.title };
-      });
-    });
-    for (let { href, title } of links) {
-      const name = trim(title, '/').replace(/\//g, ' ');
-      result.push({ link: href, name });
-    }
+  for (const link of links) {
+    const url = new URL(link);
+    const name = snakeCase(url.pathname.replaceAll('.html', ''))
+      .replaceAll('_', ' ')
+      .toLowerCase();
+
+    result.push({ link, name });
   }
 
   return result;
