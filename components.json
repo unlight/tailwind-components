@@ -20122,5 +20122,395 @@
     "link": "https://windmill-dashboard.vercel.app/charts.html",
     "category": "Other",
     "parent": null
+  },
+  {
+    "name": "Accordion Basic examples, Accordion Flush, Accordion Always open",
+    "link": "https://tailwind-elements.com/docs/standard/components/accordion/",
+    "category": "Accordion",
+    "parent": null
+  },
+  {
+    "name": "Collapse Basic example, Collapse Horizontal, Collapse Multiple targets, Collapse With Scroll",
+    "link": "https://tailwind-elements.com/docs/standard/components/collapse/",
+    "category": "Accordion",
+    "parent": null
+  },
+  {
+    "name": "Alerts Basic examples, Alerts Link color, Alerts Icons, Alerts Additional content, Alerts Dismissing",
+    "link": "https://tailwind-elements.com/docs/standard/components/alerts/",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Notifications Simple notification, Notifications Classic badge notification, Notifications Notification within tabs, Notifications Notification within button, Notifications Notification within avatar, Notifications Notification start, Notifications Notification center, Notifications Notification end (default), Notifications Notification middle start, Notifications Notification middle center, Notifications Notification middle end, Notifications Notification bottom start, Notifications Notification bottom center, Notifications Notification bottom end",
+    "link": "https://tailwind-elements.com/docs/standard/components/notifications/",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Social buttons Icons, Social buttons Brand colors & size, Social buttons Social button, Social buttons Sample brands, Social buttons Floating social, Social buttons Text, Social buttons Only icon button",
+    "link": "https://tailwind-elements.com/docs/standard/components/social-buttons/",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Toast Basic example, Toast Colors",
+    "link": "https://tailwind-elements.com/docs/standard/components/toast/",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Avatar Basic examples, Avatar With shadow, Avatar Square, Avatar With content",
+    "link": "https://tailwind-elements.com/docs/standard/components/avatar/",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": "Badges Basic examples, Badges Sizes, Badges Button, Badges Colors, Badges Pills",
+    "link": "https://tailwind-elements.com/docs/standard/components/badges/",
+    "category": "Badge",
+    "parent": null
+  },
+  {
+    "name": "Breadcrumbs Breadcrumb in navbar",
+    "link": "https://tailwind-elements.com/docs/standard/navigation/breadcrumbs/",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Button group Basic examples, Button group Active state, Button group Outline styles, Button group Toolbar, Button group Sizing, Button group Colors",
+    "link": "https://tailwind-elements.com/docs/standard/components/button-group/",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Buttons Basic examples, Buttons With ripple, Buttons Colors, Buttons Outline, Buttons Rounded, Buttons Rounded outline, Buttons Floating, Buttons Sizes, Buttons Active states, Buttons Disabled state, Buttons With icon, Buttons Block buttons",
+    "link": "https://tailwind-elements.com/docs/standard/components/buttons/",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Dropdown Basic example, Dropdown Colors, Dropdown Sizing, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Menu item disable, Dropdown Menu item header, Dropdown Menu items divider, Dropdown Menu item text, Dropdown Dark dropdowns",
+    "link": "https://tailwind-elements.com/docs/standard/components/dropdown/",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Link Colored links, Link Within the sentence, Link Underline, Link Underline on hover",
+    "link": "https://tailwind-elements.com/docs/standard/components/link/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "List group Basic example, List group Active items, List group Disabled items, List group Links, List group Flush",
+    "link": "https://tailwind-elements.com/docs/standard/components/listgroup/",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Scroll back to top button Basic example",
+    "link": "https://tailwind-elements.com/docs/standard/components/scroll-back-to-top-button/",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Pills Basic example, Pills Fill, Pills Justify, Pills Vertical",
+    "link": "https://tailwind-elements.com/docs/standard/navigation/pills/",
+    "category": "Tags",
+    "parent": null
+  },
+  {
+    "name": "Tabs Basic example, Tabs Fill, Tabs Justify, Tabs Vertical",
+    "link": "https://tailwind-elements.com/docs/standard/navigation/tabs/",
+    "category": "Tab",
+    "parent": null
+  },
+  {
+    "name": "Search Basic example, Search with icon, Search without additional elements, Search with label",
+    "link": "https://tailwind-elements.com/docs/standard/forms/search/",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Footer Basic example, Footer Advanced example, Footer Copyrights, Footer Links, Footer Text, Footer Images, Footer Icons, Footer Buttons dark theme, Footer Form",
+    "link": "https://tailwind-elements.com/docs/standard/navigation/footer/",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": "Cards Card with header and footer",
+    "link": "https://tailwind-elements.com/docs/standard/components/cards/",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": "Carousel Basic example, Carousel Slides only, Carousel With controls, Carousel With indicators, Carousel Crossfade, Carousel Dark variant",
+    "link": "https://tailwind-elements.com/docs/standard/components/carousel/",
+    "category": "Slider/Carousel",
+    "parent": null
+  },
+  {
+    "name": "Gallery Basic example, Gallery Mix",
+    "link": "https://tailwind-elements.com/docs/standard/components/gallery/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Video carousel Basic example, Video carousel Full page carousel",
+    "link": "https://tailwind-elements.com/docs/standard/components/video-carousel/",
+    "category": "Slider/Carousel",
+    "parent": null
+  },
+  {
+    "name": "Datepicker Basic example, Datepicker Input toggle, Datepicker Custom toggle icon",
+    "link": "https://tailwind-elements.com/docs/standard/forms/datepicker/",
+    "category": "Date/Time",
+    "parent": null
+  },
+  {
+    "name": "Timepicker Basic example, Timepicker Input toggle, Timepicker Custom toggle icon",
+    "link": "https://tailwind-elements.com/docs/standard/forms/timepicker/",
+    "category": "Date/Time",
+    "parent": null
+  },
+  {
+    "name": "Popover Basic example, Popover Four directions, Popover Dismiss on next click, Popover Disabled",
+    "link": "https://tailwind-elements.com/docs/standard/components/popover/",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Multiselect Basic",
+    "link": "https://tailwind-elements.com/docs/standard/forms/multiselect/",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Select Basic, Select Sizing, Select Disabled",
+    "link": "https://tailwind-elements.com/docs/standard/forms/select/",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Typography Headings, Typography Customizing headings, Typography Display headings, Typography Lead, Typography Inline text elements, Typography Blockquotes, Typography Text alignment, Typography Text wrapping and overflow, Typography Text nowrap, Typography Font weight and italics, Typography Line height",
+    "link": "https://tailwind-elements.com/docs/standard/components/typography/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Checkbox Basic example, Checkbox Indeterminate, Checkbox Disabled, Checkbox Inline, Checkbox Without labels",
+    "link": "https://tailwind-elements.com/docs/standard/forms/checkbox/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "File input Basic example, File input Multiple files input, File input Disabled file input, File input Small file input, File input Large file input",
+    "link": "https://tailwind-elements.com/docs/standard/forms/file-input/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Form templates Login form",
+    "link": "https://tailwind-elements.com/docs/standard/forms/form-templates/",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Inputs Basic example, Inputs Sizing, Inputs Disabled, Inputs Readonly, Inputs Text, Inputs Email, Inputs Password, Inputs Number, Inputs Phone number, Inputs URL, Inputs Textarea, Inputs Helper text, Inputs Floating label",
+    "link": "https://tailwind-elements.com/docs/standard/forms/inputs/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Radio Basic example, Radio Disabled, Radio Inline, Radio Without labels",
+    "link": "https://tailwind-elements.com/docs/standard/forms/radio/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Textarea Basic example",
+    "link": "https://tailwind-elements.com/docs/standard/forms/textarea/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Login form Basic example, Login form v.2, Login form v.3",
+    "link": "https://tailwind-elements.com/docs/standard/components/login-form/",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Spinners Basic example, Spinners Colors, Spinners Growing spinner, Spinners Colors of growing spinner, Spinners Margin, Spinners Flex, Spinners Floats, Spinners Text, Spinners Size small, Spinners Size large",
+    "link": "https://tailwind-elements.com/docs/standard/components/spinners/",
+    "category": "Loading/Spinner",
+    "parent": null
+  },
+  {
+    "name": "Modal Simple notification, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Sizes, Modal Fullscreen modal",
+    "link": "https://tailwind-elements.com/docs/standard/components/modal/",
+    "category": "Modal",
+    "parent": null
+  },
+  {
+    "name": "Headers Jumbotron, Headers Background image",
+    "link": "https://tailwind-elements.com/docs/standard/components/headers/",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Jumbotron Basic example, Jumbotron Background image",
+    "link": "https://tailwind-elements.com/docs/standard/components/jumbotron/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Navbar Basic, Navbar Brand, Navbar Brand with image, Navbar Nav, Navbar dark",
+    "link": "https://tailwind-elements.com/docs/standard/navigation/navbar/",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Testimonials Basic example, Testimonials with background image, Testimonials Small testimonials carousel, Testimonials with colorful cards, Testimonials Two columns testimonials",
+    "link": "https://tailwind-elements.com/docs/standard/components/testimonials/",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Pagination Basic example, Pagination Icons, Pagination Disabled and active states, Pagination Sizing, Pagination Shape",
+    "link": "https://tailwind-elements.com/docs/standard/navigation/pagination/",
+    "category": "Pagination",
+    "parent": null
+  },
+  {
+    "name": "Progress Basic example, Progress Width, Progress Labels, Progress Height, Progress Colors",
+    "link": "https://tailwind-elements.com/docs/standard/components/progress/",
+    "category": "Progress Bar",
+    "parent": null
+  },
+  {
+    "name": "Sidenav Basic example, Sidenav Example with icons, Sidenav Collapsible items example, Sidenav Advanced example",
+    "link": "https://tailwind-elements.com/docs/standard/navigation/sidenav/",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Stepper Basic example, Stepper Vertical stepper",
+    "link": "https://tailwind-elements.com/docs/standard/components/stepper/",
+    "category": "Step",
+    "parent": null
+  },
+  {
+    "name": "Range Basic example, Range Disabled, Range Min and max",
+    "link": "https://tailwind-elements.com/docs/standard/forms/range/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Switch Basic example, Switch Checked, Switch Disabled, Switch Disabled checked, Switch Without labels",
+    "link": "https://tailwind-elements.com/docs/standard/forms/switch/",
+    "category": "Switch",
+    "parent": null
+  },
+  {
+    "name": "Chips Basic example, Chips Sizing, Chips Outline",
+    "link": "https://tailwind-elements.com/docs/standard/components/chips/",
+    "category": "Tags",
+    "parent": null
+  },
+  {
+    "name": "Tooltip Basic example, Tooltip Four directions, Tooltip With custom HTML, Tooltip Disabled",
+    "link": "https://tailwind-elements.com/docs/standard/components/tooltip/",
+    "category": "Tooltips",
+    "parent": null
+  },
+  {
+    "name": "Tables Basic example, Tables Variants, Tables Striped, Tables Hoverable, Tables Bordered, Tables Borderless, Tables Small, Tables Light Head, Tables Dark Head, Tables Always responsive",
+    "link": "https://tailwind-elements.com/docs/standard/components/tables/",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Mega menu Basic example, Mega menu Bolded headings, Mega menu Punctuation, Mega menu Big news",
+    "link": "https://tailwind-elements.com/docs/standard/navigation/mega-menu/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Timeline Basic example, Timeline Horizontal example, Timeline Primary color, Timeline Icons",
+    "link": "https://tailwind-elements.com/docs/standard/components/timeline/",
+    "category": "Timeline",
+    "parent": null
+  },
+  {
+    "name": "Charts Line chart, Charts Bar chart, Charts Radar chart, Charts Pie chart, Charts Doughnut chart",
+    "link": "https://tailwind-elements.com/docs/standard/components/charts/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Headings H1, Headings H2, Headings H3, Headings H4, Headings H5, Headings H6",
+    "link": "https://tailwind-elements.com/docs/standard/components/headings/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Hover effects Basic example, Hover effects Color, Hover effects Gradient, Hover effects Zoom, Hover effects Shadow",
+    "link": "https://tailwind-elements.com/docs/standard/components/hover-effects/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Icons Sizing, Icons Examples of svg icons, Icons Fixed Width Icons",
+    "link": "https://tailwind-elements.com/docs/standard/components/icons/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Images Responsive images, Images Thumbnails, Images Shadows, Images Shadow on hover, Images Shapes",
+    "link": "https://tailwind-elements.com/docs/standard/components/images/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Mask Basic example, Mask Color, Mask Gradient, Mask Opacity, Mask Content, Mask Ripple, Mask Link regular, Mask Link with ripple",
+    "link": "https://tailwind-elements.com/docs/standard/components/mask/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Offcanvas Basic, Offcanvas Placement - top, Offcanvas Placement - right, Offcanvas Placement - bottom",
+    "link": "https://tailwind-elements.com/docs/standard/components/offcanvas/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Paragraphs Basic, Paragraphs Lead, Paragraphs Quote, Paragraphs Small, Paragraphs Inline text elements",
+    "link": "https://tailwind-elements.com/docs/standard/components/paragraphs/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Rating Basic, Rating Filled, Rating Custom icons, Rating Emoji",
+    "link": "https://tailwind-elements.com/docs/standard/components/rating/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Video Responsive video 21:9, Video Responsive video 16:9, Video Responsive video 4:3, Video Responsive video 1:1, Video iframe",
+    "link": "https://tailwind-elements.com/docs/standard/components/video/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Scrollspy Basic example",
+    "link": "https://tailwind-elements.com/docs/standard/navigation/scrollspy/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Ripple Basic example, Ripple Image, Ripple Colors, Ripple Duration, Ripple Centered, Ripple Unbound, Ripple Radius",
+    "link": "https://tailwind-elements.com/docs/standard/methods/ripple/",
+    "category": "Other",
+    "parent": null
   }
 ]
