@@ -12,7 +12,7 @@
     "parent": null
   },
   {
-    "name": "Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion JavaScript behaviour, Accordion→ Default accordion, Accordion→ Always open, Accordion→ Color options, Accordion→ Flush accordion, Accordion→ Arrow style, Accordion→ JavaScript behaviour",
+    "name": "Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion JavaScript behaviour",
     "link": "https://flowbite.com/docs/components/accordion/",
     "category": "Accordion",
     "parent": null
@@ -20,7 +20,7 @@
   {
     "name": "Side Menu #Icons with Titles",
     "link": "https://www.hyperui.dev/components/application-ui/side-menu",
-    "category": "Other",
+    "category": "Sidebar",
     "parent": null
   },
   {
@@ -264,13 +264,13 @@
     "parent": null
   },
   {
-    "name": "Alerts Default alert, Alerts Alerts with icon, Alerts Alerts with list, Alerts Dismissing, Alerts Border accent, Alerts Additional content, Alerts JavaScript behaviour",
+    "name": "Alerts Default alert, Alerts Alerts with icon, Alerts Bordered alerts, Alerts Alerts with list, Alerts Dismissing, Alerts Border accent, Alerts Additional content, Alerts JavaScript behaviour",
     "link": "https://flowbite.com/docs/components/alerts/",
     "category": "Alert/Notification",
     "parent": null
   },
   {
-    "name": "Badge Default badge, Badge Large badges, Badge Badges as links, Badge Badges with icon, Badge Button with badge, Badge Badge with icon only, Badge Dismissable badges",
+    "name": "Badge Default badge, Badge Large badges, Badge Bordered badge, Badge Pills badge, Badge Badges as links, Badge Badges with icon, Badge Button with badge, Badge Badge with icon only, Badge Chips (dismissable badges)",
     "link": "https://flowbite.com/docs/components/badge/",
     "category": "Badge",
     "parent": null
@@ -294,7 +294,7 @@
     "parent": null
   },
   {
-    "name": "Alert #Popup, Alert #Popup with Actions, Alert #Content",
+    "name": "Alert #Popup, Alert #Popup with Actions, Alert #Content, Alert #Content with Icon",
     "link": "https://www.hyperui.dev/components/application-ui/alerts",
     "category": "Alert/Notification",
     "parent": null
@@ -504,7 +504,7 @@
     "parent": null
   },
   {
-    "name": "Toast",
+    "name": "Tailwind CSS Toast",
     "link": "https://tailwindcomponents.com/component/toast",
     "category": "Alert/Notification",
     "parent": null
@@ -966,10 +966,10 @@
     "parent": null
   },
   {
-    "name": "Sidebar With Search",
+    "name": "Sidebar Label Section, Sidebar Bottom Menu, Sidebar Sub Menu, Sidebar Sub Menu with label section",
     "link": "https://merakiui.com/components/sidebar",
-    "category": "Search",
-    "parent": "Form"
+    "category": "Sidebar",
+    "parent": null
   },
   {
     "name": "Avatar Basic",
@@ -1296,7 +1296,7 @@
     "parent": null
   },
   {
-    "name": "Badge #Simple, Badge #Themed, Badge #With Close",
+    "name": "Badge #Simple, Badge #Simple with Icon, Badge #Simple Icon Only, Badge #Themed, Badge #Close, Badge #Close with Icon",
     "link": "https://www.hyperui.dev/components/application-ui/badges",
     "category": "Badge",
     "parent": null
@@ -1494,13 +1494,13 @@
     "parent": null
   },
   {
-    "name": "Breadcrumb Default breadcrumb, Breadcrumb Solid background",
+    "name": "Breadcrumb Default breadcrumb, Breadcrumb Solid background, Breadcrumb Header breadcrumb, Breadcrumb Breadcrumb with dropdown",
     "link": "https://flowbite.com/docs/components/breadcrumb/",
     "category": "Breadcrumb",
     "parent": null
   },
   {
-    "name": "Breadcrumb #With Chevron, Breadcrumb #Simple",
+    "name": "Breadcrumb #Simple, Breadcrumb #Chevron Background",
     "link": "https://www.hyperui.dev/components/application-ui/breadcrumbs",
     "category": "Breadcrumb",
     "parent": null
@@ -1908,7 +1908,7 @@
     "parent": null
   },
   {
-    "name": "Button group Default example, Button group Button group as links, Button group Group buttons with icons, Button group Outline, Button group Outlined with icon",
+    "name": "Button Group Default example, Button Group Button group as links, Button Group Group buttons with icons, Button Group Outline, Button Group Outlined with icon",
     "link": "https://flowbite.com/docs/components/button-group/",
     "category": "Button",
     "parent": null
@@ -1926,13 +1926,13 @@
     "parent": null
   },
   {
-    "name": "Sidebar Default sidebar, Sidebar Content separator, Sidebar Logo branding",
+    "name": "Sidebar Default sidebar, Sidebar Multi-level menu, Sidebar Content separator, Sidebar Logo branding, Sidebar Off-canvas sidebar, Sidebar Dashboard Layout",
     "link": "https://flowbite.com/docs/components/sidebar/",
     "category": "Sidebar",
     "parent": null
   },
   {
-    "name": "Spinner Default spinner, Spinner Colors, Spinner Sizes, Spinner Alignment, Spinner Accessibillity",
+    "name": "Spinner Default spinner, Spinner Colors, Spinner Sizes, Spinner Alignment, Spinner Progress spinner, Spinner Converting your image:, Spinner Accessibillity",
     "link": "https://flowbite.com/docs/components/spinner/",
     "category": "Loading/Spinner",
     "parent": null
@@ -1950,19 +1950,19 @@
     "parent": null
   },
   {
-    "name": "Button Group #Contained, Button Group #Simple, Button Group #Icons, Button Group #Side Label",
+    "name": "Button Group #Simple, Button Group #Simple Icons Only, Button Group #Simple with Secondary, Button Group #Contained, Button Group #Contained with Icons",
     "link": "https://www.hyperui.dev/components/application-ui/button-groups",
     "category": "Button",
     "parent": null
   },
   {
-    "name": "Error Pages #Simple, Error Pages #With Graphic",
+    "name": "Error Pages #Simple, Error Pages #With Graphic, Error Pages #Top Banner",
     "link": "https://www.hyperui.dev/components/application-ui/error-pages",
     "category": "Page",
     "parent": null
   },
   {
-    "name": "Input #Simple, Input #With Icon, Input #With Label in Input, Input #With Floating Label",
+    "name": "Input #Simple, Input #With Icon, Input #With Label in Input, Input #With Floating Label, Input #With Floating Label (Underlined)",
     "link": "https://www.hyperui.dev/components/application-ui/inputs",
     "category": "Form",
     "parent": null
@@ -2328,7 +2328,7 @@
     "parent": null
   },
   {
-    "name": "Simple Buttons",
+    "name": "Tailwind CSS Buttons",
     "link": "https://tailwindcomponents.com/component/simplebuttons",
     "category": "Button",
     "parent": null
@@ -3048,13 +3048,13 @@
     "parent": null
   },
   {
-    "name": "Card #Shadow with Review Score, Card #Shadow with Gradient Border, Card #With Content, Image, Details and Gradient Border, Card #With Icon, Content and Background, Card #Stacked with Large Image and Content, Card #Darkened Background with Content on Hover, Card #Bordered with Content on Hover, Card #Stat, Content with Accent Border and Icon, Card #Bordered with Image, Price, Content and Details, Card #Image, Name, with Social Links and Project Links, Card #Content Over Image with Review Score, Card #Shaped with Image and Content, Card #Cartoon with Shadow and Content Reveal on Hover, Card #Stacked Effect with Content Reveal on Hover, Card #Podcast Post, Card #Forum Post",
+    "name": "Card #Shadow with Review Score, Card #Shadow with Gradient Border, Card #With Content, Image, Details and Gradient Border, Card #With Icon, Content and Background, Card #Stacked with Large Image and Content, Card #Darkened Background with Content on Hover, Card #Bordered with Content on Hover, Card #Stat, Content with Accent Border and Icon, Card #Bordered with Image, Price, Content and Details, Card #Image, Name, with Social Links and Project Links, Card #Content Over Image with Review Score, Card #Shaped with Image and Content, Card #Stacked Effect with Content Reveal on Hover, Card #Podcast Post, Card #Forum Post",
     "link": "https://www.hyperui.dev/components/marketing/cards",
     "category": "Card",
     "parent": null
   },
   {
-    "name": "Footer #Large with Newsletter Form, Footer #Simple Stacked, Footer #Simple Row, Footer #Split with Company Info, Links and Image, Footer #Simple with Service Status, Footer #Centered with Social Links as Priority, Footer #Newsletter Form as Priority, Footer #Centered with Branding, Footer #Slim with Branding and Link Top, Footer #Company Info and Links, Footer #Inline with Logo and Copyright, Footer #Company Info, Links and Email Signup",
+    "name": "Footer #Large with Newsletter Form, Footer #Simple Stacked, Footer #Simple Row, Footer #Split with Company Info, Links and Image, Footer #Newsletter Form as Priority, Footer #Centered with Branding, Footer #Slim with Branding and Link Top, Footer #Company Info and Links, Footer #Inline with Logo and Copyright, Footer #Company Info, Links and Email Signup",
     "link": "https://www.hyperui.dev/components/marketing/footers",
     "category": "Footer",
     "parent": null
@@ -3066,7 +3066,7 @@
     "parent": null
   },
   {
-    "name": "Testimonial #Split with Content and Slider, Testimonial #Stacked with Centered Content and Grid, Testimonial #Content with Slider, Testimonial #Stacked with Navigation and Slider, Testimonial #Card with Author Image, Testimonial #Slider with Pagination, Testimonial #Masonry Grid with Author",
+    "name": "Testimonial #Split with Content and Slider, Testimonial #Content with Blocks, Testimonial #Stacked with Navigation and Slider, Testimonial #Card with Author Image, Testimonial #Slider with Pagination, Testimonial #Masonry Grid with Author",
     "link": "https://www.hyperui.dev/components/marketing/testimonials",
     "category": "Testimonial",
     "parent": "Page"
@@ -3078,7 +3078,7 @@
     "parent": null
   },
   {
-    "name": "Product Collection #Split with Filter and Grid, Product Collection #Grid with Action",
+    "name": "Product Collection #Simple, Product Collection #Simple with Centered Title, Product Collection #Sort & Layout, Product Collection #Filtering (Side)",
     "link": "https://www.hyperui.dev/components/ecommerce/product-collections",
     "category": "Other",
     "parent": null
@@ -3342,7 +3342,7 @@
     "parent": null
   },
   {
-    "name": "Blog Card #Simple, Blog Card #Floating, Blog Card #Bordered, Blog Card #Gradient Border, Blog Card #Base, Blog Card #Modern",
+    "name": "Blog Card #Simple, Blog Card #Floating, Blog Card #Bordered, Blog Card #Gradient Border, Blog Card #Gradient Border Animated, Blog Card #Gradient Border Animated on Hover, Blog Card #Base, Blog Card #Modern",
     "link": "https://www.hyperui.dev/components/marketing/blog-cards",
     "category": "Card",
     "parent": null
@@ -3402,7 +3402,7 @@
     "parent": null
   },
   {
-    "name": "Portfolio Centered, Portfolio Hover Effect, Portfolio with Filter, Portfolio with Side Links",
+    "name": "Portfolio Centered, Portfolio Hover Effect, Portfolio Filter, Portfolio Side Links",
     "link": "https://merakiui.com/components/portfolio",
     "category": "Other",
     "parent": null
@@ -5688,7 +5688,7 @@
     "parent": null
   },
   {
-    "name": "Announcement #Simple, Announcement #With Icon, Announcement #With Action, Announcement #Fixed to Bottom, Announcement #Floating Bottom",
+    "name": "Announcement #Simple, Announcement #With Close, Announcement #With Action, Announcement #Fixed Bottom, Announcement #Fixed Bottom with Close, Announcement #Floating Bottom, Announcement #Floating Bottom with Close",
     "link": "https://www.hyperui.dev/components/marketing/announcements",
     "category": "Other",
     "parent": null
@@ -6048,7 +6048,7 @@
     "parent": null
   },
   {
-    "name": "Select Select input example, Select Multiple options, Select Disabled state, Select Underline select, Select Select with dropdown, Select Sizes",
+    "name": "Select Select input example, Select Multiple options, Select Size attribute, Select Disabled state, Select Underline select, Select Select with dropdown, Select Sizes",
     "link": "https://flowbite.com/docs/forms/select/",
     "category": "Dropdown",
     "parent": null
@@ -6498,7 +6498,7 @@
     "parent": null
   },
   {
-    "name": "Textarea, Textarea with border, Textarea Ghost (no background), Textarea With form control and labels, Textarea Primary color, Textarea Secondary color, Textarea Accent color, Textarea Info color, Textarea Success color, Textarea Warning color, Textarea Error color, Textarea Disabled",
+    "name": "Textarea, Textarea with border, Textarea Ghost (no background), Textarea With form control and labels, Textarea Primary color, Textarea Secondary color, Textarea Accent color, Textarea Info color, Textarea Success color, Textarea Warning color, Textarea Error color, Textarea Sizes, Textarea Disabled",
     "link": "https://daisyui.com/components/textarea",
     "category": "Form",
     "parent": null
@@ -6708,13 +6708,13 @@
     "parent": null
   },
   {
-    "name": "Radio Group #Simple Stacked, Radio Group #Grid with Stacked Content, Radio Group #Variants",
+    "name": "Radio Group #Simple Stacked, Radio Group #Simple Stacked with Check, Radio Group #Grid with Stacked Content, Radio Group #Grid with Stacked Content and Checked, Radio Group #Variants, Radio Group #Variants with Check, Radio Group #Variants as Colors",
     "link": "https://www.hyperui.dev/components/application-ui/radio-groups",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Table #Simple, Table #Data Table",
+    "name": "Table #Simple, Table #Simple with Border, Table #Simple with Odd/Even Background, Table #Simple with Action",
     "link": "https://www.hyperui.dev/components/application-ui/tables",
     "category": "Table",
     "parent": null
@@ -6744,7 +6744,7 @@
     "parent": "Form"
   },
   {
-    "name": "Heros E-commerce, Heros Center Content, Heros Center Content With Trusted By, Heros Coming Soon, Heros Image With Newsletter, Heros Slide, Heros Image, Heros Side Image, Heros Background Image, Heros Pattern",
+    "name": "Heros E-commerce Requires JS, Heros Center Content Requires JS, Heros Center Content With Trusted By Requires JS, Heros Coming Soon Requires JS, Heros Image Requires JS, Heros Image With Newsletter Requires JS, Heros Slide, Heros Side Image Requires JS, Heros Background Image Requires JS, Heros Pattern",
     "link": "https://merakiui.com/components/heros",
     "category": "Hero",
     "parent": null
@@ -7800,7 +7800,7 @@
     "parent": "Form"
   },
   {
-    "name": "Contact + Map",
+    "name": "Contact Map",
     "link": "https://tailwindcomponents.com/component/contact-map",
     "category": "Contact",
     "parent": "Form"
@@ -8562,13 +8562,13 @@
     "parent": "Form"
   },
   {
-    "name": "Modals Archive, Modals Confirm, Modals Steps, Modals Invite, Modals Multi Invites",
+    "name": "Modals Archive Requires JS, Modals Confirm Requires JS, Modals Steps Requires JS, Modals Invite Requires JS, Modals Multi Invites Requires JS",
     "link": "https://merakiui.com/components/modals",
     "category": "Modal",
     "parent": null
   },
   {
-    "name": "Navbars Simple, Navbars E-Commerce, Navbars Search, Navbars Avatar, Navbars Social Media Links, Navbars Categories",
+    "name": "Navbars Simple Requires JS, Navbars E-Commerce Requires JS, Navbars Search Requires JS, Navbars Avatar Requires JS, Navbars Social Media Links Requires JS, Navbars Categories Requires JS",
     "link": "https://merakiui.com/components/navbars",
     "category": "Navigation/Header",
     "parent": null
@@ -8886,7 +8886,7 @@
     "parent": "Form"
   },
   {
-    "name": "search bar",
+    "name": "Search bar",
     "link": "https://tailwindcomponents.com/component/search-bar",
     "category": "Search",
     "parent": "Form"
@@ -9096,7 +9096,7 @@
     "parent": null
   },
   {
-    "name": "Footers Simple, Footers CTA, Footers Details, Footers Links, Footers Subscribe Form, Footers Sign up for our newsletter",
+    "name": "Footers Simple, Footers Simple with Links, Footers Centered, Footers CTA, Footers Details, Footers Links, Footers CTA & Links, Footers CTA & Links #2, Footers Subscribe Form, Footers Subscribe Form & Links, Footers Sign up for our newsletter",
     "link": "https://merakiui.com/components/footers",
     "category": "Footer",
     "parent": null
@@ -9780,7 +9780,7 @@
     "parent": null
   },
   {
-    "name": "spinner",
+    "name": "Spinner",
     "link": "https://tailwindcomponents.com/component/spinner-1",
     "category": "Loading/Spinner",
     "parent": null
@@ -9816,7 +9816,7 @@
     "parent": null
   },
   {
-    "name": "Modal using label + hidden checkbox, Modal using anchor link, Modal using with a close button at corner, Modal that closes when clicked outside, Modal with custom width, Modal Responsive: Modal goes bottom on mobile screen and goes middle on desktop",
+    "name": "Modal using label + hidden checkbox, Modal using anchor link, Modal using label + hidden checkbox with a close button at corner, Modal that closes when clicked outside, Modal with custom width, Modal Responsive: Modal goes bottom on mobile screen and goes middle on desktop",
     "link": "https://daisyui.com/components/modal",
     "category": "Modal",
     "parent": null
@@ -9858,7 +9858,7 @@
     "parent": null
   },
   {
-    "name": "Modal Default modal, Modal Pop-up modal, Modal Form element, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal JavaScript behaviour",
+    "name": "Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal JavaScript behaviour",
     "link": "https://flowbite.com/docs/components/modal/",
     "category": "Modal",
     "parent": null
@@ -9870,9 +9870,9 @@
     "parent": null
   },
   {
-    "name": "Cart #Popup",
+    "name": "Cart #Contained",
     "link": "https://www.hyperui.dev/components/ecommerce/carts",
-    "category": "Modal",
+    "category": "Other",
     "parent": null
   },
   {
@@ -9960,7 +9960,7 @@
     "parent": null
   },
   {
-    "name": "Modal",
+    "name": "Simple Modal",
     "link": "https://tailwindcomponents.com/component/modal-10",
     "category": "Modal",
     "parent": null
@@ -9996,7 +9996,7 @@
     "parent": null
   },
   {
-    "name": "Modal popup only tailwinnd css",
+    "name": "Tailwind CSS Modal Popup",
     "link": "https://tailwindcomponents.com/component/tailwind-css-modal-popup",
     "category": "Modal",
     "parent": null
@@ -10248,13 +10248,13 @@
     "parent": null
   },
   {
-    "name": "Navbar Default navbar, Navbar Navbar with dropdown, Navbar Multi-level dropdown, Navbar Sticky navbar, Navbar Navbar with submenu, Navbar Navbar with search, Navbar Navbar with CTA button, Navbar Language dropdown, Navbar User menu dropdown, Navbar Mega menu navbar, Navbar Solid background, Navbar JavaScript behaviour",
+    "name": "Navbar Default navbar, Navbar Navbar with dropdown, Navbar Multi-level dropdown, Navbar Sticky navbar, Navbar Navbar with submenu, Navbar Navbar with search, Navbar Navbar with CTA button, Navbar Language dropdown, Navbar User menu dropdown, Navbar Mega menu navbar, Navbar Solid background, Navbar Hamburger menu, Navbar JavaScript behaviour",
     "link": "https://flowbite.com/docs/components/navbar/",
     "category": "Navigation/Header",
     "parent": null
   },
   {
-    "name": "Header #Intro with Actions, Header #Intro with Search and Mini Navigation, Header #Intro with Justified Search and Mini Navigation",
+    "name": "Header #Intro Actions, Header #Intro Actions with Background, Header #Intro with Search and Mini Navigation, Header #Intro with Justified Search and Mini Navigation",
     "link": "https://www.hyperui.dev/components/application-ui/headers",
     "category": "Navigation/Header",
     "parent": null
@@ -11880,7 +11880,7 @@
     "parent": "Page"
   },
   {
-    "name": "Pricing",
+    "name": "Pricing Cards",
     "link": "https://tailwindcomponents.com/component/pricing-2",
     "category": "Pricing",
     "parent": "Page"
@@ -12006,7 +12006,7 @@
     "parent": "Page"
   },
   {
-    "name": "Pricing Sections",
+    "name": "Pricing Section",
     "link": "https://tailwindcomponents.com/component/pricing-sections",
     "category": "Pricing",
     "parent": "Page"
@@ -12180,7 +12180,7 @@
     "parent": "Page"
   },
   {
-    "name": "Testimonials Single, Testimonials Card, Testimonials Centered, Testimonials Slider, Testimonials Full Page, Testimonials Full Page With Slider, Testimonials Sign up for our newsletter",
+    "name": "Testimonials Single, Testimonials Single #2, Testimonials Card, Testimonials Centered, Testimonials Centered #2, Testimonials Slider, Testimonials Full Page, Testimonials Full Page Cards, Testimonials Sign up for our newsletter",
     "link": "https://merakiui.com/components/testimonials",
     "category": "Testimonial",
     "parent": "Page"
@@ -12264,7 +12264,7 @@
     "parent": "Page"
   },
   {
-    "name": "Testimonial UI with TailwindCSS and AlpineJS",
+    "name": "Testimonial UI",
     "link": "https://tailwindcomponents.com/component/testimonial-ui-with-tailwindcss-and-alpinejs",
     "category": "Testimonial",
     "parent": "Page"
@@ -12834,7 +12834,7 @@
     "parent": null
   },
   {
-    "name": "Sidebar New Basic usage, Sidebar New Example, Sidebar New Open current submenu only, Sidebar New Inline menu",
+    "name": "Sidebar Basic usage, Sidebar Example, Sidebar Open current submenu only, Sidebar Inline menu",
     "link": "https://preline.co/docs/sidebar.html",
     "category": "Sidebar",
     "parent": null
@@ -13194,7 +13194,7 @@
     "parent": null
   },
   {
-    "name": "Toggle #Simple",
+    "name": "Toggle #Simple, Toggle #Simple with Icons, Toggle #Material, Toggle #Apple",
     "link": "https://www.hyperui.dev/components/application-ui/toggles",
     "category": "Switch",
     "parent": null
@@ -13692,7 +13692,7 @@
     "parent": null
   },
   {
-    "name": "Table",
+    "name": "Colored Table",
     "link": "https://tailwindcomponents.com/component/table-7",
     "category": "Table",
     "parent": null
@@ -13806,9 +13806,9 @@
     "parent": null
   },
   {
-    "name": "Table",
+    "name": "Table with search inputs",
     "link": "https://tailwindcomponents.com/component/table-2",
-    "category": "Table",
+    "category": "Form",
     "parent": null
   },
   {
@@ -16254,7 +16254,7 @@
     "parent": null
   },
   {
-    "name": "Tailwind CSS hamburger menu",
+    "name": "Tailwind CSS hamburger animation",
     "link": "https://tailwindcomponents.com/component/simple-hamburger-menu-animation",
     "category": "Other",
     "parent": null
@@ -18072,7 +18072,7 @@
     "parent": null
   },
   {
-    "name": "simple menu",
+    "name": "Simple menu",
     "link": "https://tailwindcomponents.com/component/simple-menu",
     "category": "Other",
     "parent": null
@@ -20130,13 +20130,13 @@
     "parent": null
   },
   {
-    "name": "Collapse Basic example, Collapse Horizontal, Collapse Multiple targets, Collapse With Scroll",
+    "name": "Collapse Basic example, Collapse Horizontal, Collapse Multiple targets, Collapse With Scroll, Collapse Usage",
     "link": "https://tailwind-elements.com/docs/standard/components/collapse/",
     "category": "Accordion",
     "parent": null
   },
   {
-    "name": "Alerts Basic examples, Alerts Link color, Alerts Icons, Alerts Additional content, Alerts Dismissing",
+    "name": "Alerts Basic examples, Alerts Link color, Alerts Icons, Alerts Additional content, Alerts Dismissing, Alerts Usage",
     "link": "https://tailwind-elements.com/docs/standard/components/alerts/",
     "category": "Alert/Notification",
     "parent": null
@@ -20154,7 +20154,7 @@
     "parent": null
   },
   {
-    "name": "Toast Basic example, Toast Colors",
+    "name": "Toast Basic example, Toast Colors, Toast Usage",
     "link": "https://tailwind-elements.com/docs/standard/components/toast/",
     "category": "Alert/Notification",
     "parent": null
@@ -20184,13 +20184,13 @@
     "parent": null
   },
   {
-    "name": "Buttons Basic examples, Buttons With ripple, Buttons Colors, Buttons Outline, Buttons Rounded, Buttons Rounded outline, Buttons Floating, Buttons Sizes, Buttons Active states, Buttons Disabled state, Buttons With icon, Buttons Block buttons",
+    "name": "Buttons Basic example, Buttons With ripple, Buttons Hierarchy, Buttons Contextual, Buttons Neutral, Buttons Link, Buttons Outline, Buttons Rounded, Buttons Rounded outline, Buttons Floating, Buttons Sizes, Buttons Active state, Buttons Disabled state, Buttons With icon, Buttons Block buttons, Buttons Usage",
     "link": "https://tailwind-elements.com/docs/standard/components/buttons/",
     "category": "Button",
     "parent": null
   },
   {
-    "name": "Dropdown Basic example, Dropdown Colors, Dropdown Sizing, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Menu item disable, Dropdown Menu item header, Dropdown Menu items divider, Dropdown Menu item text, Dropdown Dark dropdowns",
+    "name": "Dropdown Basic example, Dropdown Colors, Dropdown Sizing, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Menu item disable, Dropdown Menu item header, Dropdown Menu items divider, Dropdown Menu item text, Dropdown Usage",
     "link": "https://tailwind-elements.com/docs/standard/components/dropdown/",
     "category": "Dropdown",
     "parent": null
@@ -20202,7 +20202,7 @@
     "parent": null
   },
   {
-    "name": "List group Basic example, List group Active items, List group Disabled items, List group Links, List group Flush",
+    "name": "List group Basic example, List group Active items, List group Disabled items, List group Links",
     "link": "https://tailwind-elements.com/docs/standard/components/listgroup/",
     "category": "List",
     "parent": null
@@ -20214,13 +20214,13 @@
     "parent": null
   },
   {
-    "name": "Pills Basic example, Pills Fill, Pills Justify, Pills Vertical",
+    "name": "Pills Basic example, Pills Fill, Pills Justify, Pills Vertical, Pills Color options, Pills Usage",
     "link": "https://tailwind-elements.com/docs/standard/navigation/pills/",
     "category": "Tags",
     "parent": null
   },
   {
-    "name": "Tabs Basic example, Tabs Fill, Tabs Justify, Tabs Vertical",
+    "name": "Tabs Basic example, Tabs Fill, Tabs Justify, Tabs Vertical, Tabs Color options, Tabs Usage",
     "link": "https://tailwind-elements.com/docs/standard/navigation/tabs/",
     "category": "Tab",
     "parent": null
@@ -20244,7 +20244,7 @@
     "parent": null
   },
   {
-    "name": "Carousel Basic example, Carousel Slides only, Carousel With controls, Carousel With indicators, Carousel Crossfade, Carousel Dark variant",
+    "name": "Carousel Basic example, Carousel Slides only, Carousel With controls, Carousel With indicators, Carousel Crossfade, Carousel Dark variant, Carousel Usage",
     "link": "https://tailwind-elements.com/docs/standard/components/carousel/",
     "category": "Slider/Carousel",
     "parent": null
@@ -20262,19 +20262,19 @@
     "parent": null
   },
   {
-    "name": "Datepicker Basic example, Datepicker Input toggle, Datepicker Custom toggle icon",
+    "name": "Datepicker Basic example, Datepicker Input toggle, Datepicker Custom toggle icon, Datepicker Usage",
     "link": "https://tailwind-elements.com/docs/standard/forms/datepicker/",
     "category": "Date/Time",
     "parent": null
   },
   {
-    "name": "Timepicker Basic example, Timepicker Input toggle, Timepicker Custom toggle icon",
+    "name": "Timepicker Basic example, Timepicker Usage",
     "link": "https://tailwind-elements.com/docs/standard/forms/timepicker/",
     "category": "Date/Time",
     "parent": null
   },
   {
-    "name": "Popover Basic example, Popover Four directions, Popover Dismiss on next click, Popover Disabled",
+    "name": "Popover Basic example, Popover Four directions, Popover Dismiss on next click, Popover Disabled, Popover Usage",
     "link": "https://tailwind-elements.com/docs/standard/components/popover/",
     "category": "Dropdown",
     "parent": null
@@ -20286,9 +20286,9 @@
     "parent": null
   },
   {
-    "name": "Select Basic, Select Sizing, Select Disabled",
+    "name": "Select with search inside a modal",
     "link": "https://tailwind-elements.com/docs/standard/forms/select/",
-    "category": "Dropdown",
+    "category": "Modal",
     "parent": null
   },
   {
@@ -20316,7 +20316,7 @@
     "parent": "Form"
   },
   {
-    "name": "Inputs Basic example, Inputs Sizing, Inputs Disabled, Inputs Readonly, Inputs Text, Inputs Email, Inputs Password, Inputs Number, Inputs Phone number, Inputs URL, Inputs Textarea, Inputs Helper text, Inputs Floating label",
+    "name": "Inputs Basic example, Inputs Sizing, Inputs Disabled, Inputs Readonly, Inputs Text, Inputs Email, Inputs Password, Inputs Number, Inputs Phone number, Inputs URL, Inputs Textarea, Inputs Helper text, Inputs Character counter, Inputs Floating label, Inputs Classes, Inputs Methods",
     "link": "https://tailwind-elements.com/docs/standard/forms/inputs/",
     "category": "Form",
     "parent": null
@@ -20346,7 +20346,7 @@
     "parent": null
   },
   {
-    "name": "Modal Simple notification, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Sizes, Modal Fullscreen modal",
+    "name": "Modal Simple notification, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Sizes, Modal Positions, Modal Fullscreen modal",
     "link": "https://tailwind-elements.com/docs/standard/components/modal/",
     "category": "Modal",
     "parent": null
@@ -20376,7 +20376,7 @@
     "parent": "Page"
   },
   {
-    "name": "Pagination Basic example, Pagination Icons, Pagination Disabled and active states, Pagination Sizing, Pagination Shape",
+    "name": "Pagination Basic example, Pagination Icons, Pagination Disabled and active states, Pagination Alignment, Pagination Sizing, Pagination Shape, Pagination Color options",
     "link": "https://tailwind-elements.com/docs/standard/navigation/pagination/",
     "category": "Pagination",
     "parent": null
@@ -20388,13 +20388,13 @@
     "parent": null
   },
   {
-    "name": "Sidenav Basic example, Sidenav Example with icons, Sidenav Collapsible items example, Sidenav Advanced example",
+    "name": "Sidenav Basic example, Sidenav Positioning, Sidenav Dark, Sidenav Slim, Sidenav Groups, Sidenav Right, Sidenav Full-screen examples, Sidenav Basic side navigation, Sidenav Side navigation with a mode transition, Sidenav Slim side navigation (dark), Sidenav TE Navigation, Sidenav small and with categories, Sidenav Usage",
     "link": "https://tailwind-elements.com/docs/standard/navigation/sidenav/",
     "category": "Sidebar",
     "parent": null
   },
   {
-    "name": "Stepper Basic example, Stepper Vertical stepper",
+    "name": "Stepper Basic example, Stepper Vertical stepper, Stepper Usage",
     "link": "https://tailwind-elements.com/docs/standard/components/stepper/",
     "category": "Step",
     "parent": null
@@ -20412,13 +20412,13 @@
     "parent": null
   },
   {
-    "name": "Chips Basic example, Chips Sizing, Chips Outline",
+    "name": "Chips Outline, Chips Placeholder, Chips Initial Value, Chips Content editable, Chips Usage",
     "link": "https://tailwind-elements.com/docs/standard/components/chips/",
     "category": "Tags",
     "parent": null
   },
   {
-    "name": "Tooltip Basic example, Tooltip Four directions, Tooltip With custom HTML, Tooltip Disabled",
+    "name": "Tooltip Basic example, Tooltip Four directions, Tooltip With custom HTML, Tooltip Disabled, Tooltip Usage",
     "link": "https://tailwind-elements.com/docs/standard/components/tooltip/",
     "category": "Tooltips",
     "parent": null
@@ -20496,20 +20496,2660 @@
     "parent": null
   },
   {
-    "name": "Video Responsive video 21:9, Video Responsive video 16:9, Video Responsive video 4:3, Video Responsive video 1:1, Video iframe",
+    "name": "Video Responsive video 21:9, Video Responsive video 16:9, Video Responsive video 4:3, Video Responsive video 1:1, Video iframe, Video with autoplay option, Video hover to play",
     "link": "https://tailwind-elements.com/docs/standard/components/video/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Scrollspy Basic example",
+    "name": "Scrollspy Basic example, Scrollspy Usage",
     "link": "https://tailwind-elements.com/docs/standard/navigation/scrollspy/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Ripple Basic example, Ripple Image, Ripple Colors, Ripple Duration, Ripple Centered, Ripple Unbound, Ripple Radius",
+    "name": "Ripple Basic example, Ripple Image, Ripple Colors, Ripple Duration, Ripple Centered, Ripple Unbound, Ripple Radius, Ripple Usage",
     "link": "https://tailwind-elements.com/docs/standard/methods/ripple/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Snackbar",
+    "link": "https://mambaui.com/components/snackbar",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Email Templates Invite, Email Templates Verification, Email Templates Welcome, Email Templates Welcome with Video, Email Templates News",
+    "link": "https://merakiui.com/components/email-templates",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Notifications Card - Horizon UI Tailwind",
+    "link": "https://tailwindcomponents.com/component/notifications-card-horizon-ui-tailwind",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Alert Colors",
+    "link": "https://tailwindcomponents.com/component/alert-colors",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Alert",
+    "link": "https://tailwindcomponents.com/component/alert-3",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Alert Variants",
+    "link": "https://tailwindcomponents.com/component/alert-variants",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Alert with Icon",
+    "link": "https://tailwindcomponents.com/component/alert-with-icon",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Alert Dismissible",
+    "link": "https://tailwindcomponents.com/component/alert-dismissible",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Message notification",
+    "link": "https://tailwindcomponents.com/component/message-notification",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Upload notification",
+    "link": "https://tailwindcomponents.com/component/upload-notification",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Notification Component",
+    "link": "https://tailwindcomponents.com/component/notification-component",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Avatar",
+    "link": "https://mambaui.com/components/avatar",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": "Avatars Sign up for our newsletter",
+    "link": "https://merakiui.com/components/avatars",
+    "category": "Register",
+    "parent": "Form"
+  },
+  {
+    "name": "Tables Simple, Tables Invoices, Tables Files, Tables Empty",
+    "link": "https://merakiui.com/components/tables",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Avatar Variants",
+    "link": "https://tailwindcomponents.com/component/avatar-variants",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Avatar Sizes",
+    "link": "https://tailwindcomponents.com/component/avatar-sizes",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Avatar",
+    "link": "https://tailwindcomponents.com/component/avatar-1",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": "Indicators Default indicator, Indicators Legend indicator, Indicators Indicator count, Indicators Status indicator, Indicators Indicator position",
+    "link": "https://flowbite.com/docs/components/indicators/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Stepper Default stepper, Stepper Detailed stepper, Stepper Vertical stepper, Stepper Timeline stepper",
+    "link": "https://flowbite.com/docs/components/stepper/",
+    "category": "Step",
+    "parent": null
+  },
+  {
+    "name": "Breadcrumb",
+    "link": "https://mambaui.com/components/breadcrumb",
+    "category": "Breadcrumb",
+    "parent": null
+  },
+  {
+    "name": "Bottom Navigation Default bottom navigation, Bottom Navigation Menu items with border, Bottom Navigation Application bar example, Bottom Navigation Example with pagination, Bottom Navigation Online meeting control bar, Bottom Navigation Video player bar",
+    "link": "https://flowbite.com/docs/components/bottom-navigation/",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Speed Dial Default speed dial, Speed Dial Square speed dial, Speed Dial Alternative menu, Speed Dial Positioning, Speed Dial Alignment, Speed Dial Triggering, Speed Dial JavaScript behaviour",
+    "link": "https://flowbite.com/docs/components/speed-dial/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Button",
+    "link": "https://mambaui.com/components/button",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Hover button scale effect",
+    "link": "https://tailwindcomponents.com/component/hover-button-scale-effect",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Simple Button",
+    "link": "https://tailwindcomponents.com/component/simple-button-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Floating Button",
+    "link": "https://tailwindcomponents.com/component/floating-button",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Blue",
+    "link": "https://tailwindcomponents.com/component/button-10",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-2",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo  - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple  - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Just Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-just-icon-3",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Just Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-just-icon-2",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Just Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-just-icon-3",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Just Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-just-icon-2",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Just Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-just-icon-3",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Just Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-just-icon-3",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Large Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-large-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Large Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-large-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Large Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-large-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Just Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-just-icon-2",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Large Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-large-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Large with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-large-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Large Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-large-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Large Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-large-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Large Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-large-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Large Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-large-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Large with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-large-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Large with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-large-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Large with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-large-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Large with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-large-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Large with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-large-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Just text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-just-icon-2",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-just-icon-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Just text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-just-icon-2",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Large with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-large-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Just text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-just-icon-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Just text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-just-icon-2",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Regular Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-regular-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Just text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-just-icon-2",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Regular Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-regular-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Just text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-just-icon-2",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-regular-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-regular-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Regular with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-regular-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Regular Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-regular-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Regular with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-regular-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Regular with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-regular-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Regular with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-regular-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Regular with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-regular-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Regular with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-regular-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Regular with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-regular-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Regular with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-regular-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Small Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-small-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Small Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-small-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Regular with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-regular-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Small Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-small-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Small Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-small-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Small Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-small-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Small Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-small-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Small Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-small-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Small Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-small-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Small Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-small-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Small Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-small-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Small Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-small-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Small Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-small-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Small Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-small-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Small with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-small-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Small Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-small-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Small with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-small-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Small Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-small-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Small with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-small-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Small with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-small-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Small with text and icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-small-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Round with icons and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-round-with-icons-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Small with text and icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-small-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Small with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-small-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Round with icons",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-round-with-icons-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Round with icons",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-round-with-icons-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Round with icons",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-round-with-icons-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Round with icons",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-round-with-icons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Round with icons",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-round-with-icons-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-round-with-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-round-with-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-round-with-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-round-with-icons-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-round-with-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Round with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-round-with-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-round-with-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-round-with-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-round-with-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Round with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-round-with-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Round with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-round-with-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Just icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-round-with-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Just icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-round-with-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Round with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-round-with-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber -  Just icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-round-with-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Just icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-round-with-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-just-icon-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-just-icon-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-just-icon-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-just-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-just-icon-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-just-icon-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-just-icon-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-icon-and-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-only-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-only-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-only-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Only Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-only-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-only-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-only-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Round with icons",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-round-with-icons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Only Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-only-text-1",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Round with icons",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-round-with-icons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Round with icons",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-round-with-icons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Round with icons and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-round-with-icons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Round with icons and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-round-with-icons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Round with icons and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-round-with-icons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Round with icons and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-round-with-icons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Round with icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-round-with-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Round with icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-round-with-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Round with icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-round-with-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Round with icon and text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-round-with-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-round-with-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-round-with-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-round-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-round-with-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-round-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-round-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-round-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Round with text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-round-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Squared with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-round-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Squared with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-round-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Squared with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-just-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Squared with icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-round-with-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Just Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-just-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Just Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-just-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Just Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-just-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-just-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Just Icon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-just-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-just-icon",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Icon and Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Pink - Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-pink-icon-and-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Purple - Only Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-purple-only-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Indigo - Only Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-indigo-only-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Orange - Only Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-orange-only-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Teal - Only Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-teal-only-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Amber - Only Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-amber-only-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Emerald - Only Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-emerald-only-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Red - Only Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-red-only-text",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Social Button Group Column",
+    "link": "https://tailwindcomponents.com/component/social-button-group-column",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Switch Button",
+    "link": "https://tailwindcomponents.com/component/switch-button",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS button hover animation",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-button-hover-animation",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Button - Background Hover Animation",
+    "link": "https://tailwindcomponents.com/component/button-background-hover-animation",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Card with Action Buttons",
+    "link": "https://tailwindcomponents.com/component/card-action",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Group buttons",
+    "link": "https://tailwindcomponents.com/component/group-buttons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS hover button effect",
+    "link": "https://tailwindcomponents.com/component/hover-button-effect",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Button Processing",
+    "link": "https://tailwindcomponents.com/component/button-processing",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Input Group Basic example, Input Group Wrapping, Input Group Sizing, Input Group Checkboxes and radios, Input Group Multiple inputs, Input Group Multiple addons, Input Group Floating label",
+    "link": "https://tailwind-elements.com/docs/standard/forms/input-group/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": " With button",
+    "link": "https://tailwindui.com/components/preview#component-8904b9d9a9fbb9a2313df3975112f9d7",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Call to action",
+    "link": "https://mambaui.com/components/call-to-action",
+    "category": "Call to Action",
+    "parent": null
+  },
+  {
+    "name": "Collection Card #Simple, Collection Card #Simple with Image Swap, Collection Card #Content Inside, Collection Card #Content Inside with Image Swap",
+    "link": "https://www.hyperui.dev/components/ecommerce/collection-cards",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Product Card #Simple, Product Card #Simple with Variant Count, Product Card #Simple with Description, Product Card #Simple (Rounded), Product Card #With Color Variants, Product Card #Contained Sections with Wishlist",
+    "link": "https://www.hyperui.dev/components/ecommerce/product-cards",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Card",
+    "link": "https://mambaui.com/components/card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Inputs Sign up for our newsletter",
+    "link": "https://merakiui.com/components/inputs",
+    "category": "Register",
+    "parent": "Form"
+  },
+  {
+    "name": "Tailwind CSS Food Card",
+    "link": "https://tailwindcomponents.com/component/food-card-1",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Jobs Card",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-open-cards",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Profile Information Card - Horizon UI Tailwind",
+    "link": "https://tailwindcomponents.com/component/profile-information-card-horizon-ui-tailwind",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Profile Card - Horizon UI Tailwind",
+    "link": "https://tailwindcomponents.com/component/profile-card-horizon-ui-tailwind",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Product Card",
+    "link": "https://tailwindcomponents.com/component/product-card-12",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Job Board Card",
+    "link": "https://tailwindcomponents.com/component/card-design-for-a-job-board",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Card Slate",
+    "link": "https://tailwindcomponents.com/component/card-slate-version-light",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Social Media Bio Card",
+    "link": "https://tailwindcomponents.com/component/social-media-bio-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Price Card",
+    "link": "https://tailwindcomponents.com/component/card-price-responsive",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Modern Dark Gradient Card",
+    "link": "https://tailwindcomponents.com/component/gradient-card-1",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Reddit Card",
+    "link": "https://tailwindcomponents.com/component/reddit-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Blog card",
+    "link": "https://tailwindcomponents.com/component/blog-card-1",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Animated Gradient Bordered Card",
+    "link": "https://tailwindcomponents.com/component/gradient-bordered-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Blog Card",
+    "link": "https://tailwindcomponents.com/component/maede",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Card hover effect",
+    "link": "https://tailwindcomponents.com/component/card-hover-effect",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Yugioh card",
+    "link": "https://tailwindcomponents.com/component/yugioh-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Customer card",
+    "link": "https://tailwindcomponents.com/component/customer-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Github Card",
+    "link": "https://tailwindcomponents.com/component/card-github",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS E-commerce Product card",
+    "link": "https://tailwindcomponents.com/component/e-commerce-product-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Task Cards",
+    "link": "https://tailwindcomponents.com/component/task-cards",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Blog Card",
+    "link": "https://tailwindcomponents.com/component/blog-card-page",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Review #Overall Statistic with Reviews Grid",
+    "link": "https://www.hyperui.dev/components/ecommerce/reviews",
+    "category": "Dashboard Widgets",
+    "parent": null
+  },
+  {
+    "name": "Gallery Default gallery, Gallery Masonry grid, Gallery Featured image, Gallery Quad gallery",
+    "link": "https://flowbite.com/docs/components/gallery/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Carousel",
+    "link": "https://mambaui.com/components/carousel",
+    "category": "Slider/Carousel",
+    "parent": null
+  },
+  {
+    "name": "Slider",
+    "link": "https://mambaui.com/components/slider",
+    "category": "Slider/Carousel",
+    "parent": null
+  },
+  {
+    "name": "Cookies Card, Cookies Card #2, Cookies Banner, Cookies Banner with Action Buttons, Cookies Full Width, Cookies Full Width with Action Buttons, Cookies Sign up for our newsletter",
+    "link": "https://merakiui.com/components/cookies",
+    "category": "Cookies",
+    "parent": null
+  },
+  {
+    "name": "Cookie Card",
+    "link": "https://tailwindcomponents.com/component/cookie-card",
+    "category": "Cookies",
+    "parent": null
+  },
+  {
+    "name": "Cookie Banner with Action Buttons",
+    "link": "https://tailwindcomponents.com/component/cookie-banner-with-action-buttons",
+    "category": "Cookies",
+    "parent": null
+  },
+  {
+    "name": "Collection Filter #Inline Dropdown, Collection Filter #Stacked Dropdown",
+    "link": "https://www.hyperui.dev/components/ecommerce/collection-filters",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Menu Drop Down",
+    "link": "https://tailwindcomponents.com/component/menu-1",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": " With stacked flyout menu",
+    "link": "https://tailwindui.com/components/preview#component-27e5f71ced91b88e3f6b59ca69033a83",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Banner Default sticky banner, Banner Bottom banner position, Banner Marketing CTA banner, Banner Integration is the key",
+    "link": "https://flowbite.com/docs/components/banner/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Quantity Input #Simple, Quantity Input #No Spinners, Quantity Input #No Spinners + Centered, Quantity Input #Contained, Quantity Input #Bordered",
+    "link": "https://www.hyperui.dev/components/ecommerce/quantity-inputs",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Form",
+    "link": "https://mambaui.com/components/form",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Input",
+    "link": "https://mambaui.com/components/input",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Error Input with Message",
+    "link": "https://tailwindcomponents.com/component/error-input-with-message",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Search with Custom Input",
+    "link": "https://tailwindcomponents.com/component/search-with-custom-input",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Group label and input",
+    "link": "https://tailwindcomponents.com/component/group-label-and-input",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Reset password form",
+    "link": "https://tailwindcomponents.com/component/reset-password-form",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "OTP Form",
+    "link": "https://tailwindcomponents.com/component/otp-form",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Responsive Form",
+    "link": "https://tailwindcomponents.com/component/responsiveform",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Typography Headings, Typography Customizing headings, Typography Display headings, Typography Lead, Typography Inline text elements, Typography Blockquotes, Typography Text alignment, Typography Text wrapping and overflow, Typography Text nowrap, Typography Font weight and italics, Typography Line height",
+    "link": "https://tailwind-elements.com/docs/standard/content-styles/typography/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Contact",
+    "link": "https://mambaui.com/components/contact",
+    "category": "Contact",
+    "parent": "Form"
+  },
+  {
+    "name": "Login",
+    "link": "https://mambaui.com/components/login",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Sign in and Registration Sign In Card, Sign in and Registration Sign In Card with Social Media Links, Sign in and Registration Sign In Card With Side Image, Sign in and Registration Sign Up Page, Sign in and Registration Sign In Page, Sign in and Registration Sign In Page with Select User, Sign in and Registration Sign In Page with Socail Media Links, Sign in and Registration Sign In Page With Image, Sign in and Registration Sign Up Page with Side Image, Sign in and Registration Sign up for our newsletter",
+    "link": "https://merakiui.com/components/sign-in-and-registration",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Tailwind CSS Login Page",
+    "link": "https://tailwindcomponents.com/component/login-page-18",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Minimal login form",
+    "link": "https://tailwindcomponents.com/component/minimal-login-form-2",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Custom next auth login form",
+    "link": "https://tailwindcomponents.com/component/custom-nextauth-login-page",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Login Page Glass Effect and Background image",
+    "link": "https://tailwindcomponents.com/component/login-page-glass-effect-and-background-image",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Login form",
+    "link": "https://tailwindcomponents.com/component/login-form-24",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Login Form",
+    "link": "https://tailwindcomponents.com/component/login-to-your-account",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Responsive Login Page",
+    "link": "https://tailwindcomponents.com/component/leetcode-login-page-responsive",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Login form Basic example, Login form v.2, Login form v.3",
+    "link": "https://tailwind-elements.com/docs/standard/forms/login-form/",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Skeleton Card, Skeleton Header with paragraph, Skeleton Grid 3x with header, Skeleton Grid 4x2 with header, Skeleton Grid 4x2 Rounded full with header",
+    "link": "https://merakiui.com/components/skeleton",
+    "category": "Skeleton",
+    "parent": null
+  },
+  {
+    "name": "Tooltip Bottom Requires JS, Tooltip Top Requires JS, Tooltip Left Requires JS, Tooltip Right Requires JS, Tooltip Top Center Requires JS, Tooltip Top Left Requires JS, Tooltip Top Right Requires JS",
+    "link": "https://merakiui.com/components/tooltip",
+    "category": "Tooltips",
+    "parent": null
+  },
+  {
+    "name": "404 Pages Simple, 404 Pages Links, 404 Pages Centered, 404 Pages Centered with Links, 404 Pages Image, 404 Pages Image with Links, 404 Pages Illustration",
+    "link": "https://merakiui.com/components/404-pages",
+    "category": "404",
+    "parent": "Page"
+  },
+  {
+    "name": "Tailwind CSS Admin Signup Form",
+    "link": "https://tailwindcomponents.com/component/admin-signup-form",
+    "category": "Register",
+    "parent": "Form"
+  },
+  {
+    "name": "Tailwind CSS & Alpine.js Sign up with illustration",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-alpinejs-sign-up-with-illustration",
+    "category": "Register",
+    "parent": "Form"
+  },
+  {
+    "name": "Tailwind CSS & Alpine.js Sign up full page",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-alpinejs-sign-up-full-page",
+    "category": "Register",
+    "parent": "Form"
+  },
+  {
+    "name": "Tailwind CSS & Alpine.js Sign up",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-alpinejs-sign-up",
+    "category": "Register",
+    "parent": "Form"
+  },
+  {
+    "name": "Registration form Basic example, Registration form v.2, Registration form v.3",
+    "link": "https://tailwind-elements.com/docs/standard/forms/registration-form/",
+    "category": "Register",
+    "parent": "Form"
+  },
+  {
+    "name": "Table with Filter and Search",
+    "link": "https://tailwindcomponents.com/component/table-with-filter-and-search",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Simple Search",
+    "link": "https://tailwindcomponents.com/component/search-simple",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Image upload box with preview",
+    "link": "https://tailwindcomponents.com/component/image-upload-box-with-preview",
+    "category": "Upload",
+    "parent": "Form"
+  },
+  {
+    "name": "Chat bubble New chat-start and chat-end, Chat bubble New Chat with image, Chat bubble New Chat Bubble with colors",
+    "link": "https://daisyui.com/components/chat",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Footer",
+    "link": "https://mambaui.com/components/footer",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": " Stacked with footer actions",
+    "link": "https://tailwindui.com/components/preview#component-911576fb54922e5199a9434ca8a273fd",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": "Hero",
+    "link": "https://mambaui.com/components/hero",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Business Hero Header",
+    "link": "https://tailwindcomponents.com/component/eye-catching-business-hero-header-with-tailwind-css",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "Hero section with right image",
+    "link": "https://tailwindcomponents.com/component/hero-section-with-right-image",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "Hero section",
+    "link": "https://tailwindcomponents.com/component/hero-section-3",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Hero section",
+    "link": "https://tailwindcomponents.com/component/hero-section-2",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "Loading",
+    "link": "https://mambaui.com/components/loading",
+    "category": "Loading/Spinner",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Loading Animation",
+    "link": "https://tailwindcomponents.com/component/animacion-de-carga",
+    "category": "Loading/Spinner",
+    "parent": null
+  },
+  {
+    "name": "Modal",
+    "link": "https://mambaui.com/components/modal",
+    "category": "Modal",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Profile Modal",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-profile-modal",
+    "category": "Modal",
+    "parent": null
+  },
+  {
+    "name": "Modal Window",
+    "link": "https://tailwindcomponents.com/component/modal-window",
+    "category": "Modal",
+    "parent": null
+  },
+  {
+    "name": "Header",
+    "link": "https://mambaui.com/components/header",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Simple Navbar",
+    "link": "https://tailwindcomponents.com/component/arti-mehra",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Ecommerce Navbar",
+    "link": "https://tailwindcomponents.com/component/ecommerce-navbar-1",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Dashboard Navigation",
+    "link": "https://tailwindcomponents.com/component/dashboard-navigation",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Headers Jumbotron, Headers Background image",
+    "link": "https://tailwind-elements.com/docs/standard/navigation/headers/",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Neon Landing Page",
+    "link": "https://tailwindcomponents.com/component/neon-landing-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Shopping Cart Page",
+    "link": "https://tailwindcomponents.com/component/shopping-cart-responsive",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Mobile Landing Page",
+    "link": "https://tailwindcomponents.com/component/mobile-landing-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Subscription Page",
+    "link": "https://tailwindcomponents.com/component/subscription-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS FAQ page",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-faq-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS FAQ page - Q&A",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-faq-page-qa",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS 500 Server error - full page",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-500-server-error-full-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Maintenance page",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-maintenance-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS & Alpine.js  Profile page",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-alpinejs-profile-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "SAAS Landing Page #2",
+    "link": "https://tailwindcomponents.com/component/saas-landing-page-2",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Coming Soon Page",
+    "link": "https://tailwindcomponents.com/component/coming-soon-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "SAAS Landing Page",
+    "link": "https://tailwindcomponents.com/component/saas-landing-page",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Astrolus Landing page",
+    "link": "https://tailus.gumroad.com/l/astrolus",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Illustration 404 Pages",
+    "link": "https://tailwindcomponents.com/component/illustration-404-pages",
+    "category": "404",
+    "parent": "Page"
+  },
+  {
+    "name": "Tailwind CSS 404 Page not found - full page",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-404-page-not-found-full-page",
+    "category": "404",
+    "parent": "Page"
+  },
+  {
+    "name": "Tailwind CSS 404 Page not found - illustration",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-404-page-not-found-with-illustration",
+    "category": "404",
+    "parent": "Page"
+  },
+  {
+    "name": "Tailwind CSS 404 Page not found",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-404-page-not-found",
+    "category": "404",
+    "parent": "Page"
+  },
+  {
+    "name": "Pricing",
+    "link": "https://mambaui.com/components/pricing",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Tailwind CSS & Alpine.js Pricing page",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-alpinejs-pricing-page",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Testimonial",
+    "link": "https://mambaui.com/components/testimonial",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Pagination",
+    "link": "https://mambaui.com/components/pagination",
+    "category": "Pagination",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS pagination",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-pagination-2",
+    "category": "Pagination",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Pagination Gradient",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-pagination-gradient",
+    "category": "Pagination",
+    "parent": null
+  },
+  {
+    "name": "Pagination",
+    "link": "https://tailwindcomponents.com/component/pagination-3",
+    "category": "Pagination",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Progress Bar",
+    "link": "https://tailwindcomponents.com/component/progress-bar-ui-design",
+    "category": "Progress Bar",
+    "parent": null
+  },
+  {
+    "name": "Skeleton loader",
+    "link": "https://mambaui.com/components/skeleton-loader",
+    "category": "Skeleton",
+    "parent": null
+  },
+  {
+    "name": "Card Skeleton",
+    "link": "https://tailwindcomponents.com/component/card-skeleton",
+    "category": "Skeleton",
+    "parent": null
+  },
+  {
+    "name": "Sidebar",
+    "link": "https://mambaui.com/components/sidebar",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Sidebar menu",
+    "link": "https://tailwindcomponents.com/component/sidebar-menu-4",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Animated Drawer",
+    "link": "https://tailwindcomponents.com/component/animated-drawer-without-js",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Floating Sidebar",
+    "link": "https://tailwindcomponents.com/component/floating-side-bar",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Sidebar Menu",
+    "link": "https://tailwindcomponents.com/component/sidebar-menu-1",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Responsive Sidebar Layout",
+    "link": "https://tailwindcomponents.com/component/responsive-sidebar-layout-2",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Steps",
+    "link": "https://mambaui.com/components/steps",
+    "category": "Step",
+    "parent": null
+  },
+  {
+    "name": "Toggle",
+    "link": "https://mambaui.com/components/toggle",
+    "category": "Switch",
+    "parent": null
+  },
+  {
+    "name": "Dark Mode Toggle Switch",
+    "link": "https://tailwindcomponents.com/component/dark-mode-toggle-switch",
+    "category": "Switch",
+    "parent": null
+  },
+  {
+    "name": "Dark mode Introduction, Dark mode Enabling dark mode",
+    "link": "https://tailwind-elements.com/docs/standard/getting-started/dark-mode/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tooltip Components",
+    "link": "https://tailwindcomponents.com/component/tooltip-components",
+    "category": "Tooltips",
+    "parent": null
+  },
+  {
+    "name": "Table",
+    "link": "https://mambaui.com/components/table",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Invoice Table",
+    "link": "https://tailwindcomponents.com/component/invoice-table-1",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Multi-line Table",
+    "link": "https://tailwindcomponents.com/component/multi-line-table",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Striped Table",
+    "link": "https://tailwindcomponents.com/component/striped-table-1",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Hoverable Table",
+    "link": "https://tailwindcomponents.com/component/hoverable-table",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Celsius to Fahrenheit conversion table",
+    "link": "https://tailwindcomponents.com/component/celsius-to-fahrenheit-conversion-table-resopnsive",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Tables Basic example, Tables Variants, Tables Striped, Tables Hoverable, Tables Bordered, Tables Borderless, Tables Small, Tables Light Head, Tables Dark Head, Tables Always responsive",
+    "link": "https://tailwind-elements.com/docs/standard/data/tables/",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS tasks list",
+    "link": "https://tailwindcomponents.com/component/tasks-list",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Tabs",
+    "link": "https://mambaui.com/components/tab",
+    "category": "Tab",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Material 3 Tabs",
+    "link": "https://tailwindcomponents.com/component/material-3-tabs",
+    "category": "Tab",
+    "parent": null
+  },
+  {
+    "name": "Animated tabs",
+    "link": "https://tailwindcomponents.com/component/pure-css-animated-tabs",
+    "category": "Tab",
+    "parent": null
+  },
+  {
+    "name": "Full width Tab",
+    "link": "https://tailwindcomponents.com/component/full-width-tab",
+    "category": "Tab",
+    "parent": null
+  },
+  {
+    "name": "Tabs - Simple Tabs, Tabs - Simple Tabs disabled, Tabs - Simple Tabs underline",
+    "link": "https://www.tailwind-kit.com/components/tabs",
+    "category": "Tab",
+    "parent": null
+  },
+  {
+    "name": "Timeline",
+    "link": "https://mambaui.com/components/timeline",
+    "category": "Timeline",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Timeline",
+    "link": "https://tailwindcomponents.com/component/time-line",
+    "category": "Timeline",
+    "parent": null
+  },
+  {
+    "name": "Vertical Timeline",
+    "link": "https://tailwindcomponents.com/component/vertical-timeline-1",
+    "category": "Timeline",
+    "parent": null
+  },
+  {
+    "name": "Featured Section #Collection with Products, Featured Section #Collections Grid",
+    "link": "https://www.hyperui.dev/components/ecommerce/featured-sections",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Article",
+    "link": "https://mambaui.com/components/article",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Banner",
+    "link": "https://mambaui.com/components/banner",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Blog",
+    "link": "https://mambaui.com/components/blog",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Error",
+    "link": "https://mambaui.com/components/error",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Faq",
+    "link": "https://mambaui.com/components/faq",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Feature",
+    "link": "https://mambaui.com/components/feature",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Gallery",
+    "link": "https://mambaui.com/components/gallery",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "News",
+    "link": "https://mambaui.com/components/news",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Profile",
+    "link": "https://mambaui.com/components/profile",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Review",
+    "link": "https://mambaui.com/components/review",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shopping cart",
+    "link": "https://mambaui.com/components/shopping-cart",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Stats",
+    "link": "https://mambaui.com/components/stats",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Team",
+    "link": "https://mambaui.com/components/team",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Weather",
+    "link": "https://mambaui.com/components/weather",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Static Icons New Types, Static Icons New Sizes, Static Icons New Color variants, Static Icons New Solid color variants, Static Icons New Outline color variants, Static Icons New Ghost color variants, Static Icons New Soft color variants, Static Icons New Soft-Outlined color variants, Static Icons New Shape, Static Icons New Circular Icon",
+    "link": "https://preline.co/docs/static-icons.html",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Github UI Component",
+    "link": "https://tailwindcomponents.com/component/github-ui",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Github History",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-github-history",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Blog Section",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-sigup-form",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Admin Panel",
+    "link": "https://tailwindcomponents.com/component/admin-panel-basic-template",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Add block text editor",
+    "link": "https://tailwindcomponents.com/component/add-block-text-editor",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Password and confirm validation",
+    "link": "https://tailwindcomponents.com/component/password-and-confirm-validation",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Cart Icon",
+    "link": "https://tailwindcomponents.com/component/cart-icon-1",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Gmail Replica",
+    "link": "https://tailwindcomponents.com/component/gmailkit",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Word Animation",
+    "link": "https://tailwindcomponents.com/component/word-animation",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Typography Colors",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-typography-colors",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS small text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-small-text",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Headings",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-headings",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Lead Text",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-lead-text",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Typography Gradient Color",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-typography-gradient-color",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Paragraph",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-paragraph",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Example Grid 8 x 4",
+    "link": "https://tailwindcomponents.com/component/example-grid-8-x-4",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Cluster Status",
+    "link": "https://tailwindcomponents.com/component/cluster-status",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Profile Bio",
+    "link": "https://tailwindcomponents.com/component/profile-bio",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Snippet variants",
+    "link": "https://tailwindcomponents.com/component/snippet",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shopping Cart Products Responsive",
+    "link": "https://tailwindcomponents.com/component/sopping-cart",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Cart Icon",
+    "link": "https://tailwindcomponents.com/component/cart-icon",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Payment QR Scan",
+    "link": "https://tailwindcomponents.com/component/payment-scan",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "FAQ Component with Details Summary Open Animation",
+    "link": "https://tailwindcomponents.com/component/faq-component-with-details-summary-open-animation",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Password show and hide with Alpine JS",
+    "link": "https://tailwindcomponents.com/component/password-show-and-hide-with-alpine-js",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Book Design",
+    "link": "https://tailwindcomponents.com/component/carte",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Bar chart",
+    "link": "https://tailwindcomponents.com/component/bar-chart",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Line chart",
+    "link": "https://tailwindcomponents.com/component/line-chart",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Pie chart",
+    "link": "https://tailwindcomponents.com/component/pie-chart",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Doughnut chart",
+    "link": "https://tailwindcomponents.com/component/doughnut-chart",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Dark Dashboard Example",
+    "link": "https://tailwindcomponents.com/component/dashboard-example",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS & Alpine.js Show / Hide Password",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-alpinejs-show-hide-password",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Admin Panel",
+    "link": "https://tailwindcomponents.com/component/admin-panel",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS & Alpine.js Coming soon - timer",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-alpinejs-coming-soon-timer",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Coming soon",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-coming-soon",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS 500 Server error",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-500-server-error",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS 500 Server error - illustration",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-500-server-error-illustration",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Inbox - view message",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-inbox-view-message",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Inbox",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-inbox",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Inbox - compose new message",
+    "link": "https://tailwindcomponents.com/component/tailwind-css-inbox-compose-new-message",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Recipe app",
+    "link": "https://tailwindcomponents.com/component/recipe-app",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Black Friday Deal Banner",
+    "link": "https://tailwindcomponents.com/component/black-friday-deal-banner",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Border Animation - Border length changes",
+    "link": "https://tailwindcomponents.com/component/border-animation-1",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Skyscanner Clone",
+    "link": "https://tailwindcomponents.com/component/skyscanner-clone",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Airbnb Clone",
+    "link": "https://tailwindcomponents.com/component/airbnb-clone",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Simple Banner",
+    "link": "https://tailwindcomponents.com/component/simple-banner",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailwind CSS Styled Heading",
+    "link": "https://tailwindcomponents.com/component/styled-heading",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Feedback fixed section",
+    "link": "https://tailwindcomponents.com/component/feedback-fixed-section",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Theming Introduction, Theming Theme structure, Theming Screens, Theming Colors, Theming Spacing, Theming Customizing the default theme, Theming Extending the default theme, Theming Overriding the default theme",
+    "link": "https://tailwind-elements.com/docs/standard/getting-started/theming/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Contribute Tailwind Elements Contributing Guide, Contribute General rules, Contribute Proposing new feature / discussing problems, Contribute Reporting a bug, Contribute Finding a problems to resolve, Contribute Opening a Pull Request, Contribute Workflow",
+    "link": "https://tailwind-elements.com/docs/standard/getting-started/contribute/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Animations Basic example, Animations Usage",
+    "link": "https://tailwind-elements.com/docs/standard/content-styles/animations/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Colors Theme, Colors Shades, Colors Background, Colors Text",
+    "link": "https://tailwind-elements.com/docs/standard/content-styles/colors/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Dividers Basic example, Dividers Basic vertical, Dividers Blurry horizontal, Dividers Blurry vertical, Dividers Blurry divider practical example",
+    "link": "https://tailwind-elements.com/docs/standard/content-styles/dividers/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Figures Basic examples",
+    "link": "https://tailwind-elements.com/docs/standard/content-styles/figures/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Headings H1, Headings H2, Headings H3, Headings H4, Headings H5, Headings H6",
+    "link": "https://tailwind-elements.com/docs/standard/content-styles/headings/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Hover effects Basic example, Hover effects Color, Hover effects Gradient, Hover effects Zoom, Hover effects Shadow",
+    "link": "https://tailwind-elements.com/docs/standard/content-styles/hover-effects/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Icons Sizing, Icons Examples of svg icons, Icons Fixed Width Icons",
+    "link": "https://tailwind-elements.com/docs/standard/content-styles/icons/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Images Responsive images, Images Thumbnails, Images Shadows, Images Shadow on hover, Images Shapes",
+    "link": "https://tailwind-elements.com/docs/standard/content-styles/images/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Mask Basic example, Mask Color, Mask Gradient, Mask Opacity, Mask Content, Mask Ripple, Mask Link regular, Mask Link with ripple",
+    "link": "https://tailwind-elements.com/docs/standard/content-styles/mask/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadows Basic example, Shadows Strong shadows, Shadows Inner shadow, Shadows Shadow on hover, Shadows Images with shadow",
+    "link": "https://tailwind-elements.com/docs/standard/content-styles/shadows/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Offcanvas Basic, Offcanvas Placement - top, Offcanvas Placement - right, Offcanvas Placement - bottom, Offcanvas Usage",
+    "link": "https://tailwind-elements.com/docs/standard/navigation/offcanvas/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Placeholders Basic example, Placeholders How it works, Placeholders Width, Placeholders Colors, Placeholders Sizing, Placeholders Animation",
+    "link": "https://tailwind-elements.com/docs/standard/components/placeholders/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Charts Line chart, Charts Bar chart, Charts Radar chart, Charts Pie chart, Charts Doughnut chart",
+    "link": "https://tailwind-elements.com/docs/standard/data/charts/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Flowbite Admin",
+    "link": "https://github.com/themesberg/flowbite-admin-dashboard",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Dashwind (Daisy UI)",
+    "link": "https://github.com/srobbin01/daisyui-dashboard-template-dashwind",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With product screenshot",
+    "link": "https://tailwindui.com/components/preview#component-11e5dbce11b8c462441792503ea864fc",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Dark panel with app screenshot",
+    "link": "https://tailwindui.com/components/preview#component-0763876148e2fa400b4f1cf13cdf0093",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With stats",
+    "link": "https://tailwindui.com/components/preview#component-813ce86310c2c337070a66a152012665",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Side-by-side with details",
+    "link": "https://tailwindui.com/components/preview#component-82fc139db99143307df48bb9fe6152c5",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindui.com/components/preview#component-b5eb58f5c8fd565cc54bf488d647f02b",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple centered",
+    "link": "https://tailwindui.com/components/preview#component-fd7b8bd425f42f6504b22e1ecc6b43c9",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Three-column",
+    "link": "https://tailwindui.com/components/preview#component-b8172652fa29dc3eac306c2a8a922323",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Centered",
+    "link": "https://tailwindui.com/components/preview#component-986addbc8678313fba5b0dd59c778e9b",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With small images",
+    "link": "https://tailwindui.com/components/preview#component-1ea7e52a3e89a3cf7b4a0a4fd2dcdf84",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With sticky product screenshot",
+    "link": "https://tailwindui.com/components/preview#component-218027743700ff38c54be7e9c1ce3bf8",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple with heading",
+    "link": "https://tailwindui.com/components/preview#component-6b864c393af88d7b8a2ac53eaebf6403",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindui.com/components/preview#component-ebef3404d06e7b5f42e85b7b2ca4a2a5",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Single price with details",
+    "link": "https://tailwindui.com/components/preview#component-56cbd4f191ac0d54e5a5c0287481d5b9",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple centered",
+    "link": "https://tailwindui.com/components/preview#component-b9bcab4538776a17fff93d18f82a8272",
     "category": "Other",
     "parent": null
   }

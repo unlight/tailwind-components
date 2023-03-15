@@ -9,6 +9,7 @@ import { CompomentLink } from './types';
 /**
  * RESOURCES:
  * https://www.vechaiui.com/
+ * https://sira.riccox.com/docs/components/overview
  */
 
 if (require.main?.filename === __filename) {
