@@ -3006,6 +3006,7 @@
 *   KBD Default KBD, KBD KBD inside text, KBD Arrow keys, KBD Letter keys, KBD Number keys, KBD Function keys: [flowbite.com/docs/components/kbd/](https://flowbite.com/docs/components/kbd/)
 *   Empty states Basic, Empty states Minimal: [tinywind.dev/components/empty-states](https://tinywind.dev/components/empty-states)
 *   Nextly (Landing): [web3templates.com/templates/stablo-minimal-blog-website-template](https://web3templates.com/templates/stablo-minimal-blog-website-template)
+*   Statichunt (Tailwind templates & Starters): [statichunt.com/tailwind-templates](https://statichunt.com/tailwind-templates)
 *   Icon: [a17t.miles.land/information/icon/](https://a17t.miles.land/information/icon/)
 *   Shield: [a17t.miles.land/information/shield/](https://a17t.miles.land/information/shield/)
 *   Field: [a17t.miles.land/interaction/field/](https://a17t.miles.land/interaction/field/)
