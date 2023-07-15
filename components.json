@@ -24388,5 +24388,11 @@
     "link": "https://kimia-ui.vercel.app/components/hamburger-menu",
     "category": "Other",
     "parent": null
+  },
+  {
+    "name": "Tailwind CSS Dropdown Breadcrumbs",
+    "link": "https://tailwindcomponents.com/component/dishant-singh-7",
+    "category": "Breadcrumb",
+    "parent": null
   }
 ]
