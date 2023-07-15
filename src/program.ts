@@ -5,11 +5,16 @@ import _ from 'lodash';
 import yargs from 'yargs';
 import { updateComponenentsJson, generateMarkdown } from './generate';
 import { CompomentLink } from './types';
+import { resolve } from 'path';
 
 /**
  * RESOURCES:
  * https://www.vechaiui.com/
  * https://sira.riccox.com/docs/components/overview
+ * https://tailadmin.com/#components
+ * https://rewind-ui.dev/
+ * https://github.com/bayfrontmedia/skin
+ * https://horizon-ui.com/components
  */
 
 if (require.main?.filename === __filename) {
@@ -62,7 +67,7 @@ async function program(options?: ProgramOptions) {
     default:
       await updateComponenentsJson({
         items,
-        componentsJsonPath: require.resolve(process.cwd() + '/components.json'),
+        componentsJsonPath: resolve(process.cwd() + '/components.json'),
       });
   }
 }

@@ -3,6 +3,7 @@ import { Category } from './category';
 import { Keyword } from './keyword';
 import _ from 'lodash';
 import fs from 'fs/promises';
+import { existsSync } from 'fs';
 
 type GenerateArgs = {
   items: CompomentLink[];
@@ -234,7 +235,7 @@ export async function updateComponenentsJson({
   componentsJsonPath,
 }: GenerateArgs & { componentsJsonPath: string }) {
   const generated = await generateJson({ items });
-  const components = require(componentsJsonPath) as ComponentItem[];
+  const components = getComponents(componentsJsonPath);
   for (const item of generated) {
     const component = components.find(c => c.link === item.link);
 
@@ -248,6 +249,14 @@ export async function updateComponenentsJson({
   }
 
   await fs.writeFile(componentsJsonPath, JSON.stringify(components, null, 2));
+}
+
+function getComponents(componentsJsonPath: string): ComponentItem[] {
+  if (existsSync(componentsJsonPath)) {
+    return require(componentsJsonPath);
+  }
+
+  return [];
 }
 
 async function generateJson({ items }: GenerateArgs) {
