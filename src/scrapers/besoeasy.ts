@@ -1,4 +1,4 @@
-import { trim, snakeCase } from 'lodash';
+import { trim } from 'lodash';
 import { CompomentLink, ScraperArgs } from '../types';
 
 export default async function besoeasy({
@@ -8,16 +8,39 @@ export default async function besoeasy({
   await page.goto('https://tailwind.besoeasy.com/', {
     waitUntil: 'networkidle0',
   });
-  const links = await page.$$eval('.container > a[href]', elements => {
-    return elements.map(a => (a as HTMLAnchorElement).href);
-  });
-  for (const link of links) {
-    const url = new URL(link);
-    const name = snakeCase(url.pathname.replaceAll('.html', ''))
-      .replaceAll('_', ' ')
-      .toLowerCase();
+  const elements = await page.$$eval('.m-5 a[href]', elements => {
+    let categoryName: string | undefined;
+    const result: { name: string; href: string; categoryName?: string }[] = [];
+    for (const element of elements) {
+      // Find parent
+      for (
+        let e = element.parentElement as Element | null | undefined;
+        e;
+        e = e?.previousElementSibling
+      ) {
+        const foundParent = e.getAttribute('class')?.includes('text-4xl');
+        if (foundParent) {
+          categoryName = e.textContent!;
+          break;
+        }
+      }
 
-    result.push({ link, name });
+      result.push({
+        name: element.textContent!,
+        href: (element as HTMLAnchorElement).href,
+        categoryName,
+      });
+    }
+
+    return result;
+  });
+
+  for (const element of elements) {
+    result.push({
+      name: trim(`${element.categoryName} ${element.name}`),
+      link: element.href,
+      category: element.categoryName,
+    });
   }
 
   return result;
