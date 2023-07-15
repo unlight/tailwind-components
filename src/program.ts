@@ -15,6 +15,7 @@ import { resolve } from 'path';
  * https://rewind-ui.dev/
  * https://github.com/bayfrontmedia/skin
  * https://horizon-ui.com/components
+ * https://statichunt.com/tailwind-templates
  */
 
 if (require.main?.filename === __filename) {

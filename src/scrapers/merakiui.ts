@@ -18,7 +18,7 @@ export default async function merakiui({
   );
 
   for (const section of sections) {
-    await page.goto(section.link);
+    await page.goto(section.link, { waitUntil: 'domcontentloaded' });
     let names = (await page.$$eval('main h2', elements => {
       return elements.map(e => e.textContent?.trim());
     })) as string[];
