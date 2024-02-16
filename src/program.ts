@@ -9,13 +9,15 @@ import { resolve } from 'path';
 
 /**
  * RESOURCES:
- * https://www.vechaiui.com/
  * https://sira.riccox.com/docs/components/overview
  * https://tailadmin.com/#components
  * https://rewind-ui.dev/
  * https://github.com/bayfrontmedia/skin
  * https://horizon-ui.com/components
  * https://statichunt.com/tailwind-templates
+ * https://taildashboards.com/
+ * https://layoutsfortailwind.lalokalabs.dev/
+ * https://dripui.vercel.app/
  */
 
 if (require.main?.filename === __filename) {
