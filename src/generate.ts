@@ -165,16 +165,30 @@ const categoryList = [
     keywords: [new Keyword('404'), new Keyword('not found', 2)],
   }),
   new Category({
+    name: 'FAQ',
+    parent: 'Page',
+    keywords: [new Keyword('faq', 1)],
+  }),
+  new Category({
     name: 'Pricing',
     parent: 'Page',
-    keywords: [new Keyword('pricing', 2)],
+    keywords: [
+      new Keyword('pricing', 2),
+      new Keyword('pricing page', 2),
+      new Keyword('pricing card', 2),
+      new Keyword('pricing plans', 2),
+      new Keyword('pricing plan', 2),
+    ],
   }),
   new Category({
     name: 'Testimonial',
     parent: 'Page',
     keywords: [new Keyword('testimonial', 2), new Keyword('testimony', 2)],
   }),
-  new Category({ name: 'Pagination' }),
+  new Category({
+    name: 'Pagination',
+    keywords: [new Keyword('pagination', 2)],
+  }),
   new Category({ name: 'Progress Bar', keywords: [new Keyword('progress')] }),
   new Category({
     name: 'Skeleton',
@@ -193,7 +207,10 @@ const categoryList = [
     ],
   }),
   new Category({ name: 'Comment', keywords: [new Keyword('comment form', 2)] }),
-  new Category({ name: 'Step', keywords: [new Keyword('multistep')] }),
+  new Category({
+    name: 'Step',
+    keywords: [new Keyword('multistep'), new Keyword('stepper')],
+  }),
   new Category({
     name: 'Switch',
     keywords: [
