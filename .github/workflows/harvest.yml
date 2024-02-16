@@ -17,7 +17,7 @@ jobs:
         run: npm install
       - name: 'Generate'
         run: |
-          npm run generate
+          npm run generate -- --slowMo=1000
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
