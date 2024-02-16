@@ -69,8 +69,6 @@
 * Collapsible Card with Alpine.js: [tailwindcomponents.com/component/collapsible-card-with-alpinejs](https://tailwindcomponents.com/component/collapsible-card-with-alpinejs)
 * Pure CSS Accordion: [tailwindcomponents.com/component/pure-css-accordion](https://tailwindcomponents.com/component/pure-css-accordion)
 * Collapsible / Accordion: [tailwindcomponents.com/component/collapsible-accordion](https://tailwindcomponents.com/component/collapsible-accordion)
-* Accordion Basic examples, Accordion Flush, Accordion Always open: [tailwind-elements.com/docs/standard/components/accordion/](https://tailwind-elements.com/docs/standard/components/accordion/)
-* Collapse Basic example, Collapse Horizontal, Collapse Multiple targets, Collapse With Scroll, Collapse Import, Collapse Usage: [tailwind-elements.com/docs/standard/components/collapse/](https://tailwind-elements.com/docs/standard/components/collapse/)
 * Accordion: [tailwindtoolbox.com/components/accordion](https://www.tailwindtoolbox.com/components/accordion)
 * Accordions Basic: [tinywind.dev/components/accordions](https://tinywind.dev/components/accordions)
 * Lo-fi Tailwind CSS Accordion Menu: [codepen.io/robstinson/pen/LYZProy](https://codepen.io/robstinson/pen/LYZProy)
@@ -183,9 +181,6 @@
 * Top accent alert: [tailwindcomponents.com/component/top-accent-alert](https://tailwindcomponents.com/component/top-accent-alert)
 * Traditional alert: [tailwindcomponents.com/component/traditional-alert](https://tailwindcomponents.com/component/traditional-alert)
 * Solid alert: [tailwindcomponents.com/component/solid-alert](https://tailwindcomponents.com/component/solid-alert)
-* Alerts Basic examples, Alerts Link color, Alerts Icons, Alerts Additional content, Alerts Dismissing, Alerts Import, Alerts Usage: [tailwind-elements.com/docs/standard/components/alerts/](https://tailwind-elements.com/docs/standard/components/alerts/)
-* Notifications Simple notification, Notifications Classic badge notification, Notifications Notification within tabs, Notifications Notification within button, Notifications Notification within avatar, Notifications Notification start, Notifications Notification center, Notifications Notification end (default), Notifications Notification middle start, Notifications Notification middle center, Notifications Notification middle end, Notifications Notification bottom start, Notifications Notification bottom center, Notifications Notification bottom end: [tailwind-elements.com/docs/standard/components/notifications/](https://tailwind-elements.com/docs/standard/components/notifications/)
-* Toast Basic example, Toast Colors, Toast Import, Toast Usage: [tailwind-elements.com/docs/standard/components/toast/](https://tailwind-elements.com/docs/standard/components/toast/)
 * Alert 1 Square, Alert 1 Rounded, Alert 1 Full Rounded, Alert 1 Single line truncate, Alert 1 With title & long description: [tailwindow.github.io/component-tailwindcss/components/alert/alert-1/index.html](https://tailwindow.github.io/component-tailwindcss/components/alert/alert-1/index.html)
 * Alert 2: [tailwindow.github.io/component-tailwindcss/components/alert/alert-2/index.html](https://tailwindow.github.io/component-tailwindcss/components/alert/alert-2/index.html)
 * Alert Box Normal, Alert Box With title & long description: [tailwindow.github.io/component-tailwindcss/components/alert/alert-box/index.html](https://tailwindow.github.io/component-tailwindcss/components/alert/alert-box/index.html)
@@ -213,6 +208,7 @@
 * Alerts Basic examples, Alerts Link color, Alerts Icons, Alerts Additional content, Alerts Dismissing, Alerts Import, Alerts Usage: [tw-elements.com/docs/standard/components/alerts/](https://tw-elements.com/docs/standard/components/alerts/)
 * Notifications Simple notification, Notifications Classic badge notification, Notifications Notification within tabs, Notifications Notification within button, Notifications Notification within avatar, Notifications Notification start, Notifications Notification center, Notifications Notification end (default), Notifications Notification middle start, Notifications Notification middle center, Notifications Notification middle end, Notifications Notification bottom start, Notifications Notification bottom center, Notifications Notification bottom end: [tw-elements.com/docs/standard/components/notifications/](https://tw-elements.com/docs/standard/components/notifications/)
 * Toast Basic example, Toast Colors, Toast Import, Toast Usage: [tw-elements.com/docs/standard/components/toast/](https://tw-elements.com/docs/standard/components/toast/)
+* Toast Default toast, Toast Colors, Toast Simple toast, Toast Undo button, Toast Toast message, Toast Push notification, Toast Interactive toast, Toast Positioning, Toast JavaScript behaviour: [flowbite.com/docs/components/toast/](https://flowbite.com/docs/components/toast/)
 
 ## Avatar
 
@@ -262,7 +258,6 @@
 * Avatar with username: [tailwindcomponents.com/component/avatar-with-username](https://tailwindcomponents.com/component/avatar-with-username)
 * Rounded inner box shadow avatar: [tailwindcomponents.com/component/rounded-inner-box-shadow-avatar](https://tailwindcomponents.com/component/rounded-inner-box-shadow-avatar)
 * Simple Avatar (and initials): [tailwindcomponents.com/component/simple-avatar-and-initials](https://tailwindcomponents.com/component/simple-avatar-and-initials)
-* Avatar Basic examples, Avatar With shadow, Avatar Square, Avatar With content: [tailwind-elements.com/docs/standard/components/avatar/](https://tailwind-elements.com/docs/standard/components/avatar/)
 * Avatar - Simple full rounded avatar, Avatar - small full rounded avatar, Avatar - Big full rounded avatar, Avatar - Round avatar, Avatar - Square avatar, Avatar - Avatar with badge, Avatar - Multiple avatar, Avatar - Multiple small avatar, Avatar - Multiple big avatar, Avatar - With hover effect: [tailwind-kit.com/components/avatar](https://www.tailwind-kit.com/components/avatar)
 * Circular Avatar: [codepen.io/oidre/full/ExPaaEJ](https://codepen.io/oidre/full/ExPaaEJ)
 * Custom with avatar: [tailwindui.com/components/preview#component-71d9116be789a254c260369f03472985](https://tailwindui.com/components/preview#component-71d9116be789a254c260369f03472985)
@@ -319,7 +314,6 @@
 * Simple Badges: [tailwindcomponents.com/component/simple-badges](https://tailwindcomponents.com/component/simple-badges)
 * Badges with icons: [tailwindcomponents.com/component/badges-with-icons](https://tailwindcomponents.com/component/badges-with-icons)
 * Badge: [tailwindcomponents.com/component/badge](https://tailwindcomponents.com/component/badge)
-* Badges Basic examples, Badges Sizes, Badges Button, Badges Colors, Badges Pills: [tailwind-elements.com/docs/standard/components/badges/](https://tailwind-elements.com/docs/standard/components/badges/)
 * Badge: [codepen.io/oidre/full/jOqNpKQ](https://codepen.io/oidre/full/jOqNpKQ)
 * badge large rectangle bullet, badge large rectangle bullet: [tailwinduikit.com/components/webapp/UI\_element/badge#large\_rectangle\_bullet](https://tailwinduikit.com/components/webapp/UI_element/badge#large_rectangle_bullet)
 * Badges Basic, Badges Pills, Badges Small, Badges Small pills: [tinywind.dev/components/badges](https://tinywind.dev/components/badges)
@@ -389,7 +383,6 @@
 * button round: [tailwind.besoeasy.com/button/round.html](https://tailwind.besoeasy.com/button/round.html)
 * button sha: [tailwind.besoeasy.com/button/sha.html](https://tailwind.besoeasy.com/button/sha.html)
 * button zaw: [tailwind.besoeasy.com/button/zaw.html](https://tailwind.besoeasy.com/button/zaw.html)
-* Social buttons Icons, Social buttons Brand colors & size, Social buttons Social button, Social buttons Sample brands, Social buttons Floating social, Social buttons Text, Social buttons Only icon button: [tailwind-elements.com/docs/standard/components/social-buttons/](https://tailwind-elements.com/docs/standard/components/social-buttons/)
 * Button: [a17t.miles.land/interaction/button/](https://a17t.miles.land/interaction/button/)
 * Button group, Button group vertical, Button group Responsive - Vertical for small screen, Horizontal on large screen, Button group with radio buttons: [daisyui.com/components/button-group/](https://daisyui.com/components/button-group/)
 * Fancy Button 1: [fancytailwind.com/app/fancy-laboratory/molecules/buttons/button1](https://fancytailwind.com/app/fancy-laboratory/molecules/buttons/button1)
@@ -759,9 +752,6 @@
 * Outline button: [tailwindcomponents.com/component/outline-button](https://tailwindcomponents.com/component/outline-button)
 * 3D button: [tailwindcomponents.com/component/3d-button](https://tailwindcomponents.com/component/3d-button)
 * Button with icon: [tailwindcomponents.com/component/button-with-icon](https://tailwindcomponents.com/component/button-with-icon)
-* Button group Basic examples, Button group Active state, Button group Outline styles, Button group Toolbar, Button group Sizing, Button group Colors: [tailwind-elements.com/docs/standard/components/button-group/](https://tailwind-elements.com/docs/standard/components/button-group/)
-* Buttons Basic example, Buttons With ripple, Buttons Hierarchy, Buttons Contextual, Buttons Neutral, Buttons Link, Buttons Outline, Buttons Rounded, Buttons Rounded outline, Buttons Floating, Buttons Fixed buttons, Buttons Sizes, Buttons Active state, Buttons Disabled state, Buttons With icon, Buttons Block buttons, Buttons Import, Buttons Usage: [tailwind-elements.com/docs/standard/components/buttons/](https://tailwind-elements.com/docs/standard/components/buttons/)
-* Scroll back to top button Basic example: [tailwind-elements.com/docs/standard/components/scroll-back-to-top-button/](https://tailwind-elements.com/docs/standard/components/scroll-back-to-top-button/)
 * Buttons - Button, Buttons - Button with icon, Buttons - Icon button, Buttons - Animated button, Buttons - Disabled button, Buttons - Rounded Button, Buttons - Rounded Button and icon, Buttons - Rounded fat Button, Buttons - Button with information, Buttons - Multiple buttons, Buttons - Pager button, Buttons - Facebook button, Buttons - Google button, Buttons - GitHub button, Buttons - Store button, Buttons - Rounded button with effect, Buttons - Rounded button with icon, Buttons - Rounded icon, Buttons - Square button, Buttons - Square fat button, Buttons - Square with icon, Buttons - With variant background: [tailwind-kit.com/components/buttons](https://www.tailwind-kit.com/components/buttons)
 * Buttons - Light, Buttons - with 2 actions, Buttons - Vertical, Buttons - With description, Buttons - On left, Buttons - With image, Buttons - with image and desc, Buttons - with sub and image, Buttons - Notify cta, Buttons - Multiple images cta, Buttons - Watch cta, Buttons - Next Cta, Buttons - Timer event, Buttons - Bandeau number, Buttons - Bandeau Info: [tailwind-kit.com/components/cta](https://www.tailwind-kit.com/components/cta)
 * Regular Button: [tailwindow.github.io/component-tailwindcss/components/button/button-regular/index.html](https://tailwindow.github.io/component-tailwindcss/components/button/button-regular/index.html)
@@ -818,6 +808,7 @@
 * Button group Basic examples, Button group Active state, Button group Outline styles, Button group Toolbar, Button group Sizing, Button group Colors: [tw-elements.com/docs/standard/components/button-group/](https://tw-elements.com/docs/standard/components/button-group/)
 * Buttons Basic example, Buttons With ripple, Buttons Hierarchy, Buttons Contextual, Buttons Neutral, Buttons Link, Buttons Outline, Buttons Rounded, Buttons Rounded outline, Buttons Floating, Buttons Fixed buttons, Buttons Sizes, Buttons Active state, Buttons Disabled state, Buttons With icon, Buttons Block buttons, Buttons Import, Buttons Usage: [tw-elements.com/docs/standard/components/buttons/](https://tw-elements.com/docs/standard/components/buttons/)
 * Scroll back to top button Basic example: [tw-elements.com/docs/standard/components/scroll-back-to-top-button/](https://tw-elements.com/docs/standard/components/scroll-back-to-top-button/)
+* Buttons Outline Buttons, Buttons Solid Buttons, Buttons Buttons Styles, Buttons Button Bordered, Buttons Button Groups, Buttons Miscellaneous: [tailwindadmin.netlify.app/buttons](https://tailwindadmin.netlify.app/buttons)
 
 ## Call to Action
 
@@ -1339,6 +1330,7 @@
 * Tailwind CSS Card Project: [tailwindcomponents.com/component/tailwind-css-card-project](https://tailwindcomponents.com/component/tailwind-css-card-project)
 * Tailwind CSS Attractive Property Card: [tailwindcomponents.com/component/attractive-property-card](https://tailwindcomponents.com/component/attractive-property-card)
 * Trello card clone: [tailwindcomponents.com/component/trello-card-clone](https://tailwindcomponents.com/component/trello-card-clone)
+* Ui components Cards: [tailwindadmin.netlify.app/ui](https://tailwindadmin.netlify.app/ui)
 
 ## Dashboard Widgets
 
@@ -1374,8 +1366,6 @@
 * Slider only CSS: [tailwindcomponents.com/component/slider-only-css](https://tailwindcomponents.com/component/slider-only-css)
 * CSS only slider: [tailwindcomponents.com/component/css-only-slide](https://tailwindcomponents.com/component/css-only-slide)
 * Tailwind CSS Stripe carousel clone: [tailwindcomponents.com/component/stripe-carousel-clone](https://tailwindcomponents.com/component/stripe-carousel-clone)
-* Carousel Basic example, Carousel Slides only, Carousel With controls, Carousel With indicators, Carousel Crossfade, Carousel Dark variant, Carousel Import, Carousel Usage: [tailwind-elements.com/docs/standard/components/carousel/](https://tailwind-elements.com/docs/standard/components/carousel/)
-* Video carousel Basic example, Video carousel Full page carousel: [tailwind-elements.com/docs/standard/components/video-carousel/](https://tailwind-elements.com/docs/standard/components/video-carousel/)
 * Carousel: [tailwindtoolbox.com/components/carousel](https://www.tailwindtoolbox.com/components/carousel)
 * slider slider, slider slider: [tailwinduikit.com/components/webapp/UI\_element/slider#slider](https://tailwinduikit.com/components/webapp/UI_element/slider#slider)
 * Carousel New Basic usage, Carousel New Pagination, Carousel New AutoPlay: [preline.co/docs/carousel.html](https://preline.co/docs/carousel.html)
@@ -1419,7 +1409,6 @@
 * Simple Calendar Day "icon": [tailwindcomponents.com/component/simple-calendar-day-icon](https://tailwindcomponents.com/component/simple-calendar-day-icon)
 * Tailwind CSS vacation calendar: [tailwindcomponents.com/component/vacation-calendar](https://tailwindcomponents.com/component/vacation-calendar)
 * Calendar Date: [tailwindcomponents.com/component/calendar-date](https://tailwindcomponents.com/component/calendar-date)
-* Timepicker Basic example, Timepicker Import, Timepicker Usage: [tailwind-elements.com/docs/standard/forms/timepicker/](https://tailwind-elements.com/docs/standard/forms/timepicker/)
 * calendar calendar 2, calendar calendar 2: [tailwinduikit.com/components/webapp/calendar/calendar#calendar\_2](https://tailwinduikit.com/components/webapp/calendar/calendar#calendar_2)
 * Lo-fi Tailwind CSS Calendar Select: [codepen.io/robstinson/pen/eYzmWGQ](https://codepen.io/robstinson/pen/eYzmWGQ)
 * Lo-fi Tailwind CSS Calendar - Month View: [codepen.io/robstinson/pen/BaKOZry](https://codepen.io/robstinson/pen/BaKOZry)
@@ -1432,7 +1421,6 @@
 
 ## Dropdown
 
-* Dropdown Basic example, Dropdown Colors, Dropdown Sizing, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Menu item disable, Dropdown Menu item header, Dropdown Menu items divider, Dropdown Menu item text, Dropdown Import, Dropdown Usage: [tailwind-elements.com/docs/standard/components/dropdown/](https://tailwind-elements.com/docs/standard/components/dropdown/)
 * Dropdown: [a17t.miles.land/interaction/dropdown/](https://a17t.miles.land/interaction/dropdown/)
 * Select: [a17t.miles.land/interaction/select/](https://a17t.miles.land/interaction/select/)
 * Select, Select with border, Select Ghost (no background), Select With form-control and labels, Select Primary color, Select Secondary color, Select Accent color, Select Info color, Select Success color, Select Warning color, Select Error color, Select Sizes, Select Disabled: [daisyui.com/components/select/](https://daisyui.com/components/select/)
@@ -1498,7 +1486,6 @@
 * Multi-Level Dropdown: [tailwindcomponents.com/component/multi-level-dropdown](https://tailwindcomponents.com/component/multi-level-dropdown)
 * Dropdown menu without JS: [tailwindcomponents.com/component/dropdown-menu-without-js](https://tailwindcomponents.com/component/dropdown-menu-without-js)
 * Dropdown: [tailwindcomponents.com/component/dropdown](https://tailwindcomponents.com/component/dropdown)
-* Popover Basic example, Popover Four directions, Popover Dismiss on next click, Popover Disabled, Popover Usage: [tailwind-elements.com/docs/standard/components/popover/](https://tailwind-elements.com/docs/standard/components/popover/)
 * Drop Down - Simple ddm, Drop Down - With icon, Drop Down - With icon on items, Drop Down - With icon on items with divider, Drop Down - With icon on items with desc, Drop Down - Large ddm, Drop Down - Ddm with form: [tailwind-kit.com/components/ddm](https://www.tailwind-kit.com/components/ddm)
 * Select - simple, Select - with label, Select - custom, Select - custom with image: [tailwind-kit.com/components/inputselect](https://www.tailwind-kit.com/components/inputselect)
 * Menu with hover dropdowns: [codepen.io/PILO7980/pen/EBVxPE](https://codepen.io/PILO7980/pen/EBVxPE)
@@ -1531,14 +1518,14 @@
 * Tailwind CSS Popover  inspired by Material Design: [tailwindcomponents.com/component/tailwind-css-popover-inspired-by-material-design](https://tailwindcomponents.com/component/tailwind-css-popover-inspired-by-material-design)
 * Tailwind CSS Popover: [tailwindcomponents.com/component/tailwind-css-popover](https://tailwindcomponents.com/component/tailwind-css-popover)
 * Popover Basic example, Popover Four directions, Popover Dismiss on next click, Popover Disabled, Popover Import, Popover Usage: [tw-elements.com/docs/standard/components/popover/](https://tw-elements.com/docs/standard/components/popover/)
+* Popover Default popover, Popover User profile, Popover Company profile, Popover Image popover, Popover Description popover, Popover Progress popover, Popover Password strength, Popover Placement, Popover Triggering, Popover Offset, Popover Animation, Popover Disable arrow, Popover JavaScript behaviour: [flowbite.com/docs/components/popover/](https://flowbite.com/docs/components/popover/)
+* Select Select input example, Select Multiple options, Select Size attribute, Select Disabled state, Select Underline select, Select Select with dropdown, Select Sizes: [flowbite.com/docs/forms/select/](https://flowbite.com/docs/forms/select/)
 
 ## Form
 
 * Input group Group label and text input horizontally, Input group Group text input and label horizontally, Input group label on both sides, Input group Group label and text input vertically, Input group Sizes: [daisyui.com/components/input-group/](https://daisyui.com/components/input-group/)
 * Input #Simple, Input #With Icon, Input #With Label in Input, Input #With Floating Label, Input #With Floating Label (Inside), Input #With Floating Label (Underline): [hyperui.dev/components/application-ui/inputs](https://www.hyperui.dev/components/application-ui/inputs)
 * File Input Basic usage, File Input Example, File Input Sizes: [preline.co/docs/file-input.html](https://preline.co/docs/file-input.html)
-* Datepicker Basic example, Datepicker Inline version, Datepicker Translations, Datepicker Formats, Datepicker Date limits, Datepicker Disable past, Datepicker Disable future, Datepicker Disabled dates, Datepicker Input toggle, Datepicker Custom toggle icon, Datepicker Close without confirmation, Datepicker Accessibility, Datepicker Import, Datepicker Usage: [tailwind-elements.com/docs/standard/forms/datepicker/](https://tailwind-elements.com/docs/standard/forms/datepicker/)
-* Input Group Basic example, Input Group Wrapping, Input Group Sizing, Input Group Checkboxes and radios, Input Group Multiple inputs, Input Group Multiple addons, Input Group Floating label: [tailwind-elements.com/docs/standard/forms/input-group/](https://tailwind-elements.com/docs/standard/forms/input-group/)
 * Forms Elements, Forms Validation, Forms Icons: [windmill-dashboard.vercel.app/forms.html](https://windmill-dashboard.vercel.app/forms.html)
 * Input - Simple, Input - Rounded, Input - with label, Input - required, Input - on error, Input - With indications, Input - Disabled, Input - with icon, Input - with helper, Input - Group, Input - textarea: [tailwind-kit.com/components/inputtext](https://www.tailwind-kit.com/components/inputtext)
 * Dropdown Basic usage, Dropdown Default, Dropdown Hover event, Dropdown Dividers, Dropdown Icons, Dropdown Title, Dropdown With header, Dropdown Custom trigger, Dropdown Custom icon trigger, Dropdown Animations, Dropdown Slide up animation, Dropdown Transform style animation, Dropdown Options, Dropdown Auto close behavior, Dropdown Dropdown item checkbox, Dropdown Dropdown item radio, Dropdown Directions, Dropdown Dropdown, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Responsive alignment: [preline.co/docs/dropdown.html](https://preline.co/docs/dropdown.html)
@@ -1731,11 +1718,6 @@
 * Bootstrap like input: [tailwindcomponents.com/component/bootstrap-like-input](https://tailwindcomponents.com/component/bootstrap-like-input)
 * Form grid: [tailwindcomponents.com/component/form-grid](https://tailwindcomponents.com/component/form-grid)
 * Form elements: [tailwindcss-forms.vercel.app/kitchen-sink.html](https://tailwindcss-forms.vercel.app/kitchen-sink.html)
-* Checkbox Basic example, Checkbox Indeterminate, Checkbox Disabled, Checkbox Inline, Checkbox Without labels: [tailwind-elements.com/docs/standard/forms/checkbox/](https://tailwind-elements.com/docs/standard/forms/checkbox/)
-* File input Basic example, File input Multiple files input, File input Disabled file input, File input Small file input, File input Large file input: [tailwind-elements.com/docs/standard/forms/file-input/](https://tailwind-elements.com/docs/standard/forms/file-input/)
-* Inputs Basic example, Inputs Sizing, Inputs Disabled, Inputs Readonly, Inputs Text, Inputs Email, Inputs Password, Inputs Number, Inputs Phone number, Inputs URL, Inputs Textarea, Inputs Helper text, Inputs Character counter, Inputs Floating label, Inputs Import, Inputs Classes, Inputs Methods: [tailwind-elements.com/docs/standard/forms/inputs/](https://tailwind-elements.com/docs/standard/forms/inputs/)
-* Radio Basic example, Radio Disabled, Radio Inline, Radio Without labels: [tailwind-elements.com/docs/standard/forms/radio/](https://tailwind-elements.com/docs/standard/forms/radio/)
-* Textarea Basic example: [tailwind-elements.com/docs/standard/forms/textarea/](https://tailwind-elements.com/docs/standard/forms/textarea/)
 * Form - Input Text Input Type, Form - Input Text Border Type, Form - Input Text Color Type: [tailwindow.github.io/component-tailwindcss/components/form/input-text/index.html](https://tailwindow.github.io/component-tailwindcss/components/form/input-text/index.html)
 * Argon Regular Input with icon, Argon Regular input with icon - Alternative, Argon Error Input - Alternative, Argon Success Input - Alternative, Argon Error Input, Argon Success Input, Argon Input (alternative), Argon Regular input, Biings input field: Required, Biings input field: Error: [tailwindtemplates.io/templates?category=input\&page=2](https://tailwindtemplates.io/templates?category=input\&page=2)
 * Biings Input Field, Biings Input with 1 icon, Biings Input with 2 icons, Biings succes input, Biings error input, Biings default & loading input, Biings default input: [tailwindtemplates.io/templates?category=input\&page=3](https://tailwindtemplates.io/templates?category=input\&page=3)
@@ -1787,6 +1769,14 @@
 * Inputs Basic example, Inputs Sizing, Inputs Disabled, Inputs Readonly, Inputs Text, Inputs Email, Inputs Password, Inputs Number, Inputs Phone number, Inputs URL, Inputs Textarea, Inputs Helper text, Inputs Character counter, Inputs Floating label, Inputs Import, Inputs Classes, Inputs Methods: [tw-elements.com/docs/standard/forms/inputs/](https://tw-elements.com/docs/standard/forms/inputs/)
 * Radio Basic example, Radio Disabled, Radio Inline, Radio Without labels: [tw-elements.com/docs/standard/forms/radio/](https://tw-elements.com/docs/standard/forms/radio/)
 * Textarea Basic example: [tw-elements.com/docs/standard/forms/textarea/](https://tw-elements.com/docs/standard/forms/textarea/)
+* Number Input Default number input, Number Input ZIP code input, Number Input Phone number, Number Input Counter input, Number Input Currency input, Number Input Pin code input, Number Input Convert currency, Number Input Min and max values, Number Input JavaScript behaviour: [flowbite.com/docs/forms/number-input/](https://flowbite.com/docs/forms/number-input/)
+* Input Field Input fields, Input Field Input sizes, Input Field Disabled state, Input Field Validation, Input Field Input group, Input Field Helper text, Input Field Search input: [flowbite.com/docs/forms/input-field/](https://flowbite.com/docs/forms/input-field/)
+* Search Input Search bar example, Search Input Simple search input, Search Input Location search, Search Input Voice search: [flowbite.com/docs/forms/search-input/](https://flowbite.com/docs/forms/search-input/)
+* Phone Input Default phone input, Phone Input Phone input country code, Phone Input Floating label input, Phone Input Verification code input, Phone Input Authentication form, Phone Input Advanced phone verification: [flowbite.com/docs/forms/phone-input/](https://flowbite.com/docs/forms/phone-input/)
+* Checkbox Checkbox example, Checkbox Disabled state, Checkbox Checkbox link, Checkbox Helper text, Checkbox Bordered, Checkbox Checkbox list group, Checkbox Horizontal list group, Checkbox Inline layout, Checkbox Colors, Checkbox Advanced layout: [flowbite.com/docs/forms/checkbox/](https://flowbite.com/docs/forms/checkbox/)
+* Radio Radio example, Radio Disabled state, Radio Radio link, Radio Helper text, Radio Bordered, Radio Radio list group, Radio Horizontal list group, Radio Inline layout, Radio Advanced layout, Radio Colors: [flowbite.com/docs/forms/radio/](https://flowbite.com/docs/forms/radio/)
+* Textarea Textarea example, Textarea WYSIWYG Editor, Textarea Comment box, Textarea Chatroom input: [flowbite.com/docs/forms/textarea/](https://flowbite.com/docs/forms/textarea/)
+* Forms Inline Form, Forms Underline Form, Forms Form Grid: [tailwindadmin.netlify.app/forms](https://tailwindadmin.netlify.app/forms)
 
 ### Contact
 
@@ -1828,7 +1818,6 @@
 ### Login
 
 * Form #Login with Highlighted Form: [hyperui.dev/components/marketing/forms](https://www.hyperui.dev/components/marketing/forms)
-* Form templates Login form: [tailwind-elements.com/docs/standard/forms/form-templates/](https://tailwind-elements.com/docs/standard/forms/form-templates/)
 * Form layout - Login with background: [tailwind-kit.com/components/form](https://www.tailwind-kit.com/components/form)
 * page login: [tailwind-css-components.appseed.us/page-login.html](https://tailwind-css-components.appseed.us/page-login.html)
 * Authentication Login: [kamona-wd.github.io/kwd-dashboard/auth/login.html](https://kamona-wd.github.io/kwd-dashboard/auth/login.html)
@@ -1941,7 +1930,6 @@
 * Native and social login form: [tailwindcomponents.com/component/native-and-social-login-form](https://tailwindcomponents.com/component/native-and-social-login-form)
 * Simple login form: [tailwindcomponents.com/component/simple-login-form](https://tailwindcomponents.com/component/simple-login-form)
 * Login form: [tailwindcomponents.com/component/login-form](https://tailwindcomponents.com/component/login-form)
-* Login form Basic example, Login form v.2, Login form v.3: [tailwind-elements.com/docs/standard/forms/login-form/](https://tailwind-elements.com/docs/standard/forms/login-form/)
 * Argon Login: [tailwindtemplates.io/templates?category=login](https://tailwindtemplates.io/templates?category=login)
 * Tailwind Login: [github.com/davidgrzyb/tailwind-auth-template](https://github.com/davidgrzyb/tailwind-auth-template)
 * Login Page Template: [github.com/davidgrzyb/tailwind-login-template](https://github.com/davidgrzyb/tailwind-login-template)
@@ -1987,7 +1975,6 @@
 * SB Admin 2: Register Page: [tailwindcomponents.com/component/sb-admin-2-forgot-password-page](https://tailwindcomponents.com/component/sb-admin-2-forgot-password-page)
 * Sign Up Form: [tailwindcomponents.com/component/sign-up-form](https://tailwindcomponents.com/component/sign-up-form)
 * Beautiful form signup: [tailwindcomponents.com/component/beautiful-form-signup](https://tailwindcomponents.com/component/beautiful-form-signup)
-* Registration form Basic example, Registration form v.2, Registration form v.3: [tailwind-elements.com/docs/standard/forms/registration-form/](https://tailwind-elements.com/docs/standard/forms/registration-form/)
 * Argon Sign Up: [tailwindtemplates.io/templates?category=sign-up](https://tailwindtemplates.io/templates?category=sign-up)
 * Alerts Sign up for our newsletter: [merakiui.com/components/alerts](https://merakiui.com/components/alerts)
 * Dropdowns Sign up for our newsletter: [merakiui.com/components/dropdowns](https://merakiui.com/components/dropdowns)
@@ -2004,11 +1991,11 @@
 * Tailwind CSS Register: [tailwindcomponents.com/component/register-1](https://tailwindcomponents.com/component/register-1)
 * Tailwind CSS Simple Sign Up Page: [tailwindcomponents.com/component/simple-sign-up-page](https://tailwindcomponents.com/component/simple-sign-up-page)
 * Registration form Basic example, Registration form v.2, Registration form v.3: [tw-elements.com/docs/standard/forms/registration-form/](https://tw-elements.com/docs/standard/forms/registration-form/)
+* Register Page: [tailwindadmin.netlify.app/register](https://tailwindadmin.netlify.app/register)
 
 ### Search
 
 * Input Group Search box with loading: [preline.co/docs/input-group.html](https://preline.co/docs/input-group.html)
-* Search Basic example, Search with icon, Search without additional elements, Search with label: [tailwind-elements.com/docs/standard/forms/search/](https://tailwind-elements.com/docs/standard/forms/search/)
 * Search Result: [layoutsfortailwind.lalokalabs.dev/ui/search-result](https://layoutsfortailwind.lalokalabs.dev/ui/search-result)
 * Search Basic: [mynaui.com/search/#basic](https://mynaui.com/search/#basic)
 * Search Disabled: [mynaui.com/search/#disabled](https://mynaui.com/search/#disabled)
@@ -2073,6 +2060,7 @@
 * Tailwind File Upload: [tailwindcomponents.com/component/tailwind-file-upload](https://tailwindcomponents.com/component/tailwind-file-upload)
 * File Uploading Progress New Just uploaded file, File Uploading Progress New In progress file, File Uploading Progress New Completed, File Uploading Progress New Error, File Uploading Progress New Multiple files: Just uploaded, File Uploading Progress New Multiple files: In progress, File Uploading Progress New Multiple files: Error: [preline.co/docs/file-uploading-progress-form.html](https://preline.co/docs/file-uploading-progress-form.html)
 * Tailwind CSS snippet upload preview: [tailwindcomponents.com/component/snipet-upload-preview](https://tailwindcomponents.com/component/snipet-upload-preview)
+* File Input File upload example: [flowbite.com/docs/forms/file-input/](https://flowbite.com/docs/forms/file-input/)
 
 ## Footer
 
@@ -2092,8 +2080,6 @@
 * footer zox: [tailwind.besoeasy.com/footer/zox.html](https://tailwind.besoeasy.com/footer/zox.html)
 * Card Header and footer: [preline.co/docs/card.html](https://preline.co/docs/card.html)
 * Footer #Large with Newsletter Form, Footer #Simple Stacked, Footer #Simple Row, Footer #Split with Company Info, Links and Image, Footer #Newsletter Form as Priority, Footer #Centered with Branding, Footer #Slim with Branding and Link Top, Footer #Company Info and Links, Footer #Inline with Logo and Copyright, Footer #Company Info, Links and Email Signup: [hyperui.dev/components/marketing/footers](https://www.hyperui.dev/components/marketing/footers)
-* Footer Basic example, Footer Advanced example, Footer Copyrights, Footer Links, Footer Text, Footer Images, Footer Icons, Footer Buttons dark theme, Footer Form: [tailwind-elements.com/docs/standard/navigation/footer/](https://tailwind-elements.com/docs/standard/navigation/footer/)
-* Cards Card with header and footer: [tailwind-elements.com/docs/standard/components/cards/](https://tailwind-elements.com/docs/standard/components/cards/)
 * footers: [tailwind-css-components.appseed.us/footers.html](https://tailwind-css-components.appseed.us/footers.html)
 * Footer, Footer with a logo section, Footer with a form, Footer with logo and social icons, Footer with copyright text, Footer with copyright text and social icons, Footer with links and social icons, Footer with 2 rows, Footer Centered footer with logo and social icons, Footer Centered footer with social icons, Footer Two footer: [daisyui.com/components/footer/](https://daisyui.com/components/footer/)
 * Fancy Footer 1: [fancytailwind.com/app/fancy-laboratory/molecules/footers/footer1](https://fancytailwind.com/app/fancy-laboratory/molecules/footers/footer1)
@@ -2251,11 +2237,11 @@
 * Spinner: [tailwindcomponents.com/component/spinner-1](https://tailwindcomponents.com/component/spinner-1)
 * Spinner: [tailwindcomponents.com/component/spinner](https://tailwindcomponents.com/component/spinner)
 * Full page overlay loading screen: [tailwindcomponents.com/component/full-page-overlay-loading-screen](https://tailwindcomponents.com/component/full-page-overlay-loading-screen)
-* Spinners Basic example, Spinners Colors, Spinners Growing spinner, Spinners Colors of growing spinner, Spinners Margin, Spinners Flex, Spinners Floats, Spinners Text, Spinners Size small, Spinners Size large: [tailwind-elements.com/docs/standard/components/spinners/](https://tailwind-elements.com/docs/standard/components/spinners/)
 * Spinner Normal, Spinner Large: [kimia-ui.vercel.app/components/spinner](https://kimia-ui.vercel.app/components/spinner)
 * Spinners Basic example, Spinners Colors, Spinners Growing spinner, Spinners Colors of growing spinner, Spinners Margin, Spinners Flex, Spinners Floats, Spinners Text, Spinners Size small, Spinners Size large: [tw-elements.com/docs/standard/components/spinners/](https://tw-elements.com/docs/standard/components/spinners/)
 * Lazy loading Basic example, Lazy loading Offset, Lazy loading Error, Lazy loading Animations, Lazy loading Container, Lazy loading Import, Lazy loading Usage: [tw-elements.com/docs/standard/methods/lazy-loading/](https://tw-elements.com/docs/standard/methods/lazy-loading/)
 * Loading management Basic example, Loading management JavaScript init, Loading management Colors, Loading management Custom spinners, Loading management TE Growing spinner, Loading management Custom icon, Loading management Delay, Loading management Full screen, Loading management Import, Loading management Usage: [tw-elements.com/docs/standard/methods/loading-management/](https://tw-elements.com/docs/standard/methods/loading-management/)
+* Spinner Default spinner, Spinner Colors, Spinner Sizes, Spinner Alignment, Spinner Progress spinner, Spinner Converting your image:, Spinner Accessibillity: [flowbite.com/docs/components/spinner/](https://flowbite.com/docs/components/spinner/)
 
 ## Modal
 
@@ -2264,7 +2250,6 @@
 * popup ftu: [tailwind.besoeasy.com/popup/ftu.html](https://tailwind.besoeasy.com/popup/ftu.html)
 * Popup #Floating Split with Image and Content and Close, Popup #Warning with Actions, Popup #Floating with Close: [hyperui.dev/components/marketing/popups](https://www.hyperui.dev/components/marketing/popups)
 * Alert - Modale, Alert - Modale with close btn: [tailwind-kit.com/components/alert](https://www.tailwind-kit.com/components/alert)
-* Select with search inside a modal: [tailwind-elements.com/docs/standard/forms/select/](https://tailwind-elements.com/docs/standard/forms/select/)
 * Modal Dialog modal, Modal Dialog modal, closes when clicked outside, Modal Dialog modal with a close button at corner, Modal Dialog modal with custom width, Modal Responsive, Modal using label + hidden checkbox, Modal that closes when clicked outside, Modal using anchor link: [daisyui.com/components/modal/](https://daisyui.com/components/modal/)
 * Dialog (Modal): [headlessui.com/react/dialog](https://headlessui.com/react/dialog)
 * Modal: [mambaui.com/components/modal](https://mambaui.com/components/modal)
@@ -2317,7 +2302,6 @@
 * Modal: [tailwindcomponents.com/component/modal](https://tailwindcomponents.com/component/modal)
 * Simple Modal: [tailwindcomponents.com/component/simple-modal](https://tailwindcomponents.com/component/simple-modal)
 * Login Modal: [tailwindcomponents.com/component/login-modal](https://tailwindcomponents.com/component/login-modal)
-* Modal Simple notification, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Sizes, Modal Positions, Modal Fullscreen modal, Modal Import: [tailwind-elements.com/docs/standard/components/modal/](https://tailwind-elements.com/docs/standard/components/modal/)
 * Modal: [tailwindtoolbox.com/components/modal](https://www.tailwindtoolbox.com/components/modal)
 * Full Screen Modal: [tailwindtoolbox.com/components/fullscreen-modal](https://www.tailwindtoolbox.com/components/fullscreen-modal)
 * modal left aligned form, modal left aligned form: [tailwinduikit.com/components/webapp/overlay/modal#left\_aligned\_form](https://tailwinduikit.com/components/webapp/overlay/modal#left_aligned_form)
@@ -2337,6 +2321,8 @@
 * Modal Alert Responsive Tailwind CSS: [tailwindcomponents.com/component/modal-alert-responsive-tailwind-css](https://tailwindcomponents.com/component/modal-alert-responsive-tailwind-css)
 * Modal with a subscription form: [tailwindcomponents.com/component/modal-with-a-subscription-form](https://tailwindcomponents.com/component/modal-with-a-subscription-form)
 * Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
+* Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour: [flowbite.com/docs/components/modal/](https://flowbite.com/docs/components/modal/)
+* Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
 
 ## Navigation/Header
 
@@ -2348,7 +2334,6 @@
 * navbar rds: [tailwind.besoeasy.com/navbar/rds.html](https://tailwind.besoeasy.com/navbar/rds.html)
 * navbar sdf: [tailwind.besoeasy.com/navbar/sdf.html](https://tailwind.besoeasy.com/navbar/sdf.html)
 * Navs Basic usage, Navs Example, Navs Available styles, Navs Tabs with underline, Navs With icons, Navs Horizontal alignment, Navs Vertical, Navs Segment, Navs Bar with underline, Navs Pills on gray color, Navs Pills with brand color, Navs Fill and justify, Navs Equal-width elements: [preline.co/docs/navs.html](https://preline.co/docs/navs.html)
-* Breadcrumbs Breadcrumb in navbar: [tailwind-elements.com/docs/standard/navigation/breadcrumbs/](https://tailwind-elements.com/docs/standard/navigation/breadcrumbs/)
 * Bottom navigation Bottom Navigation, Bottom navigation Bottom Navigation with brand colors, Bottom navigation Bottom Navigation with state colors, Bottom navigation With title, Bottom navigation With custom colors, Bottom navigation Sizes: [daisyui.com/components/bottom-navigation/](https://daisyui.com/components/bottom-navigation/)
 * Bottom Navigation Default bottom navigation, Bottom Navigation Menu items with border, Bottom Navigation Application bar example, Bottom Navigation Example with pagination, Bottom Navigation Online meeting control bar, Bottom Navigation Video player bar: [flowbite.com/docs/components/bottom-navigation/](https://flowbite.com/docs/components/bottom-navigation/)
 * Dropdown updated Dropdown in navbar: [daisyui.com/components/dropdown/](https://daisyui.com/components/dropdown/)
@@ -2510,7 +2495,6 @@
 * Site Header: [tailwindcomponents.com/component/site-header](https://tailwindcomponents.com/component/site-header)
 * Airbnb-like Navbar: [tailwindcomponents.com/component/airbnb-like-navbar](https://tailwindcomponents.com/component/airbnb-like-navbar)
 * Responsive Header: [tailwindcomponents.com/component/responsive-header](https://tailwindcomponents.com/component/responsive-header)
-* Headers Jumbotron, Headers Background image: [tailwind-elements.com/docs/standard/navigation/headers/](https://tailwind-elements.com/docs/standard/navigation/headers/)
 * Fixed Header: [tailwindtoolbox.com/templates/fixed-header](https://www.tailwindtoolbox.com/templates/fixed-header)
 * Responsive Header: [tailwindtoolbox.com/templates/responsive-header](https://www.tailwindtoolbox.com/templates/responsive-header)
 * Dark nav with white page header: [tailwindui.com/components/preview#component-10058606cac5398d7fa2c73b64089874](https://tailwindui.com/components/preview#component-10058606cac5398d7fa2c73b64089874)
@@ -2540,6 +2524,7 @@
 * Tailwind CSS Responsive Navbar: [tailwindcomponents.com/component/responsive-navbar-12](https://tailwindcomponents.com/component/responsive-navbar-12)
 * Responsive Tailwind CSS navbar: [tailwindcomponents.com/component/responsive-tailwind-css-navbar-1](https://tailwindcomponents.com/component/responsive-tailwind-css-navbar-1)
 * Headers Jumbotron, Headers Background image: [tw-elements.com/docs/standard/navigation/headers/](https://tw-elements.com/docs/standard/navigation/headers/)
+* Navbar Default navbar, Navbar Navbar with dropdown, Navbar Multi-level dropdown, Navbar Sticky navbar, Navbar Navbar with submenu, Navbar Navbar with search, Navbar Navbar with CTA button, Navbar Language dropdown, Navbar User menu dropdown, Navbar Mega menu navbar, Navbar Solid background, Navbar Hamburger menu, Navbar More examples, Navbar JavaScript behaviour: [flowbite.com/docs/components/navbar/](https://flowbite.com/docs/components/navbar/)
 
 ## Page
 
@@ -2687,6 +2672,7 @@
 * Tailwind CSS 404 Pages: [tailwindcomponents.com/component/404-pages](https://tailwindcomponents.com/component/404-pages)
 * 404 Page Templates: [tailwindcomponents.com/component/404-page-templates](https://tailwindcomponents.com/component/404-page-templates)
 * 404 Page responsive Tailwind CSS: [tailwindcomponents.com/component/404-page-responsive-tailwind-css](https://tailwindcomponents.com/component/404-page-responsive-tailwind-css)
+* 404 Page: [tailwindadmin.netlify.app/404](https://tailwindadmin.netlify.app/404)
 
 ### Pricing
 
@@ -2778,7 +2764,6 @@
 * Testimonial grid section: [tailwindcomponents.com/component/testimonial-grid-section](https://tailwindcomponents.com/component/testimonial-grid-section)
 * Testimonial UI: [tailwindcomponents.com/component/testimonial-ui-with-tailwindcss-and-alpinejs](https://tailwindcomponents.com/component/testimonial-ui-with-tailwindcss-and-alpinejs)
 * testimonial card: [tailwindcomponents.com/component/testimonial-card](https://tailwindcomponents.com/component/testimonial-card)
-* Testimonials Basic example, Testimonials with background image, Testimonials Small testimonials carousel, Testimonials with colorful cards, Testimonials Two columns testimonials: [tailwind-elements.com/docs/standard/components/testimonials/](https://tailwind-elements.com/docs/standard/components/testimonials/)
 * Testimonials - Small, Testimonials - Head, Testimonials - Big, Testimonials - Big with image on left, Testimonials - Multiple, Testimonials - Review, Testimonials - Review with rate: [tailwind-kit.com/components/testimonial](https://www.tailwind-kit.com/components/testimonial)
 * Testimonials: [windstatic.com/testimonials](https://windstatic.com/testimonials)
 * Cards Testimonial: [merakiui.com/components/cards](https://merakiui.com/components/cards)
@@ -2817,7 +2802,6 @@
 * Simple Pagination: [tailwindcomponents.com/component/simple-pagination](https://tailwindcomponents.com/component/simple-pagination)
 * Bootstrap style pagination: [tailwindcomponents.com/component/bootstrap-style-pagination](https://tailwindcomponents.com/component/bootstrap-style-pagination)
 * Bootstrap Like Pagination: [tailwindcomponents.com/component/bootstrap-like-pagination](https://tailwindcomponents.com/component/bootstrap-like-pagination)
-* Pagination Basic example, Pagination Icons, Pagination Disabled and active states, Pagination Alignment, Pagination Sizing, Pagination Shape, Pagination Color options: [tailwind-elements.com/docs/standard/navigation/pagination/](https://tailwind-elements.com/docs/standard/navigation/pagination/)
 * Pagination: [tailwindow.github.io/component-tailwindcss/components/button/pagination/index.html](https://tailwindow.github.io/component-tailwindcss/components/button/pagination/index.html)
 * Lexicon Pagination bar, Lexicon Simple Pagination, Argon Pagination: [tailwindtemplates.io/templates?category=pagination](https://tailwindtemplates.io/templates?category=pagination)
 * pagination pagination 2, pagination pagination 2: [tailwinduikit.com/components/webapp/navigation/pagination#pagination\_2](https://tailwinduikit.com/components/webapp/navigation/pagination#pagination_2)
@@ -2827,6 +2811,7 @@
 * Tailwind CSS Pagination: [tailwindcomponents.com/component/tailwind-css-pagination-by-material-tailwind](https://tailwindcomponents.com/component/tailwind-css-pagination-by-material-tailwind)
 * Tailwind CSS Pagination Responsive: [tailwindcomponents.com/component/pagination-responsive](https://tailwindcomponents.com/component/pagination-responsive)
 * Pagination Basic example, Pagination Icons, Pagination Disabled and active states, Pagination Alignment, Pagination Sizing, Pagination Shape, Pagination Color options: [tw-elements.com/docs/standard/navigation/pagination/](https://tw-elements.com/docs/standard/navigation/pagination/)
+* Pagination Default pagination, Pagination Pagination with icons, Pagination Previous and next, Pagination Previous and next with icons, Pagination Table data pagination, Pagination Table data pagination with icons: [flowbite.com/docs/components/pagination/](https://flowbite.com/docs/components/pagination/)
 
 ## Progress Bar
 
@@ -2870,13 +2855,13 @@
 * Windows 10 - Fluent Design - Progress Bar: [tailwindcomponents.com/component/windows-10-fluent-design-progress-bar](https://tailwindcomponents.com/component/windows-10-fluent-design-progress-bar)
 * Progress steps bar UX: [tailwindcomponents.com/component/progress-steps-bar-ux](https://tailwindcomponents.com/component/progress-steps-bar-ux)
 * Progress bar: [tailwindcomponents.com/component/progress-bar](https://tailwindcomponents.com/component/progress-bar)
-* Progress Basic example, Progress Width, Progress Labels, Progress Height, Progress Colors: [tailwind-elements.com/docs/standard/components/progress/](https://tailwind-elements.com/docs/standard/components/progress/)
 * Progress bar - Simple progress bar, Progress bar - Fat progress bar, Progress bar - With label, Progress bar - Colored, Progress bar - With badge: [tailwind-kit.com/components/progress](https://www.tailwind-kit.com/components/progress)
 * Progress Bar + Shimmer: [codepen.io/oidre/full/BaKBOqg](https://codepen.io/oidre/full/BaKBOqg)
 * progress bar thin with steps, progress bar thin with steps: [tailwinduikit.com/components/webapp/UI\_element/progress\_bar#thin\_with\_steps](https://tailwinduikit.com/components/webapp/UI_element/progress_bar#thin_with_steps)
 * Tailwind CSS Progress Bar: [tailwindcomponents.com/component/tailwind-css-progress-bar](https://tailwindcomponents.com/component/tailwind-css-progress-bar)
 * Tailwind CSS Indeterminate Progress Bar: [tailwindcomponents.com/component/indeterminate-progress-bar](https://tailwindcomponents.com/component/indeterminate-progress-bar)
 * Progress Basic example, Progress Width, Progress Labels, Progress Height, Progress Colors: [tw-elements.com/docs/standard/components/progress/](https://tw-elements.com/docs/standard/components/progress/)
+* Progress Default progress bar, Progress Sizes, Progress With label inside, Progress With label outside, Progress Colors: [flowbite.com/docs/components/progress/](https://flowbite.com/docs/components/progress/)
 
 ## Skeleton
 
@@ -2895,11 +2880,11 @@
 * Tailwind CSS Skeleton Loader  - Content Loading Placeholder: [tailwindcomponents.com/component/skeleton-loader](https://tailwindcomponents.com/component/skeleton-loader)
 * Tailwind CSS Simple Skeleton Animation: [tailwindcomponents.com/component/simple-skeleton-animation](https://tailwindcomponents.com/component/simple-skeleton-animation)
 * Tailwind CSS Skeleton: [tailwindcomponents.com/component/skeleton](https://tailwindcomponents.com/component/skeleton)
+* Skeleton Default skeleton, Skeleton Image placeholder, Skeleton Video placeholder, Skeleton Text placeholder, Skeleton Card placeholder, Skeleton Widget placeholder, Skeleton List placeholder, Skeleton Accessibility: [flowbite.com/docs/components/skeleton/](https://flowbite.com/docs/components/skeleton/)
 
 ## Sidebar
 
 * Side Menu #Icons with Titles, Side Menu #Multi Layout Column: [hyperui.dev/components/application-ui/side-menu](https://www.hyperui.dev/components/application-ui/side-menu)
-* Sidenav Basic example, Sidenav Positioning, Sidenav Dark, Sidenav Slim, Sidenav Groups, Sidenav Right, Sidenav Full-screen examples, Sidenav Basic side navigation, Sidenav Side navigation with a mode transition, Sidenav Slim side navigation (dark), Sidenav TE Navigation, Sidenav small and with categories, Sidenav Import, Sidenav Usage: [tailwind-elements.com/docs/standard/navigation/sidenav/](https://tailwind-elements.com/docs/standard/navigation/sidenav/)
 * Sidebar - Light, Sidebar - With icons, Sidebar - With border, Sidebar - With Divider, Sidebar - With gradient, Sidebar - Just icon: [tailwind-kit.com/components/sidebar](https://www.tailwind-kit.com/components/sidebar)
 * Drawer Default drawer, Drawer Drawer navigation, Drawer Form elements, Drawer Placement, Drawer Body scrolling, Drawer Backdrop, Drawer Swipeable edge, Drawer More examples, Drawer JavaScript behaviour: [flowbite.com/docs/components/drawer/](https://flowbite.com/docs/components/drawer/)
 * Drawer, Drawer Responsive, Drawer Navbar menu for desktop + sidebar drawer for mobile, Drawer that opens from right side of page: [daisyui.com/components/drawer/](https://daisyui.com/components/drawer/)
@@ -2956,6 +2941,7 @@
 * Tailwind CSS Sidebar Dashboard: [tailwindcomponents.com/component/tailwind-css-sidebar-dashboard](https://tailwindcomponents.com/component/tailwind-css-sidebar-dashboard)
 * Dashboard Tailwind CSS SideBar: [tailwindcomponents.com/component/dashboard-tailwind-sidebar](https://tailwindcomponents.com/component/dashboard-tailwind-sidebar)
 * Tailwind CSS Drawer Sidenav: [tailwindcomponents.com/component/drawer-sidenav](https://tailwindcomponents.com/component/drawer-sidenav)
+* Sidebar Default sidebar, Sidebar Multi-level menu, Sidebar Content separator, Sidebar Logo branding, Sidebar Off-canvas sidebar, Sidebar More examples, Sidebar Dashboard Layout: [flowbite.com/docs/components/sidebar/](https://flowbite.com/docs/components/sidebar/)
 
 ## Comment
 
@@ -2988,12 +2974,12 @@
 * Steps with colors: [tailwindcomponents.com/component/steps-with-colors](https://tailwindcomponents.com/component/steps-with-colors)
 * Wizard Steps Bar with Tailwind CSS: [tailwindcomponents.com/component/steps-bar](https://tailwindcomponents.com/component/steps-bar)
 * Multistep Form with TailwindCSS and AlpineJS: [tailwindcomponents.com/component/multistep-form-with-tailwindcss-and-alpinejs](https://tailwindcomponents.com/component/multistep-form-with-tailwindcss-and-alpinejs)
-* Stepper Basic example, Stepper Vertical stepper, Stepper Import, Stepper Usage: [tailwind-elements.com/docs/standard/components/stepper/](https://tailwind-elements.com/docs/standard/components/stepper/)
 * Steps: [windstatic.com/steps](https://windstatic.com/steps)
 * Stepper New Basic usage, Stepper New Static, Stepper New Linear, Stepper New Responsive, Stepper New Types, Stepper New White, Stepper New Solid, Stepper New Alignment, Stepper New Center, Stepper New Dynamic Linear, Stepper New Non-linear, Stepper New Skipped, Stepper New Active, Stepper New Error, Stepper New Success: [preline.co/docs/stepper.html](https://preline.co/docs/stepper.html)
 * steps translated in Arabic and English: [tailwindcomponents.com/component/steps-translated-in-arabic-and-english](https://tailwindcomponents.com/component/steps-translated-in-arabic-and-english)
 * Tailwind CSS Stepper: [tailwindcomponents.com/component/tailwind-css-stepper](https://tailwindcomponents.com/component/tailwind-css-stepper)
 * Stepper Basic example, Stepper Vertical stepper, Stepper Import, Stepper Usage: [tw-elements.com/docs/standard/components/stepper/](https://tw-elements.com/docs/standard/components/stepper/)
+* Stepper Default stepper, Stepper Detailed stepper, Stepper Vertical stepper, Stepper Timeline stepper: [flowbite.com/docs/components/stepper/](https://flowbite.com/docs/components/stepper/)
 
 ## Switch
 
@@ -3035,18 +3021,17 @@
 * Tailwind CSS Grid/List Toggle: [tailwindcomponents.com/component/gridlist-toggle](https://tailwindcomponents.com/component/gridlist-toggle)
 * Toggle: [tailwindcomponents.com/component/toggle](https://tailwindcomponents.com/component/toggle)
 * iOS switches: [tailwindcomponents.com/component/ios-switches](https://tailwindcomponents.com/component/ios-switches)
-* Switch Basic example, Switch Checked, Switch Disabled, Switch Disabled checked, Switch Without labels: [tailwind-elements.com/docs/standard/forms/switch/](https://tailwind-elements.com/docs/standard/forms/switch/)
 * Lo-fi Tailwind CSS Toggles: [codepen.io/robstinson/pen/mdPabam](https://codepen.io/robstinson/pen/mdPabam)
 * Table with Toggle SVG: [tailwindcomponents.com/component/table-with-toggle-svg](https://tailwindcomponents.com/component/table-with-toggle-svg)
 * Tailwind CSS Toggle switch: [tailwindcomponents.com/component/toggle-switch-with-text-made-with-tailwind](https://tailwindcomponents.com/component/toggle-switch-with-text-made-with-tailwind)
 * Tailwind CSS Toggle switches: [tailwindcomponents.com/component/toggle-switches](https://tailwindcomponents.com/component/toggle-switches)
 * Tailwind CSS Switch  Toggle: [tailwindcomponents.com/component/switch-toggle-2](https://tailwindcomponents.com/component/switch-toggle-2)
 * Switch Basic example, Switch Checked, Switch Disabled, Switch Disabled checked, Switch Without labels: [tw-elements.com/docs/standard/forms/switch/](https://tw-elements.com/docs/standard/forms/switch/)
+* Toggle Toggle example, Toggle Checked state, Toggle Disabled state, Toggle Colors, Toggle Sizes: [flowbite.com/docs/forms/toggle/](https://flowbite.com/docs/forms/toggle/)
 
 ## Tags
 
 * Badge Default badge, Badge Large badges, Badge Bordered badge, Badge Pills badge, Badge Badges as links, Badge Badges with icon, Badge Button with badge, Badge Badge with icon only, Badge Chips (dismissible badges): [flowbite.com/docs/components/badge/](https://flowbite.com/docs/components/badge/)
-* Pills Basic example, Pills Fill, Pills Justify, Pills Vertical, Pills Color options, Pills Import, Pills Usage: [tailwind-elements.com/docs/standard/navigation/pills/](https://tailwind-elements.com/docs/standard/navigation/pills/)
 * Chip: [a17t.miles.land/information/chip/](https://a17t.miles.land/information/chip/)
 * Pill Tabs Component: [postsrc.com/components/tailwind-css-tabs/pill-tabs-component](https://postsrc.com/components/tailwind-css-tabs/pill-tabs-component)
 * Tab in pills: [sailboatui.com/docs/components/tab/#tab-in-pills](https://sailboatui.com/docs/components/tab/#tab-in-pills)
@@ -3060,7 +3045,6 @@
 * Tag Line: [tailwindcomponents.com/component/tag-line](https://tailwindcomponents.com/component/tag-line)
 * Label-Tag: [tailwindcomponents.com/component/label-tag](https://tailwindcomponents.com/component/label-tag)
 * Pills: [tailwindcomponents.com/component/pills](https://tailwindcomponents.com/component/pills)
-* Chips Outline, Chips Placeholder, Chips Initial Value, Chips Content editable, Chips Import, Chips Usage: [tailwind-elements.com/docs/standard/components/chips/](https://tailwind-elements.com/docs/standard/components/chips/)
 * Tabs Pills: [tinywind.dev/components/tabs](https://tinywind.dev/components/tabs)
 * Pills Basic example, Pills Fill, Pills Justify, Pills Vertical, Pills Color options, Pills Import, Pills Usage: [tw-elements.com/docs/standard/navigation/pills/](https://tw-elements.com/docs/standard/navigation/pills/)
 * Tailwind CSS hover Tags: [tailwindcomponents.com/component/hover-tags](https://tailwindcomponents.com/component/hover-tags)
@@ -3096,7 +3080,6 @@
 * Tooltip: [tailwindcomponents.com/component/tooltip-2](https://tailwindcomponents.com/component/tooltip-2)
 * Tooltip: [tailwindcomponents.com/component/tooltip-1](https://tailwindcomponents.com/component/tooltip-1)
 * Tooltip: [tailwindcomponents.com/component/tooltip](https://tailwindcomponents.com/component/tooltip)
-* Tooltip Basic example, Tooltip Four directions, Tooltip With custom HTML, Tooltip Disabled, Tooltip Usage: [tailwind-elements.com/docs/standard/components/tooltip/](https://tailwind-elements.com/docs/standard/components/tooltip/)
 * tooltip simple, tooltip simple: [tailwinduikit.com/components/webapp/UI\_element/tooltip#simple](https://tailwinduikit.com/components/webapp/UI_element/tooltip#simple)
 * tooltip with steps alternate, tooltip with steps alternate: [tailwinduikit.com/components/webapp/UI\_element/tooltip#with\_steps\_alternate](https://tailwinduikit.com/components/webapp/UI_element/tooltip#with_steps_alternate)
 * Lo-fi Tailwind CSS Tooltip - Bottom Aligned: [codepen.io/robstinson/pen/oNxPbRL](https://codepen.io/robstinson/pen/oNxPbRL)
@@ -3108,6 +3091,7 @@
 * Multi range slider Tooltips: [tw-elements.com/docs/standard/forms/multi-range-slider/](https://tw-elements.com/docs/standard/forms/multi-range-slider/)
 * Tooltip: [tailwindcomponents.com/component/tooltip-6](https://tailwindcomponents.com/component/tooltip-6)
 * Tooltip Basic example, Tooltip Four directions, Tooltip With custom HTML, Tooltip Disabled, Tooltip Import, Tooltip Usage: [tw-elements.com/docs/standard/components/tooltip/](https://tw-elements.com/docs/standard/components/tooltip/)
+* Tooltips Default tooltip example, Tooltips Tooltip styles, Tooltips Placement, Tooltips Triggering, Tooltips Animation, Tooltips Disable arrow, Tooltips JavaScript behaviour: [flowbite.com/docs/components/tooltips/](https://flowbite.com/docs/components/tooltips/)
 
 ## Table
 
@@ -3170,7 +3154,6 @@
 * user table: [tailwindcomponents.com/component/user-table](https://tailwindcomponents.com/component/user-table)
 * Table: [tailwindcomponents.com/component/table](https://tailwindcomponents.com/component/table)
 * Fixed Height Scrollable Table: [tailwindcomponents.com/component/fixed-height-scrollable-table](https://tailwindcomponents.com/component/fixed-height-scrollable-table)
-* Tables Basic example, Tables Variants, Tables Striped, Tables Hoverable, Tables Bordered, Tables Borderless, Tables Small, Tables Light Head, Tables Dark Head, Tables Always responsive: [tailwind-elements.com/docs/standard/data/tables/](https://tailwind-elements.com/docs/standard/data/tables/)
 * Responsive Table: [tailwindtoolbox.com/components/responsive-table](https://www.tailwindtoolbox.com/components/responsive-table)
 * Table Components \[$]: [gum.co/HJDDn](https://gum.co/HJDDn)
 * advance table tasks, advance table tasks: [tailwinduikit.com/components/webapp/table/advance\_table#tasks](https://tailwinduikit.com/components/webapp/table/advance_table#tasks)
@@ -3187,11 +3170,12 @@
 * Tailwind CSS Projects table: [tailwindcomponents.com/component/tailwind-css-projects-table](https://tailwindcomponents.com/component/tailwind-css-projects-table)
 * Responsive Table with Tailwind CSS: [tailwindcomponents.com/component/responsive-table-with-tailwind-css](https://tailwindcomponents.com/component/responsive-table-with-tailwind-css)
 * Tables Basic example, Tables Variants, Tables Striped, Tables Hoverable, Tables Bordered, Tables Borderless, Tables Small, Tables Light Head, Tables Dark Head, Tables Always responsive: [tw-elements.com/docs/standard/data/tables/](https://tw-elements.com/docs/standard/data/tables/)
+* Tables Default table, Tables Highlight, Tables Table layout, Tables Table styles, Tables Overflow scrolling, Tables Table filter, Tables Table with users, Tables Table with products, Tables Comparison table, Tables Table colors, Tables More examples: [flowbite.com/docs/components/tables/](https://flowbite.com/docs/components/tables/)
+* Tables Bordered Table, Tables Colored Table, Tables Full Table: [tailwindadmin.netlify.app/tables](https://tailwindadmin.netlify.app/tables)
 
 ## List
 
 * List Group Basic usage, List Group Example, List Group Icons, List Group Links, List Group Striped, List Group Flush, List Group No gutters, List Group Horizontal, List Group List group invoice New, List Group List group examples New: [preline.co/docs/list-group.html](https://preline.co/docs/list-group.html)
-* List group Basic example, List group Active items, List group Disabled items, List group Links: [tailwind-elements.com/docs/standard/components/listgroup/](https://tailwind-elements.com/docs/standard/components/listgroup/)
 * List - Simple list, List - With action, List - Bloc list, List - With desc, List - With desc and action, List - With hover effect, List - Todo list, List - Desc bloc list: [tailwind-kit.com/components/list](https://www.tailwind-kit.com/components/list)
 * Fancy Product List 1: [fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList1](https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList1)
 * Fancy Product List 5: [fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList5](https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList5)
@@ -3247,11 +3231,12 @@
 * Tailwind CSS Components List: [tailwindcomponents.com/component/tailwind-components](https://tailwindcomponents.com/component/tailwind-components)
 * Tailwind CSS Unlimited User check list: [tailwindcomponents.com/component/unlimeted-user](https://tailwindcomponents.com/component/unlimeted-user)
 * Tailwind CSS Process List: [tailwindcomponents.com/component/our-process](https://tailwindcomponents.com/component/our-process)
+* List Group Default list group, List Group List group with links, List Group List group with icons: [flowbite.com/docs/components/list-group/](https://flowbite.com/docs/components/list-group/)
+* Lists Unordered list, Lists Password requirements:, Lists Password requirements:, Lists Password requirements:, Lists Ordered list, Lists Top students:, Lists Description list, Lists List with icons, Lists Advanced layout, Lists Horizontal list: [flowbite.com/docs/typography/lists/](https://flowbite.com/docs/typography/lists/)
 
 ## Tab
 
 * Tabs About, Tabs Tabs with underline, Tabs Tabs with icons, Tabs Horizontal alignment, Tabs Vertical, Tabs Horizontal scroll New, Tabs Segment, Tabs Bar with underline, Tabs Fill and justify, Tabs Equal-width elements: [preline.co/docs/tabs.html](https://preline.co/docs/tabs.html)
-* Tabs Basic example, Tabs Fill, Tabs Justify, Tabs Vertical, Tabs Color options, Tabs Import, Tabs Usage: [tailwind-elements.com/docs/standard/navigation/tabs/](https://tailwind-elements.com/docs/standard/navigation/tabs/)
 * Tab updated Tabs, Tab updated Bordered, Tab updated Lifted, Tab updated Boxed, Tab updated Sizes, Tab updated Tabs with custom color: [daisyui.com/components/tab/](https://daisyui.com/components/tab/)
 * Fancy Tabs 1: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs1](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs1)
 * Fancy Tabs 3: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs3](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs3)
@@ -3293,6 +3278,7 @@
 * Tab Variant 1, Tab Variant 2: [kimia-ui.vercel.app/components/tab](https://kimia-ui.vercel.app/components/tab)
 * Tabs Basic example, Tabs Fill, Tabs Justify, Tabs Vertical, Tabs Color options, Tabs Import, Tabs Usage: [tw-elements.com/docs/standard/navigation/tabs/](https://tw-elements.com/docs/standard/navigation/tabs/)
 * Tab #Simple, Tab #Simple (Branded), Tab #Tabbed: [hyperui.dev/components/application-ui/tabs](https://www.hyperui.dev/components/application-ui/tabs)
+* Tabs Default tabs, Tabs Tabs with underline, Tabs Tabs with icons, Tabs Vertical tabs, Tabs Full width tabs, Tabs Interactive tabs, Tabs Active tab style, Tabs JavaScript behaviour: [flowbite.com/docs/components/tabs/](https://flowbite.com/docs/components/tabs/)
 
 ## Timeline
 
@@ -3317,11 +3303,11 @@
 * User Timeline: [tailwindcomponents.com/component/user-timeline](https://tailwindcomponents.com/component/user-timeline)
 * Timeline: [tailwindcomponents.com/component/timeline-2](https://tailwindcomponents.com/component/timeline-2)
 * Timeline: [tailwindcomponents.com/component/timeline](https://tailwindcomponents.com/component/timeline)
-* Timeline Basic example, Timeline Horizontal example, Timeline Primary color, Timeline Icons: [tailwind-elements.com/docs/standard/components/timeline/](https://tailwind-elements.com/docs/standard/components/timeline/)
 * Timeline New Basic usage, Timeline New Collapsable, Timeline New Types, Timeline New Hoverable rows, Timeline New With time: [preline.co/docs/timeline.html](https://preline.co/docs/timeline.html)
 * Timeline new Timeline with text on both sides and icon, Timeline new Timeline with bottom side only, Timeline new Timeline with top side only, Timeline new Timeline with different sides, Timeline new Timeline with colorful lines, Timeline new Timeline without icons, Timeline new Vertical timeline with text on both sides and icon, Timeline new Vertical timeline with bottom side only, Timeline new Vertical timeline with top side only, Timeline new Vertical timeline with different sides, Timeline new Vertical timeline with colorful lines, Timeline new Vertical timeline without icons, Timeline new Responsive: vertical by default, horizontal on large screen, Timeline new Timeline with icon snapped to the start: [daisyui.com/components/timeline/](https://daisyui.com/components/timeline/)
 * Tailwind CSS md:Delivery Timeline: [tailwindcomponents.com/component/delivery-timeline](https://tailwindcomponents.com/component/delivery-timeline)
 * Timeline Basic example, Timeline Horizontal example, Timeline Primary color, Timeline Icons: [tw-elements.com/docs/standard/components/timeline/](https://tw-elements.com/docs/standard/components/timeline/)
+* Timeline Default timeline, Timeline Vertical timeline, Timeline Activity log, Timeline Grouped timeline: [flowbite.com/docs/components/timeline/](https://flowbite.com/docs/components/timeline/)
 
 ## Other
 
@@ -3410,7 +3396,6 @@
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/section-headers](https://floatui.com/components/section-headers)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/buttons](https://floatui.com/components/buttons)
 * Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing FAQs, Free Tailwind CSS Marketing Sections, Free Tailwind CSS Marketing Stats: [hyperui.dev/components/marketing](https://www.hyperui.dev/components/marketing)
-* Link Colored links, Link Within the sentence, Link Underline, Link Underline on hover: [tailwind-elements.com/docs/standard/components/link/](https://tailwind-elements.com/docs/standard/components/link/)
 * Lexicon Text Area With message: [tailwindtemplates.io/templates?category=input](https://tailwindtemplates.io/templates?category=input)
 * Section #Content with USPs Grid, Section #Split with Content and Link Grid, Section #Split with Content and Image, Section #Content and Split with Image and Content, Section #Split with Image and Content with Overlap Background: [hyperui.dev/components/marketing/sections](https://www.hyperui.dev/components/marketing/sections)
 * Stack 3 divs without stack, Stack 3 divs with stack, Stack stacked images: [daisyui.com/components/stack/](https://daisyui.com/components/stack/)
@@ -3425,12 +3410,9 @@
 * Primer Blankslate: [tailwindtemplates.io/templates?category=card](https://tailwindtemplates.io/templates?category=card)
 * Gallery Default gallery, Gallery Masonry grid, Gallery Featured image, Gallery Quad gallery: [flowbite.com/docs/components/gallery/](https://flowbite.com/docs/components/gallery/)
 * Announcement #Simple, Announcement #With Close, Announcement #With Action, Announcement #Fixed Bottom, Announcement #Fixed Bottom with Close, Announcement #Floating Bottom, Announcement #Floating Bottom with Close: [hyperui.dev/components/marketing/announcements](https://www.hyperui.dev/components/marketing/announcements)
-* Gallery Basic example, Gallery Mix: [tailwind-elements.com/docs/standard/components/gallery/](https://tailwind-elements.com/docs/standard/components/gallery/)
-* Video Responsive video 21:9, Video Responsive video 16:9, Video Responsive video 4:3, Video Responsive video 1:1, Video iframe, Video with autoplay option, Video hover to play: [tailwind-elements.com/docs/standard/components/video/](https://tailwind-elements.com/docs/standard/components/video/)
 * Product Collection #Simple, Product Collection #Simple with Centered Title, Product Collection #Sort & Layout, Product Collection #Filtering (Side): [hyperui.dev/components/ecommerce/product-collections](https://www.hyperui.dev/components/ecommerce/product-collections)
 * Join (group items) Join, Join (group items) Group items vertically, Join (group items) Responsive: it's vertical on small screen and horizontal on large screen, Join (group items) With extra elements in the group, Join (group items) Custom border radius: [daisyui.com/components/join/](https://daisyui.com/components/join/)
 * Banner Default sticky banner, Banner Bottom banner position, Banner Marketing CTA banner, Banner Integration is the key, Banner More examples: [flowbite.com/docs/components/banner/](https://flowbite.com/docs/components/banner/)
-* Typography Headings, Typography Customizing headings, Typography Display headings, Typography Lead, Typography Inline text elements, Typography Blockquotes, Typography Text alignment, Typography Text wrapping and overflow, Typography Text nowrap, Typography Font weight and italics, Typography Line height: [tailwind-elements.com/docs/standard/content-styles/typography/](https://tailwind-elements.com/docs/standard/content-styles/typography/)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/contact-sections](https://floatui.com/components/contact-sections)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/authentication](https://floatui.com/components/authentication)
 * CTA #Content and Image, CTA #Content and Offset Image, CTA #Featured Product, CTA #Content with Image Grid: [hyperui.dev/components/marketing/ctas](https://www.hyperui.dev/components/marketing/ctas)
@@ -3443,7 +3425,6 @@
 * Cart #Contained: [hyperui.dev/components/ecommerce/carts](https://www.hyperui.dev/components/ecommerce/carts)
 * Lexicon Confirmation Message: [tailwindtemplates.io/templates?category=modal](https://tailwindtemplates.io/templates?category=modal)
 * Getting Started, Marketing UI, Application UI, Dark Logo Grid, Logo Grid with title, Logo Grid with tow rows, Divided Logo Grid: [floatui.com/components/logo-grid](https://floatui.com/components/logo-grid)
-* Jumbotron Basic example, Jumbotron Background image: [tailwind-elements.com/docs/standard/components/jumbotron/](https://tailwind-elements.com/docs/standard/components/jumbotron/)
 * Getting Started, Marketing UI, Application UI, with previous and next link: [floatui.com/components/paginations](https://floatui.com/components/paginations)
 * Awesome Landing (Hugo): [github.com/ttntm/hugo-landing-page](https://github.com/ttntm/hugo-landing-page)
 * Awesome Landing (11ty): [github.com/ttntm/11ty-landing-page](https://github.com/ttntm/11ty-landing-page)
@@ -3454,11 +3435,7 @@
 * Grid #1x1, Grid #1x2, Grid #2x1, Grid #1x1x1, Grid #1x1x1x1, Grid #1x1x2, Grid #2x1x1, Grid #1x2x1: [hyperui.dev/components/application-ui/grids](https://www.hyperui.dev/components/application-ui/grids)
 * Range, Range Primary color, Range Secondary color, Range Accent color, Range Success color, Range Warning color, Range Info color, Range Error color, Range Sizes: [daisyui.com/components/range/](https://daisyui.com/components/range/)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/steps](https://floatui.com/components/steps)
-* Range Basic example, Range Disabled, Range Min and max: [tailwind-elements.com/docs/standard/forms/range/](https://tailwind-elements.com/docs/standard/forms/range/)
-* Dark mode Introduction, Dark mode Enabling dark mode: [tailwind-elements.com/docs/standard/getting-started/dark-mode/](https://tailwind-elements.com/docs/standard/getting-started/dark-mode/)
-* Charts Bar chart, Charts Line chart, Charts Bar chart horizontal, Charts Pie chart, Charts Doughnut chart, Charts Polar chart, Charts Radar chart, Charts Bubble chart, Charts Scatter chart, Charts Bar chart with custom options, Charts Bar chart with darkmode customization, Charts Bar chart with darkmode customization (with JS), Charts Import, Charts Usage, Charts Options, Charts Methods, Charts Events: [tailwind-elements.com/docs/standard/data/charts/](https://tailwind-elements.com/docs/standard/data/charts/)
 * Device Mockups Default mockup, Device Mockups iPhone 12 mockup (iOS), Device Mockups Google Pixel (Android), Device Mockups Laptop mockup, Device Mockups Desktop mockup, Device Mockups Smartwatch mockup, Device Mockups Mockup colors: [flowbite.com/docs/components/device-mockups/](https://flowbite.com/docs/components/device-mockups/)
-* Mega menu Basic example, Mega menu Bolded headings, Mega menu Punctuation, Mega menu Big news: [tailwind-elements.com/docs/standard/navigation/mega-menu/](https://tailwind-elements.com/docs/standard/navigation/mega-menu/)
 * Empty states Basic, Empty states Minimal: [tinywind.dev/components/empty-states](https://tinywind.dev/components/empty-states)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/tabs](https://floatui.com/components/tabs)
 * Nextly (Landing): [web3templates.com/templates/stablo-minimal-blog-website-template](https://web3templates.com/templates/stablo-minimal-blog-website-template)
@@ -4411,35 +4388,6 @@
 * Article: [tailwindcomponents.com/component/article](https://tailwindcomponents.com/component/article)
 * Dropzone: [tailwindcomponents.com/component/dropzone](https://tailwindcomponents.com/component/dropzone)
 * Left Accent Border: [tailwindcomponents.com/component/left-accent-border](https://tailwindcomponents.com/component/left-accent-border)
-* Theming Introduction, Theming Theme structure, Theming Screens, Theming Colors, Theming Spacing, Theming Customizing the default theme, Theming Extending the default theme, Theming Overriding the default theme: [tailwind-elements.com/docs/standard/getting-started/theming/](https://tailwind-elements.com/docs/standard/getting-started/theming/)
-* Contribute Start here, Contribute Start with sharing your feedback, Contribute Vote on the roadmap, Contribute Spread the word, Contribute Help us improve, Contribute Propose new features, Contribute Report bugs, Contribute Ask questions, Contribute Help others, Contribute Open a Pull Request, Contribute Package contributions, Contribute Documentation contributions: [tailwind-elements.com/docs/standard/getting-started/contribute/](https://tailwind-elements.com/docs/standard/getting-started/contribute/)
-* Angular Prerequisites, Angular Creating a new Angular application, Angular Installing and configuring Tailwind CSS and Tailwind Elements, Angular Initializing via JS, Prerequisites, Creating a new Angular application, Installing and configuring Tailwind CSS and Tailwind Elements, Initializing via JS: [tailwind-elements.com/docs/standard/integrations/angular-integration/](https://tailwind-elements.com/docs/standard/integrations/angular-integration/)
-* Django Prerequisites, Django Creating a new Django application, Django Installing and configuring Tailwind CSS and Tailwind Elements, Django Initializing via JS, Prerequisites, Creating a new Django application, Installing and configuring Tailwind CSS and Tailwind Elements, Initializing via JS: [tailwind-elements.com/docs/standard/integrations/django-integration/](https://tailwind-elements.com/docs/standard/integrations/django-integration/)
-* Express Prerequisites, Express Creating a new Express application, Express Installing and configuring Tailwind CSS and Tailwind Elements, Express Initializing via JS, Prerequisites, Creating a new Express application, Installing and configuring Tailwind CSS and Tailwind Elements, Initializing via JS: [tailwind-elements.com/docs/standard/integrations/express-integration/](https://tailwind-elements.com/docs/standard/integrations/express-integration/)
-* Laravel Prerequisites, Laravel Creating a new Laravel application, Laravel Installing and configuring Tailwind CSS and Tailwind Elements, Laravel Initializing via JS, Prerequisites, Creating a new Laravel application, Installing and configuring Tailwind CSS and Tailwind Elements, Initializing via JS: [tailwind-elements.com/docs/standard/integrations/laravel-integration/](https://tailwind-elements.com/docs/standard/integrations/laravel-integration/)
-* Next Prerequisites, Next Creating a new Next application, Next Installing and configuring Tailwind CSS and Tailwind Elements, Next Initializing via JS, Prerequisites, Creating a new Next application, Installing and configuring Tailwind CSS and Tailwind Elements, Initializing via JS: [tailwind-elements.com/docs/standard/integrations/next-integration/](https://tailwind-elements.com/docs/standard/integrations/next-integration/)
-* Nuxt Prerequisites, Nuxt Creating a new Nuxt application, Nuxt Installing and configuring Tailwind CSS and Tailwind Elements, Nuxt Initializing via JS, Prerequisites, Creating a new Nuxt application, Installing and configuring Tailwind CSS and Tailwind Elements, Initializing via JS: [tailwind-elements.com/docs/standard/integrations/nuxt-integration/](https://tailwind-elements.com/docs/standard/integrations/nuxt-integration/)
-* React Dedicated package, React Prerequisites, React Creating a new React application, React Installing and configuring Tailwind CSS and Tailwind Elements, React Initializing via JS, Dedicated package, Prerequisites, Creating a new React application, Installing and configuring Tailwind CSS and Tailwind Elements, Initializing via JS: [tailwind-elements.com/docs/standard/integrations/react-integration/](https://tailwind-elements.com/docs/standard/integrations/react-integration/)
-* Remix Prerequisites, Remix Creating a new Remix application, Remix Installing and configuring Tailwind CSS and Tailwind Elements, Remix Initializing via JS, Prerequisites, Creating a new Remix application, Installing and configuring Tailwind CSS and Tailwind Elements, Initializing via JS: [tailwind-elements.com/docs/standard/integrations/remix-integration/](https://tailwind-elements.com/docs/standard/integrations/remix-integration/)
-* Solid Prerequisites, Solid Creating a new Solid application, Solid Installing and configuring Tailwind CSS and Tailwind Elements, Solid Initializing via JS, Prerequisites, Creating a new Solid application, Installing and configuring Tailwind CSS and Tailwind Elements, Initializing via JS: [tailwind-elements.com/docs/standard/integrations/solid-integration/](https://tailwind-elements.com/docs/standard/integrations/solid-integration/)
-* Svelte Prerequisites, Svelte Creating a new Svelte application, Svelte Installing and configuring Tailwind CSS and Tailwind Elements, Svelte Initializing via JS, Prerequisites, Creating a new Svelte application, Installing and configuring Tailwind CSS and Tailwind Elements, Initializing via JS: [tailwind-elements.com/docs/standard/integrations/svelte-integration/](https://tailwind-elements.com/docs/standard/integrations/svelte-integration/)
-* Vue Prerequisites, Vue Creating a new Vue application, Vue Installing and configuring Tailwind CSS and Tailwind Elements, Vue Initializing via JS, Prerequisites, Creating a new Vue application, Installing and configuring Tailwind CSS and Tailwind Elements, Initializing via JS: [tailwind-elements.com/docs/standard/integrations/vue-integration/](https://tailwind-elements.com/docs/standard/integrations/vue-integration/)
-* Animations Basic example, Animations Import, Animations Usage: [tailwind-elements.com/docs/standard/content-styles/animations/](https://tailwind-elements.com/docs/standard/content-styles/animations/)
-* Colors Theme, Colors Shades, Colors Background, Colors Text: [tailwind-elements.com/docs/standard/content-styles/colors/](https://tailwind-elements.com/docs/standard/content-styles/colors/)
-* Dividers Basic example, Dividers Basic vertical, Dividers Blurry horizontal, Dividers Blurry vertical, Dividers Blurry divider practical example: [tailwind-elements.com/docs/standard/content-styles/dividers/](https://tailwind-elements.com/docs/standard/content-styles/dividers/)
-* Figures Basic examples: [tailwind-elements.com/docs/standard/content-styles/figures/](https://tailwind-elements.com/docs/standard/content-styles/figures/)
-* Headings H1, Headings H2, Headings H3, Headings H4, Headings H5, Headings H6: [tailwind-elements.com/docs/standard/content-styles/headings/](https://tailwind-elements.com/docs/standard/content-styles/headings/)
-* Hover effects Basic example, Hover effects Color, Hover effects Gradient, Hover effects Zoom, Hover effects Shadow: [tailwind-elements.com/docs/standard/content-styles/hover-effects/](https://tailwind-elements.com/docs/standard/content-styles/hover-effects/)
-* Icons Sizing, Icons Examples of svg icons, Icons Fixed Width Icons: [tailwind-elements.com/docs/standard/content-styles/icons/](https://tailwind-elements.com/docs/standard/content-styles/icons/)
-* Images Responsive images, Images Thumbnails, Images Shadows, Images Shadow on hover, Images Shapes: [tailwind-elements.com/docs/standard/content-styles/images/](https://tailwind-elements.com/docs/standard/content-styles/images/)
-* Mask Basic example, Mask Color, Mask Gradient, Mask Opacity, Mask Content, Mask Ripple, Mask Link regular, Mask Link with ripple: [tailwind-elements.com/docs/standard/content-styles/mask/](https://tailwind-elements.com/docs/standard/content-styles/mask/)
-* Shadows Basic example, Shadows Strong shadows, Shadows Inner shadow, Shadows Shadow on hover, Shadows Images with shadow: [tailwind-elements.com/docs/standard/content-styles/shadows/](https://tailwind-elements.com/docs/standard/content-styles/shadows/)
-* Offcanvas Basic, Offcanvas Placement - top, Offcanvas Placement - right, Offcanvas Placement - bottom, Offcanvas Import, Offcanvas Usage: [tailwind-elements.com/docs/standard/navigation/offcanvas/](https://tailwind-elements.com/docs/standard/navigation/offcanvas/)
-* Scrollspy Basic example, Scrollspy Import, Scrollspy Usage: [tailwind-elements.com/docs/standard/navigation/scrollspy/](https://tailwind-elements.com/docs/standard/navigation/scrollspy/)
-* Paragraphs Basic, Paragraphs Lead, Paragraphs Quote, Paragraphs Small, Paragraphs Inline text elements: [tailwind-elements.com/docs/standard/components/paragraphs/](https://tailwind-elements.com/docs/standard/components/paragraphs/)
-* Placeholders Basic example, Placeholders How it works, Placeholders Width, Placeholders Colors, Placeholders Sizing, Placeholders Animation: [tailwind-elements.com/docs/standard/components/placeholders/](https://tailwind-elements.com/docs/standard/components/placeholders/)
-* Rating Basic, Rating Filled, Rating Custom icons, Rating Emoji: [tailwind-elements.com/docs/standard/components/rating/](https://tailwind-elements.com/docs/standard/components/rating/)
-* Ripple Basic example, Ripple Image, Ripple Colors, Ripple Duration, Ripple Centered, Ripple Unbound, Ripple Radius, Ripple Import, Ripple Usage: [tailwind-elements.com/docs/standard/methods/ripple/](https://tailwind-elements.com/docs/standard/methods/ripple/)
 * Shopping - Simple, Shopping - Colorful, Shopping - 65 $, Shopping - Multiple, Shopping - With eval, Shopping - Classic, Shopping - Shopping, Shopping - Shipped: [tailwind-kit.com/components/shopping](https://www.tailwind-kit.com/components/shopping)
 * Profile / Team - Simple horizontal, Profile / Team - Simple vertical, Profile / Team - With action, Profile / Team - With cover, Profile / Team - Head, Profile / Team - Add, Profile / Team - With cover and info, Profile / Team - Photo Full: [tailwind-kit.com/components/profile](https://www.tailwind-kit.com/components/profile)
 * Team - Simple, Team - Composition, Team - With background, Team - Multiple, Team - Big team, Team - Double team: [tailwind-kit.com/components/team](https://www.tailwind-kit.com/components/team)
@@ -4829,3 +4777,22 @@
 * App Template: [github.com/lbegey/tw-app-tpl](https://github.com/lbegey/tw-app-tpl)
 * App Landing: [github.com/lbegey/tw-qme-tpl](https://github.com/lbegey/tw-qme-tpl)
 * Dash UI Admin: [github.com/codescandy/dashui-tailwindcss](https://github.com/codescandy/dashui-tailwindcss)
+* Headings Default heading, Headings Second-level heading, Headings Payments tool for companies, Headings Highlighted heading, Headings Heading mark, Headings Heading gradient, Headings Heading underline, Headings Team management, Headings Secondary text, Headings Sizes, Headings Heading 2: [flowbite.com/docs/typography/headings/](https://flowbite.com/docs/typography/headings/)
+* Clipboard Default copy to clipboard, Clipboard Copy source code block, Clipboard Create a role with read only in-line policies, Clipboard JavaScript behaviour: [flowbite.com/docs/components/clipboard/](https://flowbite.com/docs/components/clipboard/)
+* Speed Dial Default speed dial, Speed Dial Square speed dial, Speed Dial Alternative menu, Speed Dial Positioning, Speed Dial Alignment, Speed Dial Triggering, Speed Dial JavaScript behaviour: [flowbite.com/docs/components/speed-dial/](https://flowbite.com/docs/components/speed-dial/)
+* Links Default link, Links Paragraph, Links Icon link, Links CTA link, Links Image link: [flowbite.com/docs/typography/links/](https://flowbite.com/docs/typography/links/)
+* Jumbotron Default jumbotron, Jumbotron Background image, Jumbotron Featured video, Jumbotron Gradient background, Jumbotron Start with Flowbite Design System, Jumbotron Best react libraries around the web, Jumbotron More examples: [flowbite.com/docs/components/jumbotron/](https://flowbite.com/docs/components/jumbotron/)
+* Images Default image, Images Image caption, Images Rounded corners, Images Image shadow, Images Retina-ready, Images Image effects, Images Alignment, Images Sizes: [flowbite.com/docs/typography/images/](https://flowbite.com/docs/typography/images/)
+* Range Disabled state, Range Min and max, Range Sizes, Range Labels: [flowbite.com/docs/forms/range/](https://flowbite.com/docs/forms/range/)
+* Mega Menu Default mega menu, Mega Menu Mega menu with icons, Mega Menu Full width with CTA, Mega Menu Our brands, Mega Menu Full width with image, Mega Menu More examples: [flowbite.com/docs/components/mega-menu/](https://flowbite.com/docs/components/mega-menu/)
+* Paragraphs Default paragraph, Paragraphs Leading paragraph, Paragraphs First letter, Paragraphs Paragraph link, Paragraphs Paragraph bold, Paragraphs Paragraph underline, Paragraphs Paragraph italic, Paragraphs Layout, Paragraphs Text alignment: [flowbite.com/docs/typography/paragraphs/](https://flowbite.com/docs/typography/paragraphs/)
+* Typography Getting started, Typography Basic usage, Typography Link colors, Typography Dark mode, Typography Max width, Typography Options, Typography Blog templates: [flowbite.com/docs/components/typography/](https://flowbite.com/docs/components/typography/)
+* Blockquote Default blockquote, Blockquote Solid background, Blockquote Blockquote icon, Blockquote Paragraph context, Blockquote User Review, Blockquote Alignment, Blockquote Sizes: [flowbite.com/docs/typography/blockquote/](https://flowbite.com/docs/typography/blockquote/)
+* Rating Default rating, Rating Rating with text, Rating Rating count, Rating Star sizes, Rating Advanced rating, Rating Score rating, Rating Review content: [flowbite.com/docs/components/rating/](https://flowbite.com/docs/components/rating/)
+* KBD Default KBD, KBD KBD inside text, KBD Arrow keys, KBD Letter keys, KBD Number keys, KBD Function keys: [flowbite.com/docs/components/kbd/](https://flowbite.com/docs/components/kbd/)
+* Chat Bubble Default chat bubble, Chat Bubble Voice note message, Chat Bubble File attachment, Chat Bubble Image attachment, Chat Bubble Image gallery, Chat Bubble URL preview sharing, Chat Bubble Outline chat bubble, Chat Bubble Outline voice note, Chat Bubble Outline file attachment, Chat Bubble Outline image attachment, Chat Bubble Outline image gallery, Chat Bubble Outline URL preview sharing, Chat Bubble Clean chat bubble, Chat Bubble Clean voice note, Chat Bubble Clean file attachment, Chat Bubble Clean image attachment, Chat Bubble Clean image gallery, Chat Bubble Clean URL preview sharing: [flowbite.com/docs/components/chat-bubble/](https://flowbite.com/docs/components/chat-bubble/)
+* Video Video player, Video Autoplay, Video Muted, Video Sizes, Video Custom styles: [flowbite.com/docs/components/video/](https://flowbite.com/docs/components/video/)
+* Floating Label Floating label example, Floating Label Disabled state, Floating Label Validation, Floating Label Sizes, Floating Label Helper text: [flowbite.com/docs/forms/floating-label/](https://flowbite.com/docs/forms/floating-label/)
+* Text Font size, Text Font weight, Text Text color, Text Letter spacing, Text Text Decoration, Text Font style, Text Line Height, Text Text Align, Text Whitespace, Text Text Decoration Style, Text Opacity: [flowbite.com/docs/typography/text/](https://flowbite.com/docs/typography/text/)
+* HR Default HR, HR Trimmed, HR Icon HR, HR HR with text, HR HR shape: [flowbite.com/docs/typography/hr/](https://flowbite.com/docs/typography/hr/)
+* Charts Getting started, Charts Area chart, Charts Line chart, Charts Column chart, Charts Bar chart, Charts Pie chart, Charts Donut chart, Charts Radial chart, Charts Options, Charts JavaScript behaviour, Charts More examples: [flowbite.com/docs/plugins/charts/](https://flowbite.com/docs/plugins/charts/)

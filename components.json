@@ -27442,5 +27442,317 @@
     "link": "https://github.com/codescandy/dashui-tailwindcss",
     "category": "Other",
     "parent": null
+  },
+  {
+    "name": "Toast Default toast, Toast Colors, Toast Simple toast, Toast Undo button, Toast Toast message, Toast Push notification, Toast Interactive toast, Toast Positioning, Toast JavaScript behaviour",
+    "link": "https://flowbite.com/docs/components/toast/",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Ui components Cards",
+    "link": "https://tailwindadmin.netlify.app/ui",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Headings Default heading, Headings Second-level heading, Headings Payments tool for companies, Headings Highlighted heading, Headings Heading mark, Headings Heading gradient, Headings Heading underline, Headings Team management, Headings Secondary text, Headings Sizes, Headings Heading 2",
+    "link": "https://flowbite.com/docs/typography/headings/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Stepper Default stepper, Stepper Detailed stepper, Stepper Vertical stepper, Stepper Timeline stepper",
+    "link": "https://flowbite.com/docs/components/stepper/",
+    "category": "Step",
+    "parent": null
+  },
+  {
+    "name": "Clipboard Default copy to clipboard, Clipboard Copy source code block, Clipboard Create a role with read only in-line policies, Clipboard JavaScript behaviour",
+    "link": "https://flowbite.com/docs/components/clipboard/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "List Group Default list group, List Group List group with links, List Group List group with icons",
+    "link": "https://flowbite.com/docs/components/list-group/",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Sidebar Default sidebar, Sidebar Multi-level menu, Sidebar Content separator, Sidebar Logo branding, Sidebar Off-canvas sidebar, Sidebar More examples, Sidebar Dashboard Layout",
+    "link": "https://flowbite.com/docs/components/sidebar/",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Speed Dial Default speed dial, Speed Dial Square speed dial, Speed Dial Alternative menu, Speed Dial Positioning, Speed Dial Alignment, Speed Dial Triggering, Speed Dial JavaScript behaviour",
+    "link": "https://flowbite.com/docs/components/speed-dial/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Spinner Default spinner, Spinner Colors, Spinner Sizes, Spinner Alignment, Spinner Progress spinner, Spinner Converting your image:, Spinner Accessibillity",
+    "link": "https://flowbite.com/docs/components/spinner/",
+    "category": "Loading/Spinner",
+    "parent": null
+  },
+  {
+    "name": "Number Input Default number input, Number Input ZIP code input, Number Input Phone number, Number Input Counter input, Number Input Currency input, Number Input Pin code input, Number Input Convert currency, Number Input Min and max values, Number Input JavaScript behaviour",
+    "link": "https://flowbite.com/docs/forms/number-input/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Links Default link, Links Paragraph, Links Icon link, Links CTA link, Links Image link",
+    "link": "https://flowbite.com/docs/typography/links/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Buttons Outline Buttons, Buttons Solid Buttons, Buttons Buttons Styles, Buttons Button Bordered, Buttons Button Groups, Buttons Miscellaneous",
+    "link": "https://tailwindadmin.netlify.app/buttons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Jumbotron Default jumbotron, Jumbotron Background image, Jumbotron Featured video, Jumbotron Gradient background, Jumbotron Start with Flowbite Design System, Jumbotron Best react libraries around the web, Jumbotron More examples",
+    "link": "https://flowbite.com/docs/components/jumbotron/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Images Default image, Images Image caption, Images Rounded corners, Images Image shadow, Images Retina-ready, Images Image effects, Images Alignment, Images Sizes",
+    "link": "https://flowbite.com/docs/typography/images/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Range Disabled state, Range Min and max, Range Sizes, Range Labels",
+    "link": "https://flowbite.com/docs/forms/range/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Mega Menu Default mega menu, Mega Menu Mega menu with icons, Mega Menu Full width with CTA, Mega Menu Our brands, Mega Menu Full width with image, Mega Menu More examples",
+    "link": "https://flowbite.com/docs/components/mega-menu/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Popover Default popover, Popover User profile, Popover Company profile, Popover Image popover, Popover Description popover, Popover Progress popover, Popover Password strength, Popover Placement, Popover Triggering, Popover Offset, Popover Animation, Popover Disable arrow, Popover JavaScript behaviour",
+    "link": "https://flowbite.com/docs/components/popover/",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Tables Default table, Tables Highlight, Tables Table layout, Tables Table styles, Tables Overflow scrolling, Tables Table filter, Tables Table with users, Tables Table with products, Tables Comparison table, Tables Table colors, Tables More examples",
+    "link": "https://flowbite.com/docs/components/tables/",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Input Field Input fields, Input Field Input sizes, Input Field Disabled state, Input Field Validation, Input Field Input group, Input Field Helper text, Input Field Search input",
+    "link": "https://flowbite.com/docs/forms/input-field/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Search Input Search bar example, Search Input Simple search input, Search Input Location search, Search Input Voice search",
+    "link": "https://flowbite.com/docs/forms/search-input/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Phone Input Default phone input, Phone Input Phone input country code, Phone Input Floating label input, Phone Input Verification code input, Phone Input Authentication form, Phone Input Advanced phone verification",
+    "link": "https://flowbite.com/docs/forms/phone-input/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Select Select input example, Select Multiple options, Select Size attribute, Select Disabled state, Select Underline select, Select Select with dropdown, Select Sizes",
+    "link": "https://flowbite.com/docs/forms/select/",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Checkbox Checkbox example, Checkbox Disabled state, Checkbox Checkbox link, Checkbox Helper text, Checkbox Bordered, Checkbox Checkbox list group, Checkbox Horizontal list group, Checkbox Inline layout, Checkbox Colors, Checkbox Advanced layout",
+    "link": "https://flowbite.com/docs/forms/checkbox/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Radio Radio example, Radio Disabled state, Radio Radio link, Radio Helper text, Radio Bordered, Radio Radio list group, Radio Horizontal list group, Radio Inline layout, Radio Advanced layout, Radio Colors",
+    "link": "https://flowbite.com/docs/forms/radio/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Paragraphs Default paragraph, Paragraphs Leading paragraph, Paragraphs First letter, Paragraphs Paragraph link, Paragraphs Paragraph bold, Paragraphs Paragraph underline, Paragraphs Paragraph italic, Paragraphs Layout, Paragraphs Text alignment",
+    "link": "https://flowbite.com/docs/typography/paragraphs/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour",
+    "link": "https://flowbite.com/docs/components/modal/",
+    "category": "Modal",
+    "parent": null
+  },
+  {
+    "name": "Typography Getting started, Typography Basic usage, Typography Link colors, Typography Dark mode, Typography Max width, Typography Options, Typography Blog templates",
+    "link": "https://flowbite.com/docs/components/typography/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "File Input File upload example",
+    "link": "https://flowbite.com/docs/forms/file-input/",
+    "category": "Upload",
+    "parent": "Form"
+  },
+  {
+    "name": "Textarea Textarea example, Textarea WYSIWYG Editor, Textarea Comment box, Textarea Chatroom input",
+    "link": "https://flowbite.com/docs/forms/textarea/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Forms Inline Form, Forms Underline Form, Forms Form Grid",
+    "link": "https://tailwindadmin.netlify.app/forms",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Register Page",
+    "link": "https://tailwindadmin.netlify.app/register",
+    "category": "Register",
+    "parent": "Form"
+  },
+  {
+    "name": "Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal",
+    "link": "https://tailwindadmin.netlify.app/modals",
+    "category": "Modal",
+    "parent": null
+  },
+  {
+    "name": "Navbar Default navbar, Navbar Navbar with dropdown, Navbar Multi-level dropdown, Navbar Sticky navbar, Navbar Navbar with submenu, Navbar Navbar with search, Navbar Navbar with CTA button, Navbar Language dropdown, Navbar User menu dropdown, Navbar Mega menu navbar, Navbar Solid background, Navbar Hamburger menu, Navbar More examples, Navbar JavaScript behaviour",
+    "link": "https://flowbite.com/docs/components/navbar/",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "404 Page",
+    "link": "https://tailwindadmin.netlify.app/404",
+    "category": "404",
+    "parent": "Page"
+  },
+  {
+    "name": "Skeleton Default skeleton, Skeleton Image placeholder, Skeleton Video placeholder, Skeleton Text placeholder, Skeleton Card placeholder, Skeleton Widget placeholder, Skeleton List placeholder, Skeleton Accessibility",
+    "link": "https://flowbite.com/docs/components/skeleton/",
+    "category": "Skeleton",
+    "parent": null
+  },
+  {
+    "name": "Blockquote Default blockquote, Blockquote Solid background, Blockquote Blockquote icon, Blockquote Paragraph context, Blockquote User Review, Blockquote Alignment, Blockquote Sizes",
+    "link": "https://flowbite.com/docs/typography/blockquote/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Pagination Default pagination, Pagination Pagination with icons, Pagination Previous and next, Pagination Previous and next with icons, Pagination Table data pagination, Pagination Table data pagination with icons",
+    "link": "https://flowbite.com/docs/components/pagination/",
+    "category": "Pagination",
+    "parent": null
+  },
+  {
+    "name": "Progress Default progress bar, Progress Sizes, Progress With label inside, Progress With label outside, Progress Colors",
+    "link": "https://flowbite.com/docs/components/progress/",
+    "category": "Progress Bar",
+    "parent": null
+  },
+  {
+    "name": "Rating Default rating, Rating Rating with text, Rating Rating count, Rating Star sizes, Rating Advanced rating, Rating Score rating, Rating Review content",
+    "link": "https://flowbite.com/docs/components/rating/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Timeline Default timeline, Timeline Vertical timeline, Timeline Activity log, Timeline Grouped timeline",
+    "link": "https://flowbite.com/docs/components/timeline/",
+    "category": "Timeline",
+    "parent": null
+  },
+  {
+    "name": "Toggle Toggle example, Toggle Checked state, Toggle Disabled state, Toggle Colors, Toggle Sizes",
+    "link": "https://flowbite.com/docs/forms/toggle/",
+    "category": "Switch",
+    "parent": null
+  },
+  {
+    "name": "Tabs Default tabs, Tabs Tabs with underline, Tabs Tabs with icons, Tabs Vertical tabs, Tabs Full width tabs, Tabs Interactive tabs, Tabs Active tab style, Tabs JavaScript behaviour",
+    "link": "https://flowbite.com/docs/components/tabs/",
+    "category": "Tab",
+    "parent": null
+  },
+  {
+    "name": "Tooltips Default tooltip example, Tooltips Tooltip styles, Tooltips Placement, Tooltips Triggering, Tooltips Animation, Tooltips Disable arrow, Tooltips JavaScript behaviour",
+    "link": "https://flowbite.com/docs/components/tooltips/",
+    "category": "Tooltips",
+    "parent": null
+  },
+  {
+    "name": "KBD Default KBD, KBD KBD inside text, KBD Arrow keys, KBD Letter keys, KBD Number keys, KBD Function keys",
+    "link": "https://flowbite.com/docs/components/kbd/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tables Bordered Table, Tables Colored Table, Tables Full Table",
+    "link": "https://tailwindadmin.netlify.app/tables",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Lists Unordered list, Lists Password requirements:, Lists Password requirements:, Lists Password requirements:, Lists Ordered list, Lists Top students:, Lists Description list, Lists List with icons, Lists Advanced layout, Lists Horizontal list",
+    "link": "https://flowbite.com/docs/typography/lists/",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Chat Bubble Default chat bubble, Chat Bubble Voice note message, Chat Bubble File attachment, Chat Bubble Image attachment, Chat Bubble Image gallery, Chat Bubble URL preview sharing, Chat Bubble Outline chat bubble, Chat Bubble Outline voice note, Chat Bubble Outline file attachment, Chat Bubble Outline image attachment, Chat Bubble Outline image gallery, Chat Bubble Outline URL preview sharing, Chat Bubble Clean chat bubble, Chat Bubble Clean voice note, Chat Bubble Clean file attachment, Chat Bubble Clean image attachment, Chat Bubble Clean image gallery, Chat Bubble Clean URL preview sharing",
+    "link": "https://flowbite.com/docs/components/chat-bubble/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Video Video player, Video Autoplay, Video Muted, Video Sizes, Video Custom styles",
+    "link": "https://flowbite.com/docs/components/video/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Floating Label Floating label example, Floating Label Disabled state, Floating Label Validation, Floating Label Sizes, Floating Label Helper text",
+    "link": "https://flowbite.com/docs/forms/floating-label/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Text Font size, Text Font weight, Text Text color, Text Letter spacing, Text Text Decoration, Text Font style, Text Line Height, Text Text Align, Text Whitespace, Text Text Decoration Style, Text Opacity",
+    "link": "https://flowbite.com/docs/typography/text/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "HR Default HR, HR Trimmed, HR Icon HR, HR HR with text, HR HR shape",
+    "link": "https://flowbite.com/docs/typography/hr/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Charts Getting started, Charts Area chart, Charts Line chart, Charts Column chart, Charts Bar chart, Charts Pie chart, Charts Donut chart, Charts Radial chart, Charts Options, Charts JavaScript behaviour, Charts More examples",
+    "link": "https://flowbite.com/docs/plugins/charts/",
+    "category": "Other",
+    "parent": null
   }
 ]
