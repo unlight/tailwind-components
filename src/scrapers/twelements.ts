@@ -5,7 +5,7 @@ export default async function tailwindelements({
   page,
 }: ScraperArgs): Promise<CompomentLink[]> {
   const result: CompomentLink[] = [];
-  await page.goto('https://tailwind-elements.com/quick-start/', {
+  await page.goto('https://tw-elements.com/quick-start/', {
     waitUntil: 'domcontentloaded',
   });
   const links = await page.$$eval('a[href^="/docs/standard/"]', elements => {
