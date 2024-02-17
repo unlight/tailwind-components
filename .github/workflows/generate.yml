@@ -1,8 +1,8 @@
-name: 'Harvest'
+name: 'Generate'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 0 * * 0'
 jobs:
   harvest:
     runs-on: ubuntu-latest
