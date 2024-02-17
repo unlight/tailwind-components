@@ -45,6 +45,9 @@ const categoryList = [
       new Keyword('statistic widgets', 2),
       new Keyword('statistic'),
       new Keyword('weather ui component', 5),
+      new Keyword('stat'),
+      new Keyword('stats'),
+      new Keyword('data display'),
     ],
   }),
   new Category({
@@ -216,6 +219,7 @@ const categoryList = [
     keywords: [
       new Keyword('toggle'),
       new Keyword('toogle'),
+      new Keyword('swap'),
       new Keyword('toggle button', 2),
     ],
   }),
