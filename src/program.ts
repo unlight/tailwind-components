@@ -18,6 +18,7 @@ import { resolve } from 'path';
  * https://taildashboards.com/
  * https://layoutsfortailwind.lalokalabs.dev/
  * https://dripui.vercel.app/
+ * https://web3templates.com/components/all
  */
 
 if (require.main?.filename === __filename) {
