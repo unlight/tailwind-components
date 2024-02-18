@@ -1176,7 +1176,7 @@
     "parent": null
   },
   {
-    "name": "Free Tailwind CSS Application UI Application UI, Free Tailwind CSS Application UI Dividers, Free Tailwind CSS Application UI Grids, Free Tailwind CSS Application UI Media, Free Tailwind CSS Application UI Stats, Free Tailwind CSS Application UI Vertical Menu",
+    "name": "Free Tailwind CSS Application UI Application UI, Free Tailwind CSS Application UI Dividers, Free Tailwind CSS Application UI Grids, Free Tailwind CSS Application UI Media, Free Tailwind CSS Application UI Vertical Menu",
     "link": "https://www.hyperui.dev/components/application-ui",
     "category": "Other",
     "parent": null
@@ -2244,7 +2244,7 @@
     "parent": null
   },
   {
-    "name": "Indicators Default indicator, Indicators Legend indicator, Indicators Indicator count, Indicators Status indicator, Indicators Indicator position",
+    "name": "Indicators Default indicator, Indicators Legend indicator, Indicators Indicator count, Indicators Indicator position",
     "link": "https://flowbite.com/docs/components/indicators/",
     "category": "Other",
     "parent": null
@@ -2594,7 +2594,7 @@
   {
     "name": "Swap text, Swap volume icons, Swap icons with rotate effect, Swap icons with flip effect",
     "link": "https://daisyui.com/components/swap/",
-    "category": "Other",
+    "category": "Switch",
     "parent": null
   },
   {
@@ -2604,9 +2604,9 @@
     "parent": null
   },
   {
-    "name": "Stat, Stat with icons or image, Stat Centered items, Stat Vertical, Stat Responsive (vertical on small screen, horizontal on large screen)",
+    "name": "Stat, Stat with icons or image, Stat Centered items, Stat Vertical, Stat Responsive (vertical on small screen, horizontal on large screen), Stat With custom colors and button",
     "link": "https://daisyui.com/components/stat/",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -2622,13 +2622,13 @@
     "parent": null
   },
   {
-    "name": "Bottom navigation Bottom Navigation, Bottom navigation Bottom Navigation with brand colors, Bottom navigation Bottom Navigation with state colors, Bottom navigation With title, Bottom navigation With custom colors, Bottom navigation Sizes",
+    "name": "Bottom navigation Bottom Navigation, Bottom navigation Bottom Navigation with brand colors, Bottom navigation With title, Bottom navigation With custom colors, Bottom navigation Sizes",
     "link": "https://daisyui.com/components/bottom-navigation/",
     "category": "Navigation/Header",
     "parent": null
   },
   {
-    "name": "Pagination Sizes",
+    "name": "Pagination with an active button, Pagination Sizes, Pagination With a disabled button, Pagination Extra small buttons, Pagination Nex/Prev outline buttons with equal width, Pagination Using radio inputs",
     "link": "https://daisyui.com/components/pagination/",
     "category": "Pagination",
     "parent": null
@@ -2778,9 +2778,9 @@
     "parent": null
   },
   {
-    "name": "Bottom Navigation Default bottom navigation, Bottom Navigation Menu items with border, Bottom Navigation Application bar example, Bottom Navigation Example with pagination, Bottom Navigation Online meeting control bar, Bottom Navigation Video player bar",
+    "name": "Bottom Navigation Example with pagination",
     "link": "https://flowbite.com/docs/components/bottom-navigation/",
-    "category": "Navigation/Header",
+    "category": "Pagination",
     "parent": null
   },
   {
@@ -2802,7 +2802,7 @@
     "parent": "Page"
   },
   {
-    "name": "Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing FAQs, Free Tailwind CSS Marketing Sections, Free Tailwind CSS Marketing Stats",
+    "name": "Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Sections",
     "link": "https://www.hyperui.dev/components/marketing",
     "category": "Other",
     "parent": null
@@ -2826,7 +2826,7 @@
     "parent": null
   },
   {
-    "name": "Pagination #With Fraction",
+    "name": "Pagination #With Buttons, Pagination #With Input, Pagination #Background with Input, Pagination #With Fraction",
     "link": "https://www.hyperui.dev/components/application-ui/pagination",
     "category": "Pagination",
     "parent": null
@@ -4262,7 +4262,7 @@
   {
     "name": "Tailwind CSS Round Buttons Pagination",
     "link": "https://tailwindcomponents.com/component/round-buttons-pagination-1",
-    "category": "Button",
+    "category": "Pagination",
     "parent": null
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "name": "Round buttons pagination",
     "link": "https://tailwindcomponents.com/component/round-buttons-pagination",
-    "category": "Button",
+    "category": "Pagination",
     "parent": null
   },
   {
@@ -4826,7 +4826,7 @@
   {
     "name": "Pagination buttons",
     "link": "https://tailwindcomponents.com/component/pagination-buttons",
-    "category": "Button",
+    "category": "Pagination",
     "parent": null
   },
   {
@@ -5174,7 +5174,7 @@
   {
     "name": "Statistics Card",
     "link": "https://codepen.io/stackdiary/pen/MWObENo",
-    "category": "Card",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -5456,7 +5456,7 @@
   {
     "name": "Tailwind CSS Card Stats",
     "link": "https://tailwindcomponents.com/component/card-stats-1",
-    "category": "Card",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -6404,13 +6404,13 @@
   {
     "name": "Card Stats",
     "link": "https://tailwindcomponents.com/component/card-stats",
-    "category": "Card",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
     "name": "Statistic Floating Card",
     "link": "https://tailwindcomponents.com/component/statistic-floating-card",
-    "category": "Card",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -6650,7 +6650,7 @@
   {
     "name": "dark stats card",
     "link": "https://tailwindcomponents.com/component/dark-stats-card",
-    "category": "Card",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -6668,7 +6668,7 @@
   {
     "name": "Simple Gradient Stats Card",
     "link": "https://tailwindcomponents.com/component/simple-gradient-stats-card",
-    "category": "Card",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -6926,7 +6926,7 @@
   {
     "name": "Dashboard statistics cards",
     "link": "https://tailwindcomponents.com/component/dashboard-statistics-cards",
-    "category": "Card",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -6968,7 +6968,7 @@
   {
     "name": "Simple statistics cards",
     "link": "https://tailwindcomponents.com/component/simple-statistics-cards",
-    "category": "Card",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -7610,7 +7610,7 @@
   {
     "name": "Data display - Covid data",
     "link": "https://www.tailwind-kit.com/components/data",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -8142,7 +8142,7 @@
     "parent": null
   },
   {
-    "name": "Select Basic usage, Select Example, Select Types, Select Gray input New, Select Floating label New, Select Sizes, Select Shape, Select Pilled select, Select Disabled, Select Label, Select Hidden label, Select Validation states",
+    "name": "Select Basic usage, Select Example, Select Types, Select Gray input New, Select Floating label New, Select Sizes, Select Shape, Select Pilled select, Select Disabled, Select Label, Select Hidden label",
     "link": "https://preline.co/docs/select.html",
     "category": "Dropdown",
     "parent": null
@@ -8910,7 +8910,7 @@
     "parent": null
   },
   {
-    "name": "Input Basic usage, Input Placeholder, Input Label, Input Hidden label, Input Basic, Input Types, Input Gray input New, Input Underline input New, Input Floating label New, Input Sizes, Input Shape, Input Pilled input, Input Readonly, Input Disabled, Input Helper text, Input Inline helper text, Input Corner hint, Input Validation states",
+    "name": "Input Basic usage, Input Placeholder, Input Label, Input Hidden label, Input Basic, Input Types, Input Gray input New, Input Underline input New, Input Floating label New, Input Sizes, Input Shape, Input Pilled input, Input Readonly, Input Disabled, Input Helper text, Input Inline helper text, Input Corner hint",
     "link": "https://preline.co/docs/input.html",
     "category": "Form",
     "parent": null
@@ -9530,7 +9530,7 @@
   {
     "name": "Form stepper",
     "link": "https://tailwindcomponents.com/component/form-stepper",
-    "category": "Form",
+    "category": "Step",
     "parent": null
   },
   {
@@ -9644,7 +9644,7 @@
   {
     "name": "Input with static text",
     "link": "https://tailwindcomponents.com/component/input-with-static-text",
-    "category": "Form",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -13406,8 +13406,8 @@
   {
     "name": "Tailwind CSS FAQ page - Q&A",
     "link": "https://tailwindcomponents.com/component/tailwind-css-faq-page-qa",
-    "category": "Page",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Tailwind CSS Maintenance page",
@@ -13424,8 +13424,8 @@
   {
     "name": "Tailwind CSS FAQ page",
     "link": "https://tailwindcomponents.com/component/tailwind-css-faq-page",
-    "category": "Page",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Tailwind CSS & Alpine.js  Profile page",
@@ -13712,8 +13712,8 @@
   {
     "name": "FAQ page",
     "link": "https://tailwindcomponents.com/component/animation-demos",
-    "category": "Page",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Blog Page",
@@ -14550,9 +14550,9 @@
     "parent": null
   },
   {
-    "name": "Pagination Working with Tooltip New",
+    "name": "Pagination Basic usage, Pagination Example, Pagination Working with icons, Pagination Disabled and active state, Pagination Types, Pagination Bordered New, Pagination Bordered group New, Pagination Mini size New, Pagination Working with Tooltip New, Pagination Jumper New, Pagination More with Dropdown New, Pagination Stretched New, Pagination Alignment, Pagination Sizes, Pagination Basic New, Pagination Bordered New, Pagination Bordered group New, Pagination Mini size New, Pagination Shape, Pagination Basic New, Pagination Bordered New, Pagination Bordered group New, Pagination Mini size New",
     "link": "https://preline.co/docs/pagination.html",
-    "category": "Tooltips",
+    "category": "Pagination",
     "parent": null
   },
   {
@@ -15956,7 +15956,7 @@
   {
     "name": "Simple server status table",
     "link": "https://tailwindcomponents.com/component/simple-server-status-table",
-    "category": "Table",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -16422,9 +16422,9 @@
     "parent": null
   },
   {
-    "name": "Empty states Basic, Empty states Minimal",
+    "name": "Empty states Basic, Empty states List, Empty states Minimal",
     "link": "https://tinywind.dev/components/empty-states",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -16622,7 +16622,7 @@
   {
     "name": "Clone WhatsApp Android UI - status Tab",
     "link": "https://tailwindcomponents.com/component/clone-whatsapp-android-ui-status-tab",
-    "category": "Tab",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -16892,8 +16892,8 @@
   {
     "name": "faq",
     "link": "https://tailwind-css-components.appseed.us/faq.html",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "features",
@@ -17468,7 +17468,7 @@
   {
     "name": "Stat #From Value and Floating Stat, Stat #Icon and Stat, Stat #Simple with Stat, Stat #Simple with Icon, Stat #Stacked with Stat, Stat #Stacked with Stat and Icon",
     "link": "https://www.hyperui.dev/components/application-ui/stats",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -17480,13 +17480,13 @@
   {
     "name": "FAQ #With Icon, FAQ #With Background, FAQ #Background with Accent Border, FAQ #With Divide Border, FAQ #Border with Divide Border and Background",
     "link": "https://www.hyperui.dev/components/marketing/faqs",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Stat #Simple Grid (Bordered), Stat #Simple Grid (Divided), Stat #Simple Grid (Background)",
     "link": "https://www.hyperui.dev/components/marketing/stats",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -17528,8 +17528,8 @@
   {
     "name": "FAQs",
     "link": "https://kitwind.io/products/kometa/components/faq",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Teams",
@@ -17546,13 +17546,13 @@
   {
     "name": "Stats",
     "link": "https://kitwind.io/products/kometa/components/stats",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
     "name": "Application Empty State",
     "link": "https://kutty.netlify.app/components/empty-state/",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -17564,8 +17564,8 @@
   {
     "name": "Marketing FAQ",
     "link": "https://kutty.netlify.app/components/faq/",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Marketing Features",
@@ -17726,8 +17726,8 @@
   {
     "name": "Faq",
     "link": "https://mambaui.com/components/faq",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Feature",
@@ -17768,7 +17768,7 @@
   {
     "name": "Stats",
     "link": "https://mambaui.com/components/stats",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -18044,7 +18044,7 @@
   {
     "name": "Static Icons Types, Static Icons Sizes, Static Icons Color variants, Static Icons Solid color variants, Static Icons Outline color variants, Static Icons Ghost color variants, Static Icons Soft color variants, Static Icons Soft-Outlined color variants, Static Icons Shape, Static Icons Circular Icon",
     "link": "https://preline.co/docs/static-icons.html",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -18956,7 +18956,7 @@
   {
     "name": "Tailwind CSS Rating Score Stats",
     "link": "https://tailwindcomponents.com/component/rating-score-stats",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -19088,7 +19088,7 @@
   {
     "name": "Cluster Status",
     "link": "https://tailwindcomponents.com/component/cluster-status",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -19112,8 +19112,8 @@
   {
     "name": "FAQ Component with Details Summary Open Animation",
     "link": "https://tailwindcomponents.com/component/faq-component-with-details-summary-open-animation",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Password show and hide with Alpine JS",
@@ -19448,7 +19448,7 @@
   {
     "name": "User status circle",
     "link": "https://tailwindcomponents.com/component/user-status-circle",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -20042,8 +20042,8 @@
   {
     "name": "Free Tailwind CSS FAQs Component",
     "link": "https://tailwindcomponents.com/component/free-tailwind-css-faqs-component",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Free Tailwind CSS Checkouts Component",
@@ -20102,7 +20102,7 @@
   {
     "name": "Free Tailwind CSS Stat Component",
     "link": "https://tailwindcomponents.com/component/free-tailwind-css-stat-component",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -20132,8 +20132,8 @@
   {
     "name": "Free Tailwind CSS FAQ Component",
     "link": "https://tailwindcomponents.com/component/free-tailwind-css-404-page-component",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Free Tailwind CSS Cloud Logo Component",
@@ -20714,7 +20714,7 @@
   {
     "name": "Dashboard stats",
     "link": "https://tailwindcomponents.com/component/dashboard-stats",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -20918,7 +20918,7 @@
   {
     "name": "Desktop Stats Preview",
     "link": "https://tailwindcomponents.com/component/desktop-stats-preview",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -21254,7 +21254,7 @@
   {
     "name": "Data Display - Stats",
     "link": "https://tailwindcomponents.com/component/data-display-stats",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -21560,7 +21560,7 @@
   {
     "name": "Tailwind Static Read",
     "link": "https://tailwindcomponents.com/component/tailwind-static-read",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -21794,8 +21794,8 @@
   {
     "name": "Frequently Asked Question - FAQ",
     "link": "https://tailwindcomponents.com/component/frequently-asked-question-faq",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Browser Frame Mockup",
@@ -22124,8 +22124,8 @@
   {
     "name": "FAQ",
     "link": "https://tailwindcomponents.com/component/faq",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Info shopping",
@@ -22214,7 +22214,7 @@
   {
     "name": "Stat Component",
     "link": "https://tailwindcomponents.com/component/stat-component",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -22232,7 +22232,7 @@
   {
     "name": "Stat Grid",
     "link": "https://tailwindcomponents.com/component/stat-grid",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -22256,8 +22256,8 @@
   {
     "name": "FAQs",
     "link": "https://tailwindcomponents.com/component/faqs",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Range",
@@ -22310,7 +22310,7 @@
   {
     "name": "Empty state: Add photo",
     "link": "https://tailwindcomponents.com/component/empty-state-add-photo",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -22508,8 +22508,8 @@
   {
     "name": "FAQ - Simple FAQ, FAQ - Horizontal FAQ",
     "link": "https://www.tailwind-kit.com/components/faq",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Flex Layout - Chrome Mac",
@@ -22580,7 +22580,7 @@
   {
     "name": "Windstatic",
     "link": "https://windstatic.com/",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -22832,7 +22832,7 @@
   {
     "name": "Statamic Preset",
     "link": "https://github.com/statamic/preset-tailwindcss",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -23144,7 +23144,7 @@
   {
     "name": " With stats",
     "link": "https://tailwindui.com/components/preview#component-813ce86310c2c337070a66a152012665",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -23252,7 +23252,7 @@
   {
     "name": "Stats Basic, Stats With icon",
     "link": "https://tinywind.dev/components/stats",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -24078,7 +24078,7 @@
     "parent": null
   },
   {
-    "name": "Stepper New Basic usage, Stepper New Static, Stepper New Linear, Stepper New Responsive, Stepper New Types, Stepper New White, Stepper New Solid, Stepper New Alignment, Stepper New Center, Stepper New Dynamic Linear, Stepper New Non-linear, Stepper New Skipped, Stepper New Active, Stepper New Error, Stepper New Success",
+    "name": "Stepper New Basic usage, Stepper New Static, Stepper New Linear, Stepper New Responsive, Stepper New Types, Stepper New White, Stepper New Solid, Stepper New Alignment, Stepper New Center, Stepper New Working with icon and avatar, Stepper New Dynamic form, Stepper New Dynamic Linear, Stepper New Non-linear, Stepper New Skipped, Stepper New Active, Stepper New Error, Stepper New Success",
     "link": "https://preline.co/docs/stepper.html",
     "category": "Step",
     "parent": null
@@ -24186,9 +24186,9 @@
     "parent": null
   },
   {
-    "name": "Theme Controller new Theme Controller using a swap",
+    "name": "Theme Controller new Theme Controller using a toggle, Theme Controller new Theme Controller using a swap, Theme Controller new Theme Controller using a toggle with text, Theme Controller new Theme Controller using a toggle with icons, Theme Controller new Theme Controller using a toggle with icons inside, Theme Controller new Theme Controller using a toggle with custom colors",
     "link": "https://daisyui.com/components/theme-controller/",
-    "category": "Other",
+    "category": "Switch",
     "parent": null
   },
   {
@@ -24204,7 +24204,7 @@
     "parent": null
   },
   {
-    "name": "Ratings New Basic usage, Ratings New Static example, Ratings New Rate with emoji",
+    "name": "Ratings New Basic usage, Ratings New Rate with emoji",
     "link": "https://preline.co/docs/ratings.html",
     "category": "Other",
     "parent": null
@@ -24954,9 +24954,9 @@
     "parent": null
   },
   {
-    "name": "Carousel New Basic usage, Carousel New Pagination, Carousel New AutoPlay",
+    "name": "Carousel New Pagination",
     "link": "https://preline.co/docs/carousel.html",
-    "category": "Slider/Carousel",
+    "category": "Pagination",
     "parent": null
   },
   {
@@ -25536,7 +25536,7 @@
     "parent": "Form"
   },
   {
-    "name": "undefined Simple, undefined Border, undefined Active Statue, undefined Active Statue with Border, undefined Profile, undefined Profile Square, undefined Small Group, undefined Medium Group, undefined Large Group, undefined Exra Large Group",
+    "name": "undefined Simple, undefined Border, undefined Profile, undefined Profile Square, undefined Small Group, undefined Medium Group, undefined Large Group, undefined Exra Large Group",
     "link": "https://merakiui.com/components/application-ui/avatars",
     "category": "Other",
     "parent": null
@@ -26546,7 +26546,7 @@
   {
     "name": "Tailwind CSS Dashboard States",
     "link": "https://tailwindcomponents.com/component/states",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -26756,8 +26756,8 @@
   {
     "name": "Smooth FAQ Animations with Alpine.js",
     "link": "https://tailwindcomponents.com/component/faq-frequently-asked-questions",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Tailwind CSS Black Friday Banners",
@@ -26804,8 +26804,8 @@
   {
     "name": "FAQ Section",
     "link": "https://tailwindcomponents.com/component/faq-section",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Device Mockups",
@@ -26954,7 +26954,7 @@
   {
     "name": "Tailwind CSS Stats Section",
     "link": "https://tailwindcomponents.com/component/tailwind-css-stats-section",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
@@ -27462,7 +27462,7 @@
     "parent": null
   },
   {
-    "name": "Stepper Default stepper, Stepper Detailed stepper, Stepper Vertical stepper, Stepper Timeline stepper",
+    "name": "Stepper Default stepper, Stepper Progress stepper, Stepper Detailed stepper, Stepper Vertical stepper, Stepper Breadcrumb stepper, Stepper Timeline stepper, Stepper Stepper with form",
     "link": "https://flowbite.com/docs/components/stepper/",
     "category": "Step",
     "parent": null
@@ -27528,7 +27528,7 @@
     "parent": null
   },
   {
-    "name": "Range Disabled state, Range Min and max, Range Sizes, Range Labels",
+    "name": "Range Min and max, Range Sizes, Range Labels",
     "link": "https://flowbite.com/docs/forms/range/",
     "category": "Other",
     "parent": null
@@ -27552,7 +27552,7 @@
     "parent": null
   },
   {
-    "name": "Input Field Input fields, Input Field Input sizes, Input Field Disabled state, Input Field Validation, Input Field Input group, Input Field Helper text, Input Field Search input",
+    "name": "Input Field Input fields, Input Field Input sizes, Input Field Validation, Input Field Input group, Input Field Helper text, Input Field Search input",
     "link": "https://flowbite.com/docs/forms/input-field/",
     "category": "Form",
     "parent": null
@@ -27570,19 +27570,19 @@
     "parent": null
   },
   {
-    "name": "Select Select input example, Select Multiple options, Select Size attribute, Select Disabled state, Select Underline select, Select Select with dropdown, Select Sizes",
+    "name": "Select Select input example, Select Multiple options, Select Size attribute, Select Underline select, Select Select with dropdown, Select Sizes",
     "link": "https://flowbite.com/docs/forms/select/",
     "category": "Dropdown",
     "parent": null
   },
   {
-    "name": "Checkbox Checkbox example, Checkbox Disabled state, Checkbox Checkbox link, Checkbox Helper text, Checkbox Bordered, Checkbox Checkbox list group, Checkbox Horizontal list group, Checkbox Inline layout, Checkbox Colors, Checkbox Advanced layout",
+    "name": "Checkbox Checkbox example, Checkbox Checkbox link, Checkbox Helper text, Checkbox Bordered, Checkbox Checkbox list group, Checkbox Horizontal list group, Checkbox Inline layout, Checkbox Colors, Checkbox Advanced layout",
     "link": "https://flowbite.com/docs/forms/checkbox/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Radio Radio example, Radio Disabled state, Radio Radio link, Radio Helper text, Radio Bordered, Radio Radio list group, Radio Horizontal list group, Radio Inline layout, Radio Advanced layout, Radio Colors",
+    "name": "Radio Radio example, Radio Radio link, Radio Helper text, Radio Bordered, Radio Radio list group, Radio Horizontal list group, Radio Inline layout, Radio Advanced layout, Radio Colors",
     "link": "https://flowbite.com/docs/forms/radio/",
     "category": "Form",
     "parent": null
@@ -27684,7 +27684,7 @@
     "parent": null
   },
   {
-    "name": "Toggle Toggle example, Toggle Checked state, Toggle Disabled state, Toggle Colors, Toggle Sizes",
+    "name": "Toggle Toggle example, Toggle Colors, Toggle Sizes",
     "link": "https://flowbite.com/docs/forms/toggle/",
     "category": "Switch",
     "parent": null
@@ -27732,7 +27732,7 @@
     "parent": null
   },
   {
-    "name": "Floating Label Floating label example, Floating Label Disabled state, Floating Label Validation, Floating Label Sizes, Floating Label Helper text",
+    "name": "Floating Label Floating label example, Floating Label Validation, Floating Label Sizes, Floating Label Helper text",
     "link": "https://flowbite.com/docs/forms/floating-label/",
     "category": "Other",
     "parent": null
