@@ -3485,7 +3485,7 @@
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/testimonials](https://floatui.com/components/testimonials)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/sidebars](https://floatui.com/components/sidebars)
 * Grid #1x1, Grid #1x2, Grid #2x1, Grid #1x1x1, Grid #1x1x1x1, Grid #1x1x2, Grid #2x1x1, Grid #1x2x1: [hyperui.dev/components/application-ui/grids](https://www.hyperui.dev/components/application-ui/grids)
-* Range, Range Primary color, Range Secondary color, Range Accent color, Range Success color, Range Warning color, Range Info color, Range Error color, Range Sizes: [daisyui.com/components/range/](https://daisyui.com/components/range/)
+* Range, Range Primary color, Range Secondary color, Range Accent color, Range Success color, Range Warning color, Range Info color, Range Error color, Range Sizes, Range with custom color: [daisyui.com/components/range/](https://daisyui.com/components/range/)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/steps](https://floatui.com/components/steps)
 * Device Mockups Default mockup, Device Mockups iPhone 12 mockup (iOS), Device Mockups Google Pixel (Android), Device Mockups Laptop mockup, Device Mockups Desktop mockup, Device Mockups Smartwatch mockup, Device Mockups Mockup colors: [flowbite.com/docs/components/device-mockups/](https://flowbite.com/docs/components/device-mockups/)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/tabs](https://floatui.com/components/tabs)

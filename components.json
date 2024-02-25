@@ -15330,7 +15330,7 @@
     "parent": null
   },
   {
-    "name": "Range, Range Primary color, Range Secondary color, Range Accent color, Range Success color, Range Warning color, Range Info color, Range Error color, Range Sizes",
+    "name": "Range, Range Primary color, Range Secondary color, Range Accent color, Range Success color, Range Warning color, Range Info color, Range Error color, Range Sizes, Range with custom color",
     "link": "https://daisyui.com/components/range/",
     "category": "Other",
     "parent": null
@@ -17048,14 +17048,14 @@
   {
     "name": "Fancy Faq 1",
     "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq1",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Fancy Faq 6",
     "link": "https://fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq6",
-    "category": "Other",
-    "parent": null
+    "category": "FAQ",
+    "parent": "Page"
   },
   {
     "name": "Fancy Features 3",
@@ -17318,13 +17318,13 @@
   {
     "name": "Fancy Stats 3",
     "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/stats/stats3",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
     "name": "Fancy Stats 9",
     "link": "https://fancytailwind.com/app/fancy-laboratory/molecules/stats/stats9",
-    "category": "Other",
+    "category": "Dashboard Widgets",
     "parent": null
   },
   {
