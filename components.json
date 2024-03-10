@@ -972,7 +972,7 @@
     "parent": null
   },
   {
-    "name": "Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour, Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour",
+    "name": "Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour",
     "link": "https://flowbite.com/docs/components/accordion/",
     "category": "Accordion",
     "parent": null
@@ -23910,7 +23910,7 @@
     "parent": null
   },
   {
-    "name": "Sidenav Basic example, Sidenav Positioning, Sidenav Dark, Sidenav Slim, Sidenav Groups, Sidenav Right, Sidenav Full-screen examples, Sidenav Basic side navigation, Sidenav Side navigation with a mode transition, Sidenav Slim side navigation (dark), Sidenav TE Navigation, Sidenav small and with categories, Sidenav Import, Sidenav Usage",
+    "name": "Sidenav Basic example, Sidenav Positioning, Sidenav Slim, Sidenav Groups, Sidenav Right, Sidenav Full-screen examples, Sidenav Basic side navigation, Sidenav Side navigation with a mode transition, Sidenav Slim side navigation (dark), Sidenav TWE Navigation, Sidenav small and with categories, Sidenav Import, Sidenav Usage",
     "link": "https://tw-elements.com/docs/standard/navigation/sidenav/",
     "category": "Sidebar",
     "parent": null
@@ -24030,7 +24030,7 @@
     "parent": null
   },
   {
-    "name": "Alerts Basic examples, Alerts Link color, Alerts Icons, Alerts Additional content, Alerts Dismissing, Alerts Import, Alerts Usage",
+    "name": "Alerts Basic examples, Alerts Static examples, Alerts Link color, Alerts Icons, Alerts Additional content, Alerts Dismissing, Alerts Show, Alerts Hide, Alerts Placement, Alerts Container, Alerts Offset, Alerts Stacking, Alerts Stacking - Container, Alerts Import, Alerts Usage",
     "link": "https://tw-elements.com/docs/standard/components/alerts/",
     "category": "Alert/Notification",
     "parent": null
@@ -24048,7 +24048,7 @@
     "parent": null
   },
   {
-    "name": "Toast Basic example, Toast Colors, Toast Import, Toast Usage",
+    "name": "Toast Basic example, Toast Static example, Toast Color examples, Toast Placement, Toast Offset, Toast Container, Toast Stacking, Toast Stacking (container), Toast Import, Toast Usage",
     "link": "https://tw-elements.com/docs/standard/components/toast/",
     "category": "Alert/Notification",
     "parent": null
@@ -24450,10 +24450,10 @@
     "parent": null
   },
   {
-    "name": "Search Basic example, Search with icon, Search without additional elements, Search with label",
+    "name": "Search Navbar",
     "link": "https://tw-elements.com/docs/standard/forms/search/",
-    "category": "Search",
-    "parent": "Form"
+    "category": "Navigation/Header",
+    "parent": null
   },
   {
     "name": "Select with search inside a modal",
@@ -24468,7 +24468,7 @@
     "parent": null
   },
   {
-    "name": "Footer Basic example, Footer Advanced example, Footer Copyrights, Footer Links, Footer Text, Footer Images, Footer Icons, Footer Buttons dark theme, Footer Form",
+    "name": "Footer Basic example, Footer Advanced example, Footer Copyrights, Footer Links, Footer Text, Footer Images, Footer Icons, Footer Buttons, Footer Form",
     "link": "https://tw-elements.com/docs/standard/navigation/footer/",
     "category": "Footer",
     "parent": null
@@ -25722,7 +25722,7 @@
     "parent": null
   },
   {
-    "name": "Spinners Basic example, Spinners Colors, Spinners Growing spinner, Spinners Colors of growing spinner, Spinners Margin, Spinners Flex, Spinners Floats, Spinners Text, Spinners Size small, Spinners Size large",
+    "name": "Spinners Basic example, Spinners Colors, Spinners Growing spinner, Spinners Alignment, Spinners Margin, Spinners Flex, Spinners Floats, Spinners Text align, Spinners Size, Spinners Border spinner",
     "link": "https://tw-elements.com/docs/standard/components/spinners/",
     "category": "Loading/Spinner",
     "parent": null
@@ -26178,7 +26178,7 @@
     "parent": null
   },
   {
-    "name": "Stepper Basic example, Stepper Vertical stepper, Stepper Import, Stepper Usage",
+    "name": "Stepper Basic example, Stepper Change steps using external elements, Stepper Linear stepper, Stepper With Validation component, Stepper With default HMTL validation, Stepper No editable stepper, Stepper Vertical stepper, Stepper Mobile stepper, Stepper with gesture support, Stepper Optional step, Stepper Custom icons, Stepper Form wizard, Stepper Toggle to vertical or mobile on smaller screens, Stepper Events, Stepper Import, Stepper Usage",
     "link": "https://tw-elements.com/docs/standard/components/stepper/",
     "category": "Step",
     "parent": null
@@ -27318,7 +27318,7 @@
     "parent": null
   },
   {
-    "name": "Scrollspy Basic example, Scrollspy Import, Scrollspy Usage",
+    "name": "Scrollspy Basic example, Scrollspy Smooth scroll, Scrollspy Import, Scrollspy Usage",
     "link": "https://tw-elements.com/docs/standard/navigation/scrollspy/",
     "category": "Other",
     "parent": null
@@ -27902,6 +27902,12 @@
   {
     "name": "Tailwind CSS Dashboard Layout",
     "link": "https://tailwindcomponents.com/component/dashboard-30",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Migrating to v2 Introduction, Migrating to v2 Migrating from v1.x.x to v2, Migrating to v2 Initialization and components usage, Migrating to v2 Package file structure, Migrating to v2 Events, Migrating to v2 Methods",
+    "link": "https://tw-elements.com/docs/standard/getting-started/migration-guide/",
     "category": "Other",
     "parent": null
   }
