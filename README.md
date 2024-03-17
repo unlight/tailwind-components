@@ -1532,6 +1532,7 @@
 * dropdown dropdown 2, dropdown dropdown 2: [tailwinduikit.com/components/webapp/form/dropdown#dropdown\_2](https://tailwinduikit.com/components/webapp/form/dropdown#dropdown_2)
 * popover simple popover, popover simple popover: [tailwinduikit.com/components/webapp/UI\_element/popover#simple\_popover](https://tailwinduikit.com/components/webapp/UI_element/popover#simple_popover)
 * Flyout menus: [windstatic.com/flyouts](https://windstatic.com/flyouts)
+* Tailwind CSS Tabs - Color Selection: [tailwindcomponents.com/component/color-selection](https://tailwindcomponents.com/component/color-selection)
 * Lo-fi Tailwind CSS Dropdown - With Icons: [codepen.io/robstinson/pen/mdPGwWo](https://codepen.io/robstinson/pen/mdPGwWo)
 * Lo-fi Tailwind CSS Dropdown - With Search: [codepen.io/robstinson/pen/jOqvwBW](https://codepen.io/robstinson/pen/jOqvwBW)
 * Lo-fi Tailwind CSS Dropdown - Basic: [codepen.io/robstinson/pen/LYNJLxm](https://codepen.io/robstinson/pen/LYNJLxm)
@@ -2362,7 +2363,13 @@
 * Tailwind CSS Modal Confirmation with alpine js. with style headless ui: [tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui](https://tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui)
 * Modal Alert Responsive Tailwind CSS: [tailwindcomponents.com/component/modal-alert-responsive-tailwind-css](https://tailwindcomponents.com/component/modal-alert-responsive-tailwind-css)
 * Modal with a subscription form: [tailwindcomponents.com/component/modal-with-a-subscription-form](https://tailwindcomponents.com/component/modal-with-a-subscription-form)
-* Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
+* Modal Basic Example, Modal components, Modal Positions
+
+  MDB Pro component, Modal Frame
+
+  MDB Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal
+
+  MDB Pro component, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
 * Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour: [flowbite.com/docs/components/modal/](https://flowbite.com/docs/components/modal/)
 * Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
 
@@ -3338,7 +3345,6 @@
 * Tailwind CSS Animated tabs: [tailwindcomponents.com/component/pure-css-animated-tabs](https://tailwindcomponents.com/component/pure-css-animated-tabs)
 * Full width Tab: [tailwindcomponents.com/component/full-width-tab](https://tailwindcomponents.com/component/full-width-tab)
 * Tabs: [tailwindcomponents.com/component/tabs-3](https://tailwindcomponents.com/component/tabs-3)
-* Tailwind CSS Tabs - Color Celection: [tailwindcomponents.com/component/color-selection](https://tailwindcomponents.com/component/color-selection)
 * Free Tailwind CSS Tab Component: [tailwindcomponents.com/component/free-tailwind-css-tab-component](https://tailwindcomponents.com/component/free-tailwind-css-tab-component)
 * Tab with Peer: [tailwindcomponents.com/component/tab-with-peer](https://tailwindcomponents.com/component/tab-with-peer)
 * Tailwind CSS tabs: [tailwindcomponents.com/component/tailwind-css-tabs](https://tailwindcomponents.com/component/tailwind-css-tabs)
@@ -4753,7 +4759,8 @@
 * Mac Terminal: [tailwindcomponents.com/component/mac-terminal](https://tailwindcomponents.com/component/mac-terminal)
 * Theming Introduction, Theming Theme structure, Theming Screens, Theming Colors, Theming Spacing, Theming Customizing the default theme, Theming Extending the default theme, Theming Overriding the default theme: [tw-elements.com/docs/standard/getting-started/theming/](https://tw-elements.com/docs/standard/getting-started/theming/)
 * Contribute Start here, Contribute Start with sharing your feedback, Contribute Vote on the roadmap, Contribute Spread the word, Contribute Help us improve, Contribute Propose new features, Contribute Report bugs, Contribute Ask questions, Contribute Help others, Contribute Open a Pull Request, Contribute Package contributions, Contribute Documentation contributions: [tw-elements.com/docs/standard/getting-started/contribute/](https://tw-elements.com/docs/standard/getting-started/contribute/)
-* Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons: [tw-elements.com/docs/standard/getting-started/icons-integration/](https://tw-elements.com/docs/standard/getting-started/icons-integration/)
+* Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes
+  MDB Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons: [tw-elements.com/docs/standard/getting-started/icons-integration/](https://tw-elements.com/docs/standard/getting-started/icons-integration/)
 * Angular Prerequisites, Angular Creating a new Angular application, Angular Installing and configuring Tailwind CSS and TW Elements, Angular Initializing via JS, Angular Troubleshooting, Prerequisites, Creating a new Angular application, Installing and configuring Tailwind CSS and TW Elements, Initializing via JS, Troubleshooting: [tw-elements.com/docs/standard/integrations/angular-integration/](https://tw-elements.com/docs/standard/integrations/angular-integration/)
 * ASP.NET Prerequisites, ASP.NET Creating a new ASP.NET application, ASP.NET Installing and configuring Tailwind CSS and TW Elements: [tw-elements.com/docs/standard/integrations/aspnet-integration/](https://tw-elements.com/docs/standard/integrations/aspnet-integration/)
 * Django Prerequisites, Django Creating a new Django application, Django Installing and configuring Tailwind CSS and TW Elements, Django Initializing via JS, Prerequisites, Creating a new Django application, Installing and configuring Tailwind CSS and TW Elements, Initializing via JS: [tw-elements.com/docs/standard/integrations/django-integration/](https://tw-elements.com/docs/standard/integrations/django-integration/)
