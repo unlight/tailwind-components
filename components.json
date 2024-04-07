@@ -990,7 +990,7 @@
     "parent": null
   },
   {
-    "name": "Accordion Basic usage, Accordion Example, Accordion Always open, Accordion Nested, Accordion No arrow, Accordion With arrow, Accordion With title and arrow stretched, Accordion Bordered, Accordion Active content bordered New",
+    "name": "Accordion Basic usage, Accordion Example, Accordion Always open, Accordion Nested, Accordion No arrow, Accordion With arrow, Accordion With title and arrow stretched, Accordion Bordered, Accordion Active content bordered",
     "link": "https://preline.co/docs/accordion.html",
     "category": "Accordion",
     "parent": null
@@ -2028,7 +2028,7 @@
     "parent": null
   },
   {
-    "name": "Avatar Group With tooltip New",
+    "name": "Avatar Group With tooltip",
     "link": "https://preline.co/docs/avatar-group.html",
     "category": "Tooltips",
     "parent": null
@@ -2328,7 +2328,7 @@
     "parent": null
   },
   {
-    "name": "Badge Color variants, Badge Solid color variants, Badge Soft color variants, Badge Outline color variants New, Badge White color variants New, Badge Shape, Badge Rounded badges, Badge Max width, Badge Badge with indicator, Badge Working with icons New, Badge Badge with remove button, Badge With button, Badge Positioned, Badge Profile, Badge Animation, Badge Ping New",
+    "name": "Badge Color variants, Badge Solid color variants, Badge Soft color variants, Badge Outline color variants New, Badge White color variants New, Badge Shape, Badge Rounded badges, Badge Max width, Badge Badge with indicator, Badge Working with icons New, Badge Badge with remove button, Badge With button, Badge Positioned, Badge Profile, Badge Animation, Badge Ping",
     "link": "https://preline.co/docs/badge.html",
     "category": "Badge",
     "parent": null
@@ -2514,7 +2514,7 @@
     "parent": null
   },
   {
-    "name": "Breadcrumb Chevrons, Breadcrumb Slashes, Breadcrumb With icons, Breadcrumb Bordered, Breadcrumb \"More\" static button, Breadcrumb \"More\" button with Dropdown",
+    "name": "Breadcrumb Chevrons, Breadcrumb Slashes, Breadcrumb With icons, Breadcrumb Bordered, Breadcrumb 'More' static button, Breadcrumb 'More' button with Dropdown",
     "link": "https://preline.co/docs/breadcrumb.html",
     "category": "Breadcrumb",
     "parent": null
@@ -14790,7 +14790,7 @@
     "parent": null
   },
   {
-    "name": "Progress Basic usage, Progress Example, Progress Height, Progress Labels, Progress Within progress bar, Progress Label at the end New, Progress Title label New, Progress Floating label New, Progress Color variants, Progress Multiple bars, Progress Shape New, Progress No radius, Progress Straight bar, Progress Vertical progress, Progress Steps New, Progress Circular progress New",
+    "name": "Progress Basic usage, Progress Example, Progress Height, Progress Labels, Progress Within progress bar, Progress Label at the end New, Progress Title label New, Progress Floating label New, Progress Color variants, Progress Multiple bars, Progress Shape, Progress No radius, Progress Straight bar, Progress Vertical progress, Progress Steps New, Progress Circular progress New",
     "link": "https://preline.co/docs/progress.html",
     "category": "Progress Bar",
     "parent": null
@@ -24450,7 +24450,7 @@
     "parent": null
   },
   {
-    "name": "Search Navbar\n    \n    MDB Pro component",
+    "name": "Search Navbar",
     "link": "https://tw-elements.com/docs/standard/forms/search/",
     "category": "Navigation/Header",
     "parent": null
