@@ -2252,7 +2252,7 @@
 
 ## Loading/Spinner
 
-* Button updated Button with loading spinner, Button updated Button with loading spinner and text: [daisyui.com/components/button/](https://daisyui.com/components/button/)
+* Button with loading spinner, Button with loading spinner and text: [daisyui.com/components/button/](https://daisyui.com/components/button/)
 * Spinners Basic usage, Spinners Example, Spinners Color variants, Spinners Sizes, Spinners Customized description: [preline.co/docs/spinners.html](https://preline.co/docs/spinners.html)
 * Loading spinner, Loading dots, Loading ring, Loading ball, Loading bars, Loading infinity, Loading with colors: [daisyui.com/components/loading/](https://daisyui.com/components/loading/)
 * Overlay Loading: [layoutsfortailwind.lalokalabs.dev/ui/overlay-loading](https://layoutsfortailwind.lalokalabs.dev/ui/overlay-loading)
@@ -2365,11 +2365,11 @@
 * Modal with a subscription form: [tailwindcomponents.com/component/modal-with-a-subscription-form](https://tailwindcomponents.com/component/modal-with-a-subscription-form)
 * Modal Basic Example, Modal components, Modal Positions
 
-  MDB Pro component, Modal Frame
+  TWE Pro component, Modal Frame
 
-  MDB Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal
+  TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal
 
-  MDB Pro component, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
+  TWE Pro component, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
 * Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour: [flowbite.com/docs/components/modal/](https://flowbite.com/docs/components/modal/)
 * Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
 
@@ -2384,7 +2384,7 @@
 * navbar sdf: [tailwind.besoeasy.com/navbar/sdf.html](https://tailwind.besoeasy.com/navbar/sdf.html)
 * Navs Basic usage, Navs Example, Navs Available styles, Navs Tabs with underline, Navs With icons, Navs Horizontal alignment, Navs Vertical, Navs Segment, Navs Bar with underline, Navs Pills on gray color, Navs Pills with brand color, Navs Fill and justify, Navs Equal-width elements: [preline.co/docs/navs.html](https://preline.co/docs/navs.html)
 * Bottom navigation Bottom Navigation, Bottom navigation Bottom Navigation with brand colors, Bottom navigation With title, Bottom navigation With custom colors, Bottom navigation Sizes: [daisyui.com/components/bottom-navigation/](https://daisyui.com/components/bottom-navigation/)
-* Dropdown updated Dropdown in navbar: [daisyui.com/components/dropdown/](https://daisyui.com/components/dropdown/)
+* Dropdown in navbar: [daisyui.com/components/dropdown/](https://daisyui.com/components/dropdown/)
 * Header - Light, Header - Light with shadow, Header - Align right, Header - With profile ddm, Header - With icon on right, Header - Fat, Header - With center title: [tailwind-kit.com/components/header](https://www.tailwind-kit.com/components/header)
 * headers: [tailwind-css-components.appseed.us/headers.html](https://tailwind-css-components.appseed.us/headers.html)
 * navigations: [tailwind-css-components.appseed.us/navigations.html](https://tailwind-css-components.appseed.us/navigations.html)
@@ -2962,7 +2962,7 @@
 * Skeletons - Simple, Skeletons - Card skeleton, Skeletons - Horizontal Card skeleton: [tailwind-kit.com/components/skeleton](https://www.tailwind-kit.com/components/skeleton)
 * Skeleton Loading: [codepen.io/muratbenli/pen/yLOYmgj](https://codepen.io/muratbenli/pen/yLOYmgj)
 * Skeleton Card, Skeleton Header with paragraph, Skeleton Grid 3x with header, Skeleton Grid 4x2 with header, Skeleton Grid 4x2 Rounded full with header: [merakiui.com/components/skeleton](https://merakiui.com/components/skeleton)
-* Skeleton new Skeleton, Skeleton new Skeleton - circle with content, Skeleton new Skeleton - rectangle with content: [daisyui.com/components/skeleton/](https://daisyui.com/components/skeleton/)
+* Skeleton, Skeleton - circle with content, Skeleton - rectangle with content: [daisyui.com/components/skeleton/](https://daisyui.com/components/skeleton/)
 * Blog Post Card Skeleton Loader: [tailwindcomponents.com/component/blog-post-card-skeleton-loader](https://tailwindcomponents.com/component/blog-post-card-skeleton-loader)
 * Tailwind CSS Skeleton Loader  - Content Loading Placeholder: [tailwindcomponents.com/component/skeleton-loader](https://tailwindcomponents.com/component/skeleton-loader)
 * Tailwind CSS Simple Skeleton Animation: [tailwindcomponents.com/component/simple-skeleton-animation](https://tailwindcomponents.com/component/simple-skeleton-animation)
@@ -3112,7 +3112,7 @@
 * Toggle: [tailwindcomponents.com/component/toggle](https://tailwindcomponents.com/component/toggle)
 * iOS switches: [tailwindcomponents.com/component/ios-switches](https://tailwindcomponents.com/component/ios-switches)
 * Lo-fi Tailwind CSS Toggles: [codepen.io/robstinson/pen/mdPabam](https://codepen.io/robstinson/pen/mdPabam)
-* Theme Controller new Theme Controller using a toggle, Theme Controller new Theme Controller using a swap, Theme Controller new Theme Controller using a toggle with text, Theme Controller new Theme Controller using a toggle with icons, Theme Controller new Theme Controller using a toggle with icons inside, Theme Controller new Theme Controller using a toggle with custom colors: [daisyui.com/components/theme-controller/](https://daisyui.com/components/theme-controller/)
+* Theme Controller using a toggle, Theme Controller using a swap, Theme Controller using a toggle with text, Theme Controller using a toggle with icons, Theme Controller using a toggle with icons inside, Theme Controller using a toggle with custom colors: [daisyui.com/components/theme-controller/](https://daisyui.com/components/theme-controller/)
 * Table with Toggle SVG: [tailwindcomponents.com/component/table-with-toggle-svg](https://tailwindcomponents.com/component/table-with-toggle-svg)
 * Tailwind CSS Toggle switch: [tailwindcomponents.com/component/toggle-switch-with-text-made-with-tailwind](https://tailwindcomponents.com/component/toggle-switch-with-text-made-with-tailwind)
 * Tailwind CSS Toggle switches: [tailwindcomponents.com/component/toggle-switches](https://tailwindcomponents.com/component/toggle-switches)
@@ -3328,7 +3328,7 @@
 ## Tab
 
 * Tabs About, Tabs Tabs with underline, Tabs Tabs with icons, Tabs Horizontal alignment, Tabs Vertical, Tabs Horizontal scroll New, Tabs Segment, Tabs Bar with underline, Tabs Fill and justify, Tabs Equal-width elements: [preline.co/docs/tabs.html](https://preline.co/docs/tabs.html)
-* Tab updated Tabs, Tab updated Bordered, Tab updated Lifted, Tab updated Boxed, Tab updated Sizes, Tab updated Tabs with custom color: [daisyui.com/components/tab/](https://daisyui.com/components/tab/)
+* Tabs, Tab Bordered, Tab Lifted, Tab Boxed, Tab Sizes, Tabs with custom color: [daisyui.com/components/tab/](https://daisyui.com/components/tab/)
 * Fancy Tabs 1: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs1](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs1)
 * Fancy Tabs 3: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs3](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs3)
 * Fancy Tabs 4: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs4](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs4)
@@ -3393,7 +3393,7 @@
 * Timeline: [tailwindcomponents.com/component/timeline-2](https://tailwindcomponents.com/component/timeline-2)
 * Timeline: [tailwindcomponents.com/component/timeline](https://tailwindcomponents.com/component/timeline)
 * Timeline New Basic usage, Timeline New Collapsable, Timeline New Types, Timeline New Hoverable rows, Timeline New With time: [preline.co/docs/timeline.html](https://preline.co/docs/timeline.html)
-* Timeline new Timeline with text on both sides and icon, Timeline new Timeline with bottom side only, Timeline new Timeline with top side only, Timeline new Timeline with different sides, Timeline new Timeline with colorful lines, Timeline new Timeline without icons, Timeline new Vertical timeline with text on both sides and icon, Timeline new Vertical timeline with bottom side only, Timeline new Vertical timeline with top side only, Timeline new Vertical timeline with different sides, Timeline new Vertical timeline with colorful lines, Timeline new Vertical timeline without icons, Timeline new Responsive: vertical by default, horizontal on large screen, Timeline new Timeline with icon snapped to the start: [daisyui.com/components/timeline/](https://daisyui.com/components/timeline/)
+* Timeline with text on both sides and icon, Timeline with bottom side only, Timeline with top side only, Timeline with different sides, Timeline with colorful lines, Timeline without icons, Timeline Vertical timeline with text on both sides and icon, Timeline Vertical timeline with bottom side only, Timeline Vertical timeline with top side only, Timeline Vertical timeline with different sides, Timeline Vertical timeline with colorful lines, Timeline Vertical timeline without icons, Timeline Responsive: vertical by default, horizontal on large screen, Timeline with icon snapped to the start: [daisyui.com/components/timeline/](https://daisyui.com/components/timeline/)
 * Tailwind CSS md:Delivery Timeline: [tailwindcomponents.com/component/delivery-timeline](https://tailwindcomponents.com/component/delivery-timeline)
 * Timeline Basic example, Timeline Horizontal example, Timeline Primary color, Timeline Icons: [tw-elements.com/docs/standard/components/timeline/](https://tw-elements.com/docs/standard/components/timeline/)
 * Timeline Default timeline, Timeline Vertical timeline, Timeline Activity log, Timeline Grouped timeline: [flowbite.com/docs/components/timeline/](https://flowbite.com/docs/components/timeline/)
@@ -3542,7 +3542,7 @@
 * Kbd, Kbd sizes, Kbd In text, Kbd Key combination, Kbd Function Keys, Kbd A full keyboard, Kbd Arrow Keys: [daisyui.com/components/kbd/](https://daisyui.com/components/kbd/)
 * Rating, Rating mask-star-2 with warning color, Rating mask-heart with multiple colors, Rating mask-star-2 with green-500 color, Rating Sizes, Rating with `rating-hidden`, Rating half stars: [daisyui.com/components/rating/](https://daisyui.com/components/rating/)
 * Artboard size 1, Artboard size 2, Artboard size 3, Artboard size 4, Artboard size 5, Artboard size 6, Artboard horizontal size 1 (568×320), Artboard horizontal size 2 (667×375), Artboard horizontal size 3 (736×414), Artboard horizontal size 4 (812×375), Artboard horizontal size 5 (896×414), Artboard horizontal size 6 (1024×320): [daisyui.com/components/artboard/](https://daisyui.com/components/artboard/)
-* Divider updated Divider, Divider updated Divider horizontal, Divider updated Divider with no text, Divider updated responsive (lg:divider-horizontal), Divider updated Divider with colors, Divider updated Divider in different positions, Divider updated Divider in different positions (horizontal): [daisyui.com/components/divider/](https://daisyui.com/components/divider/)
+* Divider, Divider horizontal, Divider with no text, Divider responsive (lg:divider-horizontal), Divider with colors, Divider in different positions, Divider in different positions (horizontal): [daisyui.com/components/divider/](https://daisyui.com/components/divider/)
 * Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2, Mask Decagon, Mask Pentagon, Mask Diamond, Mask Square, Mask Circle, Mask Parallelogram, Mask Parallelogram-2, Mask Parallelogram-3, Mask Parallelogram-4, Mask Star, Mask Star-2, Mask Triangle, Mask Triangle-2, Mask Triangle-3, Mask Triangle-4: [daisyui.com/components/mask/](https://daisyui.com/components/mask/)
 * Link, Link Primary color, Link Secondary color, Link Accent color, Link Neutral color, Link Success color, Link Info color, Link Warning color, Link Error color, Link Show underline only on hover: [daisyui.com/components/link/](https://daisyui.com/components/link/)
 * Code mockup code with line prefix, Code Multi line, Code Highlighted line, Code Long line will scroll, Code Without prefix, Code With color: [daisyui.com/components/mockup-code/](https://daisyui.com/components/mockup-code/)
@@ -4640,7 +4640,7 @@
 * Dark mode Enabling dark mode: [tw-elements.com/docs/standard/getting-started/dark-mode/](https://tw-elements.com/docs/standard/getting-started/dark-mode/)
 * Charts Bar chart, Charts Line chart, Charts Bar chart horizontal, Charts Pie chart, Charts Doughnut chart, Charts Polar chart, Charts Radar chart, Charts Bubble chart, Charts Scatter chart, Charts Bar chart with custom options, Charts Bar chart with darkmode customization, Charts Bar chart with darkmode customization (with JS), Charts Import, Charts Usage, Charts Options, Charts Methods, Charts Events: [tw-elements.com/docs/standard/data/charts/](https://tw-elements.com/docs/standard/data/charts/)
 * Mega menu Basic example, Mega menu Bolded headings, Mega menu Punctuation, Mega menu Big news: [tw-elements.com/docs/standard/navigation/mega-menu/](https://tw-elements.com/docs/standard/navigation/mega-menu/)
-* Diff new Diff, Diff new Diff text: [daisyui.com/components/diff/](https://daisyui.com/components/diff/)
+* Diff, Diff text: [daisyui.com/components/diff/](https://daisyui.com/components/diff/)
 * Browser browser mockup with border, Browser browser mockup with background color: [daisyui.com/components/mockup-browser/](https://daisyui.com/components/mockup-browser/)
 * Divider #More Divider, Divider #Blurry Divider, Divider #Align Left, Divider #Align Right: [hyperui.dev/components/application-ui/dividers](https://www.hyperui.dev/components/application-ui/dividers)
 * Media #Align Top, Media #Align Center, Media #Align Bottom, Media #Align Stretch, Media #Align Top (Right), Media #Align Center (Right), Media #Align Bottom (Right), Media #Align Stretch (Right): [hyperui.dev/components/application-ui/media](https://www.hyperui.dev/components/application-ui/media)
@@ -4761,7 +4761,7 @@
 * Theming Introduction, Theming Theme structure, Theming Screens, Theming Colors, Theming Spacing, Theming Customizing the default theme, Theming Extending the default theme, Theming Overriding the default theme: [tw-elements.com/docs/standard/getting-started/theming/](https://tw-elements.com/docs/standard/getting-started/theming/)
 * Contribute Start here, Contribute Start with sharing your feedback, Contribute Vote on the roadmap, Contribute Spread the word, Contribute Help us improve, Contribute Propose new features, Contribute Report bugs, Contribute Ask questions, Contribute Help others, Contribute Open a Pull Request, Contribute Package contributions, Contribute Documentation contributions: [tw-elements.com/docs/standard/getting-started/contribute/](https://tw-elements.com/docs/standard/getting-started/contribute/)
 * Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes
-  MDB Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons: [tw-elements.com/docs/standard/getting-started/icons-integration/](https://tw-elements.com/docs/standard/getting-started/icons-integration/)
+  TWE Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons: [tw-elements.com/docs/standard/getting-started/icons-integration/](https://tw-elements.com/docs/standard/getting-started/icons-integration/)
 * Angular Prerequisites, Angular Creating a new Angular application, Angular Installing and configuring Tailwind CSS and TW Elements, Angular Initializing via JS, Angular Troubleshooting, Prerequisites, Creating a new Angular application, Installing and configuring Tailwind CSS and TW Elements, Initializing via JS, Troubleshooting: [tw-elements.com/docs/standard/integrations/angular-integration/](https://tw-elements.com/docs/standard/integrations/angular-integration/)
 * ASP.NET Prerequisites, ASP.NET Creating a new ASP.NET application, ASP.NET Installing and configuring Tailwind CSS and TW Elements: [tw-elements.com/docs/standard/integrations/aspnet-integration/](https://tw-elements.com/docs/standard/integrations/aspnet-integration/)
 * Django Prerequisites, Django Creating a new Django application, Django Installing and configuring Tailwind CSS and TW Elements, Django Initializing via JS, Prerequisites, Creating a new Django application, Installing and configuring Tailwind CSS and TW Elements, Initializing via JS: [tw-elements.com/docs/standard/integrations/django-integration/](https://tw-elements.com/docs/standard/integrations/django-integration/)

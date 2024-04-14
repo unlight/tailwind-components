@@ -2586,7 +2586,7 @@
     "parent": null
   },
   {
-    "name": "Button updated Button with loading spinner, Button updated Button with loading spinner and text",
+    "name": "Button with loading spinner, Button with loading spinner and text",
     "link": "https://daisyui.com/components/button/",
     "category": "Loading/Spinner",
     "parent": null
@@ -5196,7 +5196,7 @@
     "parent": null
   },
   {
-    "name": "Dropdown updated Dropdown in navbar",
+    "name": "Dropdown in navbar",
     "link": "https://daisyui.com/components/dropdown/",
     "category": "Navigation/Header",
     "parent": null
@@ -16434,7 +16434,7 @@
     "parent": null
   },
   {
-    "name": "Tab updated Tabs, Tab updated Bordered, Tab updated Lifted, Tab updated Boxed, Tab updated Sizes, Tab updated Tabs with custom color",
+    "name": "Tabs, Tab Bordered, Tab Lifted, Tab Boxed, Tab Sizes, Tabs with custom color",
     "link": "https://daisyui.com/components/tab/",
     "category": "Tab",
     "parent": null
@@ -16956,7 +16956,7 @@
     "parent": null
   },
   {
-    "name": "Divider updated Divider, Divider updated Divider horizontal, Divider updated Divider with no text, Divider updated responsive (lg:divider-horizontal), Divider updated Divider with colors, Divider updated Divider in different positions, Divider updated Divider in different positions (horizontal)",
+    "name": "Divider, Divider horizontal, Divider with no text, Divider responsive (lg:divider-horizontal), Divider with colors, Divider in different positions, Divider in different positions (horizontal)",
     "link": "https://daisyui.com/components/divider/",
     "category": "Other",
     "parent": null
@@ -24186,7 +24186,7 @@
     "parent": null
   },
   {
-    "name": "Theme Controller new Theme Controller using a toggle, Theme Controller new Theme Controller using a swap, Theme Controller new Theme Controller using a toggle with text, Theme Controller new Theme Controller using a toggle with icons, Theme Controller new Theme Controller using a toggle with icons inside, Theme Controller new Theme Controller using a toggle with custom colors",
+    "name": "Theme Controller using a toggle, Theme Controller using a swap, Theme Controller using a toggle with text, Theme Controller using a toggle with icons, Theme Controller using a toggle with icons inside, Theme Controller using a toggle with custom colors",
     "link": "https://daisyui.com/components/theme-controller/",
     "category": "Switch",
     "parent": null
@@ -25800,7 +25800,7 @@
     "parent": null
   },
   {
-    "name": "Modal Basic Example, Modal components, Modal Positions\n    \n    MDB Pro component, Modal Frame\n    \n    MDB Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal\n    \n    MDB Pro component, Modal Import, Modal Simple notification",
+    "name": "Modal Basic Example, Modal components, Modal Positions\n    \n    TWE Pro component, Modal Frame\n    \n    TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal\n    \n    TWE Pro component, Modal Import, Modal Simple notification",
     "link": "https://tw-elements.com/docs/standard/components/modal/",
     "category": "Modal",
     "parent": null
@@ -26112,7 +26112,7 @@
     "parent": null
   },
   {
-    "name": "Skeleton new Skeleton, Skeleton new Skeleton - circle with content, Skeleton new Skeleton - rectangle with content",
+    "name": "Skeleton, Skeleton - circle with content, Skeleton - rectangle with content",
     "link": "https://daisyui.com/components/skeleton/",
     "category": "Skeleton",
     "parent": null
@@ -26400,7 +26400,7 @@
     "parent": null
   },
   {
-    "name": "Timeline new Timeline with text on both sides and icon, Timeline new Timeline with bottom side only, Timeline new Timeline with top side only, Timeline new Timeline with different sides, Timeline new Timeline with colorful lines, Timeline new Timeline without icons, Timeline new Vertical timeline with text on both sides and icon, Timeline new Vertical timeline with bottom side only, Timeline new Vertical timeline with top side only, Timeline new Vertical timeline with different sides, Timeline new Vertical timeline with colorful lines, Timeline new Vertical timeline without icons, Timeline new Responsive: vertical by default, horizontal on large screen, Timeline new Timeline with icon snapped to the start",
+    "name": "Timeline with text on both sides and icon, Timeline with bottom side only, Timeline with top side only, Timeline with different sides, Timeline with colorful lines, Timeline without icons, Timeline Vertical timeline with text on both sides and icon, Timeline Vertical timeline with bottom side only, Timeline Vertical timeline with top side only, Timeline Vertical timeline with different sides, Timeline Vertical timeline with colorful lines, Timeline Vertical timeline without icons, Timeline Responsive: vertical by default, horizontal on large screen, Timeline with icon snapped to the start",
     "link": "https://daisyui.com/components/timeline/",
     "category": "Timeline",
     "parent": null
@@ -26418,7 +26418,7 @@
     "parent": null
   },
   {
-    "name": "Diff new Diff, Diff new Diff text",
+    "name": "Diff, Diff text",
     "link": "https://daisyui.com/components/diff/",
     "category": "Other",
     "parent": null
@@ -27162,7 +27162,7 @@
     "parent": null
   },
   {
-    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes\n    MDB Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
+    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes\n    TWE Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
     "link": "https://tw-elements.com/docs/standard/getting-started/icons-integration/",
     "category": "Other",
     "parent": null
