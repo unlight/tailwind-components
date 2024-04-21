@@ -79,6 +79,7 @@
 * Tailwind CSS Simple Accordion: [tailwindcomponents.com/component/simple-accordion](https://tailwindcomponents.com/component/simple-accordion)
 * Accordion Basic examples, Accordion Flush, Accordion Always open: [tw-elements.com/docs/standard/components/accordion/](https://tw-elements.com/docs/standard/components/accordion/)
 * Collapse Basic example, Collapse Horizontal, Collapse Multiple targets, Collapse With Scroll, Collapse Import, Collapse Usage: [tw-elements.com/docs/standard/components/collapse/](https://tw-elements.com/docs/standard/components/collapse/)
+* Tailwind CSS Accordion: [tailwindcomponents.com/component/accordion-5](https://tailwindcomponents.com/component/accordion-5)
 
 ## Alert/Notification
 
@@ -805,6 +806,7 @@
 * Buttons Basic example, Buttons With ripple, Buttons Hierarchy, Buttons Contextual, Buttons Neutral, Buttons Link, Buttons Outline, Buttons Rounded, Buttons Rounded outline, Buttons Floating, Buttons Fixed buttons, Buttons Sizes, Buttons Active state, Buttons Disabled state, Buttons With icon, Buttons Block buttons, Buttons Import, Buttons Usage: [tw-elements.com/docs/standard/components/buttons/](https://tw-elements.com/docs/standard/components/buttons/)
 * Scroll back to top button Basic example: [tw-elements.com/docs/standard/components/scroll-back-to-top-button/](https://tw-elements.com/docs/standard/components/scroll-back-to-top-button/)
 * Buttons Outline Buttons, Buttons Solid Buttons, Buttons Buttons Styles, Buttons Button Bordered, Buttons Button Groups, Buttons Miscellaneous: [tailwindadmin.netlify.app/buttons](https://tailwindadmin.netlify.app/buttons)
+* NavLink Button Tailwind CSS: [tailwindcomponents.com/component/navlink-button](https://tailwindcomponents.com/component/navlink-button)
 
 ## Call to Action
 
@@ -1259,18 +1261,18 @@
 * Tailwind CSS liste card - posts - article list: [tailwindcomponents.com/component/liste-carte](https://tailwindcomponents.com/component/liste-carte)
 * Tailwind CSS featured post - top card: [tailwindcomponents.com/component/top-card](https://tailwindcomponents.com/component/top-card)
 * Spotify Sharing Card: [tailwindcomponents.com/component/spotify-sharing-card](https://tailwindcomponents.com/component/spotify-sharing-card)
-* GitHub Profile Card, GitHub Profile Card: [tailwindcomponents.com/component/github-profile-card-1](https://tailwindcomponents.com/component/github-profile-card-1)
+* GitHub Profile Card: [tailwindcomponents.com/component/github-profile-card-1](https://tailwindcomponents.com/component/github-profile-card-1)
 * Payment Card Form: [tailwindcomponents.com/component/payment-form-with-tailwind](https://tailwindcomponents.com/component/payment-form-with-tailwind)
-* Login Card, Login Card: [tailwindcomponents.com/component/login-card](https://tailwindcomponents.com/component/login-card)
+* Login Card: [tailwindcomponents.com/component/login-card](https://tailwindcomponents.com/component/login-card)
 * Card suscriptors: [tailwindcomponents.com/component/card-suscriptors](https://tailwindcomponents.com/component/card-suscriptors)
 * Card AI Power Analytics: [tailwindcomponents.com/component/card-ai-power-analytics](https://tailwindcomponents.com/component/card-ai-power-analytics)
-* Tailwind CSS Music Player Card: [tailwindcomponents.com/component/music-player-card](https://tailwindcomponents.com/component/music-player-card)
+* Tailwind CSS Music Player Card, Tailwind CSS Music Player Card: [tailwindcomponents.com/component/music-player-card](https://tailwindcomponents.com/component/music-player-card)
 * Tailwind CSS Product Card: [tailwindcomponents.com/component/tailwind-css-product-card-4](https://tailwindcomponents.com/component/tailwind-css-product-card-4)
 * Tailwind CSS product card: [tailwindcomponents.com/component/product-card-16](https://tailwindcomponents.com/component/product-card-16)
 * Tailwind CSS Product Card: [tailwindcomponents.com/component/card-44](https://tailwindcomponents.com/component/card-44)
-* Tailwind CSS Pro Profile Card: [tailwindcomponents.com/component/pro-profile-card](https://tailwindcomponents.com/component/pro-profile-card)
+* Tailwind CSS Pro Profile Card, Tailwind CSS Pro Profile Card: [tailwindcomponents.com/component/pro-profile-card](https://tailwindcomponents.com/component/pro-profile-card)
 * Tailwind CSS Contact Card: [tailwindcomponents.com/component/contact-card-1](https://tailwindcomponents.com/component/contact-card-1)
-* Tailwind CSS Profile Card: [tailwindcomponents.com/component/profile-card-18](https://tailwindcomponents.com/component/profile-card-18)
+* Tailwind CSS Profile Card, Tailwind CSS Profile Card: [tailwindcomponents.com/component/profile-card-18](https://tailwindcomponents.com/component/profile-card-18)
 * Tailwind CSS card: [tailwindcomponents.com/component/card-43](https://tailwindcomponents.com/component/card-43)
 * Tailwind CSS Authentication Card Section: [tailwindcomponents.com/component/tailwind-css-authentication-card-section](https://tailwindcomponents.com/component/tailwind-css-authentication-card-section)
 * Tailwind CSS calendar stripe card: [tailwindcomponents.com/component/tailwind-css-calendar-stripe-card](https://tailwindcomponents.com/component/tailwind-css-calendar-stripe-card)
@@ -1319,10 +1321,18 @@
 * Tailwind CSS Attractive Property Card: [tailwindcomponents.com/component/attractive-property-card](https://tailwindcomponents.com/component/attractive-property-card)
 * Trello card clone: [tailwindcomponents.com/component/trello-card-clone](https://tailwindcomponents.com/component/trello-card-clone)
 * Ui components Cards: [tailwindadmin.netlify.app/ui](https://tailwindadmin.netlify.app/ui)
-* Card Component Simple: [tailwindcomponents.com/component/card-component-simple](https://tailwindcomponents.com/component/card-component-simple)
+* Card Component Simple, Card Component Simple: [tailwindcomponents.com/component/card-component-simple](https://tailwindcomponents.com/component/card-component-simple)
 * SImple Imageless Card Component: [tailwindcomponents.com/component/simple-imageless-card-component](https://tailwindcomponents.com/component/simple-imageless-card-component)
 * Airbnb card: [tailwindcomponents.com/component/airbnb-card](https://tailwindcomponents.com/component/airbnb-card)
 * Card Login (very simple): [tailwindcomponents.com/component/card-login-very-simple](https://tailwindcomponents.com/component/card-login-very-simple)
+* Collection Card #Simple, Collection Card #Content Inside: [hyperui.dev/components/marketing/collection-cards](https://www.hyperui.dev/components/marketing/collection-cards)
+* Product Card #Simple, Product Card #Simple with Variant Count, Product Card #Simple with Description, Product Card #Simple (Rounded), Product Card #With Color Variants, Product Card #Contained Sections with Wishlist: [hyperui.dev/components/marketing/product-cards](https://www.hyperui.dev/components/marketing/product-cards)
+* Tailwind CSS github-repo-card: [tailwindcomponents.com/component/github-repo-card](https://tailwindcomponents.com/component/github-repo-card)
+* Tailwind CSS GitHub profile card: [tailwindcomponents.com/component/github-profile-card-2](https://tailwindcomponents.com/component/github-profile-card-2)
+* Tailwind CSS Blog Card: [tailwindcomponents.com/component/blog-card-3](https://tailwindcomponents.com/component/blog-card-3)
+* Tailwind CSS Card Blur: [tailwindcomponents.com/component/card-blur-1](https://tailwindcomponents.com/component/card-blur-1)
+* Card - Windows 95: [tailwindcomponents.com/component/card-windows-95](https://tailwindcomponents.com/component/card-windows-95)
+* Card Component: [tailwindcomponents.com/component/card-component-3](https://tailwindcomponents.com/component/card-component-3)
 
 ## Dashboard Widgets
 
@@ -1559,6 +1569,9 @@
 * Popover Default popover, Popover User profile, Popover Company profile, Popover Image popover, Popover Description popover, Popover Progress popover, Popover Password strength, Popover Placement, Popover Triggering, Popover Offset, Popover Animation, Popover Disable arrow, Popover JavaScript behaviour: [flowbite.com/docs/components/popover/](https://flowbite.com/docs/components/popover/)
 * Select Select input example, Select Multiple options, Select Size attribute, Select Underline select, Select Select with dropdown, Select Sizes: [flowbite.com/docs/forms/select/](https://flowbite.com/docs/forms/select/)
 * Drop Down Component (Dark Mode supported): [tailwindcomponents.com/component/drop-down-component-dark-mode-supported](https://tailwindcomponents.com/component/drop-down-component-dark-mode-supported)
+* Filter #Inline Dropdown, Filter #Stacked Dropdown: [hyperui.dev/components/application-ui/filters](https://www.hyperui.dev/components/application-ui/filters)
+* Smooth Dropdown: [tailwindcomponents.com/component/smooth-dropdown](https://tailwindcomponents.com/component/smooth-dropdown)
+* select number: [tailwindcomponents.com/component/select-number](https://tailwindcomponents.com/component/select-number)
 
 ## Form
 
@@ -1815,6 +1828,11 @@
 * Textarea Textarea example, Textarea WYSIWYG Editor, Textarea Comment box, Textarea Chatroom input: [flowbite.com/docs/forms/textarea/](https://flowbite.com/docs/forms/textarea/)
 * Forms Inline Form, Forms Underline Form, Forms Form Grid: [tailwindadmin.netlify.app/forms](https://tailwindadmin.netlify.app/forms)
 * Tailwind CSS Contact Us Form: [tailwindcomponents.com/component/anja](https://tailwindcomponents.com/component/anja)
+* Quantity Input #Simple, Quantity Input #No Spinners, Quantity Input #No Spinners + Centered, Quantity Input #Contained: [hyperui.dev/components/application-ui/quantity-inputs](https://www.hyperui.dev/components/application-ui/quantity-inputs)
+* Tailwind CSS Floating Form Labels: [tailwindcomponents.com/component/floating-form-labels-5](https://tailwindcomponents.com/component/floating-form-labels-5)
+* Simple OTP form Section Component: [tailwindcomponents.com/component/simple-otp-form-section-component](https://tailwindcomponents.com/component/simple-otp-form-section-component)
+* Register  Form Component: [tailwindcomponents.com/component/register-form-component](https://tailwindcomponents.com/component/register-form-component)
+* Tailwind CSS Form: [tailwindcomponents.com/component/tailwindcomponents](https://tailwindcomponents.com/component/tailwindcomponents)
 
 ### Contact
 
@@ -1847,12 +1865,14 @@
 * Basic Contact Form - Nickname: [tailwindcomponents.com/component/basic-contact-form-nickname](https://tailwindcomponents.com/component/basic-contact-form-nickname)
 * Contact List: [tailwindcomponents.com/component/contact-list](https://tailwindcomponents.com/component/contact-list)
 * Tailwind CSS contact form: [tailwindcomponents.com/component/tailwind-contact-form-2](https://tailwindcomponents.com/component/tailwind-contact-form-2)
-* Tailwind CSS contact form template: [tailwindcomponents.com/component/tailwind-contact-form-template](https://tailwindcomponents.com/component/tailwind-contact-form-template)
+* Tailwind CSS contact form template, Tailwind CSS contact form template: [tailwindcomponents.com/component/tailwind-contact-form-template](https://tailwindcomponents.com/component/tailwind-contact-form-template)
 * Tailwind CSS Contact who ever you like: [tailwindcomponents.com/component/contact-who-ever-you-like](https://tailwindcomponents.com/component/contact-who-ever-you-like)
 * Tailwind CSS Formulaire de contact - contact form: [tailwindcomponents.com/component/formulaire-de-contact-1](https://tailwindcomponents.com/component/formulaire-de-contact-1)
 * List contact: [tailwindcomponents.com/component/list-contact](https://tailwindcomponents.com/component/list-contact)
 * Tailwind CSS Contact Form: [tailwindcomponents.com/component/form-contact](https://tailwindcomponents.com/component/form-contact)
 * Tailwind CSS contact form dark mode: [tailwindcomponents.com/component/contact-form-dark-mode](https://tailwindcomponents.com/component/contact-form-dark-mode)
+* Contact Page with map: [tailwindcomponents.com/component/contact-page-4](https://tailwindcomponents.com/component/contact-page-4)
+* Tailwind CSS Contact Page: [tailwindcomponents.com/component/contact-page-3](https://tailwindcomponents.com/component/contact-page-3)
 
 ### Login
 
@@ -1987,8 +2007,9 @@
 * Tailwind CSS Simple Login Page: [tailwindcomponents.com/component/simple-login-page-2](https://tailwindcomponents.com/component/simple-login-page-2)
 * Login form Basic example, Login form v.2, Login form v.3: [tw-elements.com/docs/standard/forms/login-form/](https://tw-elements.com/docs/standard/forms/login-form/)
 * Tailwind CSS Login Page: [tailwindcomponents.com/component/login-page-20](https://tailwindcomponents.com/component/login-page-20)
-* Dark Login Page: [tailwindcomponents.com/component/dark-login-page](https://tailwindcomponents.com/component/dark-login-page)
+* Dark Login Page, Dark Login Page: [tailwindcomponents.com/component/dark-login-page](https://tailwindcomponents.com/component/dark-login-page)
 * Tailwind CSS Login form: [tailwindcomponents.com/component/login-form-31](https://tailwindcomponents.com/component/login-form-31)
+* Simple Login Form: [tailwindcomponents.com/component/simple-login-form-3](https://tailwindcomponents.com/component/simple-login-form-3)
 
 ### Register
 
@@ -2028,7 +2049,7 @@
 * Forms Sign up for our newsletter: [merakiui.com/components/forms](https://merakiui.com/components/forms)
 * undefined Sign Up Page, undefined Sign Up Page with Side Image, undefined Sign up for our newsletter: [merakiui.com/components/application-ui/sign-in-and-registration](https://merakiui.com/components/application-ui/sign-in-and-registration)
 * Tailwind CSS newsletter sign up: [tailwindcomponents.com/component/newsletter-2](https://tailwindcomponents.com/component/newsletter-2)
-* Sign Up page with image responsive, Sign Up page with image responsive: [tailwindcomponents.com/component/sign-up-page-with-image-responsive](https://tailwindcomponents.com/component/sign-up-page-with-image-responsive)
+* Sign Up page with image responsive: [tailwindcomponents.com/component/sign-up-page-with-image-responsive](https://tailwindcomponents.com/component/sign-up-page-with-image-responsive)
 * Tailwind CSS SignUP Page: [tailwindcomponents.com/component/gregp22](https://tailwindcomponents.com/component/gregp22)
 * Tailwind CSS Register: [tailwindcomponents.com/component/register-1](https://tailwindcomponents.com/component/register-1)
 * Tailwind CSS Simple Sign Up Page: [tailwindcomponents.com/component/simple-sign-up-page](https://tailwindcomponents.com/component/simple-sign-up-page)
@@ -2363,15 +2384,11 @@
 * Tailwind CSS Modal Confirmation with alpine js. with style headless ui: [tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui](https://tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui)
 * Modal Alert Responsive Tailwind CSS: [tailwindcomponents.com/component/modal-alert-responsive-tailwind-css](https://tailwindcomponents.com/component/modal-alert-responsive-tailwind-css)
 * Modal with a subscription form: [tailwindcomponents.com/component/modal-with-a-subscription-form](https://tailwindcomponents.com/component/modal-with-a-subscription-form)
-* Modal Basic Example, Modal components, Modal Positions
-
-  TWE Pro component, Modal Frame
-
-  TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal
-
-  TWE Pro component, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
+* Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
 * Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour: [flowbite.com/docs/components/modal/](https://flowbite.com/docs/components/modal/)
 * Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
+* Tailwind CSS Modal: [tailwindcomponents.com/component/modal-16](https://tailwindcomponents.com/component/modal-16)
+* Modal Video with Alpine.js: [tailwindcomponents.com/component/modal-video-with-alpinejs](https://tailwindcomponents.com/component/modal-video-with-alpinejs)
 
 ## Navigation/Header
 
@@ -2575,6 +2592,9 @@
 * Headers Jumbotron, Headers Background image: [tw-elements.com/docs/standard/navigation/headers/](https://tw-elements.com/docs/standard/navigation/headers/)
 * Navbar Default navbar, Navbar Navbar with dropdown, Navbar Multi-level dropdown, Navbar Sticky navbar, Navbar Navbar with submenu, Navbar Navbar with search, Navbar Navbar with CTA button, Navbar Language dropdown, Navbar User menu dropdown, Navbar Mega menu navbar, Navbar Solid background, Navbar Hamburger menu, Navbar More examples, Navbar JavaScript behaviour: [flowbite.com/docs/components/navbar/](https://flowbite.com/docs/components/navbar/)
 * Dark Mobile Navbar: [tailwindcomponents.com/component/dark-mobile-navbar](https://tailwindcomponents.com/component/dark-mobile-navbar)
+* Navbar Header: [tailwindcomponents.com/component/navbar-header](https://tailwindcomponents.com/component/navbar-header)
+* Tailwind CSS Responsive Navbars: [tailwindcomponents.com/component/mattismynames-responsive-navbar](https://tailwindcomponents.com/component/mattismynames-responsive-navbar)
+* Responsive Tailwind CSS navbar: [tailwindcomponents.com/component/responsive-tailwind-css-navbar-2](https://tailwindcomponents.com/component/responsive-tailwind-css-navbar-2)
 
 ## Page
 
@@ -2720,6 +2740,7 @@
 * 404 Page Templates: [tailwindcomponents.com/component/404-page-templates](https://tailwindcomponents.com/component/404-page-templates)
 * 404 Page responsive Tailwind CSS: [tailwindcomponents.com/component/404-page-responsive-tailwind-css](https://tailwindcomponents.com/component/404-page-responsive-tailwind-css)
 * 404 Page: [tailwindadmin.netlify.app/404](https://tailwindadmin.netlify.app/404)
+* Not Found Component Tailwind CSS: [tailwindcomponents.com/component/not-found-component](https://tailwindcomponents.com/component/not-found-component)
 
 ### FAQ
 
@@ -2800,7 +2821,7 @@
 * Lo-fi Pricing Table - Tailwind CSS: [codepen.io/robstinson/pen/xxOjYbm](https://codepen.io/robstinson/pen/xxOjYbm)
 * Pricing Simple, Pricing Checkbox, Pricing Checkbox With Details, Pricing Side By Side, Pricing Centered, Pricing Navigation, Pricing Popular, Pricing Sign up for our newsletter: [merakiui.com/components/pricing](https://merakiui.com/components/pricing)
 * Pricing Plans: [kimia-ui.vercel.app/components/pricing-table](https://kimia-ui.vercel.app/components/pricing-table)
-* Tailwind CSS Pricing sections, Tailwind CSS Pricing sections: [tailwindcomponents.com/component/pricing-sections-4](https://tailwindcomponents.com/component/pricing-sections-4)
+* Tailwind CSS Pricing sections: [tailwindcomponents.com/component/pricing-sections-4](https://tailwindcomponents.com/component/pricing-sections-4)
 * Tailwind CSS Pricing Cards: [tailwindcomponents.com/component/pricing-3](https://tailwindcomponents.com/component/pricing-3)
 * Tailwind CSS Pricing Plan: [tailwindcomponents.com/component/pricing-table-1](https://tailwindcomponents.com/component/pricing-table-1)
 * Pricing Card: [tailwindcomponents.com/component/card-45](https://tailwindcomponents.com/component/card-45)
@@ -2809,6 +2830,9 @@
 * Tailwind CSS Pricing Card: [tailwindcomponents.com/component/tailwind-css-pricing-card-by-material-tailwind](https://tailwindcomponents.com/component/tailwind-css-pricing-card-by-material-tailwind)
 * Tailwind CSS Stripe pricing panel clone: [tailwindcomponents.com/component/stripe-pricing-panel-clone](https://tailwindcomponents.com/component/stripe-pricing-panel-clone)
 * Tailwind CSS pricing section: [tailwindcomponents.com/component/form-28](https://tailwindcomponents.com/component/form-28)
+* Tailwind CSS Pricing Table #2: [tailwindcomponents.com/component/pricing-table-2-1](https://tailwindcomponents.com/component/pricing-table-2-1)
+* Tailwind CSS Pricing Table: [tailwindcomponents.com/component/pricing-table-2](https://tailwindcomponents.com/component/pricing-table-2)
+* Pricing Tabs with a Monthly/Yearly Toggle: [tailwindcomponents.com/component/pricing-tabs-with-a-monthlyyearly-toggle](https://tailwindcomponents.com/component/pricing-tabs-with-a-monthlyyearly-toggle)
 
 ### Testimonial
 
@@ -3030,6 +3054,8 @@
 * Tailwind CSS Drawer Sidenav: [tailwindcomponents.com/component/drawer-sidenav](https://tailwindcomponents.com/component/drawer-sidenav)
 * Sidebar Default sidebar, Sidebar Multi-level menu, Sidebar Content separator, Sidebar Logo branding, Sidebar Off-canvas sidebar, Sidebar More examples, Sidebar Dashboard Layout: [flowbite.com/docs/components/sidebar/](https://flowbite.com/docs/components/sidebar/)
 * Timepicker Drawer with timepicker: [flowbite.com/docs/forms/timepicker/](https://flowbite.com/docs/forms/timepicker/)
+* Tailwind CSS Sliding card: [tailwindcomponents.com/component/sliding-card-1](https://tailwindcomponents.com/component/sliding-card-1)
+* Tailwind CSS Dynamic Sidebar with Alpine JS: [tailwindcomponents.com/component/dynamic-sidebar](https://tailwindcomponents.com/component/dynamic-sidebar)
 
 ## Comment
 
@@ -3044,6 +3070,7 @@
 * comments: [tailwindcomponents.com/component/comments](https://tailwindcomponents.com/component/comments)
 * Comment form: [tailwindcomponents.com/component/comment-form](https://tailwindcomponents.com/component/comment-form)
 * Comment: [tailwindcomponents.com/component/comment](https://tailwindcomponents.com/component/comment)
+* Tailwind CSS Simple Comment Section Component: [tailwindcomponents.com/component/simple-comment-section-component](https://tailwindcomponents.com/component/simple-comment-section-component)
 
 ## Step
 
@@ -3222,7 +3249,7 @@
 * Tailwind CSS Customers Table: [tailwindcomponents.com/component/customers-table](https://tailwindcomponents.com/component/customers-table)
 * Responsive Table: [tailwindcomponents.com/component/responsive-table-6](https://tailwindcomponents.com/component/responsive-table-6)
 * Table Social: [tailwindcomponents.com/component/table-social](https://tailwindcomponents.com/component/table-social)
-* Tailwind CSS Table Visits: [tailwindcomponents.com/component/table-visits](https://tailwindcomponents.com/component/table-visits)
+* Tailwind CSS Table Visits, Tailwind CSS Table Visits: [tailwindcomponents.com/component/table-visits](https://tailwindcomponents.com/component/table-visits)
 * Table UI: [tailwindcomponents.com/component/table-ui](https://tailwindcomponents.com/component/table-ui)
 * responsive table: [tailwindcomponents.com/component/responsive-table-5](https://tailwindcomponents.com/component/responsive-table-5)
 * responsive table: [tailwindcomponents.com/component/responsive-table-4](https://tailwindcomponents.com/component/responsive-table-4)
@@ -3368,6 +3395,7 @@
 * Tabs Basic example, Tabs Fill, Tabs Justify, Tabs Vertical, Tabs Color options, Tabs Import, Tabs Usage: [tw-elements.com/docs/standard/navigation/tabs/](https://tw-elements.com/docs/standard/navigation/tabs/)
 * Tab #Simple, Tab #Simple (Branded), Tab #Tabbed: [hyperui.dev/components/application-ui/tabs](https://www.hyperui.dev/components/application-ui/tabs)
 * Tabs Default tabs, Tabs Tabs with underline, Tabs Tabs with icons, Tabs Vertical tabs, Tabs Full width tabs, Tabs Interactive tabs, Tabs Active tab style, Tabs JavaScript behaviour: [flowbite.com/docs/components/tabs/](https://flowbite.com/docs/components/tabs/)
+* Tabs UI Tailwind CSS: [tailwindcomponents.com/component/tabs-ui-tailwind](https://tailwindcomponents.com/component/tabs-ui-tailwind)
 
 ## Timeline
 
@@ -3397,6 +3425,9 @@
 * Tailwind CSS md:Delivery Timeline: [tailwindcomponents.com/component/delivery-timeline](https://tailwindcomponents.com/component/delivery-timeline)
 * Timeline Basic example, Timeline Horizontal example, Timeline Primary color, Timeline Icons: [tw-elements.com/docs/standard/components/timeline/](https://tw-elements.com/docs/standard/components/timeline/)
 * Timeline Default timeline, Timeline Vertical timeline, Timeline Activity log, Timeline Grouped timeline: [flowbite.com/docs/components/timeline/](https://flowbite.com/docs/components/timeline/)
+* Vertical Timeline - Example #1: [tailwindcomponents.com/component/vertical-timeline-example-1](https://tailwindcomponents.com/component/vertical-timeline-example-1)
+* Vertical Timeline - Example #3: [tailwindcomponents.com/component/vertical-timeline-example-3](https://tailwindcomponents.com/component/vertical-timeline-example-3)
+* Vertical Timeline - Example #2: [tailwindcomponents.com/component/vertical-timeline-example-2](https://tailwindcomponents.com/component/vertical-timeline-example-2)
 
 ## Other
 
@@ -3463,7 +3494,7 @@
 * Vertical Menu #Simple, Vertical Menu #With Icon, Vertical Menu #With Icon and Branded Accent, Vertical Menu #Split with Borders, Vertical Menu #Split with Headings: [hyperui.dev/components/application-ui/vertical-menu](https://www.hyperui.dev/components/application-ui/vertical-menu)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/alerts](https://floatui.com/components/alerts)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/avatars](https://floatui.com/components/avatars)
-* Free Tailwind CSS Application UI Application UI, Free Tailwind CSS Application UI Dividers, Free Tailwind CSS Application UI Grids, Free Tailwind CSS Application UI Media, Free Tailwind CSS Application UI Vertical Menu: [hyperui.dev/components/application-ui](https://www.hyperui.dev/components/application-ui)
+* Free Tailwind CSS Application UI Application UI, Free Tailwind CSS Application UI Dividers, Free Tailwind CSS Application UI Filters, Free Tailwind CSS Application UI Grids, Free Tailwind CSS Application UI Media, Free Tailwind CSS Application UI Vertical Menu: [hyperui.dev/components/application-ui](https://www.hyperui.dev/components/application-ui)
 * Typography, Links: [sailui.github.io/](https://sailui.github.io/)
 * Indicator in center of an image, Indicator indicator-top (default) indicator-start, Indicator indicator-top (default) indicator-center, Indicator indicator-top (default) indicator-end (default), Indicator indicator-middle indicator-start, Indicator indicator-middle indicator-center, Indicator indicator-middle indicator-end (default), Indicator indicator-bottom indicator-start, Indicator indicator-bottom indicator-center, Indicator indicator-bottom indicator-end (default), Indicator multiple indicators, Indicator Responsive: [daisyui.com/components/indicator/](https://daisyui.com/components/indicator/)
 * Getting Started, Marketing UI, Application UI, Team Section with vertical images, Team Section with Info, Team Section centred with large images: [floatui.com/components/team-sections](https://floatui.com/components/team-sections)
@@ -3476,9 +3507,9 @@
 * Dividers With heading: [tinywind.dev/components/dividers](https://tinywind.dev/components/dividers)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/section-headers](https://floatui.com/components/section-headers)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/buttons](https://floatui.com/components/buttons)
-* Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Sections: [hyperui.dev/components/marketing](https://www.hyperui.dev/components/marketing)
+* Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections: [hyperui.dev/components/marketing](https://www.hyperui.dev/components/marketing)
 * Lexicon Text Area With message: [tailwindtemplates.io/templates?category=input](https://tailwindtemplates.io/templates?category=input)
-* Section #Content with USPs Grid, Section #Split with Content and Link Grid, Section #Split with Content and Image, Section #Content and Split with Image and Content, Section #Split with Image and Content with Overlap Background: [hyperui.dev/components/marketing/sections](https://www.hyperui.dev/components/marketing/sections)
+* Section #Content with USPs Grid, Section #Split with Content and Link Grid, Section #Split with Content and Image, Section #Content and Split with Image and Content, Section #Split with Image and Content with Overlap Background, Section #Collection with Products, Section #Collections Grid: [hyperui.dev/components/marketing/sections](https://www.hyperui.dev/components/marketing/sections)
 * Stack 3 divs without stack, Stack 3 divs with stack, Stack stacked images: [daisyui.com/components/stack/](https://daisyui.com/components/stack/)
 * Getting Started, Marketing UI, Application UI, Basic Feature Section, Dark Feature Section, Feature Section with check icons, Divided Feature Section, Feature Section with links, Feature Section with three columns, Feature Section with image: [floatui.com/components/feature-sections](https://floatui.com/components/feature-sections)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/cards](https://floatui.com/components/cards)
@@ -3872,7 +3903,7 @@
 * Tailwind CSS Gmail Replica: [tailwindcomponents.com/component/gmailkit](https://tailwindcomponents.com/component/gmailkit)
 * Tailwind CSS small text: [tailwindcomponents.com/component/tailwind-css-small-text](https://tailwindcomponents.com/component/tailwind-css-small-text)
 * Tailwind CSS Typography Colors: [tailwindcomponents.com/component/tailwind-css-typography-colors](https://tailwindcomponents.com/component/tailwind-css-typography-colors)
-* Tailwind CSS Typography Gradient Color, Tailwind CSS Typography Gradient Color: [tailwindcomponents.com/component/tailwind-css-typography-gradient-color](https://tailwindcomponents.com/component/tailwind-css-typography-gradient-color)
+* Tailwind CSS Typography Gradient Color: [tailwindcomponents.com/component/tailwind-css-typography-gradient-color](https://tailwindcomponents.com/component/tailwind-css-typography-gradient-color)
 * Tailwind CSS Lead Text: [tailwindcomponents.com/component/tailwind-css-lead-text](https://tailwindcomponents.com/component/tailwind-css-lead-text)
 * Tailwind CSS Paragraph: [tailwindcomponents.com/component/tailwind-css-paragraph](https://tailwindcomponents.com/component/tailwind-css-paragraph)
 * Tailwind CSS Headings: [tailwindcomponents.com/component/tailwind-css-headings](https://tailwindcomponents.com/component/tailwind-css-headings)
@@ -4646,9 +4677,9 @@
 * Media #Align Top, Media #Align Center, Media #Align Bottom, Media #Align Stretch, Media #Align Top (Right), Media #Align Center (Right), Media #Align Bottom (Right), Media #Align Stretch (Right): [hyperui.dev/components/application-ui/media](https://www.hyperui.dev/components/application-ui/media)
 * Color Picker New Example: [preline.co/docs/color-picker.html](https://preline.co/docs/color-picker.html)
 * Label in left: [sailboatui.com/docs/forms/form-layout/#label-in-left](https://sailboatui.com/docs/forms/form-layout/#label-in-left)
-* Tailwind CSS Payment setup, Tailwind CSS Payment setup: [tailwindcomponents.com/component/payment-setup-1](https://tailwindcomponents.com/component/payment-setup-1)
+* Tailwind CSS Payment setup: [tailwindcomponents.com/component/payment-setup-1](https://tailwindcomponents.com/component/payment-setup-1)
 * Tailwind CSS hover play video: [tailwindcomponents.com/component/hover-play-video](https://tailwindcomponents.com/component/hover-play-video)
-* Tailwind CSS resume: [tailwindcomponents.com/component/tailwind-resume](https://tailwindcomponents.com/component/tailwind-resume)
+* Tailwind CSS resume, Tailwind CSS resume: [tailwindcomponents.com/component/tailwind-resume](https://tailwindcomponents.com/component/tailwind-resume)
 * Free Tailwind Css portfolio template: [tailwindcomponents.com/component/free-tailwind-portfolio-template](https://tailwindcomponents.com/component/free-tailwind-portfolio-template)
 * Grid with profile image: [tailwindcomponents.com/component/grid-with-profile-image-2](https://tailwindcomponents.com/component/grid-with-profile-image-2)
 * Tailwind CSS domain for sale template: [tailwindcomponents.com/component/domain-for-sale-template](https://tailwindcomponents.com/component/domain-for-sale-template)
@@ -4662,7 +4693,7 @@
 * Logos: [tailwindcomponents.com/component/logos](https://tailwindcomponents.com/component/logos)
 * Tailwind CSS promo sections: [tailwindcomponents.com/component/promo-sections](https://tailwindcomponents.com/component/promo-sections)
 * Tailwind CSS Feature sections: [tailwindcomponents.com/component/feature-sections-1](https://tailwindcomponents.com/component/feature-sections-1)
-* Tailwind CSS Grid with profile image: [tailwindcomponents.com/component/grid-with-profile-image-1](https://tailwindcomponents.com/component/grid-with-profile-image-1)
+* Tailwind CSS Grid with profile image, Tailwind CSS Grid with profile image: [tailwindcomponents.com/component/grid-with-profile-image-1](https://tailwindcomponents.com/component/grid-with-profile-image-1)
 * Tailwind Css Mobile App: [tailwindcomponents.com/component/tailwindcss-card-3](https://tailwindcomponents.com/component/tailwindcss-card-3)
 * Tailwind CSS Privacy notice: [tailwindcomponents.com/component/privacy-notice](https://tailwindcomponents.com/component/privacy-notice)
 * Tailwind CSS team: [tailwindcomponents.com/component/team-1](https://tailwindcomponents.com/component/team-1)
@@ -4671,22 +4702,22 @@
 * Heading profiles: [tailwindcomponents.com/component/heading-profiles](https://tailwindcomponents.com/component/heading-profiles)
 * Tailwind CSS delivery tracking: [tailwindcomponents.com/component/delivery-tracking](https://tailwindcomponents.com/component/delivery-tracking)
 * Portfolio Design: [tailwindcomponents.com/component/portfolio-design-1](https://tailwindcomponents.com/component/portfolio-design-1)
-* Peaceful mind section, Peaceful mind section: [tailwindcomponents.com/component/peaceful-mind](https://tailwindcomponents.com/component/peaceful-mind)
+* Peaceful mind section: [tailwindcomponents.com/component/peaceful-mind](https://tailwindcomponents.com/component/peaceful-mind)
 * Home travel Tailwind CSS: [tailwindcomponents.com/component/home-travel-tailwind](https://tailwindcomponents.com/component/home-travel-tailwind)
 * Grid with profile image: [tailwindcomponents.com/component/grid-with-profile-image](https://tailwindcomponents.com/component/grid-with-profile-image)
 * Tailwind CSS Admin Template: [tailwindcomponents.com/component/admin-template](https://tailwindcomponents.com/component/admin-template)
 * Tailwind CSS featured post image Right styled: [tailwindcomponents.com/component/top-media-right](https://tailwindcomponents.com/component/top-media-right)
-* Tailwind CSS featured post image Right: [tailwindcomponents.com/component/top-card-media-right](https://tailwindcomponents.com/component/top-card-media-right)
+* Tailwind CSS featured post image Right, Tailwind CSS featured post image Right: [tailwindcomponents.com/component/top-card-media-right](https://tailwindcomponents.com/component/top-card-media-right)
 * Tailwind CSS featured post image Left: [tailwindcomponents.com/component/components-media-double-image](https://tailwindcomponents.com/component/components-media-double-image)
-* Section with 3 blogposts, Section with 3 blogposts: [tailwindcomponents.com/component/section-with-3-blogposts](https://tailwindcomponents.com/component/section-with-3-blogposts)
+* Section with 3 blogposts: [tailwindcomponents.com/component/section-with-3-blogposts](https://tailwindcomponents.com/component/section-with-3-blogposts)
 * Portfolio Design: [tailwindcomponents.com/component/portfolio-design](https://tailwindcomponents.com/component/portfolio-design)
 * Template: [tailwindcomponents.com/component/template](https://tailwindcomponents.com/component/template)
 * Stock Overview: Company Stocks, Prices, Quantities, and Total Values: [tailwindcomponents.com/component/stocks-table](https://tailwindcomponents.com/component/stocks-table)
 * Text Ellipsis: [tailwindcomponents.com/component/text-ellipsis](https://tailwindcomponents.com/component/text-ellipsis)
-* Profile-Donation, Profile-Donation: [tailwindcomponents.com/component/profile-donation](https://tailwindcomponents.com/component/profile-donation)
+* Profile-Donation: [tailwindcomponents.com/component/profile-donation](https://tailwindcomponents.com/component/profile-donation)
 * Feedback-Survey: [tailwindcomponents.com/component/feedback-survey](https://tailwindcomponents.com/component/feedback-survey)
 * quick-transfer: [tailwindcomponents.com/component/quick-transfer](https://tailwindcomponents.com/component/quick-transfer)
-* Industries Grid, Industries Grid: [tailwindcomponents.com/component/industries-grid](https://tailwindcomponents.com/component/industries-grid)
+* Industries Grid: [tailwindcomponents.com/component/industries-grid](https://tailwindcomponents.com/component/industries-grid)
 * content: [tailwindcomponents.com/component/content-1](https://tailwindcomponents.com/component/content-1)
 * banner: [tailwindcomponents.com/component/banner-2](https://tailwindcomponents.com/component/banner-2)
 * Portfolio: [tailwindcomponents.com/component/portfolio-2](https://tailwindcomponents.com/component/portfolio-2)
@@ -4708,7 +4739,7 @@
 * Task Manager: [tailwindcomponents.com/component/task-manager](https://tailwindcomponents.com/component/task-manager)
 * Tailwind CSS Player: [tailwindcomponents.com/component/tailwind-css-player](https://tailwindcomponents.com/component/tailwind-css-player)
 * Tailwind CSS Mini Audio player: [tailwindcomponents.com/component/mini-player](https://tailwindcomponents.com/component/mini-player)
-* Tailwind CSS Receipt Template: [tailwindcomponents.com/component/receipt-1](https://tailwindcomponents.com/component/receipt-1)
+* Tailwind CSS Receipt Template, Tailwind CSS Receipt Template: [tailwindcomponents.com/component/receipt-1](https://tailwindcomponents.com/component/receipt-1)
 * Tailwind CSS Logo Area with Title: [tailwindcomponents.com/component/tailwind-css-logo-area-with-title](https://tailwindcomponents.com/component/tailwind-css-logo-area-with-title)
 * Tailwind CSS Gradient: [tailwindcomponents.com/component/gradient](https://tailwindcomponents.com/component/gradient)
 * Tailwind CSS COREUI-Dashboard: [tailwindcomponents.com/component/tailwind-css-coreui-dashboard](https://tailwindcomponents.com/component/tailwind-css-coreui-dashboard)
@@ -4760,8 +4791,7 @@
 * Mac Terminal: [tailwindcomponents.com/component/mac-terminal](https://tailwindcomponents.com/component/mac-terminal)
 * Theming Introduction, Theming Theme structure, Theming Screens, Theming Colors, Theming Spacing, Theming Customizing the default theme, Theming Extending the default theme, Theming Overriding the default theme: [tw-elements.com/docs/standard/getting-started/theming/](https://tw-elements.com/docs/standard/getting-started/theming/)
 * Contribute Start here, Contribute Start with sharing your feedback, Contribute Vote on the roadmap, Contribute Spread the word, Contribute Help us improve, Contribute Propose new features, Contribute Report bugs, Contribute Ask questions, Contribute Help others, Contribute Open a Pull Request, Contribute Package contributions, Contribute Documentation contributions: [tw-elements.com/docs/standard/getting-started/contribute/](https://tw-elements.com/docs/standard/getting-started/contribute/)
-* Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes
-  TWE Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons: [tw-elements.com/docs/standard/getting-started/icons-integration/](https://tw-elements.com/docs/standard/getting-started/icons-integration/)
+* Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons: [tw-elements.com/docs/standard/getting-started/icons-integration/](https://tw-elements.com/docs/standard/getting-started/icons-integration/)
 * Angular Prerequisites, Angular Creating a new Angular application, Angular Installing and configuring Tailwind CSS and TW Elements, Angular Initializing via JS, Angular Troubleshooting, Prerequisites, Creating a new Angular application, Installing and configuring Tailwind CSS and TW Elements, Initializing via JS, Troubleshooting: [tw-elements.com/docs/standard/integrations/angular-integration/](https://tw-elements.com/docs/standard/integrations/angular-integration/)
 * ASP.NET Prerequisites, ASP.NET Creating a new ASP.NET application, ASP.NET Installing and configuring Tailwind CSS and TW Elements: [tw-elements.com/docs/standard/integrations/aspnet-integration/](https://tw-elements.com/docs/standard/integrations/aspnet-integration/)
 * Django Prerequisites, Django Creating a new Django application, Django Installing and configuring Tailwind CSS and TW Elements, Django Initializing via JS, Prerequisites, Creating a new Django application, Installing and configuring Tailwind CSS and TW Elements, Initializing via JS: [tw-elements.com/docs/standard/integrations/django-integration/](https://tw-elements.com/docs/standard/integrations/django-integration/)
@@ -4834,3 +4864,20 @@
 * Tailwind CSS template email: [tailwindcomponents.com/component/template-email](https://tailwindcomponents.com/component/template-email)
 * Tailwind CSS Dashboard Layout: [tailwindcomponents.com/component/dashboard-30](https://tailwindcomponents.com/component/dashboard-30)
 * Migrating to v2 Introduction, Migrating to v2 Migrating from v1.x.x to v2, Migrating to v2 Initialization and components usage, Migrating to v2 Package file structure, Migrating to v2 Events, Migrating to v2 Methods: [tw-elements.com/docs/standard/getting-started/migration-guide/](https://tw-elements.com/docs/standard/getting-started/migration-guide/)
+* Product Collection #Simple, Product Collection #Simple with Centered Title, Product Collection #Sort & Layout, Product Collection #Filtering (Side): [hyperui.dev/components/marketing/product-collections](https://www.hyperui.dev/components/marketing/product-collections)
+* Cart #Contained: [hyperui.dev/components/marketing/carts](https://www.hyperui.dev/components/marketing/carts)
+* Fitihealth Tailwind CSS: [tailwindcomponents.com/component/fitihealth](https://tailwindcomponents.com/component/fitihealth)
+* Tailwind CSS Forget password: [tailwindcomponents.com/component/anja-1](https://tailwindcomponents.com/component/anja-1)
+* Tailwind CSS Blog feeds: [tailwindcomponents.com/component/blog-feeds](https://tailwindcomponents.com/component/blog-feeds)
+* Tailwind CSS Content: [tailwindcomponents.com/component/content-2](https://tailwindcomponents.com/component/content-2)
+* Tailwind CSS Feature: [tailwindcomponents.com/component/feature-1](https://tailwindcomponents.com/component/feature-1)
+* Tailwind CSS Upside down bar graph: [tailwindcomponents.com/component/upside-down-bar-graph](https://tailwindcomponents.com/component/upside-down-bar-graph)
+* Tailwind CSS Banner: [tailwindcomponents.com/component/banner-4](https://tailwindcomponents.com/component/banner-4)
+* Instagram Clone - Tailwind CSS: [tailwindcomponents.com/component/instagram-clone-tailwind-css](https://tailwindcomponents.com/component/instagram-clone-tailwind-css)
+* Spotify Clone - Tailwind CSS: [tailwindcomponents.com/component/spotify-clone-tailwind-css](https://tailwindcomponents.com/component/spotify-clone-tailwind-css)
+* Tailwind CSS Code Validator: [tailwindcomponents.com/component/code-validator](https://tailwindcomponents.com/component/code-validator)
+* Video background light glow: [tailwindcomponents.com/component/video-background-light-glow](https://tailwindcomponents.com/component/video-background-light-glow)
+* TikTok Clone - Tailwind CSS: [tailwindcomponents.com/component/tiktok-clone](https://tailwindcomponents.com/component/tiktok-clone)
+* Tailwind CSS Integrations cloud section, Tailwind CSS Integrations cloud section: [tailwindcomponents.com/component/integrations-cloud](https://tailwindcomponents.com/component/integrations-cloud)
+* Tailwind CSS Bento Box: [tailwindcomponents.com/component/bento-box](https://tailwindcomponents.com/component/bento-box)
+* Tailwind custom hover effect: [tailwindcomponents.com/component/hover-effect](https://tailwindcomponents.com/component/hover-effect)
