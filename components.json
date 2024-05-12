@@ -972,7 +972,7 @@
     "parent": null
   },
   {
-    "name": "Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour, Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour",
+    "name": "Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour",
     "link": "https://flowbite.com/docs/components/accordion/",
     "category": "Accordion",
     "parent": null
@@ -8076,22 +8076,22 @@
     "parent": null
   },
   {
-    "name": "Menu (Dropdown)",
+    "name": "OptionsEditDuplicate⌘DArchiveDeleteDropdown Menu",
     "link": "https://headlessui.com/react/menu",
     "category": "Dropdown",
     "parent": null
   },
   {
-    "name": "Listbox (Select)",
+    "name": "JohnGeorgeJohnPaulRingoListbox",
     "link": "https://headlessui.com/react/listbox",
-    "category": "Dropdown",
+    "category": "List",
     "parent": null
   },
   {
-    "name": "Popover",
+    "name": "ProductsSolutionsPricingInsightsAutomationsReportsDocumentationPopover",
     "link": "https://headlessui.com/react/popover",
-    "category": "Dropdown",
-    "parent": null
+    "category": "Pricing",
+    "parent": "Page"
   },
   {
     "name": "Dropdown #Simple, Dropdown #Simple with Divide, Dropdown #Simple with Sections",
@@ -8700,7 +8700,7 @@
     "parent": null
   },
   {
-    "name": "Radio Group",
+    "name": "StartupBusinessEnterpriseRadio Group",
     "link": "https://headlessui.com/react/radio-group",
     "category": "Form",
     "parent": null
@@ -11970,9 +11970,9 @@
     "parent": null
   },
   {
-    "name": "Dialog (Modal)",
+    "name": "Payment successfulWe’ve sent you an email with all of the details of your order.Got it, thanks!Dialog",
     "link": "https://headlessui.com/react/dialog",
-    "category": "Modal",
+    "category": "Other",
     "parent": null
   },
   {
@@ -15432,7 +15432,7 @@
     "parent": null
   },
   {
-    "name": "Switch (Toggle)",
+    "name": "Switch",
     "link": "https://headlessui.com/react/switch",
     "category": "Switch",
     "parent": null
@@ -16470,7 +16470,7 @@
     "parent": null
   },
   {
-    "name": "Tabs",
+    "name": "RecentPopularTrendingTabs",
     "link": "https://headlessui.com/react/tabs",
     "category": "Tab",
     "parent": null
@@ -17448,13 +17448,13 @@
     "parent": null
   },
   {
-    "name": "Combobox (Autocomplete)",
+    "name": "JoJocelynJonathanJoshCombobox",
     "link": "https://headlessui.com/react/combobox",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Disclosure",
+    "name": "What is your refund policy?If you're unhappy with your purchase, we'll refund you in full.Do you offer technical supportDisclosure",
     "link": "https://headlessui.com/react/disclosure",
     "category": "Other",
     "parent": null
@@ -25800,7 +25800,7 @@
     "parent": null
   },
   {
-    "name": "Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification",
+    "name": "Modal Basic Example, Modal components, Modal Positions\n    \n    TWE Pro component, Modal Frame\n    \n    TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal\n    \n    TWE Pro component, Modal Import, Modal Simple notification",
     "link": "https://tw-elements.com/docs/standard/components/modal/",
     "category": "Modal",
     "parent": null
@@ -28238,6 +28238,60 @@
   {
     "name": "Tailwind custom hover effect",
     "link": "https://tailwindcomponents.com/component/hover-effect",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "ButtonButton",
+    "link": "https://headlessui.com/react/button",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "PausedActivePausedDelayedCancelledSelect",
+    "link": "https://headlessui.com/react/select",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Checkbox",
+    "link": "https://headlessui.com/react/checkbox",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "UsernameInput",
+    "link": "https://headlessui.com/react/input",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "DescriptionTextarea",
+    "link": "https://headlessui.com/react/textarea",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Shipping detailsStreet addressCountryCanadaFieldset",
+    "link": "https://headlessui.com/react/fieldset",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Blue Star",
+    "link": "https://github.com/spacemadev/Free-blue-star-tailwind-landing-page-template",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Elevate",
+    "link": "https://github.com/spacemadev/elevate-free-tailwind-business-template",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Elstar (Lite)",
+    "link": "https://github.com/ThemeNate/Elstar-lite",
     "category": "Other",
     "parent": null
   }

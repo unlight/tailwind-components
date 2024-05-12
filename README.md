@@ -50,7 +50,7 @@
 
 * Accordion using radio inputs, Accordion with arrow icon, Accordion with plus/minus icon, Accordion Using Accordion and Join together: [daisyui.com/components/accordion/](https://daisyui.com/components/accordion/)
 * Collapse with focus, Collapse with checkbox, Collapse using <details> and <summary> tag, Collapse With border and background color, Collapse With arrow icon, Collapse With arrow plus/minus icon, Collapse Force open, Collapse Force close, Collapse Custom colors for collapse that works with focus, Collapse Custom colors for collapse that works with checkbox: [daisyui.com/components/collapse/](https://daisyui.com/components/collapse/)
-* Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour, Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour: [flowbite.com/docs/components/accordion/](https://flowbite.com/docs/components/accordion/)
+* Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour: [flowbite.com/docs/components/accordion/](https://flowbite.com/docs/components/accordion/)
 * Accordion Basic usage, Accordion Example, Accordion Always open, Accordion Nested, Accordion No arrow, Accordion With arrow, Accordion With title and arrow stretched, Accordion Bordered, Accordion Active content bordered: [preline.co/docs/accordion.html](https://preline.co/docs/accordion.html)
 * Collapse Basic usage, Collapse Example, Collapse Show/Hide: [preline.co/docs/collapse.html](https://preline.co/docs/collapse.html)
 * Accordions Style 1: [tailgrids.com/components/accordions](https://tailgrids.com/components/accordions)
@@ -807,6 +807,7 @@
 * Scroll back to top button Basic example: [tw-elements.com/docs/standard/components/scroll-back-to-top-button/](https://tw-elements.com/docs/standard/components/scroll-back-to-top-button/)
 * Buttons Outline Buttons, Buttons Solid Buttons, Buttons Buttons Styles, Buttons Button Bordered, Buttons Button Groups, Buttons Miscellaneous: [tailwindadmin.netlify.app/buttons](https://tailwindadmin.netlify.app/buttons)
 * NavLink Button Tailwind CSS: [tailwindcomponents.com/component/navlink-button](https://tailwindcomponents.com/component/navlink-button)
+* ButtonButton: [headlessui.com/react/button](https://headlessui.com/react/button)
 
 ## Call to Action
 
@@ -1471,9 +1472,7 @@
 * Dropdown: [a17t.miles.land/interaction/dropdown/](https://a17t.miles.land/interaction/dropdown/)
 * Select: [a17t.miles.land/interaction/select/](https://a17t.miles.land/interaction/select/)
 * Select, Select with border, Select Ghost (no background), Select With form-control and labels, Select Primary color, Select Secondary color, Select Accent color, Select Info color, Select Success color, Select Warning color, Select Error color, Select Sizes, Select Disabled: [daisyui.com/components/select/](https://daisyui.com/components/select/)
-* Menu (Dropdown): [headlessui.com/react/menu](https://headlessui.com/react/menu)
-* Listbox (Select): [headlessui.com/react/listbox](https://headlessui.com/react/listbox)
-* Popover: [headlessui.com/react/popover](https://headlessui.com/react/popover)
+* OptionsEditDuplicate⌘DArchiveDeleteDropdown Menu: [headlessui.com/react/menu](https://headlessui.com/react/menu)
 * Dropdown #Simple, Dropdown #Simple with Divide, Dropdown #Simple with Sections: [hyperui.dev/components/application-ui/dropdown](https://www.hyperui.dev/components/application-ui/dropdown)
 * Select #Base, Select #Base with Groups, Select #Datalist: [hyperui.dev/components/application-ui/selects](https://www.hyperui.dev/components/application-ui/selects)
 * Collection Filter #Inline Dropdown, Collection Filter #Stacked Dropdown: [hyperui.dev/components/ecommerce/collection-filters](https://www.hyperui.dev/components/ecommerce/collection-filters)
@@ -1572,6 +1571,7 @@
 * Filter #Inline Dropdown, Filter #Stacked Dropdown: [hyperui.dev/components/application-ui/filters](https://www.hyperui.dev/components/application-ui/filters)
 * Smooth Dropdown: [tailwindcomponents.com/component/smooth-dropdown](https://tailwindcomponents.com/component/smooth-dropdown)
 * select number: [tailwindcomponents.com/component/select-number](https://tailwindcomponents.com/component/select-number)
+* PausedActivePausedDelayedCancelledSelect: [headlessui.com/react/select](https://headlessui.com/react/select)
 
 ## Form
 
@@ -1605,7 +1605,7 @@
 * Fancy Simple Form 2: [fancytailwind.com/app/fancy-laboratory/molecules/simpleforms/simpleform2](https://fancytailwind.com/app/fancy-laboratory/molecules/simpleforms/simpleform2)
 * Fancy Sign Form 2: [fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm2](https://fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm2)
 * Fancy Sign Form 6: [fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm6](https://fancytailwind.com/app/fancy-laboratory/organisms/signforms/signForm6)
-* Radio Group: [headlessui.com/react/radio-group](https://headlessui.com/react/radio-group)
+* StartupBusinessEnterpriseRadio Group: [headlessui.com/react/radio-group](https://headlessui.com/react/radio-group)
 * Auth Form #Split with Graphic, Auth Form #Split with Content: [hyperui.dev/components/application-ui/login-forms](https://www.hyperui.dev/components/application-ui/login-forms)
 * Radio Group #Simple Stacked, Radio Group #Simple Stacked with Check, Radio Group #Grid with Stacked Content, Radio Group #Grid with Stacked Content and Radio, Radio Group #Variants, Radio Group #Variants as Colors: [hyperui.dev/components/application-ui/radio-groups](https://www.hyperui.dev/components/application-ui/radio-groups)
 * Checkout #Split with Summary, Order Items, Brand and Form: [hyperui.dev/components/ecommerce/checkouts](https://www.hyperui.dev/components/ecommerce/checkouts)
@@ -1833,6 +1833,9 @@
 * Simple OTP form Section Component: [tailwindcomponents.com/component/simple-otp-form-section-component](https://tailwindcomponents.com/component/simple-otp-form-section-component)
 * Register  Form Component: [tailwindcomponents.com/component/register-form-component](https://tailwindcomponents.com/component/register-form-component)
 * Tailwind CSS Form: [tailwindcomponents.com/component/tailwindcomponents](https://tailwindcomponents.com/component/tailwindcomponents)
+* Checkbox: [headlessui.com/react/checkbox](https://headlessui.com/react/checkbox)
+* UsernameInput: [headlessui.com/react/input](https://headlessui.com/react/input)
+* DescriptionTextarea: [headlessui.com/react/textarea](https://headlessui.com/react/textarea)
 
 ### Contact
 
@@ -2315,7 +2318,6 @@
 * Popup #Floating Split with Image and Content and Close, Popup #Warning with Actions, Popup #Floating with Close: [hyperui.dev/components/marketing/popups](https://www.hyperui.dev/components/marketing/popups)
 * Alert - Modale, Alert - Modale with close btn: [tailwind-kit.com/components/alert](https://www.tailwind-kit.com/components/alert)
 * Modal Dialog modal, Modal Dialog modal, closes when clicked outside, Modal Dialog modal with a close button at corner, Modal Dialog modal with custom width, Modal Responsive, Modal using label + hidden checkbox, Modal that closes when clicked outside, Modal using anchor link: [daisyui.com/components/modal/](https://daisyui.com/components/modal/)
-* Dialog (Modal): [headlessui.com/react/dialog](https://headlessui.com/react/dialog)
 * Modal: [mambaui.com/components/modal](https://mambaui.com/components/modal)
 * Modal Basic usage, Modal Example, Modal Animations, Modal Slide down animation, Modal Slide up animation, Modal Sizes, Modal Static backdrop, Modal Scrolling behavior, Modal Vertically centered, Modal Focus management, Modal Toggle between modals, Modal Stacked Overlays New, Modal Fullscreen Modal, Modal Custom backdrop color New: [preline.co/docs/modal.html](https://preline.co/docs/modal.html)
 * Info modal with default color: [sailboatui.com/docs/components/modal/#info-modal-with-default-color](https://sailboatui.com/docs/components/modal/#info-modal-with-default-color)
@@ -2384,7 +2386,13 @@
 * Tailwind CSS Modal Confirmation with alpine js. with style headless ui: [tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui](https://tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui)
 * Modal Alert Responsive Tailwind CSS: [tailwindcomponents.com/component/modal-alert-responsive-tailwind-css](https://tailwindcomponents.com/component/modal-alert-responsive-tailwind-css)
 * Modal with a subscription form: [tailwindcomponents.com/component/modal-with-a-subscription-form](https://tailwindcomponents.com/component/modal-with-a-subscription-form)
-* Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
+* Modal Basic Example, Modal components, Modal Positions
+
+  TWE Pro component, Modal Frame
+
+  TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal
+
+  TWE Pro component, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
 * Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour: [flowbite.com/docs/components/modal/](https://flowbite.com/docs/components/modal/)
 * Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
 * Tailwind CSS Modal: [tailwindcomponents.com/component/modal-16](https://tailwindcomponents.com/component/modal-16)
@@ -2774,6 +2782,7 @@
 
 ### Pricing
 
+* ProductsSolutionsPricingInsightsAutomationsReportsDocumentationPopover: [headlessui.com/react/popover](https://headlessui.com/react/popover)
 * pricing: [tailwind-css-components.appseed.us/pricing.html](https://tailwind-css-components.appseed.us/pricing.html)
 * Product Pricing Card: [codepen.io/stackdiary/pen/BamQdZr](https://codepen.io/stackdiary/pen/BamQdZr)
 * Membership Pricing Card: [codepen.io/stackdiary/pen/xxPRLjV](https://codepen.io/stackdiary/pen/xxPRLjV)
@@ -3105,7 +3114,7 @@
 * Forms Toggle Switch: [flowbite.com/docs/components/forms/](https://flowbite.com/docs/components/forms/)
 * Toggle - simple, Toggle - toggle: [tailwind-kit.com/components/toggle](https://www.tailwind-kit.com/components/toggle)
 * Switch: [a17t.miles.land/interaction/switch/](https://a17t.miles.land/interaction/switch/)
-* Switch (Toggle): [headlessui.com/react/switch](https://headlessui.com/react/switch)
+* Switch: [headlessui.com/react/switch](https://headlessui.com/react/switch)
 * Toggle #Simple, Toggle #Simple with Icons, Toggle #Material, Toggle #Apple: [hyperui.dev/components/application-ui/toggles](https://www.hyperui.dev/components/application-ui/toggles)
 * Toggle: [mambaui.com/components/toggle](https://mambaui.com/components/toggle)
 * Switch Basic: [mynaui.com/switch/#basic](https://mynaui.com/switch/#basic)
@@ -3292,6 +3301,7 @@
 ## List
 
 * List Group Basic usage, List Group Example, List Group Icons, List Group Links, List Group Striped, List Group Flush, List Group No gutters, List Group Horizontal, List Group List group invoice New, List Group List group examples New: [preline.co/docs/list-group.html](https://preline.co/docs/list-group.html)
+* JohnGeorgeJohnPaulRingoListbox: [headlessui.com/react/listbox](https://headlessui.com/react/listbox)
 * List - Simple list, List - With action, List - Bloc list, List - With desc, List - With desc and action, List - With hover effect, List - Todo list, List - Desc bloc list: [tailwind-kit.com/components/list](https://www.tailwind-kit.com/components/list)
 * Fancy Product List 1: [fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList1](https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList1)
 * Fancy Product List 5: [fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList5](https://fancytailwind.com/app/fancy-laboratory/organisms/productlists/productList5)
@@ -3360,7 +3370,7 @@
 * Fancy Tabs 3: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs3](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs3)
 * Fancy Tabs 4: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs4](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs4)
 * Fancy Tabs 11: [fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs11](https://fancytailwind.com/app/fancy-laboratory/molecules/tabs/tabs11)
-* Tabs: [headlessui.com/react/tabs](https://headlessui.com/react/tabs)
+* RecentPopularTrendingTabs: [headlessui.com/react/tabs](https://headlessui.com/react/tabs)
 * Tab #Underline/Active with Text and Border Color, Tab #Underline with Icon/Active Border Color, Tab #Underline/Active Border, Tab #Underline/Active Border and Inactive Background: [hyperui.dev/components/marketing/tabs](https://www.hyperui.dev/components/marketing/tabs)
 * Tabs: [mambaui.com/components/tab](https://mambaui.com/components/tab)
 * Basic Tabs: [postsrc.com/components/tailwind-css-tabs/tailwind-css-basic-tabs](https://postsrc.com/components/tailwind-css-tabs/tailwind-css-basic-tabs)
@@ -3531,6 +3541,7 @@
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/footers](https://floatui.com/components/footers)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/heroes](https://floatui.com/components/heroes)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/modals](https://floatui.com/components/modals)
+* Payment successfulWe’ve sent you an email with all of the details of your order.Got it, thanks!Dialog: [headlessui.com/react/dialog](https://headlessui.com/react/dialog)
 * Cart #Contained: [hyperui.dev/components/ecommerce/carts](https://www.hyperui.dev/components/ecommerce/carts)
 * Lexicon Confirmation Message: [tailwindtemplates.io/templates?category=modal](https://tailwindtemplates.io/templates?category=modal)
 * Getting Started, Marketing UI, Application UI, Dark Logo Grid, Logo Grid with title, Logo Grid with tow rows, Divided Logo Grid: [floatui.com/components/logo-grid](https://floatui.com/components/logo-grid)
@@ -3651,8 +3662,8 @@
 * Getting Started, Marketing UI, Application UI, Secondary CTA, CTA with image, CTA with Blue background, Centred CTA, CTA with link on the side, Dark CTA with link on the side, Centred CTA with Two links, Primary CTA, Dark CTA: [floatui.com/components/cta-sections](https://floatui.com/components/cta-sections)
 * Getting Started, Marketing UI, Application UI, Newsletter with background, Secondary Newsletter, Newsletter with description, Newsletter with a gradient background, Newsletter stacked, Primary Newsletter: [floatui.com/components/newsletters](https://floatui.com/components/newsletters)
 * Getting Started, Marketing UI, Application UI, Context Menu with submenu, Basic Context Menu: [floatui.com/components/context-menus](https://floatui.com/components/context-menus)
-* Combobox (Autocomplete): [headlessui.com/react/combobox](https://headlessui.com/react/combobox)
-* Disclosure: [headlessui.com/react/disclosure](https://headlessui.com/react/disclosure)
+* JoJocelynJonathanJoshCombobox: [headlessui.com/react/combobox](https://headlessui.com/react/combobox)
+* What is your refund policy?If you're unhappy with your purchase, we'll refund you in full.Do you offer technical supportDisclosure: [headlessui.com/react/disclosure](https://headlessui.com/react/disclosure)
 * Transition: [headlessui.com/react/transition](https://headlessui.com/react/transition)
 * Banner #Centered with Actions, Banner #Centered with Actions and Gradient, Banner #Left with Actions and Image: [hyperui.dev/components/marketing/banners](https://www.hyperui.dev/components/marketing/banners)
 * Featured Section #Collection with Products, Featured Section #Collections Grid: [hyperui.dev/components/ecommerce/featured-sections](https://www.hyperui.dev/components/ecommerce/featured-sections)
@@ -4881,3 +4892,7 @@
 * Tailwind CSS Integrations cloud section, Tailwind CSS Integrations cloud section: [tailwindcomponents.com/component/integrations-cloud](https://tailwindcomponents.com/component/integrations-cloud)
 * Tailwind CSS Bento Box: [tailwindcomponents.com/component/bento-box](https://tailwindcomponents.com/component/bento-box)
 * Tailwind custom hover effect: [tailwindcomponents.com/component/hover-effect](https://tailwindcomponents.com/component/hover-effect)
+* Shipping detailsStreet addressCountryCanadaFieldset: [headlessui.com/react/fieldset](https://headlessui.com/react/fieldset)
+* Blue Star: [github.com/spacemadev/Free-blue-star-tailwind-landing-page-template](https://github.com/spacemadev/Free-blue-star-tailwind-landing-page-template)
+* Elevate: [github.com/spacemadev/elevate-free-tailwind-business-template](https://github.com/spacemadev/elevate-free-tailwind-business-template)
+* Elstar (Lite): [github.com/ThemeNate/Elstar-lite](https://github.com/ThemeNate/Elstar-lite)
