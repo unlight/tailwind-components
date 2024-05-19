@@ -25800,7 +25800,7 @@
     "parent": null
   },
   {
-    "name": "Modal Basic Example, Modal components, Modal Positions\n    \n    TWE Pro component, Modal Frame\n    \n    TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal\n    \n    TWE Pro component, Modal Import, Modal Simple notification",
+    "name": "Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification",
     "link": "https://tw-elements.com/docs/standard/components/modal/",
     "category": "Modal",
     "parent": null
@@ -28292,6 +28292,24 @@
   {
     "name": "Elstar (Lite)",
     "link": "https://github.com/ThemeNate/Elstar-lite",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Tailflows UI blocks",
+    "link": "https://www.tailflows.com/exemples",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Astroship, Astroship [$]",
+    "link": "https://web3templates.com/templates/astroship-pro-astro-saas-website-template?aff=3KMAV",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "bSaaS",
+    "link": "https://web3templates.com/templates/bsaas-business-saas-startup-website-template?aff=3KMAV",
     "category": "Other",
     "parent": null
   }
