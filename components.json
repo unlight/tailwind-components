@@ -972,7 +972,7 @@
     "parent": null
   },
   {
-    "name": "Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour",
+    "name": "Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour, Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour",
     "link": "https://flowbite.com/docs/components/accordion/",
     "category": "Accordion",
     "parent": null
@@ -1890,7 +1890,7 @@
     "parent": null
   },
   {
-    "name": "Avatar Avatar tooltip",
+    "name": "Avatar Avatar tooltip, Avatar Avatar tooltip",
     "link": "https://flowbite.com/docs/components/avatar/",
     "category": "Tooltips",
     "parent": null
@@ -24534,7 +24534,7 @@
     "parent": null
   },
   {
-    "name": "Tailwind css Card Liste",
+    "name": "Tailwind css Card Liste, Tailwind css Card Liste",
     "link": "https://tailwindcomponents.com/component/tailwind-css-card-liste",
     "category": "Card",
     "parent": null
@@ -24588,7 +24588,7 @@
     "parent": null
   },
   {
-    "name": "GitHub Profile Card, GitHub Profile Card",
+    "name": "GitHub Profile Card",
     "link": "https://tailwindcomponents.com/component/github-profile-card-1",
     "category": "Card",
     "parent": null
@@ -25050,7 +25050,7 @@
     "parent": null
   },
   {
-    "name": "Tailwind CSS Dropdown, Tailwind CSS Dropdown",
+    "name": "Tailwind CSS Dropdown",
     "link": "https://tailwindcomponents.com/component/dropdown-9",
     "category": "Dropdown",
     "parent": null
@@ -25212,7 +25212,7 @@
     "parent": null
   },
   {
-    "name": "Tailwind CSS contactform",
+    "name": "Tailwind CSS contactform, Tailwind CSS contactform",
     "link": "https://tailwindcomponents.com/component/tailwind-contact-form-1",
     "category": "Form",
     "parent": null
@@ -25230,7 +25230,7 @@
     "parent": null
   },
   {
-    "name": "form-change-password",
+    "name": "form-change-password, form-change-password",
     "link": "https://tailwindcomponents.com/component/form-change-password",
     "category": "Form",
     "parent": null
@@ -25446,7 +25446,7 @@
     "parent": "Form"
   },
   {
-    "name": "Tailwind CSS contact form template",
+    "name": "Tailwind CSS contact form template, Tailwind CSS contact form template",
     "link": "https://tailwindcomponents.com/component/tailwind-contact-form-template",
     "category": "Contact",
     "parent": "Form"
@@ -25590,7 +25590,7 @@
     "parent": null
   },
   {
-    "name": "Tailwind CSS newsletter sign up",
+    "name": "Tailwind CSS newsletter sign up, Tailwind CSS newsletter sign up",
     "link": "https://tailwindcomponents.com/component/newsletter-2",
     "category": "Register",
     "parent": "Form"
@@ -25974,7 +25974,7 @@
     "parent": null
   },
   {
-    "name": "Tailwind  CSS 404 page sections",
+    "name": "Tailwind  CSS 404 page sections, Tailwind  CSS 404 page sections",
     "link": "https://tailwindcomponents.com/component/page-sections-2",
     "category": "404",
     "parent": "Page"
@@ -25998,7 +25998,7 @@
     "parent": "Page"
   },
   {
-    "name": "Tailwind CSS Pricing sections, Tailwind CSS Pricing sections",
+    "name": "Tailwind CSS Pricing sections",
     "link": "https://tailwindcomponents.com/component/pricing-sections-4",
     "category": "Pricing",
     "parent": "Page"
@@ -26274,7 +26274,7 @@
     "parent": null
   },
   {
-    "name": "Tooltip",
+    "name": "Tooltip, Tooltip",
     "link": "https://tailwindcomponents.com/component/tooltip-6",
     "category": "Tooltips",
     "parent": null
@@ -26718,7 +26718,7 @@
     "parent": null
   },
   {
-    "name": "Portfolio",
+    "name": "Portfolio, Portfolio",
     "link": "https://tailwindcomponents.com/component/portfolio-2",
     "category": "Other",
     "parent": null
@@ -26814,7 +26814,7 @@
     "parent": null
   },
   {
-    "name": "HR dashboard, HR dashboard",
+    "name": "HR dashboard",
     "link": "https://tailwindcomponents.com/component/hr-dashboard",
     "category": "Other",
     "parent": null
@@ -27162,7 +27162,7 @@
     "parent": null
   },
   {
-    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
+    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes\n    TWE Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
     "link": "https://tw-elements.com/docs/standard/getting-started/icons-integration/",
     "category": "Other",
     "parent": null
@@ -27810,7 +27810,7 @@
     "parent": "Form"
   },
   {
-    "name": "Tailwind CSS Login Page, Tailwind CSS Login Page",
+    "name": "Tailwind CSS Login Page",
     "link": "https://tailwindcomponents.com/component/login-page-20",
     "category": "Login",
     "parent": "Form"
@@ -28164,13 +28164,13 @@
     "parent": null
   },
   {
-    "name": "Tailwind CSS Blog feeds",
+    "name": "Tailwind CSS Blog feeds, Tailwind CSS Blog feeds",
     "link": "https://tailwindcomponents.com/component/blog-feeds",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Tailwind CSS Content, Tailwind CSS Content",
+    "name": "Tailwind CSS Content",
     "link": "https://tailwindcomponents.com/component/content-2",
     "category": "Other",
     "parent": null
@@ -28212,7 +28212,7 @@
     "parent": null
   },
   {
-    "name": "Video background light glow",
+    "name": "Video background light glow, Video background light glow",
     "link": "https://tailwindcomponents.com/component/video-background-light-glow",
     "category": "Other",
     "parent": null
@@ -28224,7 +28224,7 @@
     "parent": null
   },
   {
-    "name": "Tailwind CSS Integrations cloud section",
+    "name": "Tailwind CSS Integrations cloud section, Tailwind CSS Integrations cloud section",
     "link": "https://tailwindcomponents.com/component/integrations-cloud",
     "category": "Other",
     "parent": null
@@ -28400,6 +28400,54 @@
   {
     "name": "Tailwind CSS Font Border",
     "link": "https://tailwindcomponents.com/component/tailwind-css-font-border",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Cookies Alert",
+    "link": "https://tailwindcomponents.com/component/cookies-alert",
+    "category": "Cookies",
+    "parent": null
+  },
+  {
+    "name": "date picker in alphinejs and tailwindcss",
+    "link": "https://tailwindcomponents.com/component/date-picker-in-alphinejs-and-talwindcss",
+    "category": "Date/Time",
+    "parent": null
+  },
+  {
+    "name": "dropdown in alphinejs",
+    "link": "https://tailwindcomponents.com/component/dropdown-in-alphinejs",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Landing Page",
+    "link": "https://tailwindcomponents.com/component/landing-page-5",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Magic AI Blocks Pricing Table",
+    "link": "https://tailwindcomponents.com/component/magic-ai-blocks-pricing-table",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "hover",
+    "link": "https://tailwindcomponents.com/component/hover",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Price Section",
+    "link": "https://tailwindcomponents.com/component/price-section",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Dashwind - Admin Dashboard",
+    "link": "https://tailwindcomponents.com/component/dashwind-admin-dashboard",
     "category": "Other",
     "parent": null
   }
