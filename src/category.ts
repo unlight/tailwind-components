@@ -1,5 +1,5 @@
 import { Keyword } from './keyword';
-
+console.log('object')
 export class Category {
     private _keywords: Keyword[] = [];
     public readonly name: string;
