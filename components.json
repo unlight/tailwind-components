@@ -28450,5 +28450,11 @@
     "link": "https://tailwindcomponents.com/component/dashwind-admin-dashboard",
     "category": "Other",
     "parent": null
+  },
+  {
+    "name": " Simple with gray footer",
+    "link": "https://tailwindui.com/components/preview#component-b6812b6c13fff16861f2645c4100ae5b",
+    "category": "Footer",
+    "parent": null
   }
 ]

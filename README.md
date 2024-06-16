@@ -2231,6 +2231,7 @@
 * Tailwind CSS Footer Centered with Logo: [tailwindcomponents.com/component/tailwind-css-footer-centered-with-logo](https://tailwindcomponents.com/component/tailwind-css-footer-centered-with-logo)
 * Responsive Tailwind CSS Footer: [tailwindcomponents.com/component/simple-nice-and-responsive-footer](https://tailwindcomponents.com/component/simple-nice-and-responsive-footer)
 * Simple with gray footer: [tailwindui.com/components/preview#component-3f749999689f527691a09374deecd0ba](https://tailwindui.com/components/preview#component-3f749999689f527691a09374deecd0ba)
+* Simple with gray footer: [tailwindui.com/components/preview#component-b6812b6c13fff16861f2645c4100ae5b](https://tailwindui.com/components/preview#component-b6812b6c13fff16861f2645c4100ae5b)
 
 ## Hero
 
