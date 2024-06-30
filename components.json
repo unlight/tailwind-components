@@ -978,13 +978,13 @@
     "parent": null
   },
   {
-    "name": "Side Menu #Icons with Titles, Side Menu #Multi Layout Column",
+    "name": "Side Menu #Icon, links with tooltips and logout action",
     "link": "https://www.hyperui.dev/components/application-ui/side-menu",
     "category": "Sidebar",
     "parent": null
   },
   {
-    "name": "Vertical Menu #Simple, Vertical Menu #With Icon, Vertical Menu #With Icon and Branded Accent, Vertical Menu #Split with Borders, Vertical Menu #Split with Headings",
+    "name": "Vertical Menu #Base with highlighted active link, Vertical Menu #Base with icon and highlighted active link, Vertical Menu #Base with icon and highlighted active link, color with left border, Vertical Menu #Base with divided sections and highlighted active link, Vertical Menu #Base with grouped sections with title and highlighted active link",
     "link": "https://www.hyperui.dev/components/application-ui/vertical-menu",
     "category": "Other",
     "parent": null
@@ -1182,9 +1182,9 @@
     "parent": null
   },
   {
-    "name": "Alert #Popup, Alert #Popup with Actions, Alert #Content, Alert #Content with Icon",
+    "name": "Alert #Base with title, icon, description, dismiss and call to actions",
     "link": "https://www.hyperui.dev/components/application-ui/alerts",
-    "category": "Alert/Notification",
+    "category": "Call to Action",
     "parent": null
   },
   {
@@ -2250,7 +2250,7 @@
     "parent": null
   },
   {
-    "name": "Badge #Simple, Badge #Simple with Icon, Badge #Simple Icon Only, Badge #Themed, Badge #Close",
+    "name": "Badge #Text with color, Badge #Text and icon with color, Badge #Icon with color, Badge #Text and icon with themed color, Badge #Text and dismiss with color",
     "link": "https://www.hyperui.dev/components/application-ui/badges",
     "category": "Badge",
     "parent": null
@@ -2454,7 +2454,7 @@
     "parent": null
   },
   {
-    "name": "Breadcrumb #Simple, Breadcrumb #Chevron Background",
+    "name": "Breadcrumb #Home icon and links, split with chevron, Breadcrumb #Home and links, split with chevron background",
     "link": "https://www.hyperui.dev/components/application-ui/breadcrumbs",
     "category": "Breadcrumb",
     "parent": null
@@ -2808,31 +2808,31 @@
     "parent": null
   },
   {
-    "name": "Button Group #Simple, Button Group #Simple Icons Only, Button Group #Simple with Secondary, Button Group #Contained, Button Group #Contained with Icons",
+    "name": "Button Group #Text buttons, Button Group #Icon buttons, Button Group #Text button with icon secondary button, Button Group #Tab style text buttons, Button Group #Tab style text and icon buttons",
     "link": "https://www.hyperui.dev/components/application-ui/button-groups",
     "category": "Button",
     "parent": null
   },
   {
-    "name": "Error Pages #Simple, Error Pages #With Graphic, Error Pages #Top Banner",
+    "name": "Error Pages #Centered with error code, Error Pages #Centered with cartoon graphic and content",
     "link": "https://www.hyperui.dev/components/application-ui/error-pages",
     "category": "Page",
     "parent": null
   },
   {
-    "name": "Input #Simple, Input #With Icon, Input #With Label in Input, Input #With Floating Label, Input #With Floating Label (Inside), Input #With Floating Label (Underline)",
+    "name": "Input #Base with label, Input #Base with no label and icon inside the input, Input #Large with label inside input, Input #Floating label, Input #Floating label, kept within the input, Input #Floating label with underlined input",
     "link": "https://www.hyperui.dev/components/application-ui/inputs",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Pagination #With Buttons, Pagination #With Input, Pagination #Background with Input, Pagination #With Fraction",
+    "name": "Pagination #Base with previous, next and links, highlight active, Pagination #Base previous, next and input, Pagination #Contained with previous, next and input, with background color, Pagination #Base with previous, next and page/total",
     "link": "https://www.hyperui.dev/components/application-ui/pagination",
     "category": "Pagination",
     "parent": null
   },
   {
-    "name": "Button #Simple, Button #With Icon, Button #With Gradient Border, Button #Circle with Icon, Button #With Drop Shadow, Button #Simple and Icon on Hover, Button #Simple and Expand with Shadow on Hover, Button #Simple and Expand with Rotate on Hover, Button #Cartoon, Button #Accent Border and Border Expand on Hover, Button #Wide with Icon, Button #Simple and Reveal Offset Border on Hover",
+    "name": "Button #Base, solid and bordered, Button #Base with icon, solid and bordered, Button #Gradient border, rounded and pill, Button #Icon, solid and bordered, Button #Drop shadow, hide shadow and show shadow on hover, Button #Base with icon on hover, solid, bordered and icon left/right, Button #Base with shadow and expand on hover, solid and bordered, Button #Base with rotate and expand on hover, solid, outline and rotate left/right, Button #Artistic with offset background, background moves in and out on hover, Button #Highlighted border which expands on hover, left, right, bottom and left, Button #Large with emphasized icon, solid and bordered, Button #Reveal hidden static border on hover, solid and bordered",
     "link": "https://www.hyperui.dev/components/marketing/buttons",
     "category": "Button",
     "parent": null
@@ -5274,7 +5274,7 @@
     "parent": null
   },
   {
-    "name": "Blog Card #Simple, Blog Card #Floating, Blog Card #Bordered, Blog Card #Gradient Border, Blog Card #Base, Blog Card #Modern, Blog Card #Background Image",
+    "name": "Blog Card #Bordered with image, date, title and excerpt, shadow on hover, Blog Card #Floating image with title and excerpt, Blog Card #Gradient border with date, title and tags, animated gradient on hover, Blog Card #Background image with overlay containing date, title and excerpt",
     "link": "https://www.hyperui.dev/components/marketing/blog-cards",
     "category": "Card",
     "parent": null
@@ -7752,7 +7752,7 @@
     "parent": null
   },
   {
-    "name": "Announcement #Simple, Announcement #With Close, Announcement #With Action, Announcement #Fixed Bottom, Announcement #Fixed Bottom with Close, Announcement #Floating Bottom, Announcement #Floating Bottom with Close",
+    "name": "Announcement #Base with center aligned text, Announcement #Base with left aligned text and dismiss, Announcement #Fixed bottom with center aligned text, Announcement #Fixed bottom with left aligned text and dismiss, Announcement #Floating bottom with center aligned text, Announcement #Floating bottom with left aligned text and dismiss",
     "link": "https://www.hyperui.dev/components/marketing/announcements",
     "category": "Other",
     "parent": null
@@ -8094,13 +8094,13 @@
     "parent": "Page"
   },
   {
-    "name": "Dropdown #Simple, Dropdown #Simple with Divide, Dropdown #Simple with Sections",
+    "name": "Dropdown #Base with links and action, Dropdown #Base with links and action, with divided sections, Dropdown #Base with links and action, with divided sections that are titled",
     "link": "https://www.hyperui.dev/components/application-ui/dropdown",
     "category": "Dropdown",
     "parent": null
   },
   {
-    "name": "Select #Base, Select #Base with Groups, Select #Datalist",
+    "name": "Select #Base with label, Select #Base with label and option groups, Select #Datalist with label",
     "link": "https://www.hyperui.dev/components/application-ui/selects",
     "category": "Dropdown",
     "parent": null
@@ -8706,19 +8706,19 @@
     "parent": null
   },
   {
-    "name": "Auth Form #Split with Graphic, Auth Form #Split with Content",
+    "name": "Auth Form #Split with content and form on the left, graphic on the right, Auth Form #Split with content and image on the left, form on the right",
     "link": "https://www.hyperui.dev/components/application-ui/login-forms",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Radio Group #Simple Stacked, Radio Group #Simple Stacked with Check, Radio Group #Grid with Stacked Content, Radio Group #Grid with Stacked Content and Radio, Radio Group #Variants, Radio Group #Variants as Colors",
+    "name": "Radio Group #Stacked with border highlight when checked, Radio Group #Stacked with icon when checked, Radio Group #Grid with border highlight when checked, Radio Group #Grid with border highlight when checked, shows radio input, Radio Group #Tab style variants with highlight when checked, Radio Group #Color circle variants with outer ring highlight when checked",
     "link": "https://www.hyperui.dev/components/application-ui/radio-groups",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Table #Simple, Table #Simple with Border, Table #Simple with Odd/Even Background, Table #Simple with Action",
+    "name": "Table #Base with divided rows, Table #Bordered with divided rows, Table #Base with striped rows",
     "link": "https://www.hyperui.dev/components/application-ui/tables",
     "category": "Table",
     "parent": null
@@ -10656,10 +10656,10 @@
     "parent": "Form"
   },
   {
-    "name": "CTA #Content and Image, CTA #Content and Offset Image, CTA #Featured Product, CTA #Content with Image Grid",
+    "name": "CTA #Newsletter sign up form with centered content and form",
     "link": "https://www.hyperui.dev/components/marketing/ctas",
-    "category": "Other",
-    "parent": null
+    "category": "Register",
+    "parent": "Form"
   },
   {
     "name": "Authentication Register",
@@ -12378,9 +12378,9 @@
     "parent": null
   },
   {
-    "name": "Header #Intro Actions, Header #Intro Actions with Background",
+    "name": "Header #Base with title, introduction text and call to actions, Header #Base with title, introduction text and call to actions, with background color",
     "link": "https://www.hyperui.dev/components/application-ui/headers",
-    "category": "Navigation/Header",
+    "category": "Call to Action",
     "parent": null
   },
   {
@@ -14118,10 +14118,10 @@
     "parent": null
   },
   {
-    "name": "Pricing #Highlight Option, Pricing #Compare Options",
+    "name": "Pricing #Options with tier, price, features and call to action with highlighted option, Pricing #Options with tier, description, price, call to action and features",
     "link": "https://www.hyperui.dev/components/marketing/pricings",
-    "category": "Pricing",
-    "parent": "Page"
+    "category": "Call to Action",
+    "parent": null
   },
   {
     "name": "Pricings",
@@ -14706,13 +14706,13 @@
     "parent": null
   },
   {
-    "name": "Progress #Simple, Progress #With Value, Progress #With Value (Centered), Progress #Striped",
+    "name": "Progress #Base progress bar, Progress #Base with progress value, centered in progress bar, Progress #Base with progress value, centered in backdrop bar, Progress #Striped progress bar",
     "link": "https://www.hyperui.dev/components/application-ui/progress",
     "category": "Progress Bar",
     "parent": null
   },
   {
-    "name": "Step #With Check Icons, Step #Closed on Complete, Step #Group with Chevron, Text and Icon, Step #Timeline",
+    "name": "Step #Title, step and closed completed steps, with highlighted current step, Step #Grouped with title and description, with highlighted current step, Step #Timeline with title, with highlighted current step",
     "link": "https://www.hyperui.dev/components/application-ui/steps",
     "category": "Step",
     "parent": null
@@ -14988,7 +14988,7 @@
     "parent": null
   },
   {
-    "name": "Grid #1x1, Grid #1x2, Grid #2x1, Grid #1x1x1, Grid #1x1x1x1, Grid #1x1x2, Grid #2x1x1, Grid #1x2x1",
+    "name": "Grid #Grid with 2 even columns, Grid #Grid with 1 small column and 1 large column, Grid #Grid with 1 large column and 1 small column, Grid #Grid with 3 even columns, Grid #Grid with 4 even columns, Grid #Grid with 2 small columns and 1 large column, Grid #Grid with 1 large column and 2 small columns, Grid #Grid with 1 small column, 1 large column and 1 small column",
     "link": "https://www.hyperui.dev/components/application-ui/grids",
     "category": "Other",
     "parent": null
@@ -15438,7 +15438,7 @@
     "parent": null
   },
   {
-    "name": "Toggle #Simple, Toggle #Simple with Icons, Toggle #Material, Toggle #Apple",
+    "name": "Toggle #Base with active color, Toggle #Base with icon and active color, Toggle #Material style, Toggle #Apple style",
     "link": "https://www.hyperui.dev/components/application-ui/toggles",
     "category": "Switch",
     "parent": null
@@ -17466,19 +17466,19 @@
     "parent": null
   },
   {
-    "name": "Stat #From Value and Floating Stat, Stat #Icon and Stat, Stat #Simple with Stat, Stat #Simple with Icon, Stat #Stacked with Stat, Stat #Stacked with Stat and Icon",
+    "name": "Stat #Title, value, from value and themed growth stat, Stat #Title, value, icon and themed growth stat, Stat #Title, value and themed growth stat, Stat #Title, value and icon, Stat #Title, value and themed growth stat, stacked style, Stat #Title, value, icon and themed growth stat, stacked style",
     "link": "https://www.hyperui.dev/components/application-ui/stats",
     "category": "Dashboard Widgets",
     "parent": null
   },
   {
-    "name": "Banner #Centered with Actions, Banner #Centered with Actions and Gradient, Banner #Left with Actions and Image",
+    "name": "Banner #Base with center aligned title, text and call to actions, Banner #Base with center aligned title, text and call to actions, dark background and gradient title, Banner #Overlay with left aligned title, text and call to actions, light overlay, Banner #Overlay with left aligned title, text and call to actions, dark overlay",
     "link": "https://www.hyperui.dev/components/marketing/banners",
-    "category": "Other",
+    "category": "Call to Action",
     "parent": null
   },
   {
-    "name": "FAQ #With Icon, FAQ #With Background, FAQ #Background with Accent Border, FAQ #With Divide Border, FAQ #Border with Divide Border and Background",
+    "name": "FAQ #Base with chevrons icons, FAQ #Base with plus/minus icons and contained content, FAQ #Highlighted border with rotating icon and contained content, FAQ #Base with plus/minus icons and dividers, FAQ #Base with plus/minus icons and bordered with dividers",
     "link": "https://www.hyperui.dev/components/marketing/faqs",
     "category": "FAQ",
     "parent": "Page"
@@ -25170,13 +25170,13 @@
     "parent": null
   },
   {
-    "name": "Checkbox #Simple, Checkbox #Simple with Header, Checkbox #Divided, Checkbox #Divide with Highlight, Checkbox #Grouped, Checkbox #Grouped with Highlight",
+    "name": "Checkbox #Base with label, Checkbox #Base with label and descriptive content for checkboxes, Checkbox #Divided with label and description, Checkbox #Divided with label and description, highlight when checked, Checkbox #Grouped with label and description, Checkbox #Grouped with label and description, highlight when checked",
     "link": "https://www.hyperui.dev/components/application-ui/checkboxes",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Textarea #Simple, Textarea #With Actions (Contained), Textarea #With Actions (Separator)",
+    "name": "Textarea #Base with label, Textarea #Bordered with label and actions, Textarea #Underlined with label and actions",
     "link": "https://www.hyperui.dev/components/application-ui/textareas",
     "category": "Form",
     "parent": null
@@ -25806,9 +25806,9 @@
     "parent": null
   },
   {
-    "name": "Header #Left Aligned, Header #Center Aligned, Header #Right Aligned",
+    "name": "Header #Icon and links on the left, call to actions on the right, Header #Icon on the left, links in the middle and call to actions on the right, Header #Icon on the left, links and call to actions on the right",
     "link": "https://www.hyperui.dev/components/marketing/headers",
-    "category": "Navigation/Header",
+    "category": "Call to Action",
     "parent": null
   },
   {
@@ -26226,7 +26226,7 @@
     "parent": null
   },
   {
-    "name": "Tab #Simple, Tab #Simple (Branded), Tab #Tabbed",
+    "name": "Tab #Base with highlighted active tab, Tab #Underlined with highlighted active tab, Tab #Underlined with icon and highlighted active tab, Tab #Underlined with bordered highlighted active tab",
     "link": "https://www.hyperui.dev/components/application-ui/tabs",
     "category": "Tab",
     "parent": null
@@ -26346,7 +26346,7 @@
     "parent": null
   },
   {
-    "name": "Details List #Basic, Details List #Basic (Striped), Details List #Contained, Details List #Contained (Striped)",
+    "name": "Details List #Divided with title on the left, content on the right, Details List #Striped with title on the left, content on the right, Details List #Bordered with title on the left, content on the right, Details List #Bordered and striped with title on the left, content on the right",
     "link": "https://www.hyperui.dev/components/application-ui/details-list",
     "category": "List",
     "parent": null
@@ -26430,13 +26430,13 @@
     "parent": null
   },
   {
-    "name": "Divider #More Divider, Divider #Blurry Divider, Divider #Align Left, Divider #Align Right",
+    "name": "Divider #Line with text in the middle, Divider #Gradient line with text in the middle, Divider #Line with text on the left, Divider #Line with text on the right",
     "link": "https://www.hyperui.dev/components/application-ui/dividers",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Media #Align Top, Media #Align Center, Media #Align Bottom, Media #Align Stretch, Media #Align Top (Right), Media #Align Center (Right), Media #Align Bottom (Right), Media #Align Stretch (Right)",
+    "name": "Media #Image, title and content, align top, Media #Image, title and content, align center, Media #Image, title and content, align bottom, Media #Image, title and content, align stretch, Media #Image, title and content, align top and flipped, Media #Image, title and content, align center and flipped, Media #Image, title and content, align bottom and flipped, Media #Image, title and content, align stretch and flipped",
     "link": "https://www.hyperui.dev/components/application-ui/media",
     "category": "Other",
     "parent": null
@@ -27936,7 +27936,7 @@
     "parent": null
   },
   {
-    "name": "Product Card #Simple, Product Card #Simple with Variant Count, Product Card #Simple with Description, Product Card #Simple (Rounded), Product Card #With Color Variants, Product Card #Contained Sections with Wishlist",
+    "name": "Product Card #Product with image, title and price, Product Card #Product with image, title, price and variant count, Product Card #Product with image, title, price and description, Product Card #Product with rounded image, title and price, Product Card #Product with image, title, price and variant options, Product Card #Collection with image, title and description",
     "link": "https://www.hyperui.dev/components/marketing/product-cards",
     "category": "Card",
     "parent": null
@@ -27978,7 +27978,7 @@
     "parent": null
   },
   {
-    "name": "Filter #Inline Dropdown, Filter #Stacked Dropdown",
+    "name": "Filter #Checkbox filters with count and reset, price filter with reset in a dropdown",
     "link": "https://www.hyperui.dev/components/application-ui/filters",
     "category": "Dropdown",
     "parent": null
@@ -28002,9 +28002,9 @@
     "parent": null
   },
   {
-    "name": "Quantity Input #Simple, Quantity Input #No Spinners, Quantity Input #No Spinners + Centered, Quantity Input #Contained",
+    "name": "Quantity Input #Base with plus and minus buttons, Quantity Input #Base with plus and minus buttons, no spinners in the input, Quantity Input #Base with plus and minus buttons, no spinners in the input and text centered, Quantity Input #Bordered with plus and minus buttons",
     "link": "https://www.hyperui.dev/components/application-ui/quantity-inputs",
-    "category": "Form",
+    "category": "Button",
     "parent": null
   },
   {
@@ -28050,9 +28050,9 @@
     "parent": "Form"
   },
   {
-    "name": "Cart #Contained",
+    "name": "Cart #Popup with dismiss, items and call to actions, Cart #Popup with dismiss, items and call to actions, change quantity and remove items, Cart #Page with title, items, summary, discounts and call to action, change quantity and remove items",
     "link": "https://www.hyperui.dev/components/marketing/carts",
-    "category": "Other",
+    "category": "Call to Action",
     "parent": null
   },
   {
@@ -28455,6 +28455,18 @@
     "name": " Simple with gray footer",
     "link": "https://tailwindui.com/components/preview#component-b6812b6c13fff16861f2645c4100ae5b",
     "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": " With close button on outside",
+    "link": "https://tailwindui.com/components/preview#component-0f117af9905c6bf010968e396f2c7583",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Datepicker Getting started, Datepicker Datepicker example, Datepicker Inline datepicker, Datepicker Date range picker, Datepicker Options, Datepicker Timepicker, Datepicker Dark mode, Datepicker JavaScript Behaviour",
+    "link": "https://flowbite.com/docs/components/datepicker/",
+    "category": "Date/Time",
     "parent": null
   }
 ]
