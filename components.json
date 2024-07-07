@@ -5046,13 +5046,13 @@
     "parent": null
   },
   {
-    "name": "Section #Content with USPs Grid, Section #Split with Content and Link Grid, Section #Split with Content and Image, Section #Content and Split with Image and Content, Section #Split with Image and Content with Overlap Background, Section #Collection with Products, Section #Collections Grid",
+    "name": "Section #Content and a grid of USPs with title, content and icon, Section #Title and grid of image on the left, content on the right, Section #Grid with image on the left, content on the right with offset background",
     "link": "https://www.hyperui.dev/components/marketing/sections",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Testimonial #Split with Content and Slider, Testimonial #Content with Blocks, Testimonial #Stacked with Navigation and Slider, Testimonial #Masonry Grid with Author",
+    "name": "Testimonial #Content on the left, slider on the right with stars, title, content and author, Testimonial #Title and grid of reviews with stars, avatar, author and content, Testimonial #Title and slider with stars, title, content and author, Testimonial #Title and masonry grid of reviews with stars, avatar, author and content",
     "link": "https://www.hyperui.dev/components/marketing/testimonials",
     "category": "Testimonial",
     "parent": "Page"
@@ -17484,7 +17484,7 @@
     "parent": "Page"
   },
   {
-    "name": "Stat #Simple Grid (Bordered), Stat #Simple Grid (Divided), Stat #Simple Grid (Background)",
+    "name": "Stat #Title, subtitle and grid of bordered stats with value and title, Stat #Title, subtitle and grid of divided stats with value and title, Stat #Title, subtitle and grid of blocked stats with value and title",
     "link": "https://www.hyperui.dev/components/marketing/stats",
     "category": "Dashboard Widgets",
     "parent": null
@@ -28302,7 +28302,7 @@
     "parent": null
   },
   {
-    "name": "Astroship, Astroship [$]",
+    "name": "Astroship [$]",
     "link": "https://web3templates.com/templates/astroship-pro-astro-saas-website-template?aff=3KMAV",
     "category": "Other",
     "parent": null
