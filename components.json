@@ -990,13 +990,13 @@
     "parent": null
   },
   {
-    "name": "Accordion Basic usage, Accordion Example, Accordion Always open, Accordion Nested, Accordion No arrow, Accordion With arrow, Accordion With title and arrow stretched, Accordion Bordered, Accordion Active content bordered",
+    "name": "Accordion 🔥 Basic usage, Accordion 🔥 Example, Accordion 🔥 Always open, Accordion 🔥 Nested, Accordion 🔥 No arrow, Accordion 🔥 With arrow, Accordion 🔥 With title and arrow stretched, Accordion 🔥 Bordered, Accordion 🔥 Active content bordered",
     "link": "https://preline.co/docs/accordion.html",
     "category": "Accordion",
     "parent": null
   },
   {
-    "name": "Collapse Basic usage, Collapse Example, Collapse Show/Hide",
+    "name": "Collapse About, Collapse Basic usage, Collapse Example, Collapse Show/Hide",
     "link": "https://preline.co/docs/collapse.html",
     "category": "Accordion",
     "parent": null
@@ -1278,7 +1278,7 @@
     "parent": null
   },
   {
-    "name": "Alerts Color variants, Alerts Solid color variants, Alerts Soft color variants, Alerts Bordered styles New, Alerts With description, Alerts With list, Alerts Actions, Alerts Link on right, Alerts Discovery, Alerts Dismiss button",
+    "name": "Alerts About, Alerts Color variants, Alerts Solid color variants, Alerts Soft color variants, Alerts Bordered styles New, Alerts With description, Alerts With list, Alerts Actions, Alerts Link on right, Alerts Discovery, Alerts Dismiss button",
     "link": "https://preline.co/docs/alerts.html",
     "category": "Alert/Notification",
     "parent": null
@@ -2346,7 +2346,7 @@
     "parent": null
   },
   {
-    "name": "Tabs About, Tabs Tabs with underline, Tabs Tabs with icons, Tabs Horizontal alignment, Tabs Vertical, Tabs Horizontal scroll New, Tabs Segment, Tabs Bar with underline, Tabs Fill and justify, Tabs Equal-width elements",
+    "name": "Tabs 🔥 About, Tabs 🔥 Tabs with underline, Tabs 🔥 Tabs with icons, Tabs 🔥 Horizontal alignment, Tabs 🔥 Vertical, Tabs 🔥 Horizontal scroll New, Tabs 🔥 Segment, Tabs 🔥 Bar with underline, Tabs 🔥 Fill and justify, Tabs 🔥 Equal-width elements",
     "link": "https://preline.co/docs/tabs.html",
     "category": "Tab",
     "parent": null
@@ -3024,7 +3024,7 @@
     "parent": null
   },
   {
-    "name": "Buttons Types, Buttons Sizes, Buttons Color variants, Buttons Solid color variants, Buttons Outline color variants, Buttons Ghost color variants, Buttons Soft color variants, Buttons White color variants New, Buttons Link color variants New, Buttons Shape, Buttons Pilled Button, Buttons Block Button, Buttons Icon, Buttons Loading, Buttons Disabled, Buttons Button examples New",
+    "name": "Buttons Types, Buttons Sizes, Buttons Color variants, Buttons Solid color variants, Buttons Outline color variants, Buttons Ghost color variants, Buttons Soft color variants, Buttons White color variants New, Buttons Link color variants New, Buttons Shape, Buttons Pilled Button, Buttons Block Button, Buttons Icon, Buttons Loading, Buttons Disabled, Buttons Active New, Buttons Button examples New",
     "link": "https://preline.co/docs/buttons.html",
     "category": "Button",
     "parent": null
@@ -8148,13 +8148,13 @@
     "parent": null
   },
   {
-    "name": "Dropdown Basic usage, Dropdown Default, Dropdown Hover event, Dropdown Dividers, Dropdown Icons, Dropdown Title, Dropdown With header, Dropdown Custom trigger, Dropdown Custom icon trigger, Dropdown Animations, Dropdown Slide up animation, Dropdown Transform style animation, Dropdown Options, Dropdown Auto close behavior, Dropdown Dropdown item checkbox, Dropdown Dropdown item radio, Dropdown Directions, Dropdown Dropdown, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Responsive alignment",
+    "name": "Dropdown 🔥 Basic usage, Dropdown 🔥 Default, Dropdown 🔥 Hover event, Dropdown 🔥 Dividers, Dropdown 🔥 Icons, Dropdown 🔥 Title, Dropdown 🔥 With header, Dropdown 🔥 Custom trigger, Dropdown 🔥 Custom icon trigger, Dropdown 🔥 Animations, Dropdown 🔥 Scale animation New, Dropdown 🔥 Slide up animation, Dropdown 🔥 Transform style animation, Dropdown 🔥 Options, Dropdown 🔥 Auto close behavior, Dropdown 🔥 Dropdown item checkbox, Dropdown 🔥 Dropdown item radio, Dropdown 🔥 Directions, Dropdown 🔥 Dropdown, Dropdown 🔥 Dropup, Dropdown 🔥 Dropright, Dropdown 🔥 Dropleft, Dropdown 🔥 Responsive alignment",
     "link": "https://preline.co/docs/dropdown.html",
     "category": "Dropdown",
     "parent": null
   },
   {
-    "name": "Popover When to use, Popover Purpose of content, Popover Interactions, Popover Conclusion, Popover Four directions, Popover Focus event, Popover Hover event, Popover With content, Popover Review popover example New, Popover User popover example New",
+    "name": "Popover About, Popover When to use, Popover Conclusion, Popover Four directions, Popover Focus event, Popover Hover event, Popover With content, Popover Review popover example New, Popover User popover example New",
     "link": "https://preline.co/docs/popover.html",
     "category": "Dropdown",
     "parent": null
@@ -8916,7 +8916,7 @@
     "parent": null
   },
   {
-    "name": "Checkbox Basic usage, Checkbox Default, Checkbox Disabled, Checkbox Checkbox group, Checkbox List with description, Checkbox Checkbox within form input, Checkbox On right, Checkbox With list group, Checkbox With horizontal list group",
+    "name": "Checkbox Basic usage, Checkbox Default, Checkbox Indeterminate New, Checkbox Disabled, Checkbox Checkbox group, Checkbox List with description, Checkbox Checkbox within form input, Checkbox On right, Checkbox With list group, Checkbox With horizontal list group",
     "link": "https://preline.co/docs/checkbox.html",
     "category": "Form",
     "parent": null
@@ -11988,7 +11988,7 @@
     "parent": null
   },
   {
-    "name": "Modal Basic usage, Modal Example, Modal Animations, Modal Slide down animation, Modal Slide up animation, Modal Sizes, Modal Static backdrop, Modal Scrolling behavior, Modal Vertically centered, Modal Focus management, Modal Toggle between modals, Modal Stacked Overlays New, Modal Fullscreen Modal, Modal Custom backdrop color New",
+    "name": "Modal 🔥 Basic usage, Modal 🔥 Example, Modal 🔥 Animations, Modal 🔥 Scale animation New, Modal 🔥 Slide down animation, Modal 🔥 Slide up animation, Modal 🔥 Sizes, Modal 🔥 Static backdrop, Modal 🔥 Scrolling behavior, Modal 🔥 Vertically centered, Modal 🔥 Focus management, Modal 🔥 Toggle between modals, Modal 🔥 Stacked Overlays New, Modal 🔥 Fullscreen Modal, Modal 🔥 Custom backdrop color New",
     "link": "https://preline.co/docs/modal.html",
     "category": "Modal",
     "parent": null
@@ -12468,7 +12468,7 @@
     "parent": null
   },
   {
-    "name": "Navbar Basic usage, Navbar Example, Navbar Responsive behaviors, Navbar With horizontal scroll, Navbar With collapse, Navbar Collapse with animation, Navbar Brand, Navbar SVG, Navbar SVG and text, Navbar Image, Navbar Image and text, Navbar Alignment New, Navbar With dropdown, Navbar Color variants",
+    "name": "Navbar Basic usage, Navbar Example, Navbar Responsive behaviors, Navbar With horizontal scroll, Navbar With collapse, Navbar Brand, Navbar SVG, Navbar SVG and text, Navbar Image, Navbar Image and text, Navbar Alignment New, Navbar With dropdown, Navbar Color variants",
     "link": "https://preline.co/docs/navbar.html",
     "category": "Navigation/Header",
     "parent": null
@@ -14790,7 +14790,7 @@
     "parent": null
   },
   {
-    "name": "Progress Basic usage, Progress Example, Progress Height, Progress Labels, Progress Within progress bar, Progress Label at the end New, Progress Title label New, Progress Floating label New, Progress Color variants, Progress Multiple bars, Progress Shape, Progress No radius, Progress Straight bar, Progress Vertical progress, Progress Steps New, Progress Circular progress New",
+    "name": "Progress Basic usage, Progress Example, Progress Height, Progress Labels, Progress Within progress bar, Progress Label at the end New, Progress Title label New, Progress Floating label New, Progress Color variants, Progress Multiple bars, Progress Shape, Progress No radius, Progress Straight bar, Progress Vertical progress, Progress Steps New, Progress Circular progress New, Progress Gauge progress New",
     "link": "https://preline.co/docs/progress.html",
     "category": "Progress Bar",
     "parent": null
@@ -15756,7 +15756,7 @@
     "parent": null
   },
   {
-    "name": "Tooltip When to use, Tooltip Purpose of content, Tooltip Interactions, Tooltip Conclusion, Tooltip Basic usage, Tooltip Example",
+    "name": "Tooltip About, Tooltip When to use, Tooltip Interactions, Tooltip Conclusion, Tooltip Basic usage, Tooltip Example",
     "link": "https://preline.co/docs/tooltip.html",
     "category": "Tooltips",
     "parent": null
@@ -18042,9 +18042,9 @@
     "parent": null
   },
   {
-    "name": "Static Icons Types, Static Icons Sizes, Static Icons Color variants, Static Icons Solid color variants, Static Icons Outline color variants, Static Icons Ghost color variants, Static Icons Soft color variants, Static Icons Soft-Outlined color variants, Static Icons Shape, Static Icons Circular Icon",
+    "name": "Styled Icons Types, Styled Icons Sizes, Styled Icons Color variants, Styled Icons Solid color variants, Styled Icons Outline color variants, Styled Icons Ghost color variants, Styled Icons Soft color variants, Styled Icons Soft-Outlined color variants, Styled Icons Shape, Styled Icons Circular Icon",
     "link": "https://preline.co/docs/static-icons.html",
-    "category": "Dashboard Widgets",
+    "category": "Other",
     "parent": null
   },
   {
@@ -24072,19 +24072,19 @@
     "parent": null
   },
   {
-    "name": "Chat Bubbles New Example, Chat Bubbles New How can we help?, Chat Bubbles New One sided, Chat Bubbles New How can we help?, Chat Bubbles New How can we help?, Chat Bubbles New How can we help?",
+    "name": "Chat Bubbles Example, Chat Bubbles How can we help?, Chat Bubbles One sided, Chat Bubbles How can we help?, Chat Bubbles How can we help?, Chat Bubbles How can we help?",
     "link": "https://preline.co/docs/chat-bubbles.html",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Stepper New Basic usage, Stepper New Static, Stepper New Linear, Stepper New Responsive, Stepper New Types, Stepper New White, Stepper New Solid, Stepper New Alignment, Stepper New Center, Stepper New Working with icon and avatar, Stepper New Dynamic form, Stepper New Dynamic Linear, Stepper New Non-linear, Stepper New Skipped, Stepper New Active, Stepper New Error, Stepper New Success",
+    "name": "Stepper 🔥 Basic usage, Stepper 🔥 Static, Stepper 🔥 Linear, Stepper 🔥 Responsive, Stepper 🔥 Types, Stepper 🔥 White, Stepper 🔥 Solid, Stepper 🔥 Alignment, Stepper 🔥 Center, Stepper 🔥 Working with icon and avatar, Stepper 🔥 Dynamic form, Stepper 🔥 Dynamic Linear, Stepper 🔥 Non-linear, Stepper 🔥 Skipped, Stepper 🔥 Active, Stepper 🔥 Error, Stepper 🔥 Success",
     "link": "https://preline.co/docs/stepper.html",
     "category": "Step",
     "parent": null
   },
   {
-    "name": "Timeline New Basic usage, Timeline New Collapsable, Timeline New Types, Timeline New Hoverable rows, Timeline New With time",
+    "name": "Timeline 🔥 Basic usage, Timeline 🔥 Collapsable, Timeline 🔥 Types, Timeline 🔥 Hoverable rows, Timeline 🔥 With time",
     "link": "https://preline.co/docs/timeline.html",
     "category": "Timeline",
     "parent": null
@@ -24204,7 +24204,7 @@
     "parent": null
   },
   {
-    "name": "Ratings New Basic usage, Ratings New Rate with emoji",
+    "name": "Ratings Basic usage, Ratings Rate with emoji",
     "link": "https://preline.co/docs/ratings.html",
     "category": "Other",
     "parent": null
@@ -24954,13 +24954,13 @@
     "parent": null
   },
   {
-    "name": "Carousel New Pagination",
+    "name": "Carousel Pagination",
     "link": "https://preline.co/docs/carousel.html",
     "category": "Pagination",
     "parent": null
   },
   {
-    "name": "Range Slider New Overview, Range Slider New Disabled, Range Slider New Min and Max, Range Slider New Steps",
+    "name": "Range Slider Overview, Range Slider Disabled, Range Slider Min and Max, Range Slider Steps",
     "link": "https://preline.co/docs/range-slider.html",
     "category": "Slider/Carousel",
     "parent": null
@@ -25014,7 +25014,7 @@
     "parent": null
   },
   {
-    "name": "Datepicker New Single datepicker, Datepicker New Single pre-set ranges, Datepicker New With time, Datepicker New Ranges, Datepicker New Pre-set ranges, Datepicker New Ranges with time, Datepicker New With date-range list",
+    "name": "Datepicker Single datepicker, Datepicker Single pre-set ranges, Datepicker With time, Datepicker Ranges, Datepicker Pre-set ranges, Datepicker Ranges with time",
     "link": "https://preline.co/docs/datepicker.html",
     "category": "Date/Time",
     "parent": null
@@ -25644,7 +25644,7 @@
     "parent": "Form"
   },
   {
-    "name": "File Uploading Progress New Just uploaded file, File Uploading Progress New In progress file, File Uploading Progress New Completed, File Uploading Progress New Error, File Uploading Progress New Multiple files: Just uploaded, File Uploading Progress New Multiple files: In progress, File Uploading Progress New Multiple files: Error",
+    "name": "File Uploading Progress Just uploaded file, File Uploading Progress In progress file, File Uploading Progress Completed, File Uploading Progress Error, File Uploading Progress Multiple files: Just uploaded, File Uploading Progress Multiple files: In progress, File Uploading Progress Multiple files: Error",
     "link": "https://preline.co/docs/file-uploading-progress-form.html",
     "category": "Upload",
     "parent": "Form"
@@ -26442,7 +26442,7 @@
     "parent": null
   },
   {
-    "name": "Color Picker New Example",
+    "name": "Color Picker Example",
     "link": "https://preline.co/docs/color-picker.html",
     "category": "Other",
     "parent": null
@@ -28374,7 +28374,7 @@
     "parent": null
   },
   {
-    "name": "Tree View New Basic usage, Tree View New Example, Tree View New Close currently opened, Tree View New Customize",
+    "name": "Tree View Basic usage, Tree View Example, Tree View Close currently opened, Tree View Customize",
     "link": "https://preline.co/docs/tree-view.html",
     "category": "Other",
     "parent": null
