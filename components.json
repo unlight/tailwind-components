@@ -28474,5 +28474,11 @@
     "link": "https://github.com/spacemadev/Tailstore",
     "category": "Other",
     "parent": null
+  },
+  {
+    "name": "Datatables Getting started, Datatables Default datatable, Datatables Filtering data, Datatables Sorting data, Datatables Export files, Datatables JavaScript behaviour, Datatables Options, Datatables Methods, Datatables License",
+    "link": "https://flowbite.com/docs/plugins/datatables/",
+    "category": "Table",
+    "parent": null
   }
 ]

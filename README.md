@@ -3319,6 +3319,7 @@
 * Tables Basic example, Tables Variants, Tables Striped, Tables Hoverable, Tables Bordered, Tables Borderless, Tables Small, Tables Light Head, Tables Dark Head, Tables Always responsive: [tw-elements.com/docs/standard/data/tables/](https://tw-elements.com/docs/standard/data/tables/)
 * Tables Default table, Tables Highlight, Tables Table layout, Tables Table styles, Tables Overflow scrolling, Tables Table filter, Tables Table with users, Tables Table with products, Tables Comparison table, Tables Table colors, Tables More examples: [flowbite.com/docs/components/tables/](https://flowbite.com/docs/components/tables/)
 * Tables Bordered Table, Tables Colored Table, Tables Full Table: [tailwindadmin.netlify.app/tables](https://tailwindadmin.netlify.app/tables)
+* Datatables Getting started, Datatables Default datatable, Datatables Filtering data, Datatables Sorting data, Datatables Export files, Datatables JavaScript behaviour, Datatables Options, Datatables Methods, Datatables License: [flowbite.com/docs/plugins/datatables/](https://flowbite.com/docs/plugins/datatables/)
 
 ## List
 
