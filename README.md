@@ -2596,7 +2596,9 @@
 * Navbars Simple Requires JS, Navbars E-Commerce Requires JS, Navbars Search Requires JS, Navbars Avatar Requires JS, Navbars Social Media Links Requires JS, Navbars Categories Requires JS: [merakiui.com/components/navbars](https://merakiui.com/components/navbars)
 * Navbar Please note, Navbar Components Props: [kimia-ui.vercel.app/components/navbar](https://kimia-ui.vercel.app/components/navbar)
 * Breadcrumbs Breadcrumb in navbar: [tw-elements.com/docs/standard/navigation/breadcrumbs/](https://tw-elements.com/docs/standard/navigation/breadcrumbs/)
-* Search Navbar: [tw-elements.com/docs/standard/forms/search/](https://tw-elements.com/docs/standard/forms/search/)
+* Search Navbar
+
+  TWE Pro component: [tw-elements.com/docs/standard/forms/search/](https://tw-elements.com/docs/standard/forms/search/)
 * undefined Header with paragraph, undefined Space between Navbar, undefined Grid 3x with header, undefined Grid 4x2 with header, undefined Grid 4x2 Rounded full with header: [merakiui.com/components/application-ui/skeleton](https://merakiui.com/components/application-ui/skeleton)
 * Tailwind CSS Header sections: [tailwindcomponents.com/component/page-sections-5](https://tailwindcomponents.com/component/page-sections-5)
 * Ecommerce Header with Alpinejs: [tailwindcomponents.com/component/ecommerce-header-with-alpinejs](https://tailwindcomponents.com/component/ecommerce-header-with-alpinejs)
@@ -4928,3 +4930,6 @@
 * Price Section: [tailwindcomponents.com/component/price-section](https://tailwindcomponents.com/component/price-section)
 * Dashwind - Admin Dashboard: [tailwindcomponents.com/component/dashwind-admin-dashboard](https://tailwindcomponents.com/component/dashwind-admin-dashboard)
 * Tailstore: [github.com/spacemadev/Tailstore](https://github.com/spacemadev/Tailstore)
+* Tremor: [dashboard.tremor.so/](https://dashboard.tremor.so/)
+* MaterialM (Next.js): [github.com/wrappixel/MaterialM-Tailwind-Nextjs-Free](https://github.com/wrappixel/MaterialM-Tailwind-Nextjs-Free)
+* Spike: [github.com/wrappixel/spike-tailwind-free](https://github.com/wrappixel/spike-tailwind-free)

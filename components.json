@@ -24450,7 +24450,7 @@
     "parent": null
   },
   {
-    "name": "Search Navbar",
+    "name": "Search Navbar\n    \n    TWE Pro component",
     "link": "https://tw-elements.com/docs/standard/forms/search/",
     "category": "Navigation/Header",
     "parent": null
@@ -28479,6 +28479,24 @@
     "name": "Datatables Getting started, Datatables Default datatable, Datatables Filtering data, Datatables Sorting data, Datatables Export files, Datatables JavaScript behaviour, Datatables Options, Datatables Methods, Datatables License",
     "link": "https://flowbite.com/docs/plugins/datatables/",
     "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Tremor",
+    "link": "https://dashboard.tremor.so/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "MaterialM (Next.js)",
+    "link": "https://github.com/wrappixel/MaterialM-Tailwind-Nextjs-Free",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Spike",
+    "link": "https://github.com/wrappixel/spike-tailwind-free",
+    "category": "Other",
     "parent": null
   }
 ]
