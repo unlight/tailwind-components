@@ -25806,9 +25806,9 @@
     "parent": null
   },
   {
-    "name": "Header #Icon and links on the left, call to actions on the right, Header #Icon on the left, links in the middle and call to actions on the right, Header #Icon on the left, links and call to actions on the right",
+    "name": "Header #Icon on the left, links and user dropdown on the right",
     "link": "https://www.hyperui.dev/components/marketing/headers",
-    "category": "Call to Action",
+    "category": "Dropdown",
     "parent": null
   },
   {
