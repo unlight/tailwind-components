@@ -1278,7 +1278,7 @@
     "parent": null
   },
   {
-    "name": "Alerts About, Alerts Color variants, Alerts Solid color variants, Alerts Soft color variants, Alerts Bordered styles New, Alerts With description, Alerts With list, Alerts Actions, Alerts Link on right, Alerts Discovery, Alerts Dismiss button",
+    "name": "Alerts About, Alerts Color variants, Alerts Solid color variants, Alerts Soft color variants, Alerts Bordered styles, Alerts With description, Alerts With list, Alerts Actions, Alerts Link on right, Alerts Discovery, Alerts Dismiss button",
     "link": "https://preline.co/docs/alerts.html",
     "category": "Alert/Notification",
     "parent": null
@@ -1290,7 +1290,7 @@
     "parent": null
   },
   {
-    "name": "Toasts Basic usage, Toasts Example, Toasts Condensed, Toasts Color variants, Toasts Solid color variants, Toasts Soft color variants, Toasts Message with loading indicator, Toasts With actions, Toasts Stack, Toasts Avatar New, Toasts Progress New, Toasts Placement, Toasts Dismiss button",
+    "name": "Toasts Basic usage, Toasts Example, Toasts Condensed, Toasts Color variants, Toasts Solid color variants, Toasts Soft color variants, Toasts Message with loading indicator, Toasts With actions, Toasts Stack, Toasts Avatar, Toasts Progress, Toasts Placement, Toasts Dismiss button",
     "link": "https://preline.co/docs/toasts.html",
     "category": "Alert/Notification",
     "parent": null
@@ -2022,7 +2022,7 @@
     "parent": null
   },
   {
-    "name": "Avatar Displaying a tooltip New",
+    "name": "Avatar Displaying a tooltip",
     "link": "https://preline.co/docs/avatar.html",
     "category": "Tooltips",
     "parent": null
@@ -2328,13 +2328,13 @@
     "parent": null
   },
   {
-    "name": "Badge Color variants, Badge Solid color variants, Badge Soft color variants, Badge Outline color variants New, Badge White color variants New, Badge Shape, Badge Rounded badges, Badge Max width, Badge Badge with indicator, Badge Working with icons New, Badge Badge with remove button, Badge With button, Badge Positioned, Badge Profile, Badge Animation, Badge Ping",
+    "name": "Badge Color variants, Badge Solid color variants, Badge Soft color variants, Badge Outline color variants, Badge White color variants, Badge Shape, Badge Rounded badges, Badge Max width, Badge Badge with indicator, Badge Working with icons, Badge Badge with remove button, Badge With button, Badge Positioned, Badge Profile, Badge Animation, Badge Ping",
     "link": "https://preline.co/docs/badge.html",
     "category": "Badge",
     "parent": null
   },
   {
-    "name": "List Group Basic usage, List Group Example, List Group Icons, List Group Links, List Group Striped, List Group Flush, List Group No gutters, List Group Horizontal, List Group List group invoice New, List Group List group examples New",
+    "name": "List Group Basic usage, List Group Example, List Group Icons, List Group Links, List Group Striped, List Group Flush, List Group No gutters, List Group Horizontal, List Group List group invoice, List Group List group examples",
     "link": "https://preline.co/docs/list-group.html",
     "category": "List",
     "parent": null
@@ -2346,7 +2346,7 @@
     "parent": null
   },
   {
-    "name": "Tabs 🔥 About, Tabs 🔥 Tabs with underline, Tabs 🔥 Tabs with icons, Tabs 🔥 Horizontal alignment, Tabs 🔥 Vertical, Tabs 🔥 Horizontal scroll New, Tabs 🔥 Segment, Tabs 🔥 Bar with underline, Tabs 🔥 Fill and justify, Tabs 🔥 Equal-width elements",
+    "name": "Tabs 🔥 About, Tabs 🔥 Tabs with underline, Tabs 🔥 Tabs with icons, Tabs 🔥 Horizontal alignment, Tabs 🔥 Vertical, Tabs 🔥 Horizontal scroll, Tabs 🔥 Segment, Tabs 🔥 Bar with underline, Tabs 🔥 Fill and justify, Tabs 🔥 Equal-width elements",
     "link": "https://preline.co/docs/tabs.html",
     "category": "Tab",
     "parent": null
@@ -3024,13 +3024,13 @@
     "parent": null
   },
   {
-    "name": "Buttons Types, Buttons Sizes, Buttons Color variants, Buttons Solid color variants, Buttons Outline color variants, Buttons Ghost color variants, Buttons Soft color variants, Buttons White color variants New, Buttons Link color variants New, Buttons Shape, Buttons Pilled Button, Buttons Block Button, Buttons Icon, Buttons Loading, Buttons Disabled, Buttons Active New, Buttons Button examples New",
+    "name": "Buttons Types, Buttons Sizes, Buttons Color variants, Buttons Solid color variants, Buttons Outline color variants, Buttons Ghost color variants, Buttons Soft color variants, Buttons White color variants, Buttons Link color variants, Buttons Shape, Buttons Pilled Button, Buttons Block Button, Buttons Icon, Buttons Loading, Buttons Disabled, Buttons Active, Buttons Button examples",
     "link": "https://preline.co/docs/buttons.html",
     "category": "Button",
     "parent": null
   },
   {
-    "name": "Button Group Basic usage, Button Group Example, Button Group Sizes, Button Group Button group break, Button Group Vertical, Button Group Toolbar New",
+    "name": "Button Group Basic usage, Button Group Example, Button Group Sizes, Button Group Button group break, Button Group Vertical, Button Group Toolbar",
     "link": "https://preline.co/docs/button-group.html",
     "category": "Button",
     "parent": null
@@ -8142,19 +8142,19 @@
     "parent": null
   },
   {
-    "name": "Select Basic usage, Select Example, Select Types, Select Gray input New, Select Floating label New, Select Sizes, Select Shape, Select Pilled select, Select Disabled, Select Label, Select Hidden label",
+    "name": "Select Basic usage, Select Example, Select Types, Select Gray input, Select Floating label, Select Sizes, Select Shape, Select Pilled select, Select Disabled, Select Label, Select Hidden label",
     "link": "https://preline.co/docs/select.html",
     "category": "Dropdown",
     "parent": null
   },
   {
-    "name": "Dropdown 🔥 Basic usage, Dropdown 🔥 Default, Dropdown 🔥 Hover event, Dropdown 🔥 Dividers, Dropdown 🔥 Icons, Dropdown 🔥 Title, Dropdown 🔥 With header, Dropdown 🔥 Custom trigger, Dropdown 🔥 Custom icon trigger, Dropdown 🔥 Animations, Dropdown 🔥 Scale animation New, Dropdown 🔥 Slide up animation, Dropdown 🔥 Transform style animation, Dropdown 🔥 Options, Dropdown 🔥 Auto close behavior, Dropdown 🔥 Dropdown item checkbox, Dropdown 🔥 Dropdown item radio, Dropdown 🔥 Directions, Dropdown 🔥 Dropdown, Dropdown 🔥 Dropup, Dropdown 🔥 Dropright, Dropdown 🔥 Dropleft, Dropdown 🔥 Responsive alignment",
+    "name": "Dropdown 🔥 Basic usage, Dropdown 🔥 Default, Dropdown 🔥 Hover event, Dropdown 🔥 Dividers, Dropdown 🔥 Icons, Dropdown 🔥 Title, Dropdown 🔥 With header, Dropdown 🔥 Custom trigger, Dropdown 🔥 Custom icon trigger, Dropdown 🔥 Animations, Dropdown 🔥 Scale animation, Dropdown 🔥 Slide up animation, Dropdown 🔥 Transform style animation, Dropdown 🔥 Options, Dropdown 🔥 Auto close behavior, Dropdown 🔥 Dropdown item checkbox, Dropdown 🔥 Dropdown item radio, Dropdown 🔥 Directions, Dropdown 🔥 Dropdown, Dropdown 🔥 Dropup, Dropdown 🔥 Dropright, Dropdown 🔥 Dropleft, Dropdown 🔥 Responsive alignment",
     "link": "https://preline.co/docs/dropdown.html",
     "category": "Dropdown",
     "parent": null
   },
   {
-    "name": "Popover About, Popover When to use, Popover Conclusion, Popover Four directions, Popover Focus event, Popover Hover event, Popover With content, Popover Review popover example New, Popover User popover example New",
+    "name": "Popover About, Popover When to use, Popover Conclusion, Popover Four directions, Popover Focus event, Popover Hover event, Popover With content, Popover Review popover example, Popover User popover example",
     "link": "https://preline.co/docs/popover.html",
     "category": "Dropdown",
     "parent": null
@@ -8910,13 +8910,13 @@
     "parent": null
   },
   {
-    "name": "Input Basic usage, Input Placeholder, Input Label, Input Hidden label, Input Basic, Input Types, Input Gray input New, Input Underline input New, Input Floating label New, Input Sizes, Input Shape, Input Pilled input, Input Readonly, Input Disabled, Input Helper text, Input Inline helper text, Input Corner hint",
+    "name": "Input Basic usage, Input Placeholder, Input Label, Input Hidden label, Input Basic, Input Types, Input Gray input, Input Underline input, Input Floating label, Input Sizes, Input Shape, Input Pilled input, Input Readonly, Input Disabled, Input Helper text, Input Inline helper text, Input Corner hint",
     "link": "https://preline.co/docs/input.html",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Checkbox Basic usage, Checkbox Default, Checkbox Indeterminate New, Checkbox Disabled, Checkbox Checkbox group, Checkbox List with description, Checkbox Checkbox within form input, Checkbox On right, Checkbox With list group, Checkbox With horizontal list group",
+    "name": "Checkbox Basic usage, Checkbox Default, Checkbox Indeterminate, Checkbox Disabled, Checkbox Checkbox group, Checkbox List with description, Checkbox Checkbox within form input, Checkbox On right, Checkbox With list group, Checkbox With horizontal list group",
     "link": "https://preline.co/docs/checkbox.html",
     "category": "Form",
     "parent": null
@@ -11988,7 +11988,7 @@
     "parent": null
   },
   {
-    "name": "Modal 🔥 Basic usage, Modal 🔥 Example, Modal 🔥 Animations, Modal 🔥 Scale animation New, Modal 🔥 Slide down animation, Modal 🔥 Slide up animation, Modal 🔥 Sizes, Modal 🔥 Static backdrop, Modal 🔥 Scrolling behavior, Modal 🔥 Vertically centered, Modal 🔥 Focus management, Modal 🔥 Toggle between modals, Modal 🔥 Stacked Overlays New, Modal 🔥 Fullscreen Modal, Modal 🔥 Custom backdrop color New",
+    "name": "Modal 🔥 Basic usage, Modal 🔥 Example, Modal 🔥 Animations, Modal 🔥 Scale animation, Modal 🔥 Slide down animation, Modal 🔥 Slide up animation, Modal 🔥 Sizes, Modal 🔥 Static backdrop, Modal 🔥 Scrolling behavior, Modal 🔥 Vertically centered, Modal 🔥 Focus management, Modal 🔥 Toggle between modals, Modal 🔥 Stacked Overlays, Modal 🔥 Fullscreen Modal, Modal 🔥 Custom backdrop color",
     "link": "https://preline.co/docs/modal.html",
     "category": "Modal",
     "parent": null
@@ -12468,7 +12468,7 @@
     "parent": null
   },
   {
-    "name": "Navbar Basic usage, Navbar Example, Navbar Responsive behaviors, Navbar With horizontal scroll, Navbar With collapse, Navbar Brand, Navbar SVG, Navbar SVG and text, Navbar Image, Navbar Image and text, Navbar Alignment New, Navbar With dropdown, Navbar Color variants",
+    "name": "Navbar Basic usage, Navbar Example, Navbar Responsive behaviors, Navbar With horizontal scroll, Navbar With collapse, Navbar Brand, Navbar SVG, Navbar SVG and text, Navbar Image, Navbar Image and text, Navbar Alignment, Navbar With dropdown, Navbar Color variants",
     "link": "https://preline.co/docs/navbar.html",
     "category": "Navigation/Header",
     "parent": null
@@ -14550,7 +14550,7 @@
     "parent": null
   },
   {
-    "name": "Pagination Basic usage, Pagination Example, Pagination Working with icons, Pagination Disabled and active state, Pagination Types, Pagination Bordered New, Pagination Bordered group New, Pagination Mini size New, Pagination Working with Tooltip New, Pagination Jumper New, Pagination More with Dropdown New, Pagination Stretched New, Pagination Alignment, Pagination Sizes, Pagination Basic New, Pagination Bordered New, Pagination Bordered group New, Pagination Mini size New, Pagination Shape, Pagination Basic New, Pagination Bordered New, Pagination Bordered group New, Pagination Mini size New",
+    "name": "Pagination Basic usage, Pagination Example, Pagination Working with icons, Pagination Disabled and active state, Pagination Types, Pagination Bordered, Pagination Bordered group, Pagination Mini size, Pagination Working with Tooltip, Pagination Jumper, Pagination More with Dropdown, Pagination Stretched, Pagination Alignment, Pagination Sizes, Pagination Basic, Pagination Bordered, Pagination Bordered group, Pagination Mini size, Pagination Shape, Pagination Basic, Pagination Bordered, Pagination Bordered group, Pagination Mini size",
     "link": "https://preline.co/docs/pagination.html",
     "category": "Pagination",
     "parent": null
@@ -14790,7 +14790,7 @@
     "parent": null
   },
   {
-    "name": "Progress Basic usage, Progress Example, Progress Height, Progress Labels, Progress Within progress bar, Progress Label at the end New, Progress Title label New, Progress Floating label New, Progress Color variants, Progress Multiple bars, Progress Shape, Progress No radius, Progress Straight bar, Progress Vertical progress, Progress Steps New, Progress Circular progress New, Progress Gauge progress New",
+    "name": "Progress Basic usage, Progress Example, Progress Height, Progress Labels, Progress Within progress bar, Progress Label at the end, Progress Title label, Progress Floating label, Progress Color variants, Progress Multiple bars, Progress Shape, Progress No radius, Progress Straight bar, Progress Vertical progress, Progress Steps, Progress Circular progress, Progress Gauge progress",
     "link": "https://preline.co/docs/progress.html",
     "category": "Progress Bar",
     "parent": null
@@ -16206,7 +16206,7 @@
     "parent": null
   },
   {
-    "name": "Lists Basic usage, Lists Setting the list style type, Lists List marker New, Lists Separator, Lists Checked style, Lists List checked color variations",
+    "name": "Lists Basic usage, Lists Setting the list style type, Lists List marker, Lists Separator, Lists Checked style, Lists List checked color variations",
     "link": "https://preline.co/docs/lists.html",
     "category": "List",
     "parent": null
@@ -18048,13 +18048,13 @@
     "parent": null
   },
   {
-    "name": "Mega Menu Basic usage, Mega Menu Example, Mega Menu Hover event, Mega Menu Animations, Mega Menu Slide up animation, Mega Menu Options, Mega Menu Auto close behavior, Mega Menu Columns New",
+    "name": "Mega Menu Basic usage, Mega Menu Example, Mega Menu Hover event, Mega Menu Animations, Mega Menu Slide up animation, Mega Menu Options, Mega Menu Auto close behavior, Mega Menu Columns",
     "link": "https://preline.co/docs/mega-menu.html",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Offcanvas Basic usage, Offcanvas Example, Offcanvas Placement, Offcanvas Scrolling, Offcanvas Custom backdrop color New",
+    "name": "Offcanvas Basic usage, Offcanvas Example, Offcanvas Placement, Offcanvas Scrolling, Offcanvas Custom backdrop color",
     "link": "https://preline.co/docs/offcanvas.html",
     "category": "Other",
     "parent": null
@@ -28374,7 +28374,7 @@
     "parent": null
   },
   {
-    "name": "Tree View Basic usage, Tree View Example, Tree View Close currently opened, Tree View Customize",
+    "name": "Tree View New Basic usage, Tree View New Close currently opened, Tree View New Customize, Tree View New Draggable New",
     "link": "https://preline.co/docs/tree-view.html",
     "category": "Other",
     "parent": null
@@ -28496,6 +28496,18 @@
   {
     "name": "Spike",
     "link": "https://github.com/wrappixel/spike-tailwind-free",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "WYSIWYG Getting started, WYSIWYG Default text editor, WYSIWYG Text alignment, WYSIWYG Typography elements, WYSIWYG Configuring links, WYSIWYG Using images, WYSIWYG Adding videos, WYSIWYG Undo and redo, WYSIWYG Exporting data, WYSIWYG Javascript behaviour, WYSIWYG License",
+    "link": "https://flowbite.com/docs/plugins/wysiwyg/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Three column bento grid",
+    "link": "https://tailwindui.com/components/preview#component-dc65cfa183921e10d45c401610332cca",
     "category": "Other",
     "parent": null
   }
