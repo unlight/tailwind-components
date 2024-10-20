@@ -5052,7 +5052,7 @@
     "parent": null
   },
   {
-    "name": "Testimonial #Content on the left, slider on the right with stars, title, content and author, Testimonial #Title and grid of reviews with stars, avatar, author and content, Testimonial #Title and slider with stars, title, content and author, Testimonial #Title and masonry grid of reviews with stars, avatar, author and content",
+    "name": "Testimonial #Content on the left, slider on the right with stars, title, content and author, Testimonial #Title and grid of reviews with stars, avatar, author and content, Testimonial #Title and slider with stars, title, content and author, Testimonial #Title and masonry grid of reviews with stars, avatar, author and content, Testimonial #Title and slider with fading reviews, buttons, stars, avatar, author, and content",
     "link": "https://www.hyperui.dev/components/marketing/testimonials",
     "category": "Testimonial",
     "parent": "Page"
@@ -24450,7 +24450,7 @@
     "parent": null
   },
   {
-    "name": "Search Navbar\n    \n    TWE Pro component",
+    "name": "Search Navbar",
     "link": "https://tw-elements.com/docs/standard/forms/search/",
     "category": "Navigation/Header",
     "parent": null
@@ -27162,7 +27162,7 @@
     "parent": null
   },
   {
-    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes\n    TWE Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
+    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
     "link": "https://tw-elements.com/docs/standard/getting-started/icons-integration/",
     "category": "Other",
     "parent": null
