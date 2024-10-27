@@ -2454,7 +2454,7 @@
     "parent": null
   },
   {
-    "name": "Breadcrumb #Home icon and links, split with chevron, Breadcrumb #Home and links, split with chevron background",
+    "name": "Breadcrumb #Home icon and links, split with chevron, Breadcrumb #Home icon and links, split with slash, Breadcrumb #Home and links, split with chevron background",
     "link": "https://www.hyperui.dev/components/application-ui/breadcrumbs",
     "category": "Breadcrumb",
     "parent": null
@@ -24450,7 +24450,7 @@
     "parent": null
   },
   {
-    "name": "Search Navbar",
+    "name": "Search Navbar\n    \n    TWE Pro component",
     "link": "https://tw-elements.com/docs/standard/forms/search/",
     "category": "Navigation/Header",
     "parent": null
@@ -27162,7 +27162,7 @@
     "parent": null
   },
   {
-    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
+    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes\n    TWE Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
     "link": "https://tw-elements.com/docs/standard/getting-started/icons-integration/",
     "category": "Other",
     "parent": null
