@@ -5046,7 +5046,7 @@
     "parent": null
   },
   {
-    "name": "Section #Content and a grid of USPs with title, content and icon, Section #Title and grid of image on the left, content on the right, Section #Grid with image on the left, content on the right with offset background",
+    "name": "Section #Content with image, 1/2 grid, Section #Content with image, 2/3 grid, Section #Content with image, 3/2 grid, Section #Content with image, vertical split",
     "link": "https://www.hyperui.dev/components/marketing/sections",
     "category": "Other",
     "parent": null
@@ -25800,7 +25800,7 @@
     "parent": null
   },
   {
-    "name": "Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification",
+    "name": "Modal Basic Example, Modal components, Modal Positions\n    \n    TWE Pro component, Modal Frame\n    \n    TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal\n    \n    TWE Pro component, Modal Import, Modal Simple notification",
     "link": "https://tw-elements.com/docs/standard/components/modal/",
     "category": "Modal",
     "parent": null

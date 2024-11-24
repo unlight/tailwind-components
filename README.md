@@ -2403,7 +2403,13 @@
 * Tailwind CSS Modal Confirmation with alpine js. with style headless ui: [tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui](https://tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui)
 * Modal Alert Responsive Tailwind CSS: [tailwindcomponents.com/component/modal-alert-responsive-tailwind-css](https://tailwindcomponents.com/component/modal-alert-responsive-tailwind-css)
 * Modal with a subscription form: [tailwindcomponents.com/component/modal-with-a-subscription-form](https://tailwindcomponents.com/component/modal-with-a-subscription-form)
-* Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
+* Modal Basic Example, Modal components, Modal Positions
+
+  TWE Pro component, Modal Frame
+
+  TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal
+
+  TWE Pro component, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
 * Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour: [flowbite.com/docs/components/modal/](https://flowbite.com/docs/components/modal/)
 * Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
 * Tailwind CSS Modal: [tailwindcomponents.com/component/modal-16](https://tailwindcomponents.com/component/modal-16)
@@ -3534,7 +3540,7 @@
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/buttons](https://floatui.com/components/buttons)
 * Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections: [hyperui.dev/components/marketing](https://www.hyperui.dev/components/marketing)
 * Lexicon Text Area With message: [tailwindtemplates.io/templates?category=input](https://tailwindtemplates.io/templates?category=input)
-* Section #Content and a grid of USPs with title, content and icon, Section #Title and grid of image on the left, content on the right, Section #Grid with image on the left, content on the right with offset background: [hyperui.dev/components/marketing/sections](https://www.hyperui.dev/components/marketing/sections)
+* Section #Content with image, 1/2 grid, Section #Content with image, 2/3 grid, Section #Content with image, 3/2 grid, Section #Content with image, vertical split: [hyperui.dev/components/marketing/sections](https://www.hyperui.dev/components/marketing/sections)
 * Stack 3 divs without stack, Stack 3 divs with stack, Stack stacked images: [daisyui.com/components/stack/](https://daisyui.com/components/stack/)
 * Getting Started, Marketing UI, Application UI, Basic Feature Section, Dark Feature Section, Feature Section with check icons, Divided Feature Section, Feature Section with links, Feature Section with three columns, Feature Section with image: [floatui.com/components/feature-sections](https://floatui.com/components/feature-sections)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/cards](https://floatui.com/components/cards)
