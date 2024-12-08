@@ -990,13 +990,13 @@
     "parent": null
   },
   {
-    "name": "Accordion 🔥 Basic usage, Accordion 🔥 Example, Accordion 🔥 Always open, Accordion 🔥 Nested, Accordion 🔥 No arrow, Accordion 🔥 With arrow, Accordion 🔥 With title and arrow stretched, Accordion 🔥 Bordered, Accordion 🔥 Active content bordered",
+    "name": "Accordion 🔥 Basic usage, Accordion 🔥 Example, Accordion 🔥 Always open, Accordion 🔥 Nested, Accordion 🔥 No arrow, Accordion 🔥 With arrow, Accordion 🔥 With title and arrow stretched, Accordion 🔥 Bordered, Accordion 🔥 Active content bordered, Accordion 🔥 Destroy and Reinitialize New",
     "link": "https://preline.co/docs/accordion.html",
     "category": "Accordion",
     "parent": null
   },
   {
-    "name": "Collapse About, Collapse Basic usage, Collapse Example, Collapse Show/Hide",
+    "name": "Collapse About, Collapse Basic usage, Collapse Example, Collapse Show/Hide, Collapse Destroy and Reinitialize New",
     "link": "https://preline.co/docs/collapse.html",
     "category": "Accordion",
     "parent": null
@@ -1290,7 +1290,7 @@
     "parent": null
   },
   {
-    "name": "Toasts Basic usage, Toasts Example, Toasts Condensed, Toasts Color variants, Toasts Solid color variants, Toasts Soft color variants, Toasts Message with loading indicator, Toasts With actions, Toasts Stack, Toasts Avatar, Toasts Progress, Toasts Placement, Toasts Dismiss button",
+    "name": "Toasts Basic usage, Toasts Example, Toasts Condensed, Toasts Color variants, Toasts Solid color variants, Toasts Soft color variants, Toasts Message with loading indicator, Toasts With actions, Toasts Stack, Toasts Avatar, Toasts Progress, Toasts Placement, Toasts Dismiss button, Toasts JavaScript Behavior New",
     "link": "https://preline.co/docs/toasts.html",
     "category": "Alert/Notification",
     "parent": null
@@ -2346,7 +2346,7 @@
     "parent": null
   },
   {
-    "name": "Tabs 🔥 About, Tabs 🔥 Tabs with underline, Tabs 🔥 Tabs with icons, Tabs 🔥 Horizontal alignment, Tabs 🔥 Vertical, Tabs 🔥 Horizontal scroll, Tabs 🔥 Segment, Tabs 🔥 Bar with underline, Tabs 🔥 Fill and justify, Tabs 🔥 Equal-width elements",
+    "name": "Tabs 🔥 About, Tabs 🔥 Tabs with underline, Tabs 🔥 Tabs with icons, Tabs 🔥 Horizontal alignment, Tabs 🔥 Vertical, Tabs 🔥 Horizontal scroll, Tabs 🔥 Segment, Tabs 🔥 Bar with underline, Tabs 🔥 Fill and justify, Tabs 🔥 Equal-width elements, Tabs 🔥 Destroy and Reinitialize New",
     "link": "https://preline.co/docs/tabs.html",
     "category": "Tab",
     "parent": null
@@ -8148,13 +8148,13 @@
     "parent": null
   },
   {
-    "name": "Dropdown 🔥 Basic usage, Dropdown 🔥 Default, Dropdown 🔥 Hover event, Dropdown 🔥 Dividers, Dropdown 🔥 Icons, Dropdown 🔥 Title, Dropdown 🔥 With header, Dropdown 🔥 Custom trigger, Dropdown 🔥 Custom icon trigger, Dropdown 🔥 Animations, Dropdown 🔥 Scale animation, Dropdown 🔥 Slide up animation, Dropdown 🔥 Transform style animation, Dropdown 🔥 Options, Dropdown 🔥 Auto close behavior, Dropdown 🔥 Dropdown item checkbox, Dropdown 🔥 Dropdown item radio, Dropdown 🔥 Directions, Dropdown 🔥 Dropdown, Dropdown 🔥 Dropup, Dropdown 🔥 Dropright, Dropdown 🔥 Dropleft, Dropdown 🔥 Responsive alignment",
+    "name": "Dropdown Basic usage, Dropdown Default, Dropdown Hover event, Dropdown Dividers, Dropdown Icons, Dropdown Title, Dropdown With header, Dropdown Custom trigger, Dropdown Custom icon trigger, Dropdown Animations, Dropdown Scale animation, Dropdown Slide up animation, Dropdown Transform style animation, Dropdown Options, Dropdown Auto close behavior, Dropdown Dropdown item checkbox, Dropdown Dropdown item radio, Dropdown Directions, Dropdown Dropdown, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Responsive alignment, Dropdown Destroy and Reinitialize New",
     "link": "https://preline.co/docs/dropdown.html",
     "category": "Dropdown",
     "parent": null
   },
   {
-    "name": "Popover About, Popover When to use, Popover Conclusion, Popover Four directions, Popover Focus event, Popover Hover event, Popover With content, Popover Review popover example, Popover User popover example",
+    "name": "Popover About, Popover When to use, Popover Conclusion, Popover Four directions, Popover Focus event, Popover Hover event, Popover With content, Popover Review popover example, Popover User popover example, Popover Destroy and Reinitialize New",
     "link": "https://preline.co/docs/popover.html",
     "category": "Dropdown",
     "parent": null
@@ -12474,9 +12474,9 @@
     "parent": null
   },
   {
-    "name": "Scrollspy Example in navbar, Scrollspy Example with nested nav, Scrollspy Navbar",
+    "name": "Scrollspy Destroy and Reinitialize New",
     "link": "https://preline.co/docs/scrollspy.html",
-    "category": "Navigation/Header",
+    "category": "Other",
     "parent": null
   },
   {
@@ -15048,7 +15048,7 @@
     "parent": null
   },
   {
-    "name": "Sidebar Offcanvas, Sidebar Mini sidebar",
+    "name": "Sidebar Offcanvas, Sidebar Mini sidebar, Sidebar Offcanvas with splitter New",
     "link": "https://preline.co/docs/sidebar.html",
     "category": "Sidebar",
     "parent": null
@@ -15756,7 +15756,7 @@
     "parent": null
   },
   {
-    "name": "Tooltip About, Tooltip When to use, Tooltip Interactions, Tooltip Conclusion, Tooltip Basic usage, Tooltip Example",
+    "name": "Tooltip About, Tooltip When to use, Tooltip Interactions, Tooltip Conclusion, Tooltip Basic usage, Tooltip Example, Tooltip Destroy and Reinitialize New",
     "link": "https://preline.co/docs/tooltip.html",
     "category": "Tooltips",
     "parent": null
@@ -18054,7 +18054,7 @@
     "parent": null
   },
   {
-    "name": "Offcanvas Basic usage, Offcanvas Example, Offcanvas Placement, Offcanvas Scrolling, Offcanvas Custom backdrop color",
+    "name": "Offcanvas Basic usage, Offcanvas Example, Offcanvas Placement, Offcanvas Scrolling, Offcanvas Custom backdrop color, Offcanvas Destroy and Reinitialize New",
     "link": "https://preline.co/docs/offcanvas.html",
     "category": "Other",
     "parent": null
@@ -24078,7 +24078,7 @@
     "parent": null
   },
   {
-    "name": "Stepper 🔥 Basic usage, Stepper 🔥 Static, Stepper 🔥 Linear, Stepper 🔥 Responsive, Stepper 🔥 Types, Stepper 🔥 White, Stepper 🔥 Solid, Stepper 🔥 Alignment, Stepper 🔥 Center, Stepper 🔥 Working with icon and avatar, Stepper 🔥 Dynamic form, Stepper 🔥 Dynamic Linear, Stepper 🔥 Non-linear, Stepper 🔥 Skipped, Stepper 🔥 Active, Stepper 🔥 Error, Stepper 🔥 Success",
+    "name": "Stepper 🔥 Basic usage, Stepper 🔥 Static, Stepper 🔥 Linear, Stepper 🔥 Responsive, Stepper 🔥 Types, Stepper 🔥 White, Stepper 🔥 Solid, Stepper 🔥 Alignment, Stepper 🔥 Center, Stepper 🔥 Working with icon and avatar, Stepper 🔥 Dynamic form, Stepper 🔥 Dynamic Linear, Stepper 🔥 Non-linear, Stepper 🔥 Skipped, Stepper 🔥 Active, Stepper 🔥 Error, Stepper 🔥 Success, Stepper 🔥 Destroy and Reinitialize New",
     "link": "https://preline.co/docs/stepper.html",
     "category": "Step",
     "parent": null
@@ -25800,7 +25800,7 @@
     "parent": null
   },
   {
-    "name": "Modal Basic Example, Modal components, Modal Positions\n    \n    TWE Pro component, Modal Frame\n    \n    TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal\n    \n    TWE Pro component, Modal Import, Modal Simple notification",
+    "name": "Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification",
     "link": "https://tw-elements.com/docs/standard/components/modal/",
     "category": "Modal",
     "parent": null
@@ -28374,7 +28374,7 @@
     "parent": null
   },
   {
-    "name": "Tree View New Basic usage, Tree View New Close currently opened, Tree View New Customize, Tree View New Draggable New",
+    "name": "Tree View 🔥 Basic usage, Tree View 🔥 Close currently opened, Tree View 🔥 Customize, Tree View 🔥 Draggable New, Tree View 🔥 Destroy and Reinitialize New",
     "link": "https://preline.co/docs/tree-view.html",
     "category": "Other",
     "parent": null
@@ -28520,6 +28520,12 @@
   {
     "name": "Ecme (Lite)",
     "link": "https://github.com/ThemeNate/Ecme-lite",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Context Menu New Basic usage, Context Menu New Default",
+    "link": "https://preline.co/docs/context-menu.html",
     "category": "Other",
     "parent": null
   }
