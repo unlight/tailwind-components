@@ -2,7 +2,6 @@ import puppeteer from 'puppeteer';
 import { getScrapers } from './scrapers';
 import { promises as fs } from 'fs';
 import _ from 'lodash';
-import yargs from 'yargs';
 import { updateComponenentsJson, generateMarkdown } from './generate';
 import { CompomentLink } from './types';
 import { resolve } from 'path';

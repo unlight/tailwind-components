@@ -26,7 +26,7 @@ export default async function flowbite({
   });
 
   for (const { category, link } of links.filter(Boolean) as CompomentLink[]) {
-    await page.goto(link, { waitUntil: 'networkidle0' });
+    await page.goto(link, { waitUntil: 'domcontentloaded', timeout: 60_000 });
     const names = (
       await page.$$eval('main h2', elements => {
         return elements.map(e => e.childNodes[0].textContent?.trim());
