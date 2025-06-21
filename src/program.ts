@@ -18,7 +18,6 @@ import { parseArgs } from 'node:util';
  * https://horizon-ui.com/components
  * https://statichunt.com/tailwind-templates
  * https://taildashboards.com/
- * https://dripui.vercel.app/
  * https://web3templates.com/components/all
  * https://componentland.com/
  * https://statik.ly/categories
