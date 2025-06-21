@@ -22,6 +22,7 @@ import { parseArgs } from 'node:util';
  * https://statik.ly/categories
  * https://flowrift.com/c/header
  * https://devdojo.com/pines/docs/typing-effect (need vpn)
+ * https://www.shadcnblocks.com/blocks?sort=price
  */
 
 if (require.main?.filename === __filename) {
