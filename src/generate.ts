@@ -280,7 +280,7 @@ function getComponents(componentsJsonPath: string): ComponentItem[] {
   return [];
 }
 
-async function generateJson({ items }: GenerateArgs) {
+export async function generateJson({ items }: GenerateArgs) {
   const categories = groupItems(items);
   const result: ComponentItem[] = [];
 

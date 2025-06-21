@@ -16,26 +16,24 @@
     "readme": "ts-node src/readme-components.ts && npm run remark:update"
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.202",
-    "@types/mocha": "^10.0.6",
-    "@types/node": "^20.11.19",
+    "@types/lodash": "^4.17.18",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^24.0.3",
     "@types/pluralize": "^0.0.33",
     "@types/puppeteer": "^5.4.7",
     "@types/string-similarity": "^4.0.2",
-    "@types/yargs": "^17.0.32",
-    "expect": "^29.7.0",
+    "expect": "^30.0.2",
     "lodash": "^4.17.21",
-    "mocha": "^10.3.0",
+    "mocha": "^11.7.0",
     "pluralize": "^8.0.0",
-    "prettier": "^3.2.5",
-    "puppeteer": "^22.0.0",
+    "prettier": "^3.5.3",
+    "puppeteer": "^24.10.2",
     "remark": "^15.0.1",
-    "remark-cli": "^12.0.0",
+    "remark-cli": "^12.0.1",
     "remark-toc": "^9.0.0",
     "string-similarity": "^4.0.4",
     "ts-node": "^10.9.2",
-    "tslib": "^2.6.2",
-    "typescript": "^5.3.3",
-    "yargs": "^17.7.2"
+    "tslib": "^2.8.1",
+    "typescript": "^5.8.3"
   }
 }

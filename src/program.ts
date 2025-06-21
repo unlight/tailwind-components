@@ -6,23 +6,30 @@ import yargs from 'yargs';
 import { updateComponenentsJson, generateMarkdown } from './generate';
 import { CompomentLink } from './types';
 import { resolve } from 'path';
+import { parseArgs } from 'node:util';
 
 /**
  * RESOURCES:
- * https://sira.riccox.com/docs/components/overview
+ * https://flyonui.com/docs/components/accordion/
+ * https://www.penguinui.com/components/accordion
+ * https://syntaxui.com/
  * https://tailadmin.com/#components
- * https://rewind-ui.dev/
  * https://github.com/bayfrontmedia/skin
  * https://horizon-ui.com/components
  * https://statichunt.com/tailwind-templates
  * https://taildashboards.com/
- * https://layoutsfortailwind.lalokalabs.dev/
  * https://dripui.vercel.app/
  * https://web3templates.com/components/all
+ * https://componentland.com/
+ * https://statik.ly/categories
+ * https://flowrift.com/c/header
+ * https://devdojo.com/pines/docs/typing-effect (need vpn)
  */
 
 if (require.main?.filename === __filename) {
-  program(yargs.argv as ProgramOptions);
+  const args = parseArgs({ options: { only: { type: 'string' } } }).values;
+
+  program(args);
 }
 
 type ProgramOptions = {
