@@ -1,20 +1,24 @@
+import assert from 'assert';
 import { CompomentLink, ScraperArgs } from '../types';
 
 export default async function headlessui({
-    page,
+  page,
 }: ScraperArgs): Promise<CompomentLink[]> {
-    const result: CompomentLink[] = [];
-    await page.goto('https://headlessui.dev/', { waitUntil: 'networkidle0' });
+  const result: CompomentLink[] = [];
+  await page.goto('https://headlessui.com/', { waitUntil: 'networkidle0' });
 
-    const elements = await page.$$('.grid a[class]');
+  const elements = await page.$$('.grid a[class]');
 
-    for (const elementHandle of elements) {
-        const { link, name } = await elementHandle.evaluate(x => ({
-            name: x.textContent!,
-            link: (x as HTMLAnchorElement).href,
-        }));
-        result.push({ link, name });
-    }
+  for (const elementHandle of elements) {
+    const name = await elementHandle.$eval(
+      ':scope > div:last-child',
+      e => e.textContent,
+    );
+    assert.ok(name);
+    const link = await elementHandle.evaluate(a => a.href);
 
-    return result;
+    result.push({ link, name });
+  }
+
+  return result;
 }
