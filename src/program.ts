@@ -44,7 +44,7 @@ async function program(options?: ProgramOptions) {
     headless: process.env.CI ? true : false,
     slowMo: options?.slowmo,
     defaultViewport: null,
-    args: ['--start-maximized'],
+    args: ['--start-maximized', '--no-sandbox'],
   });
   const [page] = await browser.pages();
   const scrapers = await getScrapers({ name: options?.only });
