@@ -26,7 +26,9 @@ import { parseArgs } from 'node:util';
  */
 
 if (require.main?.filename === __filename) {
-  const args = parseArgs({ options: { only: { type: 'string' } } }).values;
+  const args = parseArgs({
+    options: { only: { type: 'string' }, format: { type: 'string' } },
+  }).values;
 
   program(args);
 }
