@@ -960,7 +960,7 @@
     "parent": null
   },
   {
-    "name": "Collapse with focus, Collapse with checkbox, Collapse using <details> and <summary> tag, Collapse With border and background color, Collapse With arrow icon, Collapse With arrow plus/minus icon, Collapse Force open, Collapse Force close, Collapse Custom colors for collapse that works with focus, Collapse Custom colors for collapse that works with checkbox",
+    "name": "Collapse with focus, Collapse with checkbox, Collapse using details and summary tag, Collapse Without border and background color, Collapse With arrow icon, Collapse With arrow plus/minus icon, Collapse Force open, Collapse Force close, Collapse Custom colors for collapse that works with focus, Collapse Custom colors for collapse that works with checkbox",
     "link": "https://daisyui.com/components/collapse/",
     "category": "Accordion",
     "parent": null
@@ -1116,7 +1116,7 @@
     "parent": null
   },
   {
-    "name": "Alert, Alert Info color, Alert Success color, Alert Warning color, Alert Error color, Alert with buttons, Alert with title and description",
+    "name": "Alert, Alert Info color, Alert Success color, Alert Warning color, Alert Error color, Alert soft style, Alert outline style, Alert dash style, Alert with buttons + responsive, Alert with title and description",
     "link": "https://daisyui.com/components/alert/",
     "category": "Alert/Notification",
     "parent": null
@@ -2190,16 +2190,16 @@
     "parent": null
   },
   {
-    "name": "Badge, Badge with brand colors, Badge Outline badge, Badge sizes, Badge Empty badge, Badge with state colors, Badge in a text, Badge in a button",
+    "name": "Badge, Badge sizes, Badge with colors, Badge with soft style, Badge with outline style, Badge with dash style, Badge neutral badge with outline or dash style, Badge ghost, Badge Empty badge, Badge with icon, Badge in a text, Badge in a button",
     "link": "https://daisyui.com/components/badge/",
     "category": "Badge",
     "parent": null
   },
   {
-    "name": "Card, Card Compact card (less padding for `card-body`), Card with bottom image, Card with centered content and paddings, Card with image overlay, Card with no image, Card with custom color, Card Centered card with neutral color, Card with action on top, Card glass, Card with image on side, Card Responsive card (vertical on small screen, horizontal on large screen)",
+    "name": "Card Pricing Card",
     "link": "https://daisyui.com/components/card/",
-    "category": "Card",
-    "parent": null
+    "category": "Pricing",
+    "parent": "Page"
   },
   {
     "name": "Fancy Badge 1",
@@ -2340,13 +2340,13 @@
     "parent": null
   },
   {
-    "name": "Navs Basic usage, Navs Example, Navs Available styles, Navs Tabs with underline, Navs With icons, Navs Horizontal alignment, Navs Vertical, Navs Segment, Navs Bar with underline, Navs Pills on gray color, Navs Pills with brand color, Navs Fill and justify, Navs Equal-width elements",
+    "name": "Navs Basic usage, Navs Example, Navs Available styles, Navs Tabs with underline, Navs With icons, Navs Horizontal alignment, Navs Vertical, Navs Segment, Navs Bar with underline, Navs Pills on gray color, Navs Pills with brand color, Navs Scroll nav New, Navs Fill and justify, Navs Equal-width elements",
     "link": "https://preline.co/docs/navs.html",
     "category": "Navigation/Header",
     "parent": null
   },
   {
-    "name": "Tabs 🔥 About, Tabs 🔥 Tabs with underline, Tabs 🔥 Tabs with icons, Tabs 🔥 Horizontal alignment, Tabs 🔥 Vertical, Tabs 🔥 Horizontal scroll, Tabs 🔥 Segment, Tabs 🔥 Bar with underline, Tabs 🔥 Fill and justify, Tabs 🔥 Equal-width elements, Tabs 🔥 Destroy and Reinitialize New",
+    "name": "Tabs 🔥 About, Tabs 🔥 Tabs with underline, Tabs 🔥 Tabs with icons, Tabs 🔥 Centered New, Tabs 🔥 Horizontal alignment, Tabs 🔥 Vertical, Tabs 🔥 Horizontal scroll, Tabs 🔥 Segment, Tabs 🔥 Bar with underline, Tabs 🔥 Fill and justify, Tabs 🔥 Equal-width elements, Tabs 🔥 Open on hover New, Tabs 🔥 Destroy and Reinitialize New",
     "link": "https://preline.co/docs/tabs.html",
     "category": "Tab",
     "parent": null
@@ -2586,7 +2586,7 @@
     "parent": null
   },
   {
-    "name": "Button with loading spinner, Button with loading spinner and text",
+    "name": "Button with loading spinner",
     "link": "https://daisyui.com/components/button/",
     "category": "Loading/Spinner",
     "parent": null
@@ -2802,7 +2802,7 @@
     "parent": "Page"
   },
   {
-    "name": "Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections",
+    "name": "Free Tailwind CSS Marketing Marketing",
     "link": "https://www.hyperui.dev/components/marketing",
     "category": "Other",
     "parent": null
@@ -4944,7 +4944,7 @@
     "parent": null
   },
   {
-    "name": "Button Components [$]",
+    "name": "Button Components",
     "link": "https://halitguvenilir.gumroad.com/l/mJqOn",
     "category": "Button",
     "parent": null
@@ -5040,7 +5040,7 @@
     "parent": null
   },
   {
-    "name": "Footer #Large with Newsletter Form, Footer #Simple Stacked, Footer #Simple Row, Footer #Split with Company Info, Links and Image, Footer #Newsletter Form as Priority, Footer #Centered with Branding, Footer #Slim with Branding and Link Top, Footer #Company Info and Links, Footer #Inline with Logo and Copyright, Footer #Company Info, Links and Email Signup",
+    "name": "Footer #Large with newsletter form, Footer #Large with newsletter form (Dark), Footer #Simple stacked, Footer #Simple stacked (Dark), Footer #Simple row, Footer #Simple row (Dark), Footer #Split with company info, links and image, Footer #Split with company info, links and image (Dark), Footer #Newsletter form as priority, Footer #Newsletter form as priority (Dark), Footer #Centered with branding, Footer #Centered with branding (Dark), Footer #Slim with branding and link top, Footer #Slim with branding and link top (Dark), Footer #Company info and links, Footer #Company info and links (Dark), Footer #Inline with logo and copyright, Footer #Inline with logo and copyright (Dark), Footer #Company info, links and email signup, Footer #Company info, links and email signup (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/footers",
     "category": "Footer",
     "parent": null
@@ -5202,7 +5202,7 @@
     "parent": null
   },
   {
-    "name": "Stack 3 divs without stack, Stack 3 divs with stack, Stack stacked images",
+    "name": "Stack 3 divs in a stack, Stack stacked images",
     "link": "https://daisyui.com/components/stack/",
     "category": "Other",
     "parent": null
@@ -5250,7 +5250,7 @@
     "parent": null
   },
   {
-    "name": "Getting Started, Marketing UI, Application UI, Stats with image, Stats on the side, Stats with title and description, Dark Stats, Basic Stats",
+    "name": "Getting Started, Marketing UI, Application UI",
     "link": "https://floatui.com/components/stats",
     "category": "Other",
     "parent": null
@@ -5274,13 +5274,13 @@
     "parent": null
   },
   {
-    "name": "Blog Card #Bordered with image, date, title and excerpt, shadow on hover, Blog Card #Floating image with title and excerpt, Blog Card #Gradient border with date, title and tags, animated gradient on hover, Blog Card #Background image with overlay containing date, title and excerpt",
+    "name": "Blog Card #Bordered with image, date, title and excerpt, shadow on hover, Blog Card #Bordered with image, date, title and excerpt, shadow on hover (Dark), Blog Card #Floating image with title and excerpt, Blog Card #Floating image with title and excerpt (Dark), Blog Card #Gradient border with date, title and tags, animated gradient on hover, Blog Card #Gradient border with date, title and tags, animated gradient on hover (Dark), Blog Card #Background image with overlay containing date, title and excerpt",
     "link": "https://www.hyperui.dev/components/marketing/blog-cards",
     "category": "Card",
     "parent": null
   },
   {
-    "name": "Card #With Content, Image, Details and Gradient Border, Card #Stacked with Large Image and Content, Card #Darkened Background with Content on Hover, Card #Bordered with Content on Hover, Card #Bordered with Image, Price, Content and Details, Card #Image, Name, with Social Links and Project Links, Card #Shaped with Image and Content, Card #Podcast Post, Card #Forum Post",
+    "name": "Card #Stacked with Large Image and Content, Card #Darkened Background with Content on Hover, Card #Bordered with Content on Hover, Card #Bordered with Image, Price, Content and Details, Card #Image, Name, with Social Links and Project Links, Card #Shaped with Image and Content, Card #Podcast Post, Card #Forum Post",
     "link": "https://www.hyperui.dev/components/marketing/cards",
     "category": "Card",
     "parent": null
@@ -7752,7 +7752,7 @@
     "parent": null
   },
   {
-    "name": "Announcement #Base with center aligned text, Announcement #Base with left aligned text and dismiss, Announcement #Fixed bottom with center aligned text, Announcement #Fixed bottom with left aligned text and dismiss, Announcement #Floating bottom with center aligned text, Announcement #Floating bottom with left aligned text and dismiss",
+    "name": "Announcement #Base, Announcement #Base wth dismiss, Announcement #Fixed, Announcement #Fixed with dismiss, Announcement #Floating, Announcement #Floating with dismiss",
     "link": "https://www.hyperui.dev/components/marketing/announcements",
     "category": "Other",
     "parent": null
@@ -8070,28 +8070,28 @@
     "parent": null
   },
   {
-    "name": "Select, Select with border, Select Ghost (no background), Select With form-control and labels, Select Primary color, Select Secondary color, Select Accent color, Select Info color, Select Success color, Select Warning color, Select Error color, Select Sizes, Select Disabled",
+    "name": "Select, Select Ghost (no background), Select With fieldset and labels, Select Primary color, Select Secondary color, Select Accent color, Select Neutral color, Select Info color, Select Success color, Select Warning color, Select Error color, Select Sizes, Select Disabled",
     "link": "https://daisyui.com/components/select/",
     "category": "Dropdown",
     "parent": null
   },
   {
-    "name": "OptionsEditDuplicate⌘DArchiveDeleteDropdown Menu",
+    "name": "Dropdown Menu",
     "link": "https://headlessui.com/react/menu",
     "category": "Dropdown",
     "parent": null
   },
   {
-    "name": "JohnGeorgeJohnPaulRingoListbox",
+    "name": "Listbox",
     "link": "https://headlessui.com/react/listbox",
     "category": "List",
     "parent": null
   },
   {
-    "name": "ProductsSolutionsPricingInsightsAutomationsReportsDocumentationPopover",
+    "name": "Popover",
     "link": "https://headlessui.com/react/popover",
-    "category": "Pricing",
-    "parent": "Page"
+    "category": "Dropdown",
+    "parent": null
   },
   {
     "name": "Dropdown #Base with links and action, Dropdown #Base with links and action, with divided sections, Dropdown #Base with links and action, with divided sections that are titled",
@@ -8160,7 +8160,7 @@
     "parent": null
   },
   {
-    "name": "Tables Basic usage, Tables Example, Tables Accented tables, Tables Striped rows, Tables Hoverable rows, Tables Highlighted tables, Tables Table borders, Tables Bordered tables, Tables Tables without borders, Tables Rounded tables, Tables Thead vertically divided, Tables With shadow, Tables Anatomy, Tables Headless, Tables Table foot, Tables Captions, Tables Responsive tables, Tables Overflow",
+    "name": "Tables Basic usage, Tables Example, Tables Accented tables, Tables Striped rows, Tables Hoverable rows, Tables Highlighted tables, Tables Table borders, Tables Bordered tables, Tables Tables without borders, Tables Rounded tables, Tables Thead vertically divided, Tables With shadow-xs, Tables Anatomy, Tables Headless, Tables Table foot, Tables Captions, Tables Responsive tables, Tables Overflow",
     "link": "https://preline.co/docs/tables.html",
     "category": "Table",
     "parent": null
@@ -8526,37 +8526,37 @@
     "parent": null
   },
   {
-    "name": "Checkbox, Checkbox With label and form-control, Checkbox Primary color, Checkbox Secondary color, Checkbox Accent color, Checkbox Success color, Checkbox Warning color, Checkbox Info color, Checkbox Error color, Checkbox Sizes, Checkbox Disabled, Checkbox Disabled and checked, Checkbox Indeterminate, Checkbox with custom colors",
+    "name": "Checkbox, Checkbox With fieldset and label, Checkbox Sizes, Checkbox Colors, Checkbox Disabled, Checkbox Indeterminate, Checkbox with custom colors",
     "link": "https://daisyui.com/components/checkbox/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "File Input File input, File Input File input with border, File Input Ghost (no background), File Input With form-control and labels, File Input Primary color, File Input Secondary color, File Input Accent color, File Input Info color, File Input Success color, File Input Warning color, File Input Error color, File Input Sizes, File Input Disabled",
+    "name": "File Input File input, File Input File input ghost, File Input With fieldset and label, File Input Sizes, File Input Primary color, File Input Disabled",
     "link": "https://daisyui.com/components/file-input/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Radio, Radio Primary color, Radio Secondary color, Radio Accent color, Radio Success color, Radio Warning color, Radio Info color, Radio Error color, Radio Disabled, Radio With label and form-control and custom colors!",
+    "name": "Radio, Radio sizes, Radio Neutral color, Radio Primary color, Radio Secondary color, Radio Accent color, Radio Success color, Radio Warning color, Radio Info color, Radio Error color, Radio Disabled, Radio with custom colors",
     "link": "https://daisyui.com/components/radio/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Text input, Text input with border, Text input with icon inside, Text input with text label inside, Text input Ghost (no background), Text input With form-control and labels, Text input Primary color, Text input Secondary color, Text input Accent color, Text input Info color, Text input Success color, Text input Warning color, Text input Error color, Text input Sizes, Text input Disabled",
+    "name": "Input field Text input, Input field Text input with text label inside, Input field Ghost style, Input field With fieldset and fieldset-legend, Input field Input colors, Input field Sizes, Input field Disabled, Input field Text input with data list suggestion, Input field Date input, Input field Time input, Input field datetime-local input, Input field Username text input with icon and validator, Input field Search input with icon, Input field Email input with icon and validator, Input field Password input with icon and validator, Input field Number input with validator, Input field Telephone number input with icon and validator, Input field URL with icon and validator",
     "link": "https://daisyui.com/components/input/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Textarea, Textarea with border, Textarea Ghost (no background), Textarea With form control and labels, Textarea Primary color, Textarea Secondary color, Textarea Accent color, Textarea Info color, Textarea Success color, Textarea Warning color, Textarea Error color, Textarea Sizes, Textarea Disabled",
+    "name": "Textarea, Textarea Ghost (no background), Textarea With form control and labels, Textarea colors, Textarea Sizes, Textarea Disabled",
     "link": "https://daisyui.com/components/textarea/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Toggle, Toggle Sizes, Toggle Disabled, Toggle Disabled and checked, Toggle Indeterminate, Toggle with custom color",
+    "name": "Toggle, Toggle With fieldset and label, Toggle Sizes, Toggle Colors, Toggle Disabled, Toggle Indeterminate, Toggle with icons inside, Toggle with custom colors",
     "link": "https://daisyui.com/components/toggle/",
     "category": "Switch",
     "parent": null
@@ -8700,7 +8700,7 @@
     "parent": null
   },
   {
-    "name": "StartupBusinessEnterpriseRadio Group",
+    "name": "Radio Group",
     "link": "https://headlessui.com/react/radio-group",
     "category": "Form",
     "parent": null
@@ -10656,7 +10656,7 @@
     "parent": "Form"
   },
   {
-    "name": "CTA #Newsletter sign up form with centered content and form",
+    "name": "CTA #Newsletter sign up form with centered content and form, CTA #Newsletter sign up form with centered content and form (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/ctas",
     "category": "Register",
     "parent": "Form"
@@ -10818,7 +10818,7 @@
     "parent": "Form"
   },
   {
-    "name": "Getting Started, Marketing UI, Application UI, Primary FAQs, FAQs with titles, FAQs with divided rows, Dark FAQs with divided rows, FAQs with shadow, Secondary FAQs",
+    "name": "Getting Started, Marketing UI, Application UI",
     "link": "https://floatui.com/components/faqs",
     "category": "Other",
     "parent": null
@@ -11172,7 +11172,7 @@
     "parent": null
   },
   {
-    "name": "Footer, Footer with a logo section, Footer with a form, Footer with logo and social icons, Footer with copyright text, Footer with copyright text and social icons, Footer with links and social icons, Footer with 2 rows, Footer Centered footer with logo and social icons, Footer Centered footer with social icons, Footer Two footer",
+    "name": "Footer (vertical by default, horizontal for sm and up), Footer with a logo section, Footer with a form, Footer with logo and social icons, Footer with copyright text, Footer with copyright text and social icons, Footer with links and social icons, Footer with 2 rows, Footer Centered footer with logo and social icons, Footer Centered footer with social icons, Footer Two footer",
     "link": "https://daisyui.com/components/footer/",
     "category": "Footer",
     "parent": null
@@ -11958,7 +11958,7 @@
     "parent": null
   },
   {
-    "name": "Modal Dialog modal, Modal Dialog modal, closes when clicked outside, Modal Dialog modal with a close button at corner, Modal Dialog modal with custom width, Modal Responsive, Modal using label + hidden checkbox, Modal that closes when clicked outside, Modal using anchor link",
+    "name": "Modal Dialog modal, Modal Dialog modal, closes when clicked outside, Modal Dialog modal with a close button at corner, Modal Dialog modal with custom width, Modal Responsive, Modal using checkbox, Modal that closes when clicked outside, Modal using anchor link",
     "link": "https://daisyui.com/components/modal/",
     "category": "Modal",
     "parent": null
@@ -11970,7 +11970,7 @@
     "parent": null
   },
   {
-    "name": "Payment successfulWe’ve sent you an email with all of the details of your order.Got it, thanks!Dialog",
+    "name": "Dialog",
     "link": "https://headlessui.com/react/dialog",
     "category": "Other",
     "parent": null
@@ -14334,7 +14334,7 @@
     "parent": "Page"
   },
   {
-    "name": "Pricing Box [$]",
+    "name": "Pricing Box",
     "link": "https://halitguvenilir.gumroad.com/l/CDuaV",
     "category": "Pricing",
     "parent": "Page"
@@ -14694,7 +14694,7 @@
     "parent": null
   },
   {
-    "name": "Progress, Progress Primary color, Progress Secondary color, Progress Accent color, Progress Success color, Progress Info color, Progress Warning color, Progress Error color, Progress Indeterminate (without value)",
+    "name": "Progress, Progress Primary color, Progress Secondary color, Progress Accent color, Progress Neutral color, Progress Info color, Progress Success color, Progress Warning color, Progress Error color, Progress Indeterminate (without value)",
     "link": "https://daisyui.com/components/progress/",
     "category": "Progress Bar",
     "parent": null
@@ -14976,7 +14976,7 @@
     "parent": null
   },
   {
-    "name": "Drawer, Drawer Responsive, Drawer Navbar menu for desktop + sidebar drawer for mobile, Drawer that opens from right side of page",
+    "name": "Drawer, Drawer Navbar menu for desktop + sidebar drawer for mobile, Drawer Responsive, Drawer that opens from right side of page",
     "link": "https://daisyui.com/components/drawer/",
     "category": "Sidebar",
     "parent": null
@@ -14994,7 +14994,7 @@
     "parent": null
   },
   {
-    "name": "Layouts Two Columns Sidebar",
+    "name": "Layouts Two columns sidebar",
     "link": "https://kamona-wd.github.io/kwd-dashboard/layouts/two-columns-sidebar.html",
     "category": "Sidebar",
     "parent": null
@@ -15330,13 +15330,13 @@
     "parent": null
   },
   {
-    "name": "Range, Range Primary color, Range Secondary color, Range Accent color, Range Success color, Range Warning color, Range Info color, Range Error color, Range Sizes, Range with custom color",
+    "name": "Range, Range Neutral color, Range Primary color, Range Secondary color, Range Accent color, Range Success color, Range Warning color, Range Info color, Range Error color, Range Sizes, Range with custom color and no fill",
     "link": "https://daisyui.com/components/range/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Steps Horizontal, Steps Vertical, Steps responsive (vertical on small screen, horizontal on large screen), Steps With data-content, Steps Custom colors, Steps With scrollable wrapper",
+    "name": "Steps Horizontal, Steps Vertical, Steps responsive (vertical on small screen, horizontal on large screen), Steps With custom content in step-icon, Steps With data-content, Steps Custom colors, Steps With scrollable wrapper",
     "link": "https://daisyui.com/components/steps/",
     "category": "Step",
     "parent": null
@@ -15720,7 +15720,7 @@
     "parent": null
   },
   {
-    "name": "Tooltip, Tooltip Force open, Tooltip Top, Tooltip Bottom, Tooltip Left, Tooltip Right, Tooltip Primary color, Tooltip Secondary color, Tooltip Accent color, Tooltip Info color, Tooltip Success color, Tooltip Warning color, Tooltip Error color, Tooltip Responsive tooltip. only show for large screen",
+    "name": "Tooltip, Tooltip with tooltip-content, Tooltip Force open, Tooltip Top, Tooltip Bottom, Tooltip Left, Tooltip Right, Tooltip Neutral color, Tooltip Primary color, Tooltip Secondary color, Tooltip Accent color, Tooltip Info color, Tooltip Success color, Tooltip Warning color, Tooltip Error color, Tooltip Responsive tooltip. only show for large screen",
     "link": "https://daisyui.com/components/tooltip/",
     "category": "Tooltips",
     "parent": null
@@ -15846,7 +15846,7 @@
     "parent": null
   },
   {
-    "name": "Table, Table with an active row, Table with a row that highlights on hover, Table Zebra, Table with visual elements, Table xs, Table with pinned-rows, Table with pinned-rows and pinned-cols",
+    "name": "Table, Table with border and background, Table with an active row, Table with a row that highlights on hover, Table Zebra, Table with visual elements, Table xs, Table with pinned-rows, Table with pinned-rows and pinned-cols",
     "link": "https://daisyui.com/components/table/",
     "category": "Table",
     "parent": null
@@ -16146,7 +16146,7 @@
     "parent": null
   },
   {
-    "name": "Table Components [$]",
+    "name": "Table Components",
     "link": "https://gum.co/HJDDn",
     "category": "Table",
     "parent": null
@@ -16434,7 +16434,7 @@
     "parent": null
   },
   {
-    "name": "Tabs, Tab Bordered, Tab Lifted, Tab Boxed, Tab Sizes, Tabs with custom color",
+    "name": "Tab tabs, Tab tabs-border, Tab tabs-lift, Tab tabs-box, Tab Sizes, Tab tabs-box with a horizontal scroll when there's no space, Tabs with custom color",
     "link": "https://daisyui.com/components/tab/",
     "category": "Tab",
     "parent": null
@@ -16470,7 +16470,7 @@
     "parent": null
   },
   {
-    "name": "RecentPopularTrendingTabs",
+    "name": "Tabs",
     "link": "https://headlessui.com/react/tabs",
     "category": "Tab",
     "parent": null
@@ -16944,7 +16944,7 @@
     "parent": null
   },
   {
-    "name": "Rating, Rating mask-star-2 with warning color, Rating mask-heart with multiple colors, Rating mask-star-2 with green-500 color, Rating Sizes, Rating with `rating-hidden`, Rating half stars",
+    "name": "Rating, Rating Read-only Rating, Rating mask-star-2 with warning color, Rating mask-heart with multiple colors, Rating mask-star-2 with green-500 color, Rating Sizes, Rating with, Rating half stars",
     "link": "https://daisyui.com/components/rating/",
     "category": "Other",
     "parent": null
@@ -16962,7 +16962,7 @@
     "parent": null
   },
   {
-    "name": "Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2, Mask Decagon, Mask Pentagon, Mask Diamond, Mask Square, Mask Circle, Mask Parallelogram, Mask Parallelogram-2, Mask Parallelogram-3, Mask Parallelogram-4, Mask Star, Mask Star-2, Mask Triangle, Mask Triangle-2, Mask Triangle-3, Mask Triangle-4",
+    "name": "Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2 (horizontal hexagon), Mask Decagon, Mask Pentagon, Mask Diamond, Mask Square, Mask Circle, Mask Star, Mask Star-2 (bold star), Mask Triangle (pointing top), Mask Triangle-2 (pointing down), Mask Triangle-3 (pointing left), Mask Triangle-4 (pointing right)",
     "link": "https://daisyui.com/components/mask/",
     "category": "Other",
     "parent": null
@@ -16980,7 +16980,7 @@
     "parent": null
   },
   {
-    "name": "Phone iPhone mockup, Phone With color",
+    "name": "Phone iPhone mockup, Phone With color and wallpaper",
     "link": "https://daisyui.com/components/mockup-phone/",
     "category": "Other",
     "parent": null
@@ -17448,13 +17448,13 @@
     "parent": null
   },
   {
-    "name": "JoJocelynJonathanJoshCombobox",
+    "name": "Combobox",
     "link": "https://headlessui.com/react/combobox",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "What is your refund policy?If you're unhappy with your purchase, we'll refund you in full.Do you offer technical supportDisclosure",
+    "name": "Disclosure",
     "link": "https://headlessui.com/react/disclosure",
     "category": "Other",
     "parent": null
@@ -17472,13 +17472,13 @@
     "parent": null
   },
   {
-    "name": "Banner #Base with center aligned title, text and call to actions, Banner #Base with center aligned title, text and call to actions, dark background and gradient title, Banner #Overlay with left aligned title, text and call to actions, light overlay, Banner #Overlay with left aligned title, text and call to actions, dark overlay",
+    "name": "Banner #Center, Banner #Center (Dark), Banner #Left, Banner #Left (Dark), Banner #Left with image, Banner #Left with image (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/banners",
-    "category": "Call to Action",
+    "category": "Other",
     "parent": null
   },
   {
-    "name": "FAQ #Base with chevrons icons, FAQ #Base with plus/minus icons and contained content, FAQ #Highlighted border with rotating icon and contained content, FAQ #Base with plus/minus icons and dividers, FAQ #Base with plus/minus icons and bordered with dividers",
+    "name": "FAQ #Base with chevrons, FAQ #Base with chevrons (Dark), FAQ #Base with plus/minus, FAQ #Base with plus/minus (Dark), FAQ #Divided with chevrons, FAQ #Divided with chevrons (Dark), FAQ #Divided with plus/minus, FAQ #Divided with plus/minus (Dark), FAQ #Background, FAQ #Background (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/faqs",
     "category": "FAQ",
     "parent": "Page"
@@ -17502,13 +17502,13 @@
     "parent": null
   },
   {
-    "name": "Authentication Forgot Password",
+    "name": "Authentication Forgot password",
     "link": "https://kamona-wd.github.io/kwd-dashboard/auth/forgot-password.html",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Authentication Reset Password",
+    "name": "Authentication Reset password",
     "link": "https://kamona-wd.github.io/kwd-dashboard/auth/reset-password.html",
     "category": "Other",
     "parent": null
@@ -18048,7 +18048,7 @@
     "parent": null
   },
   {
-    "name": "Mega Menu Basic usage, Mega Menu Example, Mega Menu Hover event, Mega Menu Animations, Mega Menu Slide up animation, Mega Menu Options, Mega Menu Auto close behavior, Mega Menu Columns",
+    "name": "Mega Menu Basic usage, Mega Menu Example, Mega Menu Hover event, Mega Menu Animations, Mega Menu Slide up animation, Mega Menu Options, Mega Menu Auto close behavior, Mega Menu Mega Menu to Overlay on Mobile Resoultion New, Mega Menu Columns",
     "link": "https://preline.co/docs/mega-menu.html",
     "category": "Other",
     "parent": null
@@ -22662,7 +22662,7 @@
     "parent": null
   },
   {
-    "name": "Windster, Landwind",
+    "name": "Landwind, Windster",
     "link": "https://github.com/themesberg/windster-tailwind-css-dashboard",
     "category": "Other",
     "parent": null
@@ -25806,7 +25806,7 @@
     "parent": null
   },
   {
-    "name": "Header #Icon on the left, links and user dropdown on the right",
+    "name": "Header #Icon on the left, links and user dropdown on the right, Header #Icon on the left, links and user dropdown on the right (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/headers",
     "category": "Dropdown",
     "parent": null
@@ -26400,7 +26400,7 @@
     "parent": null
   },
   {
-    "name": "Timeline with text on both sides and icon, Timeline with bottom side only, Timeline with top side only, Timeline with different sides, Timeline with colorful lines, Timeline without icons, Timeline Vertical timeline with text on both sides and icon, Timeline Vertical timeline with bottom side only, Timeline Vertical timeline with top side only, Timeline Vertical timeline with different sides, Timeline Vertical timeline with colorful lines, Timeline Vertical timeline without icons, Timeline Responsive: vertical by default, horizontal on large screen, Timeline with icon snapped to the start",
+    "name": "Timeline with text on both sides and icon, Timeline with bottom side only, Timeline with top side only, Timeline with different sides, Timeline with colorful lines, Timeline without icons, Timeline Vertical timeline with text on both sides and icon, Timeline Vertical timeline with right side only, Timeline Vertical timeline with left side only, Timeline Vertical timeline with different sides, Timeline Vertical timeline with colorful lines, Timeline Vertical timeline without icons, Timeline Responsive: vertical by default, horizontal on large screen, Timeline with icon snapped to the start",
     "link": "https://daisyui.com/components/timeline/",
     "category": "Timeline",
     "parent": null
@@ -28050,9 +28050,9 @@
     "parent": "Form"
   },
   {
-    "name": "Cart #Popup with dismiss, items and call to actions, Cart #Popup with dismiss, items and call to actions, change quantity and remove items, Cart #Page with title, items, summary, discounts and call to action, change quantity and remove items",
+    "name": "Cart #Page",
     "link": "https://www.hyperui.dev/components/marketing/carts",
-    "category": "Call to Action",
+    "category": "Page",
     "parent": null
   },
   {
@@ -28242,13 +28242,13 @@
     "parent": null
   },
   {
-    "name": "ButtonButton",
+    "name": "Button",
     "link": "https://headlessui.com/react/button",
     "category": "Button",
     "parent": null
   },
   {
-    "name": "PausedActivePausedDelayedCancelledSelect",
+    "name": "Select",
     "link": "https://headlessui.com/react/select",
     "category": "Dropdown",
     "parent": null
@@ -28260,19 +28260,19 @@
     "parent": null
   },
   {
-    "name": "UsernameInput",
+    "name": "Input",
     "link": "https://headlessui.com/react/input",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "DescriptionTextarea",
+    "name": "Textarea",
     "link": "https://headlessui.com/react/textarea",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Shipping detailsStreet addressCountryCanadaFieldset",
+    "name": "Fieldset",
     "link": "https://headlessui.com/react/fieldset",
     "category": "Other",
     "parent": null
@@ -28302,7 +28302,7 @@
     "parent": null
   },
   {
-    "name": "Astroship [$]",
+    "name": "Astroship",
     "link": "https://web3templates.com/templates/astroship-pro-astro-saas-website-template?aff=3KMAV",
     "category": "Other",
     "parent": null
@@ -28526,6 +28526,1008 @@
   {
     "name": "Context Menu New Basic usage, Context Menu New Default",
     "link": "https://preline.co/docs/context-menu.html",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Filter #Dropdown, Filter #Dropdown (Dark)",
+    "link": "https://www.hyperui.dev/components/application/filters",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Side Menu #Icon, links with tooltips and logout action",
+    "link": "https://www.hyperui.dev/components/application/side-menu",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Vertical Menu #Base with highlighted active link, Vertical Menu #Base with highlighted active link (Dark), Vertical Menu #Base with icon and highlighted active link, Vertical Menu #Base with icon and highlighted active link (Dark), Vertical Menu #Base with icon and highlighted active link, color with left border, Vertical Menu #Base with icon and highlighted active link, color with left border (Dark), Vertical Menu #Base with divided sections and highlighted active link, Vertical Menu #Base with divided sections and highlighted active link (Dark), Vertical Menu #Base with grouped sections with title and highlighted active link, Vertical Menu #Base with grouped sections with title and highlighted active link (Dark)",
+    "link": "https://www.hyperui.dev/components/application/vertical-menu",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Alert Solid color alerts Soft color alerts Round Border Alerts Round Border with Icons Alerts",
+    "link": "https://dripui.vercel.app/docs/alerts",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Alert #Base, Alert #Base (Dark), Alert #Base with actions, Alert #Base with actions (Dark), Alert #Standout",
+    "link": "https://www.hyperui.dev/components/application/alerts",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": " Custom with avatar",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-71d9116be789a254c260369f03472985",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": " Avatar group stacked bottom to top",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-e4a92edf4f12acee331db4190019b4ef",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": "Badge #Base, Badge #Base (Dark), Badge #Base with icon, Badge #Base with icon (Dark), Badge #Base with dismiss, Badge #Base with dismiss (Dark), Badge #Icon, Badge #Icon (Dark), Badge #Themed with icon, Badge #Themed with icon (Dark)",
+    "link": "https://www.hyperui.dev/components/application/badges",
+    "category": "Badge",
+    "parent": null
+  },
+  {
+    "name": "Breadcrumb #Base, Breadcrumb #Base (Dark), Breadcrumb #Base with home icon, Breadcrumb #Base with home icon (Dark), Breadcrumb #Slash divider, Breadcrumb #Slash divider (Dark), Breadcrumb #Slash divider with home icon, Breadcrumb #Slash divider with home icon (Dark), Breadcrumb #Grouped with chevron divider, Breadcrumb #Grouped with chevron divider (Dark)",
+    "link": "https://www.hyperui.dev/components/application/breadcrumbs",
+    "category": "Breadcrumb",
+    "parent": null
+  },
+  {
+    "name": "Button Basic Btns (default) Basic Btns (default) Icons Colored Shadow Btns",
+    "link": "https://dripui.vercel.app/docs/buttons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Button Group #Base, Button Group #Base (Dark), Button Group #Icons, Button Group #Icons (Dark), Button Group #Main and secondary, Button Group #Main and secondary (Dark)",
+    "link": "https://www.hyperui.dev/components/application/button-groups",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Input #Base, Input #Base (Dark), Input #Base with icon, Input #Base with icon (Dark), Input #Floating label, Input #Floating label (Dark)",
+    "link": "https://www.hyperui.dev/components/application/inputs",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Quantity Input #Base with plus and minus buttons, Quantity Input #Base with plus and minus buttons (Dark), Quantity Input #Base with plus and minus buttons, no spinners in the input, Quantity Input #Base with plus and minus buttons, no spinners in the input (Dark), Quantity Input #Base with plus and minus buttons, no spinners in the input and text centered, Quantity Input #Base with plus and minus buttons, no spinners in the input and text centered (Dark), Quantity Input #Bordered with plus and minus buttons, Quantity Input #Bordered with plus and minus buttons (Dark)",
+    "link": "https://www.hyperui.dev/components/application/quantity-inputs",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": " With button",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-8904b9d9a9fbb9a2313df3975112f9d7",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": " Simple dark with menu button on left",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": " With close button on outside",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-0f117af9905c6bf010968e396f2c7583",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Pricing #Options with tier, price, features and call to action with highlighted option, Pricing #Options with tier, description, price, call to action and features",
+    "link": "https://www.hyperui.dev/components/marketing/pricing",
+    "category": "Call to Action",
+    "parent": null
+  },
+  {
+    "name": "Card Centering a div made easy with Tailwind CSS",
+    "link": "https://dripui.vercel.app/docs/cards",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "card9",
+    "link": "https://www.wickedblocks.dev/original/block/card9/",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "card7",
+    "link": "https://www.wickedblocks.dev/original/block/card7/",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "card8",
+    "link": "https://www.wickedblocks.dev/original/block/card8/",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "card6",
+    "link": "https://www.wickedblocks.dev/original/block/card6/",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "card4",
+    "link": "https://www.wickedblocks.dev/original/block/card4/",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "card5",
+    "link": "https://www.wickedblocks.dev/original/block/card5/",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "card3",
+    "link": "https://www.wickedblocks.dev/original/block/card3/",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "card2",
+    "link": "https://www.wickedblocks.dev/original/block/card2/",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "card1",
+    "link": "https://www.wickedblocks.dev/original/block/card1/",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Status new Status, Status new Status sizes, Status new Status with colors, Status new Status with ping animation, Status new Status with bounce animation",
+    "link": "https://daisyui.com/components/status/",
+    "category": "Dashboard Widgets",
+    "parent": null
+  },
+  {
+    "name": "Stat #Title, value, from value and themed growth stat, Stat #Title, value, from value and themed growth stat (Dark), Stat #Title, value, icon and themed growth stat, Stat #Title, value, icon and themed growth stat (Dark), Stat #Title, value and themed growth stat, Stat #Title, value and themed growth stat (Dark), Stat #Title, value and icon, Stat #Title, value and icon (Dark), Stat #Title, value and themed growth stat, stacked style, Stat #Title, value and themed growth stat, stacked style (Dark), Stat #Title, value, icon and themed growth stat, stacked style, Stat #Title, value, icon and themed growth stat, stacked style (Dark)",
+    "link": "https://www.hyperui.dev/components/application/stats",
+    "category": "Dashboard Widgets",
+    "parent": null
+  },
+  {
+    "name": " With stats",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-813ce86310c2c337070a66a152012665",
+    "category": "Dashboard Widgets",
+    "parent": null
+  },
+  {
+    "name": "Calendar new Cally calendar example, Calendar new Cally date picker example",
+    "link": "https://daisyui.com/components/calendar/",
+    "category": "Date/Time",
+    "parent": null
+  },
+  {
+    "name": "TimePicker New Browser default, TimePicker New Custom style",
+    "link": "https://preline.co/docs/time-picker.html",
+    "category": "Date/Time",
+    "parent": null
+  },
+  {
+    "name": "Label new Floating Label, Label new Floating Label with Different Sizes",
+    "link": "https://daisyui.com/components/label/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Validator new Validator, Validator new Validator and validator-hint, Validator new Password requirement validator, Validator new Username requirement validator, Validator new Phone Number requirement validator",
+    "link": "https://daisyui.com/components/validator/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Dropdown #Base, Dropdown #Base (Dark), Dropdown #Divided, Dropdown #Divided (Dark), Dropdown #Grouped, Dropdown #Grouped (Dark)",
+    "link": "https://www.hyperui.dev/components/application/dropdown",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Select #Base, Select #Base (Dark), Select #Option groups, Select #Option groups (Dark), Select #Datalist, Select #Datalist (Dark)",
+    "link": "https://www.hyperui.dev/components/application/selects",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": " With stacked flyout menu",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-27e5f71ced91b88e3f6b59ca69033a83",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": " Input with inline leading add-on and trailing dropdown",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-2607d970262ada86428f063c72b1e7bd",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": " With color and size selector",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-8f33b33d19bbb2608bb5ae6488344e88",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Fieldset new Fieldset fieldset-legend and label, Fieldset new Fieldset with background and border, Fieldset new Fieldset with multiple join items",
+    "link": "https://daisyui.com/components/fieldset/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Filter new Filter using HTML form, radio buttons and reset button, Filter new Filter without HTML form",
+    "link": "https://daisyui.com/components/filter/",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Checkbox #Base, Checkbox #Base (Dark), Checkbox #Described, Checkbox #Described (Dark), Checkbox #Described with divide, Checkbox #Described with divide (Dark)",
+    "link": "https://www.hyperui.dev/components/application/checkboxes",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Radio Group #Base, Radio Group #Base (Dark), Radio Group #Base with input, Radio Group #Base with input (Dark), Radio Group #Color variant",
+    "link": "https://www.hyperui.dev/components/application/radio-groups",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Textarea #Base, Textarea #Base (Dark), Textarea #Actions inside, Textarea #Actions inside (Dark), Textarea #Actions outside, Textarea #Actions outside (Dark)",
+    "link": "https://www.hyperui.dev/components/application/textareas",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "login6",
+    "link": "https://www.wickedblocks.dev/original/block/login6/",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "login7",
+    "link": "https://www.wickedblocks.dev/original/block/login7/",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "login4",
+    "link": "https://www.wickedblocks.dev/original/block/login4/",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "login5",
+    "link": "https://www.wickedblocks.dev/original/block/login5/",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "login3",
+    "link": "https://www.wickedblocks.dev/original/block/login3/",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "login1",
+    "link": "https://www.wickedblocks.dev/original/block/login1/",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "login2",
+    "link": "https://www.wickedblocks.dev/original/block/login2/",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "File Uploader #Base, File Uploader #Base (Dark), File Uploader #Base with button, File Uploader #Base with button (Dark)",
+    "link": "https://www.hyperui.dev/components/application/file-uploaders",
+    "category": "Upload",
+    "parent": "Form"
+  },
+  {
+    "name": "Footer Basic Footers Basic strip footer with links and Copyright Footer with a logo section and important links DripUI - Tailwind css components",
+    "link": "https://dripui.vercel.app/docs/footers",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": " Stacked with footer actions",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-911576fb54922e5199a9434ca8a273fd",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": " Card footer with page buttons",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-69eb9381f977800aa890ce8f7d9e2d20",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": " Simple with gray footer",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-b6812b6c13fff16861f2645c4100ae5b",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": "footer3",
+    "link": "https://www.wickedblocks.dev/original/block/footer3/",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": "footer2",
+    "link": "https://www.wickedblocks.dev/original/block/footer2/",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": "footer1",
+    "link": "https://www.wickedblocks.dev/original/block/footer1/",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": "hero9",
+    "link": "https://www.wickedblocks.dev/original/block/hero9/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero8",
+    "link": "https://www.wickedblocks.dev/original/block/hero8/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero6",
+    "link": "https://www.wickedblocks.dev/original/block/hero6/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero7",
+    "link": "https://www.wickedblocks.dev/original/block/hero7/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero5",
+    "link": "https://www.wickedblocks.dev/original/block/hero5/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero4",
+    "link": "https://www.wickedblocks.dev/original/block/hero4/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero3",
+    "link": "https://www.wickedblocks.dev/original/block/hero3/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero20",
+    "link": "https://www.wickedblocks.dev/original/block/hero20/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero19",
+    "link": "https://www.wickedblocks.dev/original/block/hero19/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero2",
+    "link": "https://www.wickedblocks.dev/original/block/hero2/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero17",
+    "link": "https://www.wickedblocks.dev/original/block/hero17/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero18",
+    "link": "https://www.wickedblocks.dev/original/block/hero18/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero16",
+    "link": "https://www.wickedblocks.dev/original/block/hero16/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero15",
+    "link": "https://www.wickedblocks.dev/original/block/hero15/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero13",
+    "link": "https://www.wickedblocks.dev/original/block/hero13/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero14",
+    "link": "https://www.wickedblocks.dev/original/block/hero14/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero12",
+    "link": "https://www.wickedblocks.dev/original/block/hero12/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero11",
+    "link": "https://www.wickedblocks.dev/original/block/hero11/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero10",
+    "link": "https://www.wickedblocks.dev/original/block/hero10/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "hero1",
+    "link": "https://www.wickedblocks.dev/original/block/hero1/",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "Modal #Base, Modal #Base (Dark), Modal #Base with close, Modal #Base with close (Dark), Modal #Actions, Modal #Actions (Dark), Modal #Actions with close, Modal #Actions with close (Dark), Modal #Input, Modal #Input (Dark), Modal #Input with close, Modal #Input with close (Dark)",
+    "link": "https://www.hyperui.dev/components/application/modals",
+    "category": "Modal",
+    "parent": null
+  },
+  {
+    "name": "Header Basic Navbar's",
+    "link": "https://dripui.vercel.app/docs/headers",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": " Dark nav with white page header",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-10058606cac5398d7fa2c73b64089874",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "header5",
+    "link": "https://www.wickedblocks.dev/original/block/header5/",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "header3",
+    "link": "https://www.wickedblocks.dev/original/block/header3/",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "header4",
+    "link": "https://www.wickedblocks.dev/original/block/header4/",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "header1",
+    "link": "https://www.wickedblocks.dev/original/block/header1/",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "header2",
+    "link": "https://www.wickedblocks.dev/original/block/header2/",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "pricing8",
+    "link": "https://www.wickedblocks.dev/original/block/pricing8/",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "pricing9",
+    "link": "https://www.wickedblocks.dev/original/block/pricing9/",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "pricing6",
+    "link": "https://www.wickedblocks.dev/original/block/pricing6/",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "pricing7",
+    "link": "https://www.wickedblocks.dev/original/block/pricing7/",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "pricing5",
+    "link": "https://www.wickedblocks.dev/original/block/pricing5/",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "pricing3",
+    "link": "https://www.wickedblocks.dev/original/block/pricing3/",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "pricing4",
+    "link": "https://www.wickedblocks.dev/original/block/pricing4/",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "pricing2",
+    "link": "https://www.wickedblocks.dev/original/block/pricing2/",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "pricing1",
+    "link": "https://www.wickedblocks.dev/original/block/pricing1/",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "testimonial9",
+    "link": "https://www.wickedblocks.dev/original/block/testimonial9/",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "testimonial7",
+    "link": "https://www.wickedblocks.dev/original/block/testimonial7/",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "testimonial8",
+    "link": "https://www.wickedblocks.dev/original/block/testimonial8/",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "testimonial5",
+    "link": "https://www.wickedblocks.dev/original/block/testimonial5/",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "testimonial6",
+    "link": "https://www.wickedblocks.dev/original/block/testimonial6/",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "testimonial3",
+    "link": "https://www.wickedblocks.dev/original/block/testimonial3/",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "testimonial4",
+    "link": "https://www.wickedblocks.dev/original/block/testimonial4/",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "testimonial1",
+    "link": "https://www.wickedblocks.dev/original/block/testimonial1/",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "testimonial10",
+    "link": "https://www.wickedblocks.dev/original/block/testimonial10/",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Pagination #Navigation, Pagination #Navigation (Dark), Pagination #Input, Pagination #Input (Dark), Pagination #X/Y, Pagination #X/Y (Dark)",
+    "link": "https://www.hyperui.dev/components/application/pagination",
+    "category": "Pagination",
+    "parent": null
+  },
+  {
+    "name": "Step #Title, step and closed completed steps, with highlighted current step, Step #Grouped with title and description, with highlighted current step, Step #Timeline with title, with highlighted current step",
+    "link": "https://www.hyperui.dev/components/application/steps",
+    "category": "Step",
+    "parent": null
+  },
+  {
+    "name": "Grid #1x1, Grid #1x2, Grid #2x1, Grid #1x1x1, Grid #1x1x1x1, Grid #1x1x2, Grid #2x1x1, Grid #1x2x1",
+    "link": "https://www.hyperui.dev/components/application/grids",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Layouts Mini & Column sidebar",
+    "link": "https://kamona-wd.github.io/kwd-dashboard/layouts/mini-plus-one-column-sidebar.html",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Layouts Mini sidebar",
+    "link": "https://kamona-wd.github.io/kwd-dashboard/layouts/mini-sidebar.html",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": " Drawer",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-49ea2974de976a1db7cc7411a85bb2b1",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": " With inline actions and expandable sidebar filters",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-e799517f86cc2fc79bf0eebb45c16eea",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "sidebar3",
+    "link": "https://www.wickedblocks.dev/original/block/sidebar3/",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "sidebar1",
+    "link": "https://www.wickedblocks.dev/original/block/sidebar1/",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "sidebar2",
+    "link": "https://www.wickedblocks.dev/original/block/sidebar2/",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Toggle #Base, Toggle #Base (Dark), Toggle #Base with icon, Toggle #Base with icon (Dark), Toggle #Material, Toggle #Material (Dark), Toggle #Apple, Toggle #Apple (Dark)",
+    "link": "https://www.hyperui.dev/components/application/toggles",
+    "category": "Switch",
+    "parent": null
+  },
+  {
+    "name": "Table #Base, Table #Base (Dark), Table #Bordered, Table #Bordered (Dark), Table #Striped, Table #Striped (Dark), Table #Sticky headings, Table #Sticky headings (Dark), Table #Sticky first column, Table #Sticky first column (Dark)",
+    "link": "https://www.hyperui.dev/components/application/tables",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "List new List (second column grows - default), List new List (third column grows), List new List (third column wraps to next row)",
+    "link": "https://daisyui.com/components/list/",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Details List #Base, Details List #Base (Dark), Details List #Striped, Details List #Striped (Dark), Details List #Bordered, Details List #Bordered (Dark), Details List #Striped and bordered, Details List #Striped and bordered (Dark)",
+    "link": "https://www.hyperui.dev/components/application/details-list",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Timeline #Vertical, Timeline #Vertical (Dark), Timeline #Vertical with middle line, Timeline #Vertical with middle line (Dark), Timeline #Horizontal, Timeline #Horizontal (Dark)",
+    "link": "https://www.hyperui.dev/components/application/timelines",
+    "category": "Timeline",
+    "parent": null
+  },
+  {
+    "name": "Dock, Dock Extra Small size, Dock Small size, Dock Medium size, Dock Large size, Dock Extra Large size, Dock with custom colors",
+    "link": "https://daisyui.com/components/dock/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Signin Welcome back",
+    "link": "https://dripui.vercel.app/docs/signin",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Grid Animated Grid A dynamic and visually engaging way to highlight key features or services on your website",
+    "link": "https://dripui.vercel.app/docs/grids",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Free Tailwind CSS Application Application",
+    "link": "https://www.hyperui.dev/components/application",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Divider #Base, Divider #Base (Dark), Divider #Gradient, Divider #Gradient (Dark), Divider #Left align, Divider #Left align (Dark), Divider #Left align gradient, Divider #Left align gradient (Dark), Divider #Right align, Divider #Right align (Dark), Divider #Right align gradient, Divider #Right align gradient (Dark)",
+    "link": "https://www.hyperui.dev/components/application/dividers",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Media #Left align top, Media #Left align center, Media #Left align bottom, Media #Left align stretch, Media #Right align top, Media #Right align center, Media #Right align bottom, Media #Right align stretch",
+    "link": "https://www.hyperui.dev/components/application/media",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Datta Able (Free)",
+    "link": "https://codedthemes.com/item/datta-able-free-tailwind-admin-template/?ref=amritnagi",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Horizon (Astro)",
+    "link": "https://cosmicthemes.com/themes/horizon/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Landing Pad (Astro)",
+    "link": "https://cosmicthemes.com/themes/landing-pad/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Pinwheel",
+    "link": "https://themefisher.com/products/pinwheel-tailwind?aff=33nW59sH5yt6",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple centered",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-b9bcab4538776a17fff93d18f82a8272",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With product screenshot",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-11e5dbce11b8c462441792503ea864fc",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Centered 2x2 grid",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-64ac58e032276db96bf343a8d4f332a8",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Dark panel with app screenshot",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-0763876148e2fa400b4f1cf13cdf0093",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Three column bento grid",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-dc65cfa183921e10d45c401610332cca",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Two tiers with emphasized tier",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-737ec71198c66a474f144c262597626d",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Side-by-side with details",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-82fc139db99143307df48bb9fe6152c5",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-b5eb58f5c8fd565cc54bf488d647f02b",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple centered",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-fd7b8bd425f42f6504b22e1ecc6b43c9",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Three-column",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-b8172652fa29dc3eac306c2a8a922323",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Centered",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-986addbc8678313fba5b0dd59c778e9b",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With small images",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-1ea7e52a3e89a3cf7b4a0a4fd2dcdf84",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With sticky product screenshot",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-218027743700ff38c54be7e9c1ce3bf8",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple with heading",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-6b864c393af88d7b8a2ac53eaebf6403",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-ebef3404d06e7b5f42e85b7b2ca4a2a5",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With meta and actions",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-7654075f650c9f1044bfcf1b1b6ffd77",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Left-aligned",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-d9372707af2e94e67936e94d7339cbb3",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-3c51b92eef57b177f3ea356305fdbe71",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Stacked",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-1c3f9860d66ce5cd9fb35ba7fde6721a",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-766a0bf1b8800d383b6c5b77ef9c626c",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With border",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-aca9a5b856afc07ad4ee04f5d1861256",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-f8a14da22f26a67757b19f2fe3ca00ed",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With dividers",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-1f10562f6266c9b3ef15ff792edd508e",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With image grid",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-2904df5d10ee9fc81ba07d1ad61a27ca",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With inline price",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-adec20dfa6eac091f5bee40e244c6823",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-230be426f17b26e949896d17c505e0d3",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Three-column",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-37995021e5cdf0c643346920ff40b13b",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With image grid",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-6bf262ecea63105e5f1fc57ec12057f9",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With featured categories",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-870de0c4ec620ad31bb8538a2886e3f0",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With image tiles",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-abf8794a557c496e493e847c71fc90c7",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "logos2",
+    "link": "https://www.wickedblocks.dev/original/block/logos2/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "logos1",
+    "link": "https://www.wickedblocks.dev/original/block/logos1/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "feature4",
+    "link": "https://www.wickedblocks.dev/original/block/feature4/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "feature5",
+    "link": "https://www.wickedblocks.dev/original/block/feature5/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "feature3",
+    "link": "https://www.wickedblocks.dev/original/block/feature3/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "feature2",
+    "link": "https://www.wickedblocks.dev/original/block/feature2/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "feature1",
+    "link": "https://www.wickedblocks.dev/original/block/feature1/",
     "category": "Other",
     "parent": null
   }
