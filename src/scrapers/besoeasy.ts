@@ -1,4 +1,3 @@
-import { trim } from 'lodash';
 import { CompomentLink, ScraperArgs } from '../types';
 
 export default async function besoeasy({
@@ -8,40 +7,43 @@ export default async function besoeasy({
   await page.goto('https://tailwind.besoeasy.com/', {
     waitUntil: 'networkidle0',
   });
-  const elements = await page.$$eval('.m-5 a[href]', elements => {
-    let categoryName: string | undefined;
+
+  const categories = await page.$$eval('a[href].folder', elements => {
     const result: { name: string; href: string; categoryName?: string }[] = [];
     for (const element of elements) {
-      // Find parent
-      for (
-        let e = element.parentElement as Element | null | undefined;
-        e;
-        e = e?.previousElementSibling
-      ) {
-        const foundParent = e.getAttribute('class')?.includes('text-4xl');
-        if (foundParent) {
-          categoryName = e.textContent!;
-          break;
-        }
-      }
-
       result.push({
         name: element.textContent!,
         href: (element as HTMLAnchorElement).href,
-        categoryName,
       });
     }
 
     return result;
   });
 
-  for (const element of elements) {
-    result.push({
-      name: trim(`${element.categoryName} ${element.name}`),
-      link: element.href,
-      category: element.categoryName,
+  for (const category of categories) {
+    await page.goto(category.href);
+    const elements = await page.$$eval('a[href].file', elements => {
+      return elements.map(a => ({
+        href: a.href,
+        name: a.getAttribute('href')!,
+      }));
     });
+
+    for (const { href, name: dirtyName } of elements) {
+      const name = decodeURIComponent(dirtyName.replaceAll('/', '')).replaceAll(
+        '.html',
+        '',
+      );
+
+      result.push({
+        category: category.name,
+        name,
+        link: href,
+      });
+    }
   }
+
+  console.log('result', result);
 
   return result;
 }
