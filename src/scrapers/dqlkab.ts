@@ -1,6 +1,4 @@
-import { trim } from 'lodash';
 import { CompomentLink, ScraperArgs } from '../types';
-import { setTimeout } from 'timers/promises';
 
 export default async function dqlkab({
   page,
