@@ -8148,13 +8148,13 @@
     "parent": null
   },
   {
-    "name": "Dropdown Basic usage, Dropdown Default, Dropdown Hover event, Dropdown Dividers, Dropdown Icons, Dropdown Title, Dropdown With header, Dropdown Custom trigger, Dropdown Custom icon trigger, Dropdown Animations, Dropdown Scale animation, Dropdown Slide up animation, Dropdown Transform style animation, Dropdown Options, Dropdown Auto close behavior, Dropdown Dropdown item checkbox, Dropdown Dropdown item radio, Dropdown Directions, Dropdown Dropdown, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Responsive alignment, Dropdown Destroy and Reinitialize New",
+    "name": "Dropdown Basic usage, Dropdown Default, Dropdown Hover event, Dropdown Dividers, Dropdown Icons, Dropdown Title, Dropdown With header, Dropdown Custom trigger, Dropdown Custom icon trigger, Dropdown Animations, Dropdown Scale animation, Dropdown Slide up animation, Dropdown Transform style animation, Dropdown Options, Dropdown Auto close behavior, Dropdown Scope Window New, Dropdown Dropdown item checkbox, Dropdown Dropdown item radio, Dropdown Directions, Dropdown Dropdown, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Responsive alignment, Dropdown Destroy and Reinitialize New",
     "link": "https://preline.co/docs/dropdown.html",
     "category": "Dropdown",
     "parent": null
   },
   {
-    "name": "Popover About, Popover When to use, Popover Conclusion, Popover Four directions, Popover Focus event, Popover Hover event, Popover With content, Popover Review popover example, Popover User popover example, Popover Destroy and Reinitialize New",
+    "name": "Popover About, Popover When to use, Popover Conclusion, Popover Four directions, Popover Auto positioning New, Popover Focus event, Popover Hover event, Popover With content, Popover Review popover example, Popover User popover example, Popover Destroy and Reinitialize New",
     "link": "https://preline.co/docs/popover.html",
     "category": "Dropdown",
     "parent": null
@@ -15048,7 +15048,7 @@
     "parent": null
   },
   {
-    "name": "Sidebar New Content examples, Sidebar New Empty content, Sidebar New Basic usage, Sidebar New Types, Sidebar New Offcanvas, Sidebar New Content push, Sidebar New Mini sidebar, Sidebar New Layout splitter New",
+    "name": "Sidebar New Content examples, Sidebar New Empty content, Sidebar New Basic usage, Sidebar New Types, Sidebar New Offcanvas, Sidebar New Content push, Sidebar New Content push to mini sidebar New, Sidebar New Mini sidebar, Sidebar New Layout splitter New",
     "link": "https://preline.co/docs/sidebar.html",
     "category": "Sidebar",
     "parent": null
@@ -15756,7 +15756,7 @@
     "parent": null
   },
   {
-    "name": "Tooltip About, Tooltip When to use, Tooltip Interactions, Tooltip Conclusion, Tooltip Basic usage, Tooltip Example, Tooltip Destroy and Reinitialize New",
+    "name": "Tooltip About, Tooltip When to use, Tooltip Interactions, Tooltip Conclusion, Tooltip Basic usage, Tooltip Example, Tooltip Auto positioning New, Tooltip Destroy and Reinitialize",
     "link": "https://preline.co/docs/tooltip.html",
     "category": "Tooltips",
     "parent": null
@@ -18054,9 +18054,9 @@
     "parent": null
   },
   {
-    "name": "Offcanvas Basic usage, Offcanvas Example, Offcanvas Placement, Offcanvas Scrolling, Offcanvas Custom backdrop color, Offcanvas Destroy and Reinitialize New",
+    "name": "Offcanvas (Drawer) Basic usage, Offcanvas (Drawer) Example, Offcanvas (Drawer) Placement, Offcanvas (Drawer) Scrolling, Offcanvas (Drawer) Custom backdrop color, Offcanvas (Drawer) Destroy and Reinitialize New",
     "link": "https://preline.co/docs/offcanvas.html",
-    "category": "Other",
+    "category": "Sidebar",
     "parent": null
   },
   {
@@ -40196,6 +40196,12 @@
   {
     "name": "utilutilsr7",
     "link": "https://tailwind.besoeasy.com/util/utilsr7.html",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Two tiers with emphasized right tier",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-4a9182e85945751476472f12356adb68",
     "category": "Other",
     "parent": null
   }
