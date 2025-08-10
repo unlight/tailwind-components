@@ -826,7 +826,7 @@
 * Tailwind CSS buttons: [tailwindcomponents.com/component/buttons-8](https://tailwindcomponents.com/component/buttons-8)
 * With close button on outside: [tailwindui.com/components/preview#component-0f117af9905c6bf010968e396f2c7583](https://tailwindui.com/components/preview#component-0f117af9905c6bf010968e396f2c7583)
 * Button Basic Btns (default) Basic Btns (default) Icons Colored Shadow Btns: [dripui.vercel.app/docs/buttons](https://dripui.vercel.app/docs/buttons)
-* Button Group #Base, Button Group #Base (Dark), Button Group #Icons, Button Group #Icons (Dark), Button Group #Main and secondary, Button Group #Main and secondary (Dark): [hyperui.dev/components/application/button-groups](https://www.hyperui.dev/components/application/button-groups)
+* Button Group #Base, Button Group #Base (Dark), Button Group #Icons, Button Group #Icons (Dark), Button Group #Main and secondary, Button Group #Main and secondary (Dark), Button Group #Layouts, Button Group #Layouts without space: [hyperui.dev/components/application/button-groups](https://www.hyperui.dev/components/application/button-groups)
 * Quantity Input #Base with plus and minus buttons, Quantity Input #Base with plus and minus buttons (Dark), Quantity Input #Base with plus and minus buttons, no spinners in the input, Quantity Input #Base with plus and minus buttons, no spinners in the input (Dark), Quantity Input #Base with plus and minus buttons, no spinners in the input and text centered, Quantity Input #Base with plus and minus buttons, no spinners in the input and text centered (Dark), Quantity Input #Bordered with plus and minus buttons, Quantity Input #Bordered with plus and minus buttons (Dark): [hyperui.dev/components/application/quantity-inputs](https://www.hyperui.dev/components/application/quantity-inputs)
 * With button: [tailwindcss.com/plus/ui-blocks/preview#component-8904b9d9a9fbb9a2313df3975112f9d7](https://tailwindcss.com/plus/ui-blocks/preview#component-8904b9d9a9fbb9a2313df3975112f9d7)
 * Simple dark with menu button on left: [tailwindcss.com/plus/ui-blocks/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331](https://tailwindcss.com/plus/ui-blocks/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331)
@@ -3024,6 +3024,7 @@
 * unsorteduinel-header-vKVwtFhR: [tailwind.besoeasy.com/unsorted/uinel-header-vKVwtFhR.html](https://tailwind.besoeasy.com/unsorted/uinel-header-vKVwtFhR.html)
 * unsorteduinel-header-yDcxqXUu: [tailwind.besoeasy.com/unsorted/uinel-header-yDcxqXUu.html](https://tailwind.besoeasy.com/unsorted/uinel-header-yDcxqXUu.html)
 * unsorteduinel-header-zXYcJNOC: [tailwind.besoeasy.com/unsorted/uinel-header-zXYcJNOC.html](https://tailwind.besoeasy.com/unsorted/uinel-header-zXYcJNOC.html)
+* With lighter page header: [tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09](https://tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09)
 
 ## Page
 
@@ -4103,7 +4104,7 @@
 * Dividers With heading: [tinywind.dev/components/dividers](https://tinywind.dev/components/dividers)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/section-headers](https://floatui.com/components/section-headers)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/buttons](https://floatui.com/components/buttons)
-* Free Tailwind CSS Marketing Marketing: [hyperui.dev/components/marketing](https://www.hyperui.dev/components/marketing)
+* Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections: [hyperui.dev/components/marketing](https://www.hyperui.dev/components/marketing)
 * Lexicon Text Area With message: [tailwindtemplates.io/templates?category=input](https://tailwindtemplates.io/templates?category=input)
 * Section #Content with image, 1/2 grid, Section #Content with image, 2/3 grid, Section #Content with image, 3/2 grid, Section #Content with image, vertical split: [hyperui.dev/components/marketing/sections](https://www.hyperui.dev/components/marketing/sections)
 * Stack 3 divs in a stack, Stack stacked images: [daisyui.com/components/stack/](https://daisyui.com/components/stack/)
@@ -5511,7 +5512,7 @@
 * Dock, Dock Extra Small size, Dock Small size, Dock Medium size, Dock Large size, Dock Extra Large size, Dock with custom colors: [daisyui.com/components/dock/](https://daisyui.com/components/dock/)
 * Signin Welcome back: [dripui.vercel.app/docs/signin](https://dripui.vercel.app/docs/signin)
 * Grid Animated Grid A dynamic and visually engaging way to highlight key features or services on your website: [dripui.vercel.app/docs/grids](https://dripui.vercel.app/docs/grids)
-* Free Tailwind CSS Application Application: [hyperui.dev/components/application](https://www.hyperui.dev/components/application)
+* Free Tailwind CSS Application Application, Free Tailwind CSS Application Dividers, Free Tailwind CSS Application Filters, Free Tailwind CSS Application Grids, Free Tailwind CSS Application Media, Free Tailwind CSS Application Vertical Menu: [hyperui.dev/components/application](https://www.hyperui.dev/components/application)
 * Divider #Base, Divider #Base (Dark), Divider #Gradient, Divider #Gradient (Dark), Divider #Left align, Divider #Left align (Dark), Divider #Left align gradient, Divider #Left align gradient (Dark), Divider #Right align, Divider #Right align (Dark), Divider #Right align gradient, Divider #Right align gradient (Dark): [hyperui.dev/components/application/dividers](https://www.hyperui.dev/components/application/dividers)
 * Media #Left align top, Media #Left align center, Media #Left align bottom, Media #Left align stretch, Media #Right align top, Media #Right align center, Media #Right align bottom, Media #Right align stretch: [hyperui.dev/components/application/media](https://www.hyperui.dev/components/application/media)
 * Datta Able (Free): [codedthemes.com/item/datta-able-free-tailwind-admin-template/?ref=amritnagi](https://codedthemes.com/item/datta-able-free-tailwind-admin-template/?ref=amritnagi)

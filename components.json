@@ -2802,7 +2802,7 @@
     "parent": "Page"
   },
   {
-    "name": "Free Tailwind CSS Marketing Marketing",
+    "name": "Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections",
     "link": "https://www.hyperui.dev/components/marketing",
     "category": "Other",
     "parent": null
@@ -28590,7 +28590,7 @@
     "parent": null
   },
   {
-    "name": "Button Group #Base, Button Group #Base (Dark), Button Group #Icons, Button Group #Icons (Dark), Button Group #Main and secondary, Button Group #Main and secondary (Dark)",
+    "name": "Button Group #Base, Button Group #Base (Dark), Button Group #Icons, Button Group #Icons (Dark), Button Group #Main and secondary, Button Group #Main and secondary (Dark), Button Group #Layouts, Button Group #Layouts without space",
     "link": "https://www.hyperui.dev/components/application/button-groups",
     "category": "Button",
     "parent": null
@@ -29268,7 +29268,7 @@
     "parent": null
   },
   {
-    "name": "Free Tailwind CSS Application Application",
+    "name": "Free Tailwind CSS Application Application, Free Tailwind CSS Application Dividers, Free Tailwind CSS Application Filters, Free Tailwind CSS Application Grids, Free Tailwind CSS Application Media, Free Tailwind CSS Application Vertical Menu",
     "link": "https://www.hyperui.dev/components/application",
     "category": "Other",
     "parent": null
@@ -40203,6 +40203,12 @@
     "name": " Two tiers with emphasized right tier",
     "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-4a9182e85945751476472f12356adb68",
     "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With lighter page header",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09",
+    "category": "Navigation/Header",
     "parent": null
   }
 ]
