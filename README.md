@@ -278,6 +278,8 @@
 * Avatar Basic examples, Avatar With shadow, Avatar Square, Avatar With content: [tw-elements.com/docs/standard/components/avatar/](https://tw-elements.com/docs/standard/components/avatar/)
 * Custom with avatar: [tailwindcss.com/plus/ui-blocks/preview#component-71d9116be789a254c260369f03472985](https://tailwindcss.com/plus/ui-blocks/preview#component-71d9116be789a254c260369f03472985)
 * Avatar group stacked bottom to top: [tailwindcss.com/plus/ui-blocks/preview#component-e4a92edf4f12acee331db4190019b4ef](https://tailwindcss.com/plus/ui-blocks/preview#component-e4a92edf4f12acee331db4190019b4ef)
+* Custom with avatar: [tailwindcss.com/plus/ui-blocks/preview#component-71d9116be789a254c260369f03472985-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-71d9116be789a254c260369f03472985-dark)
+* Avatar group stacked bottom to top: [tailwindcss.com/plus/ui-blocks/preview#component-e4a92edf4f12acee331db4190019b4ef-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-e4a92edf4f12acee331db4190019b4ef-dark)
 
 ## Badge
 
@@ -826,11 +828,14 @@
 * Tailwind CSS buttons: [tailwindcomponents.com/component/buttons-8](https://tailwindcomponents.com/component/buttons-8)
 * With close button on outside: [tailwindui.com/components/preview#component-0f117af9905c6bf010968e396f2c7583](https://tailwindui.com/components/preview#component-0f117af9905c6bf010968e396f2c7583)
 * Button Basic Btns (default) Basic Btns (default) Icons Colored Shadow Btns: [dripui.vercel.app/docs/buttons](https://dripui.vercel.app/docs/buttons)
-* Button Group #Base, Button Group #Base (Dark), Button Group #Icons, Button Group #Icons (Dark), Button Group #Main and secondary, Button Group #Main and secondary (Dark), Button Group #Layouts, Button Group #Layouts without space: [hyperui.dev/components/application/button-groups](https://www.hyperui.dev/components/application/button-groups)
+* Button Group #Base, Button Group #Base (Dark), Button Group #Icons, Button Group #Icons (Dark), Button Group #Main and secondary, Button Group #Main and secondary (Dark), Button Group #Layouts, Button Group #Layouts (Dark), Button Group #Layouts without space, Button Group #Layouts without space (Dark): [hyperui.dev/components/application/button-groups](https://www.hyperui.dev/components/application/button-groups)
 * Quantity Input #Base with plus and minus buttons, Quantity Input #Base with plus and minus buttons (Dark), Quantity Input #Base with plus and minus buttons, no spinners in the input, Quantity Input #Base with plus and minus buttons, no spinners in the input (Dark), Quantity Input #Base with plus and minus buttons, no spinners in the input and text centered, Quantity Input #Base with plus and minus buttons, no spinners in the input and text centered (Dark), Quantity Input #Bordered with plus and minus buttons, Quantity Input #Bordered with plus and minus buttons (Dark): [hyperui.dev/components/application/quantity-inputs](https://www.hyperui.dev/components/application/quantity-inputs)
 * With button: [tailwindcss.com/plus/ui-blocks/preview#component-8904b9d9a9fbb9a2313df3975112f9d7](https://tailwindcss.com/plus/ui-blocks/preview#component-8904b9d9a9fbb9a2313df3975112f9d7)
 * Simple dark with menu button on left: [tailwindcss.com/plus/ui-blocks/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331](https://tailwindcss.com/plus/ui-blocks/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331)
 * With close button on outside: [tailwindcss.com/plus/ui-blocks/preview#component-0f117af9905c6bf010968e396f2c7583](https://tailwindcss.com/plus/ui-blocks/preview#component-0f117af9905c6bf010968e396f2c7583)
+* With button: [tailwindcss.com/plus/ui-blocks/preview#component-8904b9d9a9fbb9a2313df3975112f9d7-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-8904b9d9a9fbb9a2313df3975112f9d7-dark)
+* Simple dark with menu button on left: [tailwindcss.com/plus/ui-blocks/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331-dark)
+* With close button on outside: [tailwindcss.com/plus/ui-blocks/preview#component-0f117af9905c6bf010968e396f2c7583-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-0f117af9905c6bf010968e396f2c7583-dark)
 
 ## Call to Action
 
@@ -1469,6 +1474,7 @@
 * unsorteduinel-stattiles-sDEMQxvY: [tailwind.besoeasy.com/unsorted/uinel-stattiles-sDEMQxvY.html](https://tailwind.besoeasy.com/unsorted/uinel-stattiles-sDEMQxvY.html)
 * unsorteduinel-stattiles-vCvrXphm: [tailwind.besoeasy.com/unsorted/uinel-stattiles-vCvrXphm.html](https://tailwind.besoeasy.com/unsorted/uinel-stattiles-vCvrXphm.html)
 * unsorteduinel-stattiles-vQmxyNdH: [tailwind.besoeasy.com/unsorted/uinel-stattiles-vQmxyNdH.html](https://tailwind.besoeasy.com/unsorted/uinel-stattiles-vQmxyNdH.html)
+* With stats: [tailwindcss.com/plus/ui-blocks/preview#component-813ce86310c2c337070a66a152012665-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-813ce86310c2c337070a66a152012665-dark)
 
 ## Slider/Carousel
 
@@ -1688,6 +1694,9 @@
 * Input with inline leading add-on and trailing dropdown: [tailwindcss.com/plus/ui-blocks/preview#component-2607d970262ada86428f063c72b1e7bd](https://tailwindcss.com/plus/ui-blocks/preview#component-2607d970262ada86428f063c72b1e7bd)
 * With color and size selector: [tailwindcss.com/plus/ui-blocks/preview#component-8f33b33d19bbb2608bb5ae6488344e88](https://tailwindcss.com/plus/ui-blocks/preview#component-8f33b33d19bbb2608bb5ae6488344e88)
 * extradropdown: [tailwind.besoeasy.com/extra/dropdown.html](https://tailwind.besoeasy.com/extra/dropdown.html)
+* With stacked flyout menu: [tailwindcss.com/plus/ui-blocks/preview#component-27e5f71ced91b88e3f6b59ca69033a83-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-27e5f71ced91b88e3f6b59ca69033a83-dark)
+* Input with inline leading add-on and trailing dropdown: [tailwindcss.com/plus/ui-blocks/preview#component-2607d970262ada86428f063c72b1e7bd-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-2607d970262ada86428f063c72b1e7bd-dark)
+* With color and size selector: [tailwindcss.com/plus/ui-blocks/preview#component-8f33b33d19bbb2608bb5ae6488344e88-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-8f33b33d19bbb2608bb5ae6488344e88-dark)
 
 ## Form
 
@@ -2491,6 +2500,9 @@
 * unsorteduinel-footer-bvbZeElW: [tailwind.besoeasy.com/unsorted/uinel-footer-bvbZeElW.html](https://tailwind.besoeasy.com/unsorted/uinel-footer-bvbZeElW.html)
 * unsorteduinel-footer-ghknQNUY: [tailwind.besoeasy.com/unsorted/uinel-footer-ghknQNUY.html](https://tailwind.besoeasy.com/unsorted/uinel-footer-ghknQNUY.html)
 * unsorteduinel-footer-sDqDaWph: [tailwind.besoeasy.com/unsorted/uinel-footer-sDqDaWph.html](https://tailwind.besoeasy.com/unsorted/uinel-footer-sDqDaWph.html)
+* Stacked with footer actions: [tailwindcss.com/plus/ui-blocks/preview#component-911576fb54922e5199a9434ca8a273fd-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-911576fb54922e5199a9434ca8a273fd-dark)
+* Card footer with page buttons: [tailwindcss.com/plus/ui-blocks/preview#component-69eb9381f977800aa890ce8f7d9e2d20-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-69eb9381f977800aa890ce8f7d9e2d20-dark)
+* Simple with gray footer: [tailwindcss.com/plus/ui-blocks/preview#component-b6812b6c13fff16861f2645c4100ae5b-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-b6812b6c13fff16861f2645c4100ae5b-dark)
 
 ## Hero
 
@@ -3025,6 +3037,7 @@
 * unsorteduinel-header-yDcxqXUu: [tailwind.besoeasy.com/unsorted/uinel-header-yDcxqXUu.html](https://tailwind.besoeasy.com/unsorted/uinel-header-yDcxqXUu.html)
 * unsorteduinel-header-zXYcJNOC: [tailwind.besoeasy.com/unsorted/uinel-header-zXYcJNOC.html](https://tailwind.besoeasy.com/unsorted/uinel-header-zXYcJNOC.html)
 * With lighter page header: [tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09](https://tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09)
+* With lighter page header: [tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09-dark)
 
 ## Page
 
@@ -3612,6 +3625,8 @@
 * sidebar3: [wickedblocks.dev/original/block/sidebar3/](https://www.wickedblocks.dev/original/block/sidebar3/)
 * sidebar1: [wickedblocks.dev/original/block/sidebar1/](https://www.wickedblocks.dev/original/block/sidebar1/)
 * sidebar2: [wickedblocks.dev/original/block/sidebar2/](https://www.wickedblocks.dev/original/block/sidebar2/)
+* Drawer: [tailwindcss.com/plus/ui-blocks/preview#component-49ea2974de976a1db7cc7411a85bb2b1-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-49ea2974de976a1db7cc7411a85bb2b1-dark)
+* With inline actions and expandable sidebar filters: [tailwindcss.com/plus/ui-blocks/preview#component-e799517f86cc2fc79bf0eebb45c16eea-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-e799517f86cc2fc79bf0eebb45c16eea-dark)
 
 ## Comment
 
@@ -4104,7 +4119,7 @@
 * Dividers With heading: [tinywind.dev/components/dividers](https://tinywind.dev/components/dividers)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/section-headers](https://floatui.com/components/section-headers)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/buttons](https://floatui.com/components/buttons)
-* Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections: [hyperui.dev/components/marketing](https://www.hyperui.dev/components/marketing)
+* Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections, Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections: [hyperui.dev/components/marketing](https://www.hyperui.dev/components/marketing)
 * Lexicon Text Area With message: [tailwindtemplates.io/templates?category=input](https://tailwindtemplates.io/templates?category=input)
 * Section #Content with image, 1/2 grid, Section #Content with image, 2/3 grid, Section #Content with image, 3/2 grid, Section #Content with image, vertical split: [hyperui.dev/components/marketing/sections](https://www.hyperui.dev/components/marketing/sections)
 * Stack 3 divs in a stack, Stack stacked images: [daisyui.com/components/stack/](https://daisyui.com/components/stack/)
@@ -4175,7 +4190,7 @@
 * Artboard size 1, Artboard size 2, Artboard size 3, Artboard size 4, Artboard size 5, Artboard size 6, Artboard horizontal size 1 (568×320), Artboard horizontal size 2 (667×375), Artboard horizontal size 3 (736×414), Artboard horizontal size 4 (812×375), Artboard horizontal size 5 (896×414), Artboard horizontal size 6 (1024×320): [daisyui.com/components/artboard/](https://daisyui.com/components/artboard/)
 * Divider, Divider horizontal, Divider with no text, Divider responsive (lg:divider-horizontal), Divider with colors, Divider in different positions, Divider in different positions (horizontal): [daisyui.com/components/divider/](https://daisyui.com/components/divider/)
 * Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2 (horizontal hexagon), Mask Decagon, Mask Pentagon, Mask Diamond, Mask Square, Mask Circle, Mask Star, Mask Star-2 (bold star), Mask Triangle (pointing top), Mask Triangle-2 (pointing down), Mask Triangle-3 (pointing left), Mask Triangle-4 (pointing right): [daisyui.com/components/mask/](https://daisyui.com/components/mask/)
-* Link, Link Primary color, Link Secondary color, Link Accent color, Link Neutral color, Link Success color, Link Info color, Link Warning color, Link Error color, Link Show underline only on hover: [daisyui.com/components/link/](https://daisyui.com/components/link/)
+* Link, Link Primary color, Link Secondary color, Link Accent color, Link Success color, Link Info color, Link Warning color, Link Error color, Link Show underline only on hover: [daisyui.com/components/link/](https://daisyui.com/components/link/)
 * Code mockup code with line prefix, Code Multi line, Code Highlighted line, Code Long line will scroll, Code Without prefix, Code With color: [daisyui.com/components/mockup-code/](https://daisyui.com/components/mockup-code/)
 * Phone iPhone mockup, Phone With color and wallpaper: [daisyui.com/components/mockup-phone/](https://daisyui.com/components/mockup-phone/)
 * Window window mockup with border, Window window mockup with background color: [daisyui.com/components/mockup-window/](https://daisyui.com/components/mockup-window/)
@@ -5512,7 +5527,7 @@
 * Dock, Dock Extra Small size, Dock Small size, Dock Medium size, Dock Large size, Dock Extra Large size, Dock with custom colors: [daisyui.com/components/dock/](https://daisyui.com/components/dock/)
 * Signin Welcome back: [dripui.vercel.app/docs/signin](https://dripui.vercel.app/docs/signin)
 * Grid Animated Grid A dynamic and visually engaging way to highlight key features or services on your website: [dripui.vercel.app/docs/grids](https://dripui.vercel.app/docs/grids)
-* Free Tailwind CSS Application Application, Free Tailwind CSS Application Dividers, Free Tailwind CSS Application Filters, Free Tailwind CSS Application Grids, Free Tailwind CSS Application Media, Free Tailwind CSS Application Vertical Menu: [hyperui.dev/components/application](https://www.hyperui.dev/components/application)
+* Free Tailwind CSS Application Application, Free Tailwind CSS Application Dividers, Free Tailwind CSS Application Filters, Free Tailwind CSS Application Grids, Free Tailwind CSS Application Media, Free Tailwind CSS Application Vertical Menu, Free Tailwind CSS Application Application, Free Tailwind CSS Application Dividers, Free Tailwind CSS Application Filters, Free Tailwind CSS Application Grids, Free Tailwind CSS Application Media, Free Tailwind CSS Application Vertical Menu: [hyperui.dev/components/application](https://www.hyperui.dev/components/application)
 * Divider #Base, Divider #Base (Dark), Divider #Gradient, Divider #Gradient (Dark), Divider #Left align, Divider #Left align (Dark), Divider #Left align gradient, Divider #Left align gradient (Dark), Divider #Right align, Divider #Right align (Dark), Divider #Right align gradient, Divider #Right align gradient (Dark): [hyperui.dev/components/application/dividers](https://www.hyperui.dev/components/application/dividers)
 * Media #Left align top, Media #Left align center, Media #Left align bottom, Media #Left align stretch, Media #Right align top, Media #Right align center, Media #Right align bottom, Media #Right align stretch: [hyperui.dev/components/application/media](https://www.hyperui.dev/components/application/media)
 * Datta Able (Free): [codedthemes.com/item/datta-able-free-tailwind-admin-template/?ref=amritnagi](https://codedthemes.com/item/datta-able-free-tailwind-admin-template/?ref=amritnagi)
@@ -6876,3 +6891,33 @@
 * utilutilsr6: [tailwind.besoeasy.com/util/utilsr6.html](https://tailwind.besoeasy.com/util/utilsr6.html)
 * utilutilsr7: [tailwind.besoeasy.com/util/utilsr7.html](https://tailwind.besoeasy.com/util/utilsr7.html)
 * Two tiers with emphasized right tier: [tailwindcss.com/plus/ui-blocks/preview#component-4a9182e85945751476472f12356adb68](https://tailwindcss.com/plus/ui-blocks/preview#component-4a9182e85945751476472f12356adb68)
+* Simple centered: [tailwindcss.com/plus/ui-blocks/preview#component-b9bcab4538776a17fff93d18f82a8272-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-b9bcab4538776a17fff93d18f82a8272-dark)
+* With product screenshot: [tailwindcss.com/plus/ui-blocks/preview#component-11e5dbce11b8c462441792503ea864fc-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-11e5dbce11b8c462441792503ea864fc-dark)
+* Centered 2x2 grid: [tailwindcss.com/plus/ui-blocks/preview#component-64ac58e032276db96bf343a8d4f332a8-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-64ac58e032276db96bf343a8d4f332a8-dark)
+* Dark panel with app screenshot: [tailwindcss.com/plus/ui-blocks/preview#component-0763876148e2fa400b4f1cf13cdf0093-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-0763876148e2fa400b4f1cf13cdf0093-dark)
+* Three column bento grid: [tailwindcss.com/plus/ui-blocks/preview#component-dc65cfa183921e10d45c401610332cca-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-dc65cfa183921e10d45c401610332cca-dark)
+* Two tiers with emphasized right tier: [tailwindcss.com/plus/ui-blocks/preview#component-4a9182e85945751476472f12356adb68-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-4a9182e85945751476472f12356adb68-dark)
+* Side-by-side with details: [tailwindcss.com/plus/ui-blocks/preview#component-82fc139db99143307df48bb9fe6152c5-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-82fc139db99143307df48bb9fe6152c5-dark)
+* Simple: [tailwindcss.com/plus/ui-blocks/preview#component-b5eb58f5c8fd565cc54bf488d647f02b-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-b5eb58f5c8fd565cc54bf488d647f02b-dark)
+* Simple centered: [tailwindcss.com/plus/ui-blocks/preview#component-fd7b8bd425f42f6504b22e1ecc6b43c9-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-fd7b8bd425f42f6504b22e1ecc6b43c9-dark)
+* Three-column: [tailwindcss.com/plus/ui-blocks/preview#component-b8172652fa29dc3eac306c2a8a922323-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-b8172652fa29dc3eac306c2a8a922323-dark)
+* Centered: [tailwindcss.com/plus/ui-blocks/preview#component-986addbc8678313fba5b0dd59c778e9b-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-986addbc8678313fba5b0dd59c778e9b-dark)
+* With small images: [tailwindcss.com/plus/ui-blocks/preview#component-1ea7e52a3e89a3cf7b4a0a4fd2dcdf84-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-1ea7e52a3e89a3cf7b4a0a4fd2dcdf84-dark)
+* With sticky product screenshot: [tailwindcss.com/plus/ui-blocks/preview#component-218027743700ff38c54be7e9c1ce3bf8-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-218027743700ff38c54be7e9c1ce3bf8-dark)
+* Simple with heading: [tailwindcss.com/plus/ui-blocks/preview#component-6b864c393af88d7b8a2ac53eaebf6403-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-6b864c393af88d7b8a2ac53eaebf6403-dark)
+* Simple: [tailwindcss.com/plus/ui-blocks/preview#component-ebef3404d06e7b5f42e85b7b2ca4a2a5-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-ebef3404d06e7b5f42e85b7b2ca4a2a5-dark)
+* With meta and actions: [tailwindcss.com/plus/ui-blocks/preview#component-7654075f650c9f1044bfcf1b1b6ffd77-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-7654075f650c9f1044bfcf1b1b6ffd77-dark)
+* Left-aligned: [tailwindcss.com/plus/ui-blocks/preview#component-d9372707af2e94e67936e94d7339cbb3-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-d9372707af2e94e67936e94d7339cbb3-dark)
+* Simple: [tailwindcss.com/plus/ui-blocks/preview#component-3c51b92eef57b177f3ea356305fdbe71-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-3c51b92eef57b177f3ea356305fdbe71-dark)
+* Stacked: [tailwindcss.com/plus/ui-blocks/preview#component-1c3f9860d66ce5cd9fb35ba7fde6721a-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-1c3f9860d66ce5cd9fb35ba7fde6721a-dark)
+* Simple: [tailwindcss.com/plus/ui-blocks/preview#component-766a0bf1b8800d383b6c5b77ef9c626c-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-766a0bf1b8800d383b6c5b77ef9c626c-dark)
+* With border: [tailwindcss.com/plus/ui-blocks/preview#component-aca9a5b856afc07ad4ee04f5d1861256-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-aca9a5b856afc07ad4ee04f5d1861256-dark)
+* Simple: [tailwindcss.com/plus/ui-blocks/preview#component-f8a14da22f26a67757b19f2fe3ca00ed-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-f8a14da22f26a67757b19f2fe3ca00ed-dark)
+* With dividers: [tailwindcss.com/plus/ui-blocks/preview#component-1f10562f6266c9b3ef15ff792edd508e-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-1f10562f6266c9b3ef15ff792edd508e-dark)
+* With image grid: [tailwindcss.com/plus/ui-blocks/preview#component-2904df5d10ee9fc81ba07d1ad61a27ca-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-2904df5d10ee9fc81ba07d1ad61a27ca-dark)
+* With inline price: [tailwindcss.com/plus/ui-blocks/preview#component-adec20dfa6eac091f5bee40e244c6823-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-adec20dfa6eac091f5bee40e244c6823-dark)
+* Simple: [tailwindcss.com/plus/ui-blocks/preview#component-230be426f17b26e949896d17c505e0d3-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-230be426f17b26e949896d17c505e0d3-dark)
+* Three-column: [tailwindcss.com/plus/ui-blocks/preview#component-37995021e5cdf0c643346920ff40b13b-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-37995021e5cdf0c643346920ff40b13b-dark)
+* With image grid: [tailwindcss.com/plus/ui-blocks/preview#component-6bf262ecea63105e5f1fc57ec12057f9-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-6bf262ecea63105e5f1fc57ec12057f9-dark)
+* With featured categories: [tailwindcss.com/plus/ui-blocks/preview#component-870de0c4ec620ad31bb8538a2886e3f0-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-870de0c4ec620ad31bb8538a2886e3f0-dark)
+* With image tiles: [tailwindcss.com/plus/ui-blocks/preview#component-abf8794a557c496e493e847c71fc90c7-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-abf8794a557c496e493e847c71fc90c7-dark)

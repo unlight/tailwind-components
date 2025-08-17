@@ -2802,7 +2802,7 @@
     "parent": "Page"
   },
   {
-    "name": "Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections",
+    "name": "Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections, Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections",
     "link": "https://www.hyperui.dev/components/marketing",
     "category": "Other",
     "parent": null
@@ -16968,7 +16968,7 @@
     "parent": null
   },
   {
-    "name": "Link, Link Primary color, Link Secondary color, Link Accent color, Link Neutral color, Link Success color, Link Info color, Link Warning color, Link Error color, Link Show underline only on hover",
+    "name": "Link, Link Primary color, Link Secondary color, Link Accent color, Link Success color, Link Info color, Link Warning color, Link Error color, Link Show underline only on hover",
     "link": "https://daisyui.com/components/link/",
     "category": "Other",
     "parent": null
@@ -28590,7 +28590,7 @@
     "parent": null
   },
   {
-    "name": "Button Group #Base, Button Group #Base (Dark), Button Group #Icons, Button Group #Icons (Dark), Button Group #Main and secondary, Button Group #Main and secondary (Dark), Button Group #Layouts, Button Group #Layouts without space",
+    "name": "Button Group #Base, Button Group #Base (Dark), Button Group #Icons, Button Group #Icons (Dark), Button Group #Main and secondary, Button Group #Main and secondary (Dark), Button Group #Layouts, Button Group #Layouts (Dark), Button Group #Layouts without space, Button Group #Layouts without space (Dark)",
     "link": "https://www.hyperui.dev/components/application/button-groups",
     "category": "Button",
     "parent": null
@@ -29268,7 +29268,7 @@
     "parent": null
   },
   {
-    "name": "Free Tailwind CSS Application Application, Free Tailwind CSS Application Dividers, Free Tailwind CSS Application Filters, Free Tailwind CSS Application Grids, Free Tailwind CSS Application Media, Free Tailwind CSS Application Vertical Menu",
+    "name": "Free Tailwind CSS Application Application, Free Tailwind CSS Application Dividers, Free Tailwind CSS Application Filters, Free Tailwind CSS Application Grids, Free Tailwind CSS Application Media, Free Tailwind CSS Application Vertical Menu, Free Tailwind CSS Application Application, Free Tailwind CSS Application Dividers, Free Tailwind CSS Application Filters, Free Tailwind CSS Application Grids, Free Tailwind CSS Application Media, Free Tailwind CSS Application Vertical Menu",
     "link": "https://www.hyperui.dev/components/application",
     "category": "Other",
     "parent": null
@@ -40209,6 +40209,276 @@
     "name": " With lighter page header",
     "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09",
     "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": " Custom with avatar",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-71d9116be789a254c260369f03472985-dark",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": " Avatar group stacked bottom to top",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-e4a92edf4f12acee331db4190019b4ef-dark",
+    "category": "Avatar",
+    "parent": null
+  },
+  {
+    "name": " With button",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-8904b9d9a9fbb9a2313df3975112f9d7-dark",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": " Simple dark with menu button on left",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331-dark",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": " With close button on outside",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-0f117af9905c6bf010968e396f2c7583-dark",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": " With stats",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-813ce86310c2c337070a66a152012665-dark",
+    "category": "Dashboard Widgets",
+    "parent": null
+  },
+  {
+    "name": " With stacked flyout menu",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-27e5f71ced91b88e3f6b59ca69033a83-dark",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": " Input with inline leading add-on and trailing dropdown",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-2607d970262ada86428f063c72b1e7bd-dark",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": " With color and size selector",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-8f33b33d19bbb2608bb5ae6488344e88-dark",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": " Stacked with footer actions",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-911576fb54922e5199a9434ca8a273fd-dark",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": " Card footer with page buttons",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-69eb9381f977800aa890ce8f7d9e2d20-dark",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": " Simple with gray footer",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-b6812b6c13fff16861f2645c4100ae5b-dark",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": " With lighter page header",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09-dark",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": " Drawer",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-49ea2974de976a1db7cc7411a85bb2b1-dark",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": " With inline actions and expandable sidebar filters",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-e799517f86cc2fc79bf0eebb45c16eea-dark",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": " Simple centered",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-b9bcab4538776a17fff93d18f82a8272-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With product screenshot",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-11e5dbce11b8c462441792503ea864fc-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Centered 2x2 grid",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-64ac58e032276db96bf343a8d4f332a8-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Dark panel with app screenshot",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-0763876148e2fa400b4f1cf13cdf0093-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Three column bento grid",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-dc65cfa183921e10d45c401610332cca-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Two tiers with emphasized right tier",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-4a9182e85945751476472f12356adb68-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Side-by-side with details",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-82fc139db99143307df48bb9fe6152c5-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-b5eb58f5c8fd565cc54bf488d647f02b-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple centered",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-fd7b8bd425f42f6504b22e1ecc6b43c9-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Three-column",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-b8172652fa29dc3eac306c2a8a922323-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Centered",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-986addbc8678313fba5b0dd59c778e9b-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With small images",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-1ea7e52a3e89a3cf7b4a0a4fd2dcdf84-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With sticky product screenshot",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-218027743700ff38c54be7e9c1ce3bf8-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple with heading",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-6b864c393af88d7b8a2ac53eaebf6403-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-ebef3404d06e7b5f42e85b7b2ca4a2a5-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With meta and actions",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-7654075f650c9f1044bfcf1b1b6ffd77-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Left-aligned",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-d9372707af2e94e67936e94d7339cbb3-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-3c51b92eef57b177f3ea356305fdbe71-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Stacked",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-1c3f9860d66ce5cd9fb35ba7fde6721a-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-766a0bf1b8800d383b6c5b77ef9c626c-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With border",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-aca9a5b856afc07ad4ee04f5d1861256-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-f8a14da22f26a67757b19f2fe3ca00ed-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With dividers",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-1f10562f6266c9b3ef15ff792edd508e-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With image grid",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-2904df5d10ee9fc81ba07d1ad61a27ca-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With inline price",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-adec20dfa6eac091f5bee40e244c6823-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Simple",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-230be426f17b26e949896d17c505e0d3-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " Three-column",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-37995021e5cdf0c643346920ff40b13b-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With image grid",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-6bf262ecea63105e5f1fc57ec12057f9-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With featured categories",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-870de0c4ec620ad31bb8538a2886e3f0-dark",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": " With image tiles",
+    "link": "https://tailwindcss.com/plus/ui-blocks/preview#component-abf8794a557c496e493e847c71fc90c7-dark",
+    "category": "Other",
     "parent": null
   }
 ]
