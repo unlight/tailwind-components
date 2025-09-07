@@ -8070,7 +8070,7 @@
     "parent": null
   },
   {
-    "name": "Select, Select Ghost (no background), Select With fieldset and labels, Select Primary color, Select Secondary color, Select Accent color, Select Neutral color, Select Info color, Select Success color, Select Warning color, Select Error color, Select Sizes, Select Disabled",
+    "name": "Select updated Select, Select updated Ghost (no background), Select updated With fieldset and labels, Select updated Primary color, Select updated Secondary color, Select updated Accent color, Select updated Neutral color, Select updated Info color, Select updated Success color, Select updated Warning color, Select updated Error color, Select updated Sizes, Select updated Disabled",
     "link": "https://daisyui.com/components/select/",
     "category": "Dropdown",
     "parent": null
@@ -25800,7 +25800,7 @@
     "parent": null
   },
   {
-    "name": "Modal Basic Example, Modal components, Modal Positions\n    \n    TWE Pro component, Modal Frame\n    \n    TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal\n    \n    TWE Pro component, Modal Import, Modal Simple notification",
+    "name": "Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification",
     "link": "https://tw-elements.com/docs/standard/components/modal/",
     "category": "Modal",
     "parent": null
@@ -28692,7 +28692,7 @@
     "parent": null
   },
   {
-    "name": "Status new Status, Status new Status sizes, Status new Status with colors, Status new Status with ping animation, Status new Status with bounce animation",
+    "name": "Status, Status sizes, Status with colors, Status with ping animation, Status with bounce animation",
     "link": "https://daisyui.com/components/status/",
     "category": "Dashboard Widgets",
     "parent": null
@@ -28710,7 +28710,7 @@
     "parent": null
   },
   {
-    "name": "Calendar new Cally calendar example, Calendar new Cally date picker example",
+    "name": "Calendar Cally calendar example, Calendar Cally date picker example",
     "link": "https://daisyui.com/components/calendar/",
     "category": "Date/Time",
     "parent": null
@@ -28722,13 +28722,13 @@
     "parent": null
   },
   {
-    "name": "Label new Floating Label, Label new Floating Label with Different Sizes",
+    "name": "Label Floating Label, Label Floating Label with Different Sizes",
     "link": "https://daisyui.com/components/label/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Validator new Validator, Validator new Validator and validator-hint, Validator new Password requirement validator, Validator new Username requirement validator, Validator new Phone Number requirement validator",
+    "name": "Validator, Validator and validator-hint, Validator Password requirement validator, Validator Username requirement validator, Validator Phone Number requirement validator",
     "link": "https://daisyui.com/components/validator/",
     "category": "Other",
     "parent": null
@@ -28764,13 +28764,13 @@
     "parent": null
   },
   {
-    "name": "Fieldset new Fieldset fieldset-legend and label, Fieldset new Fieldset with background and border, Fieldset new Fieldset with multiple join items",
+    "name": "Fieldset fieldset-legend and label, Fieldset with background and border, Fieldset with multiple join items",
     "link": "https://daisyui.com/components/fieldset/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Filter new Filter using HTML form, radio buttons and reset button, Filter new Filter without HTML form, Filter new Filter using HTML form, checkboxes and reset button",
+    "name": "Filter using HTML form, radio buttons and reset button, Filter without HTML form, Filter using HTML form, checkboxes and reset button",
     "link": "https://daisyui.com/components/filter/",
     "category": "Form",
     "parent": null
@@ -29232,7 +29232,7 @@
     "parent": null
   },
   {
-    "name": "List new List (second column grows - default), List new List (third column grows), List new List (third column wraps to next row)",
+    "name": "List (second column grows - default), List (third column grows), List (third column wraps to next row)",
     "link": "https://daisyui.com/components/list/",
     "category": "List",
     "parent": null
@@ -40490,6 +40490,18 @@
   {
     "name": "Poll Single question poll, Poll Multiple choice survey, Poll Rating poll",
     "link": "https://www.hyperui.dev/components/marketing/polls",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "FAB / Speed Dial new FAB and Speed Dial (vertical), FAB / Speed Dial new FAB and Speed Dial with SVG icons, FAB / Speed Dial new FAB and Speed Dial with labels, FAB / Speed Dial new FAB Flower and Speed Dial, FAB / Speed Dial new FAB and Flower Speed Dial with SVG icons",
+    "link": "https://daisyui.com/components/fab/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Hover Gallery new Hover Gallery",
+    "link": "https://daisyui.com/components/hover-gallery/",
     "category": "Other",
     "parent": null
   }

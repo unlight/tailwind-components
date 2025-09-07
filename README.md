@@ -1431,7 +1431,7 @@
 * Tailwind CSS Dashboard States: [tailwindcomponents.com/component/states](https://tailwindcomponents.com/component/states)
 * Tailwind CSS Stats Section: [tailwindcomponents.com/component/tailwind-css-stats-section](https://tailwindcomponents.com/component/tailwind-css-stats-section)
 * Airbnb user state: [tailwindcomponents.com/component/airbnb-user-state](https://tailwindcomponents.com/component/airbnb-user-state)
-* Status new Status, Status new Status sizes, Status new Status with colors, Status new Status with ping animation, Status new Status with bounce animation: [daisyui.com/components/status/](https://daisyui.com/components/status/)
+* Status, Status sizes, Status with colors, Status with ping animation, Status with bounce animation: [daisyui.com/components/status/](https://daisyui.com/components/status/)
 * Stat Title, value, from value and themed growth stat, Stat Title, value, from value and themed growth stat (Dark), Stat Title, value, icon and themed growth stat, Stat Title, value, icon and themed growth stat (Dark), Stat Title, value and themed growth stat, Stat Title, value and themed growth stat (Dark), Stat Title, value and icon, Stat Title, value and icon (Dark), Stat Title, value and themed growth stat, stacked style, Stat Title, value and themed growth stat, stacked style (Dark), Stat Title, value, icon and themed growth stat, stacked style, Stat Title, value, icon and themed growth stat, stacked style (Dark): [hyperui.dev/components/application/stats](https://www.hyperui.dev/components/application/stats)
 * With stats: [tailwindcss.com/plus/ui-blocks/preview#component-813ce86310c2c337070a66a152012665](https://tailwindcss.com/plus/ui-blocks/preview#component-813ce86310c2c337070a66a152012665)
 * statssolstic copy 5: [tailwind.besoeasy.com/stats/solstic%20copy%205.html](https://tailwind.besoeasy.com/stats/solstic%20copy%205.html)
@@ -1576,14 +1576,14 @@
 * Datepicker Getting started, Datepicker Datepicker example, Datepicker Inline datepicker, Datepicker Date range picker, Datepicker Options, Datepicker Timepicker, Datepicker Dark mode, Datepicker JavaScript, Datepicker React support, Datepicker Turbo load support: [flowbite.com/docs/plugins/datepicker/](https://flowbite.com/docs/plugins/datepicker/)
 * date picker in alphinejs and tailwindcss: [tailwindcomponents.com/component/date-picker-in-alphinejs-and-talwindcss](https://tailwindcomponents.com/component/date-picker-in-alphinejs-and-talwindcss)
 * Datepicker Getting started, Datepicker Datepicker example, Datepicker Inline datepicker, Datepicker Date range picker, Datepicker Options, Datepicker Timepicker, Datepicker Dark mode, Datepicker JavaScript Behaviour: [flowbite.com/docs/components/datepicker/](https://flowbite.com/docs/components/datepicker/)
-* Calendar new Cally calendar example, Calendar new Cally date picker example: [daisyui.com/components/calendar/](https://daisyui.com/components/calendar/)
+* Calendar Cally calendar example, Calendar Cally date picker example: [daisyui.com/components/calendar/](https://daisyui.com/components/calendar/)
 * TimePicker New Browser default, TimePicker New Custom style: [preline.co/docs/time-picker.html](https://preline.co/docs/time-picker.html)
 
 ## Dropdown
 
 * Dropdown: [a17t.miles.land/interaction/dropdown/](https://a17t.miles.land/interaction/dropdown/)
 * Select: [a17t.miles.land/interaction/select/](https://a17t.miles.land/interaction/select/)
-* Select, Select Ghost (no background), Select With fieldset and labels, Select Primary color, Select Secondary color, Select Accent color, Select Neutral color, Select Info color, Select Success color, Select Warning color, Select Error color, Select Sizes, Select Disabled: [daisyui.com/components/select/](https://daisyui.com/components/select/)
+* Select updated Select, Select updated Ghost (no background), Select updated With fieldset and labels, Select updated Primary color, Select updated Secondary color, Select updated Accent color, Select updated Neutral color, Select updated Info color, Select updated Success color, Select updated Warning color, Select updated Error color, Select updated Sizes, Select updated Disabled: [daisyui.com/components/select/](https://daisyui.com/components/select/)
 * Dropdown Menu: [headlessui.com/react/menu](https://headlessui.com/react/menu)
 * Popover: [headlessui.com/react/popover](https://headlessui.com/react/popover)
 * Dropdown #Base with links and action, Dropdown #Base with links and action, with divided sections, Dropdown #Base with links and action, with divided sections that are titled: [hyperui.dev/components/application-ui/dropdown](https://www.hyperui.dev/components/application-ui/dropdown)
@@ -1963,7 +1963,7 @@
 * Cool Text Inputs and Login: [tailwindcomponents.com/component/cool-text-inputs-and-login-2](https://tailwindcomponents.com/component/cool-text-inputs-and-login-2)
 * User Authentication Form: [tailwindcomponents.com/component/alx-website-clone](https://tailwindcomponents.com/component/alx-website-clone)
 * Input Base, Input Base (Dark), Input Base with icon, Input Base with icon (Dark), Input Floating label, Input Floating label (Dark): [hyperui.dev/components/application/inputs](https://www.hyperui.dev/components/application/inputs)
-* Filter new Filter using HTML form, radio buttons and reset button, Filter new Filter without HTML form, Filter new Filter using HTML form, checkboxes and reset button: [daisyui.com/components/filter/](https://daisyui.com/components/filter/)
+* Filter using HTML form, radio buttons and reset button, Filter without HTML form, Filter using HTML form, checkboxes and reset button: [daisyui.com/components/filter/](https://daisyui.com/components/filter/)
 * Checkbox Base, Checkbox Base (Dark), Checkbox Described, Checkbox Described (Dark), Checkbox Described with divide, Checkbox Described with divide (Dark): [hyperui.dev/components/application/checkboxes](https://www.hyperui.dev/components/application/checkboxes)
 * Radio Group Base, Radio Group Base (Dark), Radio Group Base with input, Radio Group Base with input (Dark), Radio Group Color variant: [hyperui.dev/components/application/radio-groups](https://www.hyperui.dev/components/application/radio-groups)
 * Textarea Base, Textarea Base (Dark), Textarea Actions inside, Textarea Actions inside (Dark), Textarea Actions outside, Textarea Actions outside (Dark): [hyperui.dev/components/application/textareas](https://www.hyperui.dev/components/application/textareas)
@@ -2688,13 +2688,7 @@
 * Tailwind CSS Modal Confirmation with alpine js. with style headless ui: [tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui](https://tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui)
 * Modal Alert Responsive Tailwind CSS: [tailwindcomponents.com/component/modal-alert-responsive-tailwind-css](https://tailwindcomponents.com/component/modal-alert-responsive-tailwind-css)
 * Modal with a subscription form: [tailwindcomponents.com/component/modal-with-a-subscription-form](https://tailwindcomponents.com/component/modal-with-a-subscription-form)
-* Modal Basic Example, Modal components, Modal Positions
-
-  TWE Pro component, Modal Frame
-
-  TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal
-
-  TWE Pro component, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
+* Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
 * Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour: [flowbite.com/docs/components/modal/](https://flowbite.com/docs/components/modal/)
 * Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
 * Tailwind CSS Modal: [tailwindcomponents.com/component/modal-16](https://tailwindcomponents.com/component/modal-16)
@@ -3954,7 +3948,7 @@
 * Lists Unordered list, Lists Password requirements:, Lists Password requirements:, Lists Password requirements:, Lists Ordered list, Lists Top students:, Lists Description list, Lists List with icons, Lists Advanced layout, Lists Horizontal list: [flowbite.com/docs/typography/lists/](https://flowbite.com/docs/typography/lists/)
 * Product Lists: [tailwindcomponents.com/component/product-lists](https://tailwindcomponents.com/component/product-lists)
 * Products List: [tailwindcomponents.com/component/products-1](https://tailwindcomponents.com/component/products-1)
-* List new List (second column grows - default), List new List (third column grows), List new List (third column wraps to next row): [daisyui.com/components/list/](https://daisyui.com/components/list/)
+* List (second column grows - default), List (third column grows), List (third column wraps to next row): [daisyui.com/components/list/](https://daisyui.com/components/list/)
 * Details List Base, Details List Base (Dark), Details List Striped, Details List Striped (Dark), Details List Bordered, Details List Bordered (Dark), Details List Striped and bordered, Details List Striped and bordered (Dark): [hyperui.dev/components/application/details-list](https://www.hyperui.dev/components/application/details-list)
 
 ## Tab
@@ -5527,9 +5521,9 @@
 * Ecme (Lite): [github.com/ThemeNate/Ecme-lite](https://github.com/ThemeNate/Ecme-lite)
 * Context Menu New Basic usage, Context Menu New Default: [preline.co/docs/context-menu.html](https://preline.co/docs/context-menu.html)
 * Vertical Menu Base with highlighted active link, Vertical Menu Base with highlighted active link (Dark), Vertical Menu Base with icon and highlighted active link, Vertical Menu Base with icon and highlighted active link (Dark), Vertical Menu Base with icon and highlighted active link, color with left border, Vertical Menu Base with icon and highlighted active link, color with left border (Dark), Vertical Menu Base with divided sections and highlighted active link, Vertical Menu Base with divided sections and highlighted active link (Dark), Vertical Menu Base with grouped sections with title and highlighted active link, Vertical Menu Base with grouped sections with title and highlighted active link (Dark): [hyperui.dev/components/application/vertical-menu](https://www.hyperui.dev/components/application/vertical-menu)
-* Label new Floating Label, Label new Floating Label with Different Sizes: [daisyui.com/components/label/](https://daisyui.com/components/label/)
-* Validator new Validator, Validator new Validator and validator-hint, Validator new Password requirement validator, Validator new Username requirement validator, Validator new Phone Number requirement validator: [daisyui.com/components/validator/](https://daisyui.com/components/validator/)
-* Fieldset new Fieldset fieldset-legend and label, Fieldset new Fieldset with background and border, Fieldset new Fieldset with multiple join items: [daisyui.com/components/fieldset/](https://daisyui.com/components/fieldset/)
+* Label Floating Label, Label Floating Label with Different Sizes: [daisyui.com/components/label/](https://daisyui.com/components/label/)
+* Validator, Validator and validator-hint, Validator Password requirement validator, Validator Username requirement validator, Validator Phone Number requirement validator: [daisyui.com/components/validator/](https://daisyui.com/components/validator/)
+* Fieldset fieldset-legend and label, Fieldset with background and border, Fieldset with multiple join items: [daisyui.com/components/fieldset/](https://daisyui.com/components/fieldset/)
 * Grid 1x1, Grid 1x2, Grid 2x1, Grid 1x1x1, Grid 1x1x1x1, Grid 1x1x2, Grid 2x1x1, Grid 1x2x1: [hyperui.dev/components/application/grids](https://www.hyperui.dev/components/application/grids)
 * Dock, Dock Extra Small size, Dock Small size, Dock Medium size, Dock Large size, Dock Extra Large size, Dock with custom colors: [daisyui.com/components/dock/](https://daisyui.com/components/dock/)
 * Signin Welcome back: [dripui.vercel.app/docs/signin](https://dripui.vercel.app/docs/signin)
@@ -6929,3 +6923,5 @@
 * With featured categories: [tailwindcss.com/plus/ui-blocks/preview#component-870de0c4ec620ad31bb8538a2886e3f0-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-870de0c4ec620ad31bb8538a2886e3f0-dark)
 * With image tiles: [tailwindcss.com/plus/ui-blocks/preview#component-abf8794a557c496e493e847c71fc90c7-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-abf8794a557c496e493e847c71fc90c7-dark)
 * Poll Single question poll, Poll Multiple choice survey, Poll Rating poll: [hyperui.dev/components/marketing/polls](https://www.hyperui.dev/components/marketing/polls)
+* FAB / Speed Dial new FAB and Speed Dial (vertical), FAB / Speed Dial new FAB and Speed Dial with SVG icons, FAB / Speed Dial new FAB and Speed Dial with labels, FAB / Speed Dial new FAB Flower and Speed Dial, FAB / Speed Dial new FAB and Flower Speed Dial with SVG icons: [daisyui.com/components/fab/](https://daisyui.com/components/fab/)
+* Hover Gallery new Hover Gallery: [daisyui.com/components/hover-gallery/](https://daisyui.com/components/hover-gallery/)
