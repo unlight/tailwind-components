@@ -1963,7 +1963,7 @@
 * Cool Text Inputs and Login: [tailwindcomponents.com/component/cool-text-inputs-and-login-2](https://tailwindcomponents.com/component/cool-text-inputs-and-login-2)
 * User Authentication Form: [tailwindcomponents.com/component/alx-website-clone](https://tailwindcomponents.com/component/alx-website-clone)
 * Input Base, Input Base (Dark), Input Base with icon, Input Base with icon (Dark), Input Floating label, Input Floating label (Dark): [hyperui.dev/components/application/inputs](https://www.hyperui.dev/components/application/inputs)
-* Filter using HTML form, radio buttons and reset button, Filter without HTML form, Filter using HTML form, checkboxes and reset button: [daisyui.com/components/filter/](https://daisyui.com/components/filter/)
+* Filter using HTML form, radio buttons and reset button, Filter without HTML form, Filter using HTML form, checkboxes, and a reset button: [daisyui.com/components/filter/](https://daisyui.com/components/filter/)
 * Checkbox Base, Checkbox Base (Dark), Checkbox Described, Checkbox Described (Dark), Checkbox Described with divide, Checkbox Described with divide (Dark): [hyperui.dev/components/application/checkboxes](https://www.hyperui.dev/components/application/checkboxes)
 * Radio Group Base, Radio Group Base (Dark), Radio Group Base with input, Radio Group Base with input (Dark), Radio Group Color variant: [hyperui.dev/components/application/radio-groups](https://www.hyperui.dev/components/application/radio-groups)
 * Textarea Base, Textarea Base (Dark), Textarea Actions inside, Textarea Actions inside (Dark), Textarea Actions outside, Textarea Actions outside (Dark): [hyperui.dev/components/application/textareas](https://www.hyperui.dev/components/application/textareas)
