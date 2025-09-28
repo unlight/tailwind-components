@@ -8070,7 +8070,7 @@
     "parent": null
   },
   {
-    "name": "Select updated Select, Select updated Ghost (no background), Select updated With fieldset and labels, Select updated Primary color, Select updated Secondary color, Select updated Accent color, Select updated Neutral color, Select updated Info color, Select updated Success color, Select updated Warning color, Select updated Error color, Select updated Sizes, Select updated Disabled",
+    "name": "Select updated Select, Select updated Ghost (no background), Select updated With fieldset and labels, Select updated Primary color, Select updated Secondary color, Select updated Accent color, Select updated Neutral color, Select updated Info color, Select updated Success color, Select updated Warning color, Select updated Error color, Select updated Sizes, Select updated Disabled, Select updated Using OS native style for the options dropdown",
     "link": "https://daisyui.com/components/select/",
     "category": "Dropdown",
     "parent": null
@@ -8556,7 +8556,7 @@
     "parent": null
   },
   {
-    "name": "Toggle, Toggle With fieldset and label, Toggle Sizes, Toggle Colors, Toggle Disabled, Toggle Indeterminate, Toggle with icons inside, Toggle with custom colors",
+    "name": "Toggle (switch), Toggle With fieldset and label, Toggle Sizes, Toggle Colors, Toggle Disabled, Toggle Indeterminate, Toggle with icons inside, Toggle with custom colors",
     "link": "https://daisyui.com/components/toggle/",
     "category": "Switch",
     "parent": null
@@ -16944,7 +16944,7 @@
     "parent": null
   },
   {
-    "name": "Rating, Rating Read-only Rating, Rating mask-star-2 with warning color, Rating mask-heart with multiple colors, Rating mask-star-2 with green-500 color, Rating Sizes, Rating with, Rating half stars",
+    "name": "Rating, Rating Read-only Rating, Rating mask-star-2 with warning color, Rating mask-heart with multiple colors, Rating mask-star-2 with green-500 color, Rating Sizes, Rating with rating-hidden, Rating half stars",
     "link": "https://daisyui.com/components/rating/",
     "category": "Other",
     "parent": null

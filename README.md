@@ -1583,7 +1583,7 @@
 
 * Dropdown: [a17t.miles.land/interaction/dropdown/](https://a17t.miles.land/interaction/dropdown/)
 * Select: [a17t.miles.land/interaction/select/](https://a17t.miles.land/interaction/select/)
-* Select updated Select, Select updated Ghost (no background), Select updated With fieldset and labels, Select updated Primary color, Select updated Secondary color, Select updated Accent color, Select updated Neutral color, Select updated Info color, Select updated Success color, Select updated Warning color, Select updated Error color, Select updated Sizes, Select updated Disabled: [daisyui.com/components/select/](https://daisyui.com/components/select/)
+* Select updated Select, Select updated Ghost (no background), Select updated With fieldset and labels, Select updated Primary color, Select updated Secondary color, Select updated Accent color, Select updated Neutral color, Select updated Info color, Select updated Success color, Select updated Warning color, Select updated Error color, Select updated Sizes, Select updated Disabled, Select updated Using OS native style for the options dropdown: [daisyui.com/components/select/](https://daisyui.com/components/select/)
 * Dropdown Menu: [headlessui.com/react/menu](https://headlessui.com/react/menu)
 * Popover: [headlessui.com/react/popover](https://headlessui.com/react/popover)
 * Dropdown #Base with links and action, Dropdown #Base with links and action, with divided sections, Dropdown #Base with links and action, with divided sections that are titled: [hyperui.dev/components/application-ui/dropdown](https://www.hyperui.dev/components/application-ui/dropdown)
@@ -3678,7 +3678,7 @@
 
 * Dropdowns Dropdown with toggle switch: [flowbite.com/docs/components/dropdowns/](https://flowbite.com/docs/components/dropdowns/)
 * Swap text, Swap volume icons, Swap icons with rotate effect, Swap icons with flip effect: [daisyui.com/components/swap/](https://daisyui.com/components/swap/)
-* Toggle, Toggle With fieldset and label, Toggle Sizes, Toggle Colors, Toggle Disabled, Toggle Indeterminate, Toggle with icons inside, Toggle with custom colors: [daisyui.com/components/toggle/](https://daisyui.com/components/toggle/)
+* Toggle (switch), Toggle With fieldset and label, Toggle Sizes, Toggle Colors, Toggle Disabled, Toggle Indeterminate, Toggle with icons inside, Toggle with custom colors: [daisyui.com/components/toggle/](https://daisyui.com/components/toggle/)
 * Forms Toggle Switch: [flowbite.com/docs/components/forms/](https://flowbite.com/docs/components/forms/)
 * Toggle - simple, Toggle - toggle: [tailwind-kit.com/components/toggle](https://www.tailwind-kit.com/components/toggle)
 * Switch: [a17t.miles.land/interaction/switch/](https://a17t.miles.land/interaction/switch/)
@@ -4187,7 +4187,7 @@
 * team: [tailwind-css-components.appseed.us/team.html](https://tailwind-css-components.appseed.us/team.html)
 * Countdown, Countdown Large text, Countdown Clock countdown, Countdown Clock countdown with colons, Countdown Large text with labels, Countdown Large text with labels under, Countdown In boxes: [daisyui.com/components/countdown/](https://daisyui.com/components/countdown/)
 * Kbd, Kbd sizes, Kbd In text, Kbd Key combination, Kbd Function Keys, Kbd A full keyboard, Kbd Arrow Keys: [daisyui.com/components/kbd/](https://daisyui.com/components/kbd/)
-* Rating, Rating Read-only Rating, Rating mask-star-2 with warning color, Rating mask-heart with multiple colors, Rating mask-star-2 with green-500 color, Rating Sizes, Rating with, Rating half stars: [daisyui.com/components/rating/](https://daisyui.com/components/rating/)
+* Rating, Rating Read-only Rating, Rating mask-star-2 with warning color, Rating mask-heart with multiple colors, Rating mask-star-2 with green-500 color, Rating Sizes, Rating with rating-hidden, Rating half stars: [daisyui.com/components/rating/](https://daisyui.com/components/rating/)
 * Artboard size 1, Artboard size 2, Artboard size 3, Artboard size 4, Artboard size 5, Artboard size 6, Artboard horizontal size 1 (568×320), Artboard horizontal size 2 (667×375), Artboard horizontal size 3 (736×414), Artboard horizontal size 4 (812×375), Artboard horizontal size 5 (896×414), Artboard horizontal size 6 (1024×320): [daisyui.com/components/artboard/](https://daisyui.com/components/artboard/)
 * Divider, Divider horizontal, Divider with no text, Divider responsive (lg:divider-horizontal), Divider with colors, Divider in different positions, Divider in different positions (horizontal): [daisyui.com/components/divider/](https://daisyui.com/components/divider/)
 * Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2 (horizontal hexagon), Mask Decagon, Mask Pentagon, Mask Diamond, Mask Square, Mask Circle, Mask Star, Mask Star-2 (bold star), Mask Triangle (pointing top), Mask Triangle-2 (pointing down), Mask Triangle-3 (pointing left), Mask Triangle-4 (pointing right): [daisyui.com/components/mask/](https://daisyui.com/components/mask/)
