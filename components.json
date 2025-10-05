@@ -960,7 +960,7 @@
     "parent": null
   },
   {
-    "name": "Collapse with focus, Collapse with checkbox, Collapse using details and summary tag, Collapse Without border and background color, Collapse With arrow icon, Collapse With arrow plus/minus icon, Collapse Force open, Collapse Force close, Collapse Custom colors for collapse that works with focus, Collapse Custom colors for collapse that works with checkbox",
+    "name": "Collapse with focus, Collapse with checkbox, Collapse using details and summary tag, Collapse Without border and background color, Collapse With arrow icon, Collapse With arrow plus/minus icon, Collapse Moving collapse icon to the start, Collapse Force open, Collapse Force close, Collapse Custom colors for collapse that works with focus, Collapse Custom colors for collapse that works with checkbox",
     "link": "https://daisyui.com/components/collapse/",
     "category": "Accordion",
     "parent": null
