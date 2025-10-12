@@ -14976,7 +14976,7 @@
     "parent": null
   },
   {
-    "name": "Drawer, Drawer Navbar menu for desktop + sidebar drawer for mobile, Drawer Responsive, Drawer that opens from right side of page",
+    "name": "Drawer updated Drawer sidebar, Drawer updated Navbar menu for desktop + sidebar drawer for mobile, Drawer updated Responsive: Sidebar is always visible on large screen, can be toggled on small screen, Drawer updated Icon-only drawer sidebar when it's closed. Using is-drawer-close and is-drawer-open variants, Drawer updated Drawer sidebar that opens from right side of page",
     "link": "https://daisyui.com/components/drawer/",
     "category": "Sidebar",
     "parent": null
@@ -16932,7 +16932,7 @@
     "parent": null
   },
   {
-    "name": "Countdown, Countdown Large text, Countdown Clock countdown, Countdown Clock countdown with colons, Countdown Large text with labels, Countdown Large text with labels under, Countdown In boxes",
+    "name": "Countdown updated Countdown, Countdown updated Large text with 2 digits, Countdown updated Clock countdown, Countdown updated Clock countdown with colons, Countdown updated Large text with labels, Countdown updated Large text with labels under, Countdown updated In boxes",
     "link": "https://daisyui.com/components/countdown/",
     "category": "Other",
     "parent": null
@@ -28554,7 +28554,7 @@
     "parent": null
   },
   {
-    "name": "Alert Base, Alert Base (Dark), Alert Base with actions, Alert Base with actions (Dark), Alert Standout",
+    "name": "Alert Base, Alert Base (Dark), Alert Base with actions, Alert Base with actions (Dark), Alert Standout, Alert Standout (Dark)",
     "link": "https://www.hyperui.dev/components/application/alerts",
     "category": "Alert/Notification",
     "parent": null

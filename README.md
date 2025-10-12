@@ -211,7 +211,7 @@
 * Toast Basic example, Toast Static example, Toast Color examples, Toast Placement, Toast Offset, Toast Container, Toast Stacking, Toast Stacking (container), Toast Import, Toast Usage: [tw-elements.com/docs/standard/components/toast/](https://tw-elements.com/docs/standard/components/toast/)
 * Toast Default toast, Toast Colors, Toast Simple toast, Toast Undo button, Toast Toast message, Toast Push notification, Toast Interactive toast, Toast Positioning, Toast JavaScript behaviour: [flowbite.com/docs/components/toast/](https://flowbite.com/docs/components/toast/)
 * Alert Solid color alerts Soft color alerts Round Border Alerts Round Border with Icons Alerts: [dripui.vercel.app/docs/alerts](https://dripui.vercel.app/docs/alerts)
-* Alert Base, Alert Base (Dark), Alert Base with actions, Alert Base with actions (Dark), Alert Standout: [hyperui.dev/components/application/alerts](https://www.hyperui.dev/components/application/alerts)
+* Alert Base, Alert Base (Dark), Alert Base with actions, Alert Base with actions (Dark), Alert Standout, Alert Standout (Dark): [hyperui.dev/components/application/alerts](https://www.hyperui.dev/components/application/alerts)
 
 ## Avatar
 
@@ -3559,7 +3559,7 @@
 * Side Menu #Icon, links with tooltips and logout action: [hyperui.dev/components/application-ui/side-menu](https://www.hyperui.dev/components/application-ui/side-menu)
 * Sidebar - Light, Sidebar - With icons, Sidebar - With border, Sidebar - With Divider, Sidebar - With gradient, Sidebar - Just icon: [tailwind-kit.com/components/sidebar](https://www.tailwind-kit.com/components/sidebar)
 * Drawer Default drawer, Drawer Drawer navigation, Drawer Form elements, Drawer Placement, Drawer Body scrolling, Drawer Backdrop, Drawer Swipeable edge, Drawer More examples, Drawer JavaScript behaviour: [flowbite.com/docs/components/drawer/](https://flowbite.com/docs/components/drawer/)
-* Drawer, Drawer Navbar menu for desktop + sidebar drawer for mobile, Drawer Responsive, Drawer that opens from right side of page: [daisyui.com/components/drawer/](https://daisyui.com/components/drawer/)
+* Drawer updated Drawer sidebar, Drawer updated Navbar menu for desktop + sidebar drawer for mobile, Drawer updated Responsive: Sidebar is always visible on large screen, can be toggled on small screen, Drawer updated Icon-only drawer sidebar when it's closed. Using is-drawer-close and is-drawer-open variants, Drawer updated Drawer sidebar that opens from right side of page: [daisyui.com/components/drawer/](https://daisyui.com/components/drawer/)
 * Layouts Two columns sidebar: [kamona-wd.github.io/kwd-dashboard/layouts/two-columns-sidebar.html](https://kamona-wd.github.io/kwd-dashboard/layouts/two-columns-sidebar.html)
 * Layouts Mini + One Columns Sidebar: [kamona-wd.github.io/kwd-dashboard/layouts/mini-plus-one-columns-sidebar.html](https://kamona-wd.github.io/kwd-dashboard/layouts/mini-plus-one-columns-sidebar.html)
 * Layouts Mini Column Sidebar: [kamona-wd.github.io/kwd-dashboard/layouts/mini-column-sidebar.html](https://kamona-wd.github.io/kwd-dashboard/layouts/mini-column-sidebar.html)
@@ -4185,7 +4185,7 @@
 * how it works: [tailwind-css-components.appseed.us/how-it-works.html](https://tailwind-css-components.appseed.us/how-it-works.html)
 * portfolio: [tailwind-css-components.appseed.us/portfolio.html](https://tailwind-css-components.appseed.us/portfolio.html)
 * team: [tailwind-css-components.appseed.us/team.html](https://tailwind-css-components.appseed.us/team.html)
-* Countdown, Countdown Large text, Countdown Clock countdown, Countdown Clock countdown with colons, Countdown Large text with labels, Countdown Large text with labels under, Countdown In boxes: [daisyui.com/components/countdown/](https://daisyui.com/components/countdown/)
+* Countdown updated Countdown, Countdown updated Large text with 2 digits, Countdown updated Clock countdown, Countdown updated Clock countdown with colons, Countdown updated Large text with labels, Countdown updated Large text with labels under, Countdown updated In boxes: [daisyui.com/components/countdown/](https://daisyui.com/components/countdown/)
 * Kbd, Kbd sizes, Kbd In text, Kbd Key combination, Kbd Function Keys, Kbd A full keyboard, Kbd Arrow Keys: [daisyui.com/components/kbd/](https://daisyui.com/components/kbd/)
 * Rating, Rating Read-only Rating, Rating mask-star-2 with warning color, Rating mask-heart with multiple colors, Rating mask-star-2 with green-500 color, Rating Sizes, Rating with rating-hidden, Rating half stars: [daisyui.com/components/rating/](https://daisyui.com/components/rating/)
 * Artboard size 1, Artboard size 2, Artboard size 3, Artboard size 4, Artboard size 5, Artboard size 6, Artboard horizontal size 1 (568×320), Artboard horizontal size 2 (667×375), Artboard horizontal size 3 (736×414), Artboard horizontal size 4 (812×375), Artboard horizontal size 5 (896×414), Artboard horizontal size 6 (1024×320): [daisyui.com/components/artboard/](https://daisyui.com/components/artboard/)
