@@ -7752,7 +7752,7 @@
     "parent": null
   },
   {
-    "name": "Announcement Base, Announcement Base wth dismiss, Announcement Fixed, Announcement Fixed with dismiss, Announcement Floating, Announcement Floating with dismiss",
+    "name": "Announcement Base, Announcement Base (Dark), Announcement Base with dismiss, Announcement Base with dismiss (Dark), Announcement Fixed, Announcement Fixed (Dark), Announcement Fixed with dismiss, Announcement Fixed with dismiss (Dark), Announcement Floating, Announcement Floating (Dark), Announcement Floating with dismiss, Announcement Floating with dismiss (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/announcements",
     "category": "Other",
     "parent": null
@@ -14976,7 +14976,7 @@
     "parent": null
   },
   {
-    "name": "Drawer updated Drawer sidebar, Drawer updated Navbar menu for desktop + sidebar drawer for mobile, Drawer updated Responsive: Sidebar is always visible on large screen, can be toggled on small screen, Drawer updated Icon-only drawer sidebar when it's closed. Using is-drawer-close and is-drawer-open variants, Drawer updated Drawer sidebar that opens from right side of page",
+    "name": "Drawer sidebar updated Drawer sidebar, Drawer sidebar updated Navbar menu for desktop + sidebar drawer for mobile, Drawer sidebar updated Responsive: Sidebar is always visible on large screen, can be toggled on small screen, Drawer sidebar updated Icon-only drawer sidebar when it's closed. Using is-drawer-close and is-drawer-open variants, Drawer sidebar updated Drawer sidebar that opens from right side of page",
     "link": "https://daisyui.com/components/drawer/",
     "category": "Sidebar",
     "parent": null
