@@ -80,6 +80,7 @@
 * Accordion Basic examples, Accordion Flush, Accordion Always open: [tw-elements.com/docs/standard/components/accordion/](https://tw-elements.com/docs/standard/components/accordion/)
 * Collapse Basic example, Collapse Horizontal, Collapse Multiple targets, Collapse With Scroll, Collapse Import, Collapse Usage: [tw-elements.com/docs/standard/components/collapse/](https://tw-elements.com/docs/standard/components/collapse/)
 * Tailwind CSS Accordion: [tailwindcomponents.com/component/accordion-5](https://tailwindcomponents.com/component/accordion-5)
+* Accordion, Accordion Treeview Root, Accordion Item, Accordion Toggle, Accordion Content, Accordion Heading, Accordion Bordered, Accordion Shadow, Accordion Selectable, Tree View Space, Accordion Item Active:[https://flyonui.com/docs/components/accordion/](https://flyonui.com/docs/components/accordion/)
 
 ## Alert/Notification
 
