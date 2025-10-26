@@ -211,7 +211,7 @@
 * Toast Basic example, Toast Static example, Toast Color examples, Toast Placement, Toast Offset, Toast Container, Toast Stacking, Toast Stacking (container), Toast Import, Toast Usage: [tw-elements.com/docs/standard/components/toast/](https://tw-elements.com/docs/standard/components/toast/)
 * Toast Default toast, Toast Colors, Toast Simple toast, Toast Undo button, Toast Toast message, Toast Push notification, Toast Interactive toast, Toast Positioning, Toast JavaScript behaviour: [flowbite.com/docs/components/toast/](https://flowbite.com/docs/components/toast/)
 * Alert Solid color alerts Soft color alerts Round Border Alerts Round Border with Icons Alerts: [dripui.vercel.app/docs/alerts](https://dripui.vercel.app/docs/alerts)
-* Alert Base, Alert Base (Dark), Alert Base with actions, Alert Base with actions (Dark), Alert Standout, Alert Standout (Dark): [hyperui.dev/components/application/alerts](https://www.hyperui.dev/components/application/alerts)
+* Alert   HyperUI  🚀   , Alert Base, Alert Base (Dark), Alert Base with actions, Alert Base with actions (Dark), Alert Standout, Alert Standout (Dark): [hyperui.dev/components/application/alerts](https://www.hyperui.dev/components/application/alerts)
 
 ## Avatar
 
@@ -325,7 +325,7 @@
 * badge large rectangle bullet, badge large rectangle bullet: [tailwinduikit.com/components/webapp/UI\_element/badge#large\_rectangle\_bullet](https://tailwinduikit.com/components/webapp/UI_element/badge#large_rectangle_bullet)
 * Badges Basic, Badges Pills, Badges Small, Badges Small pills: [tinywind.dev/components/badges](https://tinywind.dev/components/badges)
 * Badges Basic examples, Badges Sizes, Badges Button, Badges Colors, Badges Pills: [tw-elements.com/docs/standard/components/badges/](https://tw-elements.com/docs/standard/components/badges/)
-* Badge Base, Badge Base (Dark), Badge Base with icon, Badge Base with icon (Dark), Badge Base with dismiss, Badge Base with dismiss (Dark), Badge Icon, Badge Icon (Dark), Badge Themed with icon, Badge Themed with icon (Dark): [hyperui.dev/components/application/badges](https://www.hyperui.dev/components/application/badges)
+* Badge   HyperUI  🚀   , Badge Base, Badge Base (Dark), Badge Base with icon, Badge Base with icon (Dark), Badge Base with dismiss, Badge Base with dismiss (Dark), Badge Icon, Badge Icon (Dark), Badge Themed with icon, Badge Themed with icon (Dark): [hyperui.dev/components/application/badges](https://www.hyperui.dev/components/application/badges)
 
 ## Breadcrumb
 
@@ -360,7 +360,7 @@
 * Tailwind CSS Breadcrumb with Icon: [tailwindcomponents.com/component/breadcrumb-with-icon](https://tailwindcomponents.com/component/breadcrumb-with-icon)
 * Tailwind CSS Breadcrumbs: [tailwindcomponents.com/component/tailwind-css-breadcrumbs-by-material-tailwind](https://tailwindcomponents.com/component/tailwind-css-breadcrumbs-by-material-tailwind)
 * Tailwind CSS Breadcrumbs: [tailwindcomponents.com/component/breadcrumbs-4](https://tailwindcomponents.com/component/breadcrumbs-4)
-* Breadcrumb Base, Breadcrumb Base (Dark), Breadcrumb Base with home icon, Breadcrumb Base with home icon (Dark), Breadcrumb Slash divider, Breadcrumb Slash divider (Dark), Breadcrumb Slash divider with home icon, Breadcrumb Slash divider with home icon (Dark), Breadcrumb Grouped with chevron divider, Breadcrumb Grouped with chevron divider (Dark): [hyperui.dev/components/application/breadcrumbs](https://www.hyperui.dev/components/application/breadcrumbs)
+* Breadcrumb   HyperUI  🚀   , Breadcrumb Base, Breadcrumb Base (Dark), Breadcrumb Base with home icon, Breadcrumb Base with home icon (Dark), Breadcrumb Slash divider, Breadcrumb Slash divider (Dark), Breadcrumb Slash divider with home icon, Breadcrumb Slash divider with home icon (Dark), Breadcrumb Grouped with chevron divider, Breadcrumb Grouped with chevron divider (Dark): [hyperui.dev/components/application/breadcrumbs](https://www.hyperui.dev/components/application/breadcrumbs)
 * unsortedcoleos-breadcrumbs-GEFsOebA: [tailwind.besoeasy.com/unsorted/coleos-breadcrumbs-GEFsOebA.html](https://tailwind.besoeasy.com/unsorted/coleos-breadcrumbs-GEFsOebA.html)
 * unsortedcoleos-breadcrumbs-HSvJygEv: [tailwind.besoeasy.com/unsorted/coleos-breadcrumbs-HSvJygEv.html](https://tailwind.besoeasy.com/unsorted/coleos-breadcrumbs-HSvJygEv.html)
 * unsortedcoleos-breadcrumbs-IGagevYz: [tailwind.besoeasy.com/unsorted/coleos-breadcrumbs-IGagevYz.html](https://tailwind.besoeasy.com/unsorted/coleos-breadcrumbs-IGagevYz.html)
@@ -428,7 +428,7 @@
 * Buttons Default button, Buttons Button pills, Buttons Gradient monochrome, Buttons Gradient duotone, Buttons Gradient outline, Buttons Colored shadows, Buttons Social buttons, Buttons Payment buttons, Buttons Outline buttons, Buttons Button sizes, Buttons Button sizes with icon, Buttons Buttons with icon, Buttons Button with label, Buttons Icon buttons, Buttons Loader, Buttons Disabled: [flowbite.com/docs/components/buttons/](https://flowbite.com/docs/components/buttons/)
 * Button Group Default example, Button Group Button group as links, Button Group Group buttons with icons, Button Group Outline, Button Group Outlined with icon: [flowbite.com/docs/components/button-group/](https://flowbite.com/docs/components/button-group/)
 * Button Group #Text buttons, Button Group #Icon buttons, Button Group #Text button with icon secondary button, Button Group #Tab style text buttons, Button Group #Tab style text and icon buttons: [hyperui.dev/components/application-ui/button-groups](https://www.hyperui.dev/components/application-ui/button-groups)
-* Button Base, solid and bordered, Button Base with icon, solid and bordered, Button Gradient border, rounded and pill, Button Icon, solid and bordered, Button Drop shadow, hide shadow and show shadow on hover, Button Base with icon on hover, solid, bordered and icon left/right, Button Base with shadow and expand on hover, solid and bordered, Button Base with rotate and expand on hover, solid, outline and rotate left/right, Button Artistic with offset background, background moves in and out on hover, Button Highlighted border which expands on hover, left, right, bottom and left, Button Large with emphasized icon, solid and bordered, Button Reveal hidden static border on hover, solid and bordered: [hyperui.dev/components/marketing/buttons](https://www.hyperui.dev/components/marketing/buttons)
+* Button   HyperUI  🚀   , Button Base, solid and bordered, Button Base with icon, solid and bordered, Button Gradient border, rounded and pill, Button Icon, solid and bordered, Button Drop shadow, hide shadow and show shadow on hover, Button Base with icon on hover, solid, bordered and icon left/right, Button Base with shadow and expand on hover, solid and bordered, Button Base with rotate and expand on hover, solid, outline and rotate left/right, Button Artistic with offset background, background moves in and out on hover, Button Highlighted border which expands on hover, left, right, bottom and left, Button Large with emphasized icon, solid and bordered, Button Reveal hidden static border on hover, solid and bordered: [hyperui.dev/components/marketing/buttons](https://www.hyperui.dev/components/marketing/buttons)
 * UI Buttons, Button Icon Rounded, Button Group: [zeroblack-c.github.io/jakarta-lte/pages/components/button.html](https://zeroblack-c.github.io/jakarta-lte/pages/components/button.html)
 * Button: [layoutsfortailwind.lalokalabs.dev/ui/button](https://layoutsfortailwind.lalokalabs.dev/ui/button)
 * Button: [mambaui.com/components/button](https://mambaui.com/components/button)
@@ -828,8 +828,7 @@
 * Tailwind CSS buttons: [tailwindcomponents.com/component/buttons-8](https://tailwindcomponents.com/component/buttons-8)
 * With close button on outside: [tailwindui.com/components/preview#component-0f117af9905c6bf010968e396f2c7583](https://tailwindui.com/components/preview#component-0f117af9905c6bf010968e396f2c7583)
 * Button Basic Btns (default) Basic Btns (default) Icons Colored Shadow Btns: [dripui.vercel.app/docs/buttons](https://dripui.vercel.app/docs/buttons)
-* Button Group Base, Button Group Base (Dark), Button Group Icons, Button Group Icons (Dark), Button Group Main and secondary, Button Group Main and secondary (Dark), Button Group Layouts, Button Group Layouts (Dark), Button Group Layouts without space, Button Group Layouts without space (Dark): [hyperui.dev/components/application/button-groups](https://www.hyperui.dev/components/application/button-groups)
-* Quantity Input Base with plus and minus buttons, Quantity Input Base with plus and minus buttons (Dark), Quantity Input Base with plus and minus buttons, no spinners in the input, Quantity Input Base with plus and minus buttons, no spinners in the input (Dark), Quantity Input Base with plus and minus buttons, no spinners in the input and text centered, Quantity Input Base with plus and minus buttons, no spinners in the input and text centered (Dark), Quantity Input Bordered with plus and minus buttons, Quantity Input Bordered with plus and minus buttons (Dark): [hyperui.dev/components/application/quantity-inputs](https://www.hyperui.dev/components/application/quantity-inputs)
+* Button Group   HyperUI  🚀   , Button Group Base, Button Group Base (Dark), Button Group Icons, Button Group Icons (Dark), Button Group Main and secondary, Button Group Main and secondary (Dark), Button Group Layouts, Button Group Layouts (Dark), Button Group Layouts without space, Button Group Layouts without space (Dark): [hyperui.dev/components/application/button-groups](https://www.hyperui.dev/components/application/button-groups)
 * With button: [tailwindcss.com/plus/ui-blocks/preview#component-8904b9d9a9fbb9a2313df3975112f9d7](https://tailwindcss.com/plus/ui-blocks/preview#component-8904b9d9a9fbb9a2313df3975112f9d7)
 * Simple dark with menu button on left: [tailwindcss.com/plus/ui-blocks/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331](https://tailwindcss.com/plus/ui-blocks/preview#component-70a9bdf83ef2c8568c5cddf6c39c2331)
 * With close button on outside: [tailwindcss.com/plus/ui-blocks/preview#component-0f117af9905c6bf010968e396f2c7583](https://tailwindcss.com/plus/ui-blocks/preview#component-0f117af9905c6bf010968e396f2c7583)
@@ -858,7 +857,6 @@
 * Call To Action: [tailwindcomponents.com/component/call-to-action-basic](https://tailwindcomponents.com/component/call-to-action-basic)
 * Header #Base with title, introduction text and call to actions, Header #Base with title, introduction text and call to actions, with background color: [hyperui.dev/components/application-ui/headers](https://www.hyperui.dev/components/application-ui/headers)
 * Pricing #Options with tier, price, features and call to action with highlighted option, Pricing #Options with tier, description, price, call to action and features: [hyperui.dev/components/marketing/pricings](https://www.hyperui.dev/components/marketing/pricings)
-* Pricing Options with tier, price, features and call to action with highlighted option, Pricing Options with tier, description, price, call to action and features: [hyperui.dev/components/marketing/pricing](https://www.hyperui.dev/components/marketing/pricing)
 
 ## Card
 
@@ -891,8 +889,8 @@
 * Fancy Web3 Cards 2: [fancytailwind.com/app/fancy-laboratory/molecules/web3cards/web3Cards2](https://fancytailwind.com/app/fancy-laboratory/molecules/web3cards/web3Cards2)
 * Fancy Web3 Cards 4: [fancytailwind.com/app/fancy-laboratory/molecules/web3cards/web3Cards4](https://fancytailwind.com/app/fancy-laboratory/molecules/web3cards/web3Cards4)
 * Fancy Web3 Cards 6: [fancytailwind.com/app/fancy-laboratory/molecules/web3cards/web3Cards6](https://fancytailwind.com/app/fancy-laboratory/molecules/web3cards/web3Cards6)
-* Blog Card Bordered with image, date, title and excerpt, shadow on hover, Blog Card Bordered with image, date, title and excerpt, shadow on hover (Dark), Blog Card Floating image with title and excerpt, Blog Card Floating image with title and excerpt (Dark), Blog Card Gradient border with date, title and tags, animated gradient on hover, Blog Card Gradient border with date, title and tags, animated gradient on hover (Dark), Blog Card Background image with overlay containing date, title and excerpt: [hyperui.dev/components/marketing/blog-cards](https://www.hyperui.dev/components/marketing/blog-cards)
-* Card Stacked with Large Image and Content, Card Darkened Background with Content on Hover, Card Bordered with Content on Hover, Card Bordered with Image, Price, Content and Details, Card Image, Name, with Social Links and Project Links, Card Shaped with Image and Content, Card Podcast Post, Card Forum Post: [hyperui.dev/components/marketing/cards](https://www.hyperui.dev/components/marketing/cards)
+* Blog Card   HyperUI  🚀   , Blog Card Bordered with image, date, title and excerpt, shadow on hover, Blog Card Bordered with image, date, title and excerpt, shadow on hover (Dark), Blog Card Floating image with title and excerpt, Blog Card Floating image with title and excerpt (Dark), Blog Card Gradient border with date, title and tags, animated gradient on hover, Blog Card Gradient border with date, title and tags, animated gradient on hover (Dark), Blog Card Background image with overlay containing date, title and excerpt: [hyperui.dev/components/marketing/blog-cards](https://www.hyperui.dev/components/marketing/blog-cards)
+* Card   HyperUI  🚀   , Card Stacked with Large Image and Content, Card Darkened Background with Content on Hover, Card Bordered with Content on Hover, Card Bordered with Image, Price, Content and Details, Card Image, Name, with Social Links and Project Links, Card Shaped with Image and Content, Card Podcast Post, Card Forum Post: [hyperui.dev/components/marketing/cards](https://www.hyperui.dev/components/marketing/cards)
 * Collection Card #Simple, Collection Card #Content Inside: [hyperui.dev/components/ecommerce/collection-cards](https://www.hyperui.dev/components/ecommerce/collection-cards)
 * Product Card #Simple, Product Card #Simple with Variant Count, Product Card #Simple with Description, Product Card #Simple (Rounded), Product Card #With Color Variants, Product Card #Contained Sections with Wishlist: [hyperui.dev/components/ecommerce/product-cards](https://www.hyperui.dev/components/ecommerce/product-cards)
 * Cards: [zeroblack-c.github.io/jakarta-lte/pages/components/card.html](https://zeroblack-c.github.io/jakarta-lte/pages/components/card.html)
@@ -1358,7 +1356,7 @@
 * Airbnb card: [tailwindcomponents.com/component/airbnb-card](https://tailwindcomponents.com/component/airbnb-card)
 * Card Login (very simple): [tailwindcomponents.com/component/card-login-very-simple](https://tailwindcomponents.com/component/card-login-very-simple)
 * Collection Card #Simple, Collection Card #Content Inside: [hyperui.dev/components/marketing/collection-cards](https://www.hyperui.dev/components/marketing/collection-cards)
-* Product Card Product with image, title and price, Product Card Product with image, title, price and variant count, Product Card Product with image, title, price and description, Product Card Product with rounded image, title and price, Product Card Product with image, title, price and variant options, Product Card Collection with image, title and description: [hyperui.dev/components/marketing/product-cards](https://www.hyperui.dev/components/marketing/product-cards)
+* Product Card   HyperUI  🚀   , Product Card Product with image, title and price, Product Card Product with image, title, price and variant count, Product Card Product with image, title, price and description, Product Card Product with rounded image, title and price, Product Card Product with image, title, price and variant options, Product Card Collection with image, title and description: [hyperui.dev/components/marketing/product-cards](https://www.hyperui.dev/components/marketing/product-cards)
 * Tailwind CSS github-repo-card: [tailwindcomponents.com/component/github-repo-card](https://tailwindcomponents.com/component/github-repo-card)
 * Tailwind CSS GitHub profile card: [tailwindcomponents.com/component/github-profile-card-2](https://tailwindcomponents.com/component/github-profile-card-2)
 * Tailwind CSS Blog Card: [tailwindcomponents.com/component/blog-card-3](https://tailwindcomponents.com/component/blog-card-3)
@@ -1432,7 +1430,7 @@
 * Tailwind CSS Stats Section: [tailwindcomponents.com/component/tailwind-css-stats-section](https://tailwindcomponents.com/component/tailwind-css-stats-section)
 * Airbnb user state: [tailwindcomponents.com/component/airbnb-user-state](https://tailwindcomponents.com/component/airbnb-user-state)
 * Status, Status sizes, Status with colors, Status with ping animation, Status with bounce animation: [daisyui.com/components/status/](https://daisyui.com/components/status/)
-* Stat Title, value, from value and themed growth stat, Stat Title, value, from value and themed growth stat (Dark), Stat Title, value, icon and themed growth stat, Stat Title, value, icon and themed growth stat (Dark), Stat Title, value and themed growth stat, Stat Title, value and themed growth stat (Dark), Stat Title, value and icon, Stat Title, value and icon (Dark), Stat Title, value and themed growth stat, stacked style, Stat Title, value and themed growth stat, stacked style (Dark), Stat Title, value, icon and themed growth stat, stacked style, Stat Title, value, icon and themed growth stat, stacked style (Dark): [hyperui.dev/components/application/stats](https://www.hyperui.dev/components/application/stats)
+* Stat   HyperUI  🚀   , Stat Title, value, from value and themed growth stat, Stat Title, value, from value and themed growth stat (Dark), Stat Title, value, icon and themed growth stat, Stat Title, value, icon and themed growth stat (Dark), Stat Title, value and themed growth stat, Stat Title, value and themed growth stat (Dark), Stat Title, value and icon, Stat Title, value and icon (Dark), Stat Title, value and themed growth stat, stacked style, Stat Title, value and themed growth stat, stacked style (Dark), Stat Title, value, icon and themed growth stat, stacked style, Stat Title, value, icon and themed growth stat, stacked style (Dark): [hyperui.dev/components/application/stats](https://www.hyperui.dev/components/application/stats)
 * With stats: [tailwindcss.com/plus/ui-blocks/preview#component-813ce86310c2c337070a66a152012665](https://tailwindcss.com/plus/ui-blocks/preview#component-813ce86310c2c337070a66a152012665)
 * statssolstic copy 5: [tailwind.besoeasy.com/stats/solstic%20copy%205.html](https://tailwind.besoeasy.com/stats/solstic%20copy%205.html)
 * statssolstic copy 6: [tailwind.besoeasy.com/stats/solstic%20copy%206.html](https://tailwind.besoeasy.com/stats/solstic%20copy%206.html)
@@ -1678,7 +1676,6 @@
 * Tailwind CSS Popover  inspired by Material Design: [tailwindcomponents.com/component/tailwind-css-popover-inspired-by-material-design](https://tailwindcomponents.com/component/tailwind-css-popover-inspired-by-material-design)
 * Tailwind CSS Popover: [tailwindcomponents.com/component/tailwind-css-popover](https://tailwindcomponents.com/component/tailwind-css-popover)
 * Popover Basic example, Popover Four directions, Popover Dismiss on next click, Popover Disabled, Popover Import, Popover Usage: [tw-elements.com/docs/standard/components/popover/](https://tw-elements.com/docs/standard/components/popover/)
-* Header Icon on the left, links and user dropdown on the right, Header Icon on the left, links and user dropdown on the right (Dark): [hyperui.dev/components/marketing/headers](https://www.hyperui.dev/components/marketing/headers)
 * Popover Default popover, Popover User profile, Popover Company profile, Popover Image popover, Popover Description popover, Popover Progress popover, Popover Password strength, Popover Placement, Popover Triggering, Popover Offset, Popover Animation, Popover Disable arrow, Popover JavaScript behaviour: [flowbite.com/docs/components/popover/](https://flowbite.com/docs/components/popover/)
 * Select Select input example, Select Multiple options, Select Size attribute, Select Underline select, Select Select with dropdown, Select Sizes: [flowbite.com/docs/forms/select/](https://flowbite.com/docs/forms/select/)
 * Drop Down Component (Dark Mode supported): [tailwindcomponents.com/component/drop-down-component-dark-mode-supported](https://tailwindcomponents.com/component/drop-down-component-dark-mode-supported)
@@ -1687,9 +1684,8 @@
 * select number: [tailwindcomponents.com/component/select-number](https://tailwindcomponents.com/component/select-number)
 * Select: [headlessui.com/react/select](https://headlessui.com/react/select)
 * dropdown in alphinejs: [tailwindcomponents.com/component/dropdown-in-alphinejs](https://tailwindcomponents.com/component/dropdown-in-alphinejs)
-* Filter Dropdown, Filter Dropdown (Dark): [hyperui.dev/components/application/filters](https://www.hyperui.dev/components/application/filters)
-* Dropdown Base, Dropdown Base (Dark), Dropdown Divided, Dropdown Divided (Dark), Dropdown Grouped, Dropdown Grouped (Dark): [hyperui.dev/components/application/dropdown](https://www.hyperui.dev/components/application/dropdown)
-* Select Base, Select Base (Dark), Select Option groups, Select Option groups (Dark), Select Datalist, Select Datalist (Dark): [hyperui.dev/components/application/selects](https://www.hyperui.dev/components/application/selects)
+* Dropdown   HyperUI  🚀   , Dropdown Base, Dropdown Base (Dark), Dropdown Divided, Dropdown Divided (Dark), Dropdown Grouped, Dropdown Grouped (Dark): [hyperui.dev/components/application/dropdown](https://www.hyperui.dev/components/application/dropdown)
+* Select   HyperUI  🚀   , Select Base, Select Base (Dark), Select Option groups, Select Option groups (Dark), Select Datalist, Select Datalist (Dark): [hyperui.dev/components/application/selects](https://www.hyperui.dev/components/application/selects)
 * With stacked flyout menu: [tailwindcss.com/plus/ui-blocks/preview#component-27e5f71ced91b88e3f6b59ca69033a83](https://tailwindcss.com/plus/ui-blocks/preview#component-27e5f71ced91b88e3f6b59ca69033a83)
 * Input with inline leading add-on and trailing dropdown: [tailwindcss.com/plus/ui-blocks/preview#component-2607d970262ada86428f063c72b1e7bd](https://tailwindcss.com/plus/ui-blocks/preview#component-2607d970262ada86428f063c72b1e7bd)
 * With color and size selector: [tailwindcss.com/plus/ui-blocks/preview#component-8f33b33d19bbb2608bb5ae6488344e88](https://tailwindcss.com/plus/ui-blocks/preview#component-8f33b33d19bbb2608bb5ae6488344e88)
@@ -1962,11 +1958,12 @@
 * Textarea: [headlessui.com/react/textarea](https://headlessui.com/react/textarea)
 * Cool Text Inputs and Login: [tailwindcomponents.com/component/cool-text-inputs-and-login-2](https://tailwindcomponents.com/component/cool-text-inputs-and-login-2)
 * User Authentication Form: [tailwindcomponents.com/component/alx-website-clone](https://tailwindcomponents.com/component/alx-website-clone)
-* Input Base, Input Base (Dark), Input Base with icon, Input Base with icon (Dark), Input Floating label, Input Floating label (Dark): [hyperui.dev/components/application/inputs](https://www.hyperui.dev/components/application/inputs)
+* Input   HyperUI  🚀   , Input Base, Input Base (Dark), Input Base with icon, Input Base with icon (Dark), Input Floating label, Input Floating label (Dark): [hyperui.dev/components/application/inputs](https://www.hyperui.dev/components/application/inputs)
+* Quantity Input   HyperUI  🚀   : [hyperui.dev/components/application/quantity-inputs](https://www.hyperui.dev/components/application/quantity-inputs)
 * Filter using HTML form, radio buttons and reset button, Filter without HTML form, Filter using HTML form, checkboxes, and a reset button: [daisyui.com/components/filter/](https://daisyui.com/components/filter/)
-* Checkbox Base, Checkbox Base (Dark), Checkbox Described, Checkbox Described (Dark), Checkbox Described with divide, Checkbox Described with divide (Dark): [hyperui.dev/components/application/checkboxes](https://www.hyperui.dev/components/application/checkboxes)
-* Radio Group Base, Radio Group Base (Dark), Radio Group Base with input, Radio Group Base with input (Dark), Radio Group Color variant: [hyperui.dev/components/application/radio-groups](https://www.hyperui.dev/components/application/radio-groups)
-* Textarea Base, Textarea Base (Dark), Textarea Actions inside, Textarea Actions inside (Dark), Textarea Actions outside, Textarea Actions outside (Dark): [hyperui.dev/components/application/textareas](https://www.hyperui.dev/components/application/textareas)
+* Checkbox   HyperUI  🚀   , Checkbox Base, Checkbox Base (Dark), Checkbox Described, Checkbox Described (Dark), Checkbox Described with divide, Checkbox Described with divide (Dark): [hyperui.dev/components/application/checkboxes](https://www.hyperui.dev/components/application/checkboxes)
+* Radio Group   HyperUI  🚀   , Radio Group Base, Radio Group Base (Dark), Radio Group Base with input, Radio Group Base with input (Dark), Radio Group Color variant: [hyperui.dev/components/application/radio-groups](https://www.hyperui.dev/components/application/radio-groups)
+* Textarea   HyperUI  🚀   , Textarea Base, Textarea Base (Dark), Textarea Actions inside, Textarea Actions inside (Dark), Textarea Actions outside, Textarea Actions outside (Dark): [hyperui.dev/components/application/textareas](https://www.hyperui.dev/components/application/textareas)
 
 ### Contact
 
@@ -2185,7 +2182,6 @@
 
 ### Register
 
-* CTA Newsletter sign up form with centered content and form, CTA Newsletter sign up form with centered content and form (Dark): [hyperui.dev/components/marketing/ctas](https://www.hyperui.dev/components/marketing/ctas)
 * Authentication Register: [kamona-wd.github.io/kwd-dashboard/auth/register.html](https://kamona-wd.github.io/kwd-dashboard/auth/register.html)
 * Authentication Register: [kutty.netlify.app/components/register/](https://kutty.netlify.app/components/register/)
 * Register Page: [tailwindadmin.netlify.app/register.html](https://tailwindadmin.netlify.app/register.html)
@@ -2273,7 +2269,7 @@
 * unsorteduinel-signup-rLSBypXn: [tailwind.besoeasy.com/unsorted/uinel-signup-rLSBypXn.html](https://tailwind.besoeasy.com/unsorted/uinel-signup-rLSBypXn.html)
 * unsorteduinel-signup-xolsKRhz: [tailwind.besoeasy.com/unsorted/uinel-signup-xolsKRhz.html](https://tailwind.besoeasy.com/unsorted/uinel-signup-xolsKRhz.html)
 * unsorteduinel-signup-yaePdyOk: [tailwind.besoeasy.com/unsorted/uinel-signup-yaePdyOk.html](https://tailwind.besoeasy.com/unsorted/uinel-signup-yaePdyOk.html)
-* Newsletter Signup Simple signup, Newsletter Signup Simple signup centered: [hyperui.dev/components/marketing/newsletter-signup](https://www.hyperui.dev/components/marketing/newsletter-signup)
+* Newsletter Signup   HyperUI  🚀   , Newsletter Signup Simple signup, Newsletter Signup Simple signup centered: [hyperui.dev/components/marketing/newsletter-signup](https://www.hyperui.dev/components/marketing/newsletter-signup)
 
 ### Search
 
@@ -2360,7 +2356,7 @@
 * File Uploading Progress Just uploaded file, File Uploading Progress In progress file, File Uploading Progress Completed, File Uploading Progress Error, File Uploading Progress Multiple files: Just uploaded, File Uploading Progress Multiple files: In progress, File Uploading Progress Multiple files: Error: [preline.co/docs/file-uploading-progress-form.html](https://preline.co/docs/file-uploading-progress-form.html)
 * Tailwind CSS snippet upload preview: [tailwindcomponents.com/component/snipet-upload-preview](https://tailwindcomponents.com/component/snipet-upload-preview)
 * File Input File upload example: [flowbite.com/docs/forms/file-input/](https://flowbite.com/docs/forms/file-input/)
-* File Uploader Base, File Uploader Base (Dark), File Uploader Base with button, File Uploader Base with button (Dark): [hyperui.dev/components/application/file-uploaders](https://www.hyperui.dev/components/application/file-uploaders)
+* File Uploader   HyperUI  🚀   , File Uploader Base, File Uploader Base (Dark), File Uploader Base with button, File Uploader Base with button (Dark): [hyperui.dev/components/application/file-uploaders](https://www.hyperui.dev/components/application/file-uploaders)
 
 ## Footer
 
@@ -2379,7 +2375,7 @@
 * footeryes: [tailwind.besoeasy.com/footer/yes.html](https://tailwind.besoeasy.com/footer/yes.html)
 * footerzox: [tailwind.besoeasy.com/footer/zox.html](https://tailwind.besoeasy.com/footer/zox.html)
 * Card Header and footer: [preline.co/docs/card.html](https://preline.co/docs/card.html)
-* Footer Large with newsletter form, Footer Large with newsletter form (Dark), Footer Simple stacked, Footer Simple stacked (Dark), Footer Simple row, Footer Simple row (Dark), Footer Split with company info, links and image, Footer Split with company info, links and image (Dark), Footer Newsletter form as priority, Footer Newsletter form as priority (Dark), Footer Centered with branding, Footer Centered with branding (Dark), Footer Slim with branding and link top, Footer Slim with branding and link top (Dark), Footer Company info and links, Footer Company info and links (Dark), Footer Inline with logo and copyright, Footer Inline with logo and copyright (Dark), Footer Company info, links and email signup, Footer Company info, links and email signup (Dark): [hyperui.dev/components/marketing/footers](https://www.hyperui.dev/components/marketing/footers)
+* Footer   HyperUI  🚀   , Footer Large with newsletter form, Footer Large with newsletter form (Dark), Footer Simple stacked, Footer Simple stacked (Dark), Footer Simple row, Footer Simple row (Dark), Footer Split with company info, links and image, Footer Split with company info, links and image (Dark), Footer Newsletter form as priority, Footer Newsletter form as priority (Dark), Footer Centered with branding, Footer Centered with branding (Dark), Footer Slim with branding and link top, Footer Slim with branding and link top (Dark), Footer Company info and links, Footer Company info and links (Dark), Footer Inline with logo and copyright, Footer Inline with logo and copyright (Dark): [hyperui.dev/components/marketing/footers](https://www.hyperui.dev/components/marketing/footers)
 * footers: [tailwind-css-components.appseed.us/footers.html](https://tailwind-css-components.appseed.us/footers.html)
 * Footer (vertical by default, horizontal for sm and up), Footer with a logo section, Footer with a form, Footer with logo and social icons, Footer with copyright text, Footer with copyright text and social icons, Footer with links and social icons, Footer with 2 rows, Footer Centered footer with logo and social icons, Footer Centered footer with social icons, Footer Two footer: [daisyui.com/components/footer/](https://daisyui.com/components/footer/)
 * Fancy Footer 1: [fancytailwind.com/app/fancy-laboratory/molecules/footers/footer1](https://fancytailwind.com/app/fancy-laboratory/molecules/footers/footer1)
@@ -2693,7 +2689,7 @@
 * Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
 * Tailwind CSS Modal: [tailwindcomponents.com/component/modal-16](https://tailwindcomponents.com/component/modal-16)
 * Modal Video with Alpine.js: [tailwindcomponents.com/component/modal-video-with-alpinejs](https://tailwindcomponents.com/component/modal-video-with-alpinejs)
-* Modal Base, Modal Base (Dark), Modal Base with close, Modal Base with close (Dark), Modal Actions, Modal Actions (Dark), Modal Actions with close, Modal Actions with close (Dark), Modal Input, Modal Input (Dark), Modal Input with close, Modal Input with close (Dark): [hyperui.dev/components/application/modals](https://www.hyperui.dev/components/application/modals)
+* Modal   HyperUI  🚀   , Modal Base, Modal Base (Dark), Modal Base with close, Modal Base with close (Dark), Modal Actions, Modal Actions (Dark), Modal Actions with close, Modal Actions with close (Dark), Modal Input, Modal Input (Dark), Modal Input with close, Modal Input with close (Dark): [hyperui.dev/components/application/modals](https://www.hyperui.dev/components/application/modals)
 * extramodal1: [tailwind.besoeasy.com/extra/modal1.html](https://tailwind.besoeasy.com/extra/modal1.html)
 * extramodal2: [tailwind.besoeasy.com/extra/modal2.html](https://tailwind.besoeasy.com/extra/modal2.html)
 * extramodal3: [tailwind.besoeasy.com/extra/modal3.html](https://tailwind.besoeasy.com/extra/modal3.html)
@@ -2881,6 +2877,7 @@
 * Breadcrumbs Breadcrumb in navbar: [tw-elements.com/docs/standard/navigation/breadcrumbs/](https://tw-elements.com/docs/standard/navigation/breadcrumbs/)
 * Search Navbar: [tw-elements.com/docs/standard/forms/search/](https://tw-elements.com/docs/standard/forms/search/)
 * undefined Header with paragraph, undefined Space between Navbar, undefined Grid 3x with header, undefined Grid 4x2 with header, undefined Grid 4x2 Rounded full with header: [merakiui.com/components/application-ui/skeleton](https://merakiui.com/components/application-ui/skeleton)
+* Header   HyperUI  🚀   : [hyperui.dev/components/marketing/headers](https://www.hyperui.dev/components/marketing/headers)
 * Tailwind CSS Header sections: [tailwindcomponents.com/component/page-sections-5](https://tailwindcomponents.com/component/page-sections-5)
 * Ecommerce Header with Alpinejs: [tailwindcomponents.com/component/ecommerce-header-with-alpinejs](https://tailwindcomponents.com/component/ecommerce-header-with-alpinejs)
 * Tailwind CSS navbar: [tailwindcomponents.com/component/navbar-24](https://tailwindcomponents.com/component/navbar-24)
@@ -3149,7 +3146,6 @@
 * Tailwind CSS Landing Page: [tailwindcomponents.com/component/landingpage](https://tailwindcomponents.com/component/landingpage)
 * Tailwind CSS 500 Error Page: [tailwindcomponents.com/component/500-error](https://tailwindcomponents.com/component/500-error)
 * Startup Landing Page: [loopple.com/product/tailwind-css-startup-landing-page](https://www.loopple.com/product/tailwind-css-startup-landing-page)
-* Cart Page: [hyperui.dev/components/marketing/carts](https://www.hyperui.dev/components/marketing/carts)
 * Landing Pages: [tailwindcomponents.com/component/landing-pages-12](https://tailwindcomponents.com/component/landing-pages-12)
 * page sections: [tailwindcomponents.com/component/page-sections-20](https://tailwindcomponents.com/component/page-sections-20)
 * Landing Page: [tailwindcomponents.com/component/landing-page-5](https://tailwindcomponents.com/component/landing-page-5)
@@ -3210,7 +3206,7 @@
 * faq: [tailwind-css-components.appseed.us/faq.html](https://tailwind-css-components.appseed.us/faq.html)
 * Fancy Faq 1: [fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq1](https://fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq1)
 * Fancy Faq 6: [fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq6](https://fancytailwind.com/app/fancy-laboratory/organisms/faqs/faq6)
-* FAQ Base with chevrons, FAQ Base with chevrons (Dark), FAQ Base with plus/minus, FAQ Base with plus/minus (Dark), FAQ Divided with chevrons, FAQ Divided with chevrons (Dark), FAQ Divided with plus/minus, FAQ Divided with plus/minus (Dark), FAQ Background, FAQ Background (Dark): [hyperui.dev/components/marketing/faqs](https://www.hyperui.dev/components/marketing/faqs)
+* FAQ   HyperUI  🚀   , FAQ Base with chevrons, FAQ Base with chevrons (Dark), FAQ Divided with chevrons, FAQ Divided with chevrons (Dark), FAQ Background, FAQ Background (Dark): [hyperui.dev/components/marketing/faqs](https://www.hyperui.dev/components/marketing/faqs)
 * FAQs: [kitwind.io/products/kometa/components/faq](https://kitwind.io/products/kometa/components/faq)
 * Marketing FAQ: [kutty.netlify.app/components/faq/](https://kutty.netlify.app/components/faq/)
 * Faq: [mambaui.com/components/faq](https://mambaui.com/components/faq)
@@ -3331,6 +3327,7 @@
 * Tailwind CSS Pricing Table: [tailwindcomponents.com/component/pricing-table-2](https://tailwindcomponents.com/component/pricing-table-2)
 * Pricing Tabs with a Monthly/Yearly Toggle: [tailwindcomponents.com/component/pricing-tabs-with-a-monthlyyearly-toggle](https://tailwindcomponents.com/component/pricing-tabs-with-a-monthlyyearly-toggle)
 * Magic AI Blocks Pricing Table: [tailwindcomponents.com/component/magic-ai-blocks-pricing-table](https://tailwindcomponents.com/component/magic-ai-blocks-pricing-table)
+* Pricing   HyperUI  🚀   : [hyperui.dev/components/marketing/pricing](https://www.hyperui.dev/components/marketing/pricing)
 * pricing8: [wickedblocks.dev/original/block/pricing8/](https://www.wickedblocks.dev/original/block/pricing8/)
 * pricing9: [wickedblocks.dev/original/block/pricing9/](https://www.wickedblocks.dev/original/block/pricing9/)
 * pricing6: [wickedblocks.dev/original/block/pricing6/](https://www.wickedblocks.dev/original/block/pricing6/)
@@ -3482,7 +3479,7 @@
 * Tailwind CSS Pagination Responsive: [tailwindcomponents.com/component/pagination-responsive](https://tailwindcomponents.com/component/pagination-responsive)
 * Pagination Basic example, Pagination Icons, Pagination Disabled and active states, Pagination Alignment, Pagination Sizing, Pagination Shape, Pagination Color options: [tw-elements.com/docs/standard/navigation/pagination/](https://tw-elements.com/docs/standard/navigation/pagination/)
 * Pagination Default pagination, Pagination Pagination with icons, Pagination Previous and next, Pagination Previous and next with icons, Pagination Table data pagination, Pagination Table data pagination with icons: [flowbite.com/docs/components/pagination/](https://flowbite.com/docs/components/pagination/)
-* Pagination Navigation, Pagination Navigation (Dark), Pagination Input, Pagination Input (Dark), Pagination X/Y, Pagination X/Y (Dark): [hyperui.dev/components/application/pagination](https://www.hyperui.dev/components/application/pagination)
+* Pagination   HyperUI  🚀   , Pagination Navigation, Pagination Navigation (Dark), Pagination Input, Pagination Input (Dark), Pagination X/Y, Pagination X/Y (Dark): [hyperui.dev/components/application/pagination](https://www.hyperui.dev/components/application/pagination)
 
 ## Progress Bar
 
@@ -3618,7 +3615,7 @@
 * Timepicker Drawer with timepicker: [flowbite.com/docs/forms/timepicker/](https://flowbite.com/docs/forms/timepicker/)
 * Tailwind CSS Sliding card: [tailwindcomponents.com/component/sliding-card-1](https://tailwindcomponents.com/component/sliding-card-1)
 * Tailwind CSS Dynamic Sidebar with Alpine JS: [tailwindcomponents.com/component/dynamic-sidebar](https://tailwindcomponents.com/component/dynamic-sidebar)
-* Side Menu Icon, links with tooltips and logout action: [hyperui.dev/components/application/side-menu](https://www.hyperui.dev/components/application/side-menu)
+* Side Menu   HyperUI  🚀   , Side Menu Icon, links with tooltips and logout action: [hyperui.dev/components/application/side-menu](https://www.hyperui.dev/components/application/side-menu)
 * Layouts Mini & Column sidebar: [kamona-wd.github.io/kwd-dashboard/layouts/mini-plus-one-column-sidebar.html](https://kamona-wd.github.io/kwd-dashboard/layouts/mini-plus-one-column-sidebar.html)
 * Layouts Mini sidebar: [kamona-wd.github.io/kwd-dashboard/layouts/mini-sidebar.html](https://kamona-wd.github.io/kwd-dashboard/layouts/mini-sidebar.html)
 * Drawer: [tailwindcss.com/plus/ui-blocks/preview#component-49ea2974de976a1db7cc7411a85bb2b1](https://tailwindcss.com/plus/ui-blocks/preview#component-49ea2974de976a1db7cc7411a85bb2b1)
@@ -3668,7 +3665,7 @@
 * Tailwind CSS Stepper: [tailwindcomponents.com/component/tailwind-css-stepper](https://tailwindcomponents.com/component/tailwind-css-stepper)
 * Stepper Basic example, Stepper Change steps using external elements, Stepper Linear stepper, Stepper With Validation component, Stepper With default HMTL validation, Stepper No editable stepper, Stepper Vertical stepper, Stepper Mobile stepper, Stepper with gesture support, Stepper Optional step, Stepper Custom icons, Stepper Form wizard, Stepper Toggle to vertical or mobile on smaller screens, Stepper Events, Stepper Import, Stepper Usage: [tw-elements.com/docs/standard/components/stepper/](https://tw-elements.com/docs/standard/components/stepper/)
 * Stepper Default stepper, Stepper Progress stepper, Stepper Detailed stepper, Stepper Vertical stepper, Stepper Breadcrumb stepper, Stepper Timeline stepper, Stepper Stepper with form: [flowbite.com/docs/components/stepper/](https://flowbite.com/docs/components/stepper/)
-* Step Title, step and closed completed steps, with highlighted current step, Step Grouped with title and description, with highlighted current step, Step Timeline with title, with highlighted current step: [hyperui.dev/components/application/steps](https://www.hyperui.dev/components/application/steps)
+* Step   HyperUI  🚀   , Step Grouped with title and description, with highlighted current step, Step Grouped with title and description, with highlighted current step (Dark), Step Timeline with title, with highlighted current step, Step Timeline with title, with highlighted current step (Dark): [hyperui.dev/components/application/steps](https://www.hyperui.dev/components/application/steps)
 * extrastepe1: [tailwind.besoeasy.com/extra/stepe1.html](https://tailwind.besoeasy.com/extra/stepe1.html)
 * extrastepe2: [tailwind.besoeasy.com/extra/stepe2.html](https://tailwind.besoeasy.com/extra/stepe2.html)
 * extrastepe3: [tailwind.besoeasy.com/extra/stepe3.html](https://tailwind.besoeasy.com/extra/stepe3.html)
@@ -3723,7 +3720,7 @@
 * Tailwind CSS Switch  Toggle: [tailwindcomponents.com/component/switch-toggle-2](https://tailwindcomponents.com/component/switch-toggle-2)
 * Switch Basic example, Switch Checked, Switch Disabled, Switch Disabled checked, Switch Without labels: [tw-elements.com/docs/standard/forms/switch/](https://tw-elements.com/docs/standard/forms/switch/)
 * Toggle Toggle example, Toggle Colors, Toggle Sizes: [flowbite.com/docs/forms/toggle/](https://flowbite.com/docs/forms/toggle/)
-* Toggle Base, Toggle Base (Dark), Toggle Base with icon, Toggle Base with icon (Dark), Toggle Material, Toggle Material (Dark), Toggle Apple, Toggle Apple (Dark): [hyperui.dev/components/application/toggles](https://www.hyperui.dev/components/application/toggles)
+* Toggle   HyperUI  🚀   , Toggle Base, Toggle Base (Dark), Toggle Base with icon, Toggle Base with icon (Dark), Toggle Material, Toggle Material (Dark), Toggle Apple, Toggle Apple (Dark): [hyperui.dev/components/application/toggles](https://www.hyperui.dev/components/application/toggles)
 
 ## Tags
 
@@ -3867,7 +3864,7 @@
 * Tables Default table, Tables Highlight, Tables Table layout, Tables Table styles, Tables Overflow scrolling, Tables Table filter, Tables Table with users, Tables Table with products, Tables Comparison table, Tables Table colors, Tables More examples: [flowbite.com/docs/components/tables/](https://flowbite.com/docs/components/tables/)
 * Tables Bordered Table, Tables Colored Table, Tables Full Table: [tailwindadmin.netlify.app/tables](https://tailwindadmin.netlify.app/tables)
 * Datatables Getting started, Datatables Default datatable, Datatables Filtering data, Datatables Sorting data, Datatables Export files, Datatables JavaScript behaviour, Datatables Options, Datatables Methods, Datatables License: [flowbite.com/docs/plugins/datatables/](https://flowbite.com/docs/plugins/datatables/)
-* Table Base, Table Base (Dark), Table Bordered, Table Bordered (Dark), Table Striped, Table Striped (Dark), Table Sticky headings, Table Sticky headings (Dark), Table Sticky first column, Table Sticky first column (Dark): [hyperui.dev/components/application/tables](https://www.hyperui.dev/components/application/tables)
+* Table   HyperUI  🚀   , Table Base, Table Base (Dark), Table Bordered, Table Bordered (Dark), Table Striped, Table Striped (Dark), Table Sticky headings, Table Sticky headings (Dark), Table Sticky first column, Table Sticky first column (Dark): [hyperui.dev/components/application/tables](https://www.hyperui.dev/components/application/tables)
 * unsorteduinel-table-AhoKkvNY: [tailwind.besoeasy.com/unsorted/uinel-table-AhoKkvNY.html](https://tailwind.besoeasy.com/unsorted/uinel-table-AhoKkvNY.html)
 * unsorteduinel-table-KvtJdVie: [tailwind.besoeasy.com/unsorted/uinel-table-KvtJdVie.html](https://tailwind.besoeasy.com/unsorted/uinel-table-KvtJdVie.html)
 * unsorteduinel-table-YdmKzjhF: [tailwind.besoeasy.com/unsorted/uinel-table-YdmKzjhF.html](https://tailwind.besoeasy.com/unsorted/uinel-table-YdmKzjhF.html)
@@ -3949,7 +3946,7 @@
 * Product Lists: [tailwindcomponents.com/component/product-lists](https://tailwindcomponents.com/component/product-lists)
 * Products List: [tailwindcomponents.com/component/products-1](https://tailwindcomponents.com/component/products-1)
 * List (second column grows - default), List (third column grows), List (third column wraps to next row): [daisyui.com/components/list/](https://daisyui.com/components/list/)
-* Details List Base, Details List Base (Dark), Details List Striped, Details List Striped (Dark), Details List Bordered, Details List Bordered (Dark), Details List Striped and bordered, Details List Striped and bordered (Dark): [hyperui.dev/components/application/details-list](https://www.hyperui.dev/components/application/details-list)
+* Details List   HyperUI  🚀   , Details List Base, Details List Base (Dark), Details List Striped, Details List Striped (Dark), Details List Bordered, Details List Bordered (Dark), Details List Striped and bordered, Details List Striped and bordered (Dark): [hyperui.dev/components/application/details-list](https://www.hyperui.dev/components/application/details-list)
 
 ## Tab
 
@@ -4040,7 +4037,7 @@
 * Vertical Timeline - Example #1: [tailwindcomponents.com/component/vertical-timeline-example-1](https://tailwindcomponents.com/component/vertical-timeline-example-1)
 * Vertical Timeline - Example #3: [tailwindcomponents.com/component/vertical-timeline-example-3](https://tailwindcomponents.com/component/vertical-timeline-example-3)
 * Vertical Timeline - Example #2: [tailwindcomponents.com/component/vertical-timeline-example-2](https://tailwindcomponents.com/component/vertical-timeline-example-2)
-* Timeline Vertical, Timeline Vertical (Dark), Timeline Vertical with middle line, Timeline Vertical with middle line (Dark), Timeline Horizontal, Timeline Horizontal (Dark): [hyperui.dev/components/application/timelines](https://www.hyperui.dev/components/application/timelines)
+* Timeline   HyperUI  🚀   , Timeline Vertical, Timeline Vertical (Dark), Timeline Vertical with middle line, Timeline Vertical with middle line (Dark), Timeline Horizontal, Timeline Horizontal (Dark): [hyperui.dev/components/application/timelines](https://www.hyperui.dev/components/application/timelines)
 
 ## Other
 
@@ -4120,9 +4117,9 @@
 * Dividers With heading: [tinywind.dev/components/dividers](https://tinywind.dev/components/dividers)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/section-headers](https://floatui.com/components/section-headers)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/buttons](https://floatui.com/components/buttons)
-* Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Polls, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections, Free Tailwind CSS Marketing Marketing, Free Tailwind CSS Marketing Announcements, Free Tailwind CSS Marketing Banners, Free Tailwind CSS Marketing Carts, Free Tailwind CSS Marketing CTAs, Free Tailwind CSS Marketing Polls, Free Tailwind CSS Marketing Product Collections, Free Tailwind CSS Marketing Sections: [hyperui.dev/components/marketing](https://www.hyperui.dev/components/marketing)
+* Free Tailwind CSS Marketing   HyperUI  🚀   , Free Tailwind CSS Marketing  Marketing , Free Tailwind CSS Marketing  Announcements , Free Tailwind CSS Marketing  Banners , Free Tailwind CSS Marketing  Carts , Free Tailwind CSS Marketing  CTAs , Free Tailwind CSS Marketing  Polls , Free Tailwind CSS Marketing  Product Collections , Free Tailwind CSS Marketing  Sections , Free Tailwind CSS Marketing   HyperUI  🚀   , Free Tailwind CSS Marketing  Marketing , Free Tailwind CSS Marketing  Announcements , Free Tailwind CSS Marketing  Banners , Free Tailwind CSS Marketing  Carts , Free Tailwind CSS Marketing  CTAs , Free Tailwind CSS Marketing  Polls , Free Tailwind CSS Marketing  Product Collections , Free Tailwind CSS Marketing  Sections : [hyperui.dev/components/marketing](https://www.hyperui.dev/components/marketing)
 * Lexicon Text Area With message: [tailwindtemplates.io/templates?category=input](https://tailwindtemplates.io/templates?category=input)
-* Section Content with image, 1/2 grid, Section Content with image, 2/3 grid, Section Content with image, 3/2 grid, Section Content with image, vertical split: [hyperui.dev/components/marketing/sections](https://www.hyperui.dev/components/marketing/sections)
+* Section   HyperUI  🚀   , Section Content with image, 1/2 grid, Section Content with image, 2/3 grid, Section Content with image, 3/2 grid, Section Content with image, vertical split: [hyperui.dev/components/marketing/sections](https://www.hyperui.dev/components/marketing/sections)
 * Stack 3 divs in a stack, Stack stacked images: [daisyui.com/components/stack/](https://daisyui.com/components/stack/)
 * Getting Started, Marketing UI, Application UI, Basic Feature Section, Dark Feature Section, Feature Section with check icons, Divided Feature Section, Feature Section with links, Feature Section with three columns, Feature Section with image: [floatui.com/components/feature-sections](https://floatui.com/components/feature-sections)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/stats](https://floatui.com/components/stats)
@@ -4133,12 +4130,13 @@
 * Blog - With categ, Blog - With author: [tailwind-kit.com/components/blog](https://www.tailwind-kit.com/components/blog)
 * Primer Blankslate: [tailwindtemplates.io/templates?category=card](https://tailwindtemplates.io/templates?category=card)
 * Gallery Default gallery, Gallery Masonry grid, Gallery Featured image, Gallery Quad gallery: [flowbite.com/docs/components/gallery/](https://flowbite.com/docs/components/gallery/)
-* Announcement Base, Announcement Base (Dark), Announcement Base with dismiss, Announcement Base with dismiss (Dark), Announcement Fixed, Announcement Fixed (Dark), Announcement Fixed with dismiss, Announcement Fixed with dismiss (Dark), Announcement Floating, Announcement Floating (Dark), Announcement Floating with dismiss, Announcement Floating with dismiss (Dark): [hyperui.dev/components/marketing/announcements](https://www.hyperui.dev/components/marketing/announcements)
+* Announcement   HyperUI  🚀   , Announcement Base, Announcement Base (Dark), Announcement Base with dismiss, Announcement Base with dismiss (Dark), Announcement Fixed, Announcement Fixed (Dark), Announcement Fixed with dismiss, Announcement Fixed with dismiss (Dark), Announcement Floating, Announcement Floating (Dark), Announcement Floating with dismiss, Announcement Floating with dismiss (Dark): [hyperui.dev/components/marketing/announcements](https://www.hyperui.dev/components/marketing/announcements)
 * Product Collection #Simple, Product Collection #Simple with Centered Title, Product Collection #Sort & Layout, Product Collection #Filtering (Side): [hyperui.dev/components/ecommerce/product-collections](https://www.hyperui.dev/components/ecommerce/product-collections)
 * Join (group items) Join, Join (group items) Group items vertically, Join (group items) Responsive: it's vertical on small screen and horizontal on large screen, Join (group items) With extra elements in the group, Join (group items) Custom border radius: [daisyui.com/components/join/](https://daisyui.com/components/join/)
 * Banner Default sticky banner, Banner Bottom banner position, Banner Marketing CTA banner, Banner Integration is the key, Banner More examples: [flowbite.com/docs/components/banner/](https://flowbite.com/docs/components/banner/)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/contact-sections](https://floatui.com/components/contact-sections)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/authentication](https://floatui.com/components/authentication)
+* CTA   HyperUI  🚀   : [hyperui.dev/components/marketing/ctas](https://www.hyperui.dev/components/marketing/ctas)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/faqs](https://floatui.com/components/faqs)
 * Getting Started, Marketing UI, Application UI: [floatui.com/components/navbars](https://floatui.com/components/navbars)
 * Chat bubble chat-start and chat-end, Chat bubble Chat with image, Chat bubble Chat Bubble with colors: [daisyui.com/components/chat/](https://daisyui.com/components/chat/)
@@ -4270,7 +4268,7 @@
 * Combobox: [headlessui.com/react/combobox](https://headlessui.com/react/combobox)
 * Disclosure: [headlessui.com/react/disclosure](https://headlessui.com/react/disclosure)
 * Transition: [headlessui.com/react/transition](https://headlessui.com/react/transition)
-* Banner Center, Banner Center (Dark), Banner Left, Banner Left (Dark), Banner Left with image, Banner Left with image (Dark): [hyperui.dev/components/marketing/banners](https://www.hyperui.dev/components/marketing/banners)
+* Banner   HyperUI  🚀   , Banner Center, Banner Center (Dark), Banner Left, Banner Left (Dark), Banner Left with image, Banner Left with image (Dark): [hyperui.dev/components/marketing/banners](https://www.hyperui.dev/components/marketing/banners)
 * Featured Section #Collection with Products, Featured Section #Collections Grid: [hyperui.dev/components/ecommerce/featured-sections](https://www.hyperui.dev/components/ecommerce/featured-sections)
 * Dashboards Default: [kamona-wd.github.io/kwd-dashboard/index.html](https://kamona-wd.github.io/kwd-dashboard/index.html)
 * Authentication Forgot password: [kamona-wd.github.io/kwd-dashboard/auth/forgot-password.html](https://kamona-wd.github.io/kwd-dashboard/auth/forgot-password.html)
@@ -5480,7 +5478,8 @@
 * Tailwind CSS template email: [tailwindcomponents.com/component/template-email](https://tailwindcomponents.com/component/template-email)
 * Tailwind CSS Dashboard Layout: [tailwindcomponents.com/component/dashboard-30](https://tailwindcomponents.com/component/dashboard-30)
 * Migrating to v2 Introduction, Migrating to v2 Migrating from v1.x.x to v2, Migrating to v2 Initialization and components usage, Migrating to v2 Package file structure, Migrating to v2 Events, Migrating to v2 Methods: [tw-elements.com/docs/standard/getting-started/migration-guide/](https://tw-elements.com/docs/standard/getting-started/migration-guide/)
-* Product Collection Simple, Product Collection Simple with Centered Title, Product Collection Sort & Layout, Product Collection Filtering (Side): [hyperui.dev/components/marketing/product-collections](https://www.hyperui.dev/components/marketing/product-collections)
+* Product Collection   HyperUI  🚀   , Product Collection Simple, Product Collection Simple with centered title, Product Collection Filtering (Side): [hyperui.dev/components/marketing/product-collections](https://www.hyperui.dev/components/marketing/product-collections)
+* Cart   HyperUI  🚀   : [hyperui.dev/components/marketing/carts](https://www.hyperui.dev/components/marketing/carts)
 * Fitihealth Tailwind CSS: [tailwindcomponents.com/component/fitihealth](https://tailwindcomponents.com/component/fitihealth)
 * Tailwind CSS Forget password: [tailwindcomponents.com/component/anja-1](https://tailwindcomponents.com/component/anja-1)
 * Tailwind CSS Blog feeds: [tailwindcomponents.com/component/blog-feeds](https://tailwindcomponents.com/component/blog-feeds)
@@ -5520,17 +5519,18 @@
 * Two tiers with emphasized tier: [tailwindui.com/components/preview#component-737ec71198c66a474f144c262597626d](https://tailwindui.com/components/preview#component-737ec71198c66a474f144c262597626d)
 * Ecme (Lite): [github.com/ThemeNate/Ecme-lite](https://github.com/ThemeNate/Ecme-lite)
 * Context Menu New Basic usage, Context Menu New Default: [preline.co/docs/context-menu.html](https://preline.co/docs/context-menu.html)
-* Vertical Menu Base with highlighted active link, Vertical Menu Base with highlighted active link (Dark), Vertical Menu Base with icon and highlighted active link, Vertical Menu Base with icon and highlighted active link (Dark), Vertical Menu Base with icon and highlighted active link, color with left border, Vertical Menu Base with icon and highlighted active link, color with left border (Dark), Vertical Menu Base with divided sections and highlighted active link, Vertical Menu Base with divided sections and highlighted active link (Dark), Vertical Menu Base with grouped sections with title and highlighted active link, Vertical Menu Base with grouped sections with title and highlighted active link (Dark): [hyperui.dev/components/application/vertical-menu](https://www.hyperui.dev/components/application/vertical-menu)
+* Filter   HyperUI  🚀   : [hyperui.dev/components/application/filters](https://www.hyperui.dev/components/application/filters)
+* Vertical Menu   HyperUI  🚀   , Vertical Menu Base, Vertical Menu Base (Dark), Vertical Menu Base with icon, Vertical Menu Base with icon (Dark), Vertical Menu Base with icon, color with left border, Vertical Menu Base with icon, color with left border (Dark), Vertical Menu Base with divided sections, Vertical Menu Base with divided sections (Dark): [hyperui.dev/components/application/vertical-menu](https://www.hyperui.dev/components/application/vertical-menu)
 * Label Floating Label, Label Floating Label with Different Sizes: [daisyui.com/components/label/](https://daisyui.com/components/label/)
 * Validator, Validator and validator-hint, Validator Password requirement validator, Validator Username requirement validator, Validator Phone Number requirement validator: [daisyui.com/components/validator/](https://daisyui.com/components/validator/)
 * Fieldset fieldset-legend and label, Fieldset with background and border, Fieldset with multiple join items: [daisyui.com/components/fieldset/](https://daisyui.com/components/fieldset/)
-* Grid 1x1, Grid 1x2, Grid 2x1, Grid 1x1x1, Grid 1x1x1x1, Grid 1x1x2, Grid 2x1x1, Grid 1x2x1: [hyperui.dev/components/application/grids](https://www.hyperui.dev/components/application/grids)
+* Grid   HyperUI  🚀   , Grid 1x1, Grid 1x2, Grid 2x1, Grid 1x1x1, Grid 1x1x1x1, Grid 1x1x2, Grid 2x1x1, Grid 1x2x1: [hyperui.dev/components/application/grids](https://www.hyperui.dev/components/application/grids)
 * Dock, Dock Extra Small size, Dock Small size, Dock Medium size, Dock Large size, Dock Extra Large size, Dock with custom colors: [daisyui.com/components/dock/](https://daisyui.com/components/dock/)
 * Signin Welcome back: [dripui.vercel.app/docs/signin](https://dripui.vercel.app/docs/signin)
 * Grid Animated Grid A dynamic and visually engaging way to highlight key features or services on your website: [dripui.vercel.app/docs/grids](https://dripui.vercel.app/docs/grids)
-* Free Tailwind CSS Application Application, Free Tailwind CSS Application Dividers, Free Tailwind CSS Application Filters, Free Tailwind CSS Application Grids, Free Tailwind CSS Application Media, Free Tailwind CSS Application Vertical Menu, Free Tailwind CSS Application Application, Free Tailwind CSS Application Dividers, Free Tailwind CSS Application Filters, Free Tailwind CSS Application Grids, Free Tailwind CSS Application Media, Free Tailwind CSS Application Vertical Menu: [hyperui.dev/components/application](https://www.hyperui.dev/components/application)
-* Divider Base, Divider Base (Dark), Divider Gradient, Divider Gradient (Dark), Divider Left align, Divider Left align (Dark), Divider Left align gradient, Divider Left align gradient (Dark), Divider Right align, Divider Right align (Dark), Divider Right align gradient, Divider Right align gradient (Dark): [hyperui.dev/components/application/dividers](https://www.hyperui.dev/components/application/dividers)
-* Media Left align top, Media Left align center, Media Left align bottom, Media Left align stretch, Media Right align top, Media Right align center, Media Right align bottom, Media Right align stretch: [hyperui.dev/components/application/media](https://www.hyperui.dev/components/application/media)
+* Free Tailwind CSS Application   HyperUI  🚀   , Free Tailwind CSS Application  Application , Free Tailwind CSS Application  Dividers , Free Tailwind CSS Application  Filters , Free Tailwind CSS Application  Grids , Free Tailwind CSS Application  Media , Free Tailwind CSS Application  Vertical Menu , Free Tailwind CSS Application   HyperUI  🚀   , Free Tailwind CSS Application  Application , Free Tailwind CSS Application  Dividers , Free Tailwind CSS Application  Filters , Free Tailwind CSS Application  Grids , Free Tailwind CSS Application  Media , Free Tailwind CSS Application  Vertical Menu : [hyperui.dev/components/application](https://www.hyperui.dev/components/application)
+* Divider   HyperUI  🚀   , Divider Base, Divider Base (Dark), Divider Gradient, Divider Gradient (Dark), Divider Left align, Divider Left align (Dark), Divider Left align gradient, Divider Left align gradient (Dark), Divider Right align, Divider Right align (Dark), Divider Right align gradient, Divider Right align gradient (Dark): [hyperui.dev/components/application/dividers](https://www.hyperui.dev/components/application/dividers)
+* Media   HyperUI  🚀   , Media Left align top, Media Left align center, Media Left align bottom, Media Left align stretch, Media Right align top, Media Right align center, Media Right align bottom, Media Right align stretch: [hyperui.dev/components/application/media](https://www.hyperui.dev/components/application/media)
 * Datta Able (Free): [codedthemes.com/item/datta-able-free-tailwind-admin-template/?ref=amritnagi](https://codedthemes.com/item/datta-able-free-tailwind-admin-template/?ref=amritnagi)
 * Horizon (Astro): [cosmicthemes.com/themes/horizon/](https://cosmicthemes.com/themes/horizon/)
 * Landing Pad (Astro): [cosmicthemes.com/themes/landing-pad/](https://cosmicthemes.com/themes/landing-pad/)
@@ -6922,6 +6922,6 @@
 * With image grid: [tailwindcss.com/plus/ui-blocks/preview#component-6bf262ecea63105e5f1fc57ec12057f9-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-6bf262ecea63105e5f1fc57ec12057f9-dark)
 * With featured categories: [tailwindcss.com/plus/ui-blocks/preview#component-870de0c4ec620ad31bb8538a2886e3f0-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-870de0c4ec620ad31bb8538a2886e3f0-dark)
 * With image tiles: [tailwindcss.com/plus/ui-blocks/preview#component-abf8794a557c496e493e847c71fc90c7-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-abf8794a557c496e493e847c71fc90c7-dark)
-* Poll Single question poll, Poll Multiple choice survey, Poll Rating poll: [hyperui.dev/components/marketing/polls](https://www.hyperui.dev/components/marketing/polls)
+* Poll   HyperUI  🚀   , Poll Single question poll, Poll Multiple choice survey, Poll Rating poll: [hyperui.dev/components/marketing/polls](https://www.hyperui.dev/components/marketing/polls)
 * FAB / Speed Dial new FAB and Speed Dial (vertical), FAB / Speed Dial new FAB and Speed Dial with SVG icons, FAB / Speed Dial new FAB and Speed Dial with labels, FAB / Speed Dial new FAB Flower and Speed Dial, FAB / Speed Dial new FAB and Flower Speed Dial with SVG icons: [daisyui.com/components/fab/](https://daisyui.com/components/fab/)
 * Hover Gallery new Hover Gallery: [daisyui.com/components/hover-gallery/](https://daisyui.com/components/hover-gallery/)
