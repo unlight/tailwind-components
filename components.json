@@ -972,7 +972,7 @@
     "parent": null
   },
   {
-    "name": "Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour, Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour",
+    "name": "Accordion Default accordion, Accordion Separated cards, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour, Accordion Default accordion, Accordion Separated cards, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour",
     "link": "https://flowbite.com/docs/components/accordion/",
     "category": "Accordion",
     "parent": null
@@ -1158,13 +1158,13 @@
     "parent": null
   },
   {
-    "name": "Alerts Default alert, Alerts Alerts with icon, Alerts Bordered alerts, Alerts Alerts with list, Alerts Dismissing, Alerts Border accent, Alerts Additional content, Alerts JavaScript behaviour",
+    "name": "Alerts Default alert, Alerts Alerts with icon, Alerts Bordered alerts, Alerts Alerts with list, Alerts Dismissing, Alerts Border accent, Alerts Additional content, Alerts Announcement alerts, Alerts JavaScript behaviour",
     "link": "https://flowbite.com/docs/components/alerts/",
     "category": "Alert/Notification",
     "parent": null
   },
   {
-    "name": "Badge Default badge, Badge Large badges, Badge Bordered badge, Badge Pills badge, Badge Badges as links, Badge Badges with icon, Badge Button with badge, Badge Badge with icon only, Badge Chips (dismissible badges)",
+    "name": "Badge Default badges, Badge Bordered badges, Badge Large badges, Badge Large bordered badges, Badge Pill badges, Badge Pill bordered badges, Badge Badges as links, Badge Badges with icon, Badge Large badges with icon, Badge Badges with only icon, Badge Large badges with only icon, Badge Badges with dot, Badge Badges with SVG loader, Badge Dismissible badges (chips), Badge Button with badge",
     "link": "https://flowbite.com/docs/components/badge/",
     "category": "Badge",
     "parent": null
@@ -2448,7 +2448,7 @@
     "parent": null
   },
   {
-    "name": "Breadcrumb Default breadcrumb, Breadcrumb Solid background, Breadcrumb Header breadcrumb, Breadcrumb Breadcrumb with dropdown",
+    "name": "Breadcrumb Default breadcrumb, Breadcrumb Solid background, Breadcrumb Header breadcrumb, Breadcrumb Breadcrumb with dropdown, Breadcrumb Breadcrumb with button, Breadcrumb Breadcrumb with navigation",
     "link": "https://flowbite.com/docs/components/breadcrumb/",
     "category": "Breadcrumb",
     "parent": null
@@ -2784,15 +2784,15 @@
     "parent": null
   },
   {
-    "name": "Buttons Default button, Buttons Button pills, Buttons Gradient monochrome, Buttons Gradient duotone, Buttons Gradient outline, Buttons Colored shadows, Buttons Social buttons, Buttons Payment buttons, Buttons Outline buttons, Buttons Button sizes, Buttons Button sizes with icon, Buttons Buttons with icon, Buttons Button with label, Buttons Icon buttons, Buttons Loader, Buttons Disabled",
+    "name": "Buttons Default button, Buttons Button pills, Buttons Gradient monochrome, Buttons Gradient duotone, Buttons Gradient outline, Buttons Colored shadows, Buttons Social buttons, Buttons Payment buttons, Buttons Outline buttons, Buttons Button sizes, Buttons Outline button sizes, Buttons Button sizes with icon, Buttons Buttons with icon, Buttons Button with label, Buttons Icon buttons, Buttons Loader, Buttons Disabled",
     "link": "https://flowbite.com/docs/components/buttons/",
     "category": "Button",
     "parent": null
   },
   {
-    "name": "Button Group Default example, Button Group Button group as links, Button Group Group buttons with icons, Button Group Outline, Button Group Outlined with icon",
+    "name": "Button Group Pagination button group",
     "link": "https://flowbite.com/docs/components/button-group/",
-    "category": "Button",
+    "category": "Pagination",
     "parent": null
   },
   {
@@ -2832,7 +2832,7 @@
     "parent": null
   },
   {
-    "name": "Button   HyperUI  🚀   , Button Base, solid and bordered, Button Base with icon, solid and bordered, Button Gradient border, rounded and pill, Button Icon, solid and bordered, Button Drop shadow, hide shadow and show shadow on hover, Button Base with icon on hover, solid, bordered and icon left/right, Button Base with shadow and expand on hover, solid and bordered, Button Base with rotate and expand on hover, solid, outline and rotate left/right, Button Artistic with offset background, background moves in and out on hover, Button Highlighted border which expands on hover, left, right, bottom and left, Button Large with emphasized icon, solid and bordered, Button Reveal hidden static border on hover, solid and bordered, Button Related Components, Button  CTAs ",
+    "name": "Button   HyperUI  🚀   , Button Base, solid and bordered, Button Base with icon, solid and bordered, Button Gradient border, rounded and pill, Button Icon, solid and bordered, Button Drop shadow, hide shadow and show shadow on hover, Button Base with icon on hover, solid, bordered and icon left/right, Button Base with shadow and expand on hover, solid and bordered, Button Base with rotate and expand on hover, solid, outline and rotate left/right, Button Artistic with offset background, background moves in and out on hover, Button Highlighted border which expands on hover, left, right, bottom and left, Button Large with emphasized icon, solid and bordered, Button Reveal hidden static border on hover, solid and bordered",
     "link": "https://www.hyperui.dev/components/marketing/buttons",
     "category": "Button",
     "parent": null
@@ -5040,13 +5040,13 @@
     "parent": null
   },
   {
-    "name": "Footer   HyperUI  🚀   , Footer Large with newsletter form, Footer Large with newsletter form (Dark), Footer Simple stacked, Footer Simple stacked (Dark), Footer Simple row, Footer Simple row (Dark), Footer Split with company info, links and image, Footer Split with company info, links and image (Dark), Footer Newsletter form as priority, Footer Newsletter form as priority (Dark), Footer Centered with branding, Footer Centered with branding (Dark), Footer Slim with branding and link top, Footer Slim with branding and link top (Dark), Footer Company info and links, Footer Company info and links (Dark), Footer Inline with logo and copyright, Footer Inline with logo and copyright (Dark), Footer Related Components, Footer  Banners , Footer  Header , Footer  Sections ",
+    "name": "Footer   HyperUI  🚀   , Footer Large with newsletter form, Footer Large with newsletter form (Dark), Footer Simple stacked, Footer Simple stacked (Dark), Footer Simple row, Footer Simple row (Dark), Footer Split with company info, links and image, Footer Split with company info, links and image (Dark), Footer Newsletter form as priority, Footer Newsletter form as priority (Dark), Footer Centered with branding, Footer Centered with branding (Dark), Footer Slim with branding and link top, Footer Slim with branding and link top (Dark), Footer Company info and links, Footer Company info and links (Dark), Footer Inline with logo and copyright, Footer Inline with logo and copyright (Dark), Footer Related Components, Footer  Header ",
     "link": "https://www.hyperui.dev/components/marketing/footers",
     "category": "Footer",
     "parent": null
   },
   {
-    "name": "Section   HyperUI  🚀   , Section Content with image, 1/2 grid, Section Content with image, 2/3 grid, Section Content with image, 3/2 grid, Section Content with image, vertical split, Section Related Components, Section  Banners , Section  CTAs , Section  Logo Clouds , Section  Team Sections ",
+    "name": "Section   HyperUI  🚀   , Section Content with image, 1/2 grid, Section Content with image, 2/3 grid, Section Content with image, 3/2 grid, Section Content with image, vertical split",
     "link": "https://www.hyperui.dev/components/marketing/sections",
     "category": "Other",
     "parent": null
@@ -5274,16 +5274,16 @@
     "parent": null
   },
   {
-    "name": "Blog Card   HyperUI  🚀   , Blog Card Bordered with image, date, title and excerpt, shadow on hover, Blog Card Bordered with image, date, title and excerpt, shadow on hover (Dark), Blog Card Floating image with title and excerpt, Blog Card Floating image with title and excerpt (Dark), Blog Card Gradient border with date, title and tags, animated gradient on hover, Blog Card Gradient border with date, title and tags, animated gradient on hover (Dark), Blog Card Background image with overlay containing date, title and excerpt, Blog Card Related Components, Blog Card  Cards , Blog Card  Product Cards ",
+    "name": "Blog Card   HyperUI  🚀   , Blog Card Bordered with image, date, title and excerpt, shadow on hover, Blog Card Bordered with image, date, title and excerpt, shadow on hover (Dark), Blog Card Floating image with title and excerpt, Blog Card Floating image with title and excerpt (Dark), Blog Card Gradient border with date, title and tags, animated gradient on hover, Blog Card Gradient border with date, title and tags, animated gradient on hover (Dark), Blog Card Background image with overlay containing date, title and excerpt, Blog Card Related Components, Blog Card  Cards ",
     "link": "https://www.hyperui.dev/components/marketing/blog-cards",
     "category": "Card",
     "parent": null
   },
   {
-    "name": "Card  FAQs ",
+    "name": "Card   HyperUI  🚀   , Card Stacked with Large Image and Content, Card Darkened Background with Content on Hover, Card Bordered with Content on Hover, Card Bordered with Image, Price, Content and Details, Card Image, Name, with Social Links and Project Links, Card Shaped with Image and Content, Card Podcast Post, Card Forum Post, Card Related Components, Card  Blog Cards ",
     "link": "https://www.hyperui.dev/components/marketing/cards",
-    "category": "FAQ",
-    "parent": "Page"
+    "category": "Card",
+    "parent": null
   },
   {
     "name": "Collection Card #Simple, Collection Card #Content Inside",
@@ -7752,7 +7752,7 @@
     "parent": null
   },
   {
-    "name": "Announcement   HyperUI  🚀   , Announcement Base, Announcement Base (Dark), Announcement Base with dismiss, Announcement Base with dismiss (Dark), Announcement Fixed, Announcement Fixed (Dark), Announcement Fixed with dismiss, Announcement Fixed with dismiss (Dark), Announcement Floating, Announcement Floating (Dark), Announcement Floating with dismiss, Announcement Floating with dismiss (Dark), Announcement Related Components, Announcement  Banners , Announcement  Polls ",
+    "name": "Announcement   HyperUI  🚀   , Announcement Base, Announcement Base (Dark), Announcement Base with dismiss, Announcement Base with dismiss (Dark), Announcement Fixed, Announcement Fixed (Dark), Announcement Fixed with dismiss, Announcement Fixed with dismiss (Dark), Announcement Floating, Announcement Floating (Dark), Announcement Floating with dismiss, Announcement Floating with dismiss (Dark), Announcement Related Components, Announcement  Polls ",
     "link": "https://www.hyperui.dev/components/marketing/announcements",
     "category": "Other",
     "parent": null
@@ -10656,7 +10656,7 @@
     "parent": "Form"
   },
   {
-    "name": "CTA   HyperUI  🚀   , CTA Related Components, CTA  Banners , CTA  Logo Clouds , CTA  Sections , CTA  Team Sections ",
+    "name": "CTA   HyperUI  🚀   ",
     "link": "https://www.hyperui.dev/components/marketing/ctas",
     "category": "Other",
     "parent": null
@@ -14976,7 +14976,7 @@
     "parent": null
   },
   {
-    "name": "Drawer sidebar updated Drawer sidebar, Drawer sidebar updated Navbar menu for desktop + sidebar drawer for mobile, Drawer sidebar updated Responsive: Sidebar is always visible on large screen, can be toggled on small screen, Drawer sidebar updated Icon-only drawer sidebar when it's closed. Using is-drawer-close and is-drawer-open variants, Drawer sidebar updated Drawer sidebar that opens from right side of page",
+    "name": "Drawer sidebar updated Drawer sidebar, Drawer sidebar updated Navbar menu for desktop + sidebar drawer for mobile, Drawer sidebar updated Responsive: Sidebar is always visible on large screen, can be toggled on small screen, Drawer sidebar updated Responsive collapsible Icon-only drawer sidebar. Using is-drawer-close and is-drawer-open, Drawer sidebar updated Drawer sidebar that opens from right side of page",
     "link": "https://daisyui.com/components/drawer/",
     "category": "Sidebar",
     "parent": null
@@ -17472,13 +17472,13 @@
     "parent": null
   },
   {
-    "name": "Banner   HyperUI  🚀   , Banner Center, Banner Center (Dark), Banner Left, Banner Left (Dark), Banner Left with image, Banner Left with image (Dark), Banner Related Components, Banner  Announcements , Banner  CTAs , Banner  Logo Clouds , Banner  Sections , Banner  Team Sections ",
+    "name": "Banner   HyperUI  🚀   , Banner Center, Banner Center (Dark), Banner Left, Banner Left (Dark), Banner Left with image, Banner Left with image (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/banners",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "FAQ   HyperUI  🚀   , FAQ Base with chevrons, FAQ Base with chevrons (Dark), FAQ Divided with chevrons, FAQ Divided with chevrons (Dark), FAQ Background, FAQ Background (Dark), FAQ Related Components, FAQ  Banners , FAQ  Cards , FAQ  CTAs , FAQ  Logo Clouds , FAQ  Sections , FAQ  Team Sections ",
+    "name": "FAQ   HyperUI  🚀   , FAQ Base with chevrons, FAQ Base with chevrons (Dark), FAQ Divided with chevrons, FAQ Divided with chevrons (Dark), FAQ Background, FAQ Background (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/faqs",
     "category": "FAQ",
     "parent": "Page"
@@ -25806,7 +25806,7 @@
     "parent": null
   },
   {
-    "name": "Header   HyperUI  🚀   , Header Related Components, Header  Banners , Header  Sections ",
+    "name": "Header   HyperUI  🚀   , Header Related Components",
     "link": "https://www.hyperui.dev/components/marketing/headers",
     "category": "Navigation/Header",
     "parent": null
@@ -26112,7 +26112,7 @@
     "parent": null
   },
   {
-    "name": "Skeleton, Skeleton - circle with content, Skeleton - rectangle with content",
+    "name": "Skeleton updated Skeleton, Skeleton updated Skeleton - circle with content, Skeleton updated Skeleton - rectangle with content, Skeleton updated skeleton-text - animated gradient text",
     "link": "https://daisyui.com/components/skeleton/",
     "category": "Skeleton",
     "parent": null
@@ -27444,9 +27444,9 @@
     "parent": null
   },
   {
-    "name": "Toast Default toast, Toast Colors, Toast Simple toast, Toast Undo button, Toast Toast message, Toast Push notification, Toast Interactive toast, Toast Positioning, Toast JavaScript behaviour",
+    "name": "Toast Toast progress bar",
     "link": "https://flowbite.com/docs/components/toast/",
-    "category": "Alert/Notification",
+    "category": "Progress Bar",
     "parent": null
   },
   {
@@ -27474,7 +27474,7 @@
     "parent": null
   },
   {
-    "name": "List Group Default list group, List Group List group with links, List Group List group with icons",
+    "name": "List Group Default list group, List Group List group with links, List Group List group with icons, List Group Features list group",
     "link": "https://flowbite.com/docs/components/list-group/",
     "category": "List",
     "parent": null
@@ -27546,7 +27546,7 @@
     "parent": null
   },
   {
-    "name": "Tables Default table, Tables Highlight, Tables Table layout, Tables Table styles, Tables Overflow scrolling, Tables Table filter, Tables Table with users, Tables Table with products, Tables Comparison table, Tables Table colors, Tables More examples",
+    "name": "Tables Default table, Tables Highlight, Tables Table layout, Tables Table styles, Tables Overflow scrolling, Tables Table filter, Tables Table with users, Tables Table with products, Tables Table colors, Tables More examples",
     "link": "https://flowbite.com/docs/components/tables/",
     "category": "Table",
     "parent": null
@@ -27558,7 +27558,7 @@
     "parent": null
   },
   {
-    "name": "Search Input Search bar example, Search Input Simple search input, Search Input Location search, Search Input Voice search",
+    "name": "Search Input Search bar example, Search Input Simple search input, Search Input Location search, Search Input Voice search, Search Input Advanced search input",
     "link": "https://flowbite.com/docs/forms/search-input/",
     "category": "Form",
     "parent": null
@@ -27576,13 +27576,13 @@
     "parent": null
   },
   {
-    "name": "Checkbox Checkbox example, Checkbox Checkbox link, Checkbox Helper text, Checkbox Bordered, Checkbox Checkbox list group, Checkbox Horizontal list group, Checkbox Inline layout, Checkbox Colors, Checkbox Advanced layout",
+    "name": "Checkbox Checkbox example, Checkbox Checkbox link, Checkbox Helper text, Checkbox Bordered, Checkbox Bordered with description, Checkbox Bordered with icon, Checkbox Checkbox list group, Checkbox Horizontal list group, Checkbox Inline layout, Checkbox Colors, Checkbox Advanced layout",
     "link": "https://flowbite.com/docs/forms/checkbox/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Radio Radio example, Radio Radio link, Radio Helper text, Radio Bordered, Radio Radio list group, Radio Horizontal list group, Radio Inline layout, Radio Advanced layout, Radio Colors",
+    "name": "Radio Radio example, Radio Radio link, Radio Helper text, Radio Bordered, Radio Radio list group, Radio Horizontal list group, Radio Inline layout, Radio Advanced layout, Radio Advanced layout with icons",
     "link": "https://flowbite.com/docs/forms/radio/",
     "category": "Form",
     "parent": null
@@ -27660,7 +27660,7 @@
     "parent": null
   },
   {
-    "name": "Pagination Default pagination, Pagination Pagination with icons, Pagination Previous and next, Pagination Previous and next with icons, Pagination Table data pagination, Pagination Table data pagination with icons",
+    "name": "Pagination Default pagination, Pagination Pagination with icons, Pagination Previous and next, Pagination Previous and next with icons, Pagination Table data pagination, Pagination Table pagination with icons, Pagination Pagination with dropdown, Pagination Pagination with input, Pagination Input field and button, Pagination Select input and buttons, Pagination Single pagination",
     "link": "https://flowbite.com/docs/components/pagination/",
     "category": "Pagination",
     "parent": null
@@ -27684,13 +27684,13 @@
     "parent": null
   },
   {
-    "name": "Toggle Toggle example, Toggle Colors, Toggle Sizes",
+    "name": "Toggle Toggle example, Toggle Double labels, Toggle Toggle with icons, Toggle Colors, Toggle Sizes",
     "link": "https://flowbite.com/docs/forms/toggle/",
     "category": "Switch",
     "parent": null
   },
   {
-    "name": "Tabs Default tabs, Tabs Tabs with underline, Tabs Tabs with icons, Tabs Vertical tabs, Tabs Full width tabs, Tabs Interactive tabs, Tabs Active tab style, Tabs JavaScript behaviour",
+    "name": "Tabs Default tabs, Tabs Tabs with underline, Tabs Tabs with icons, Tabs Vertical tabs, Tabs Full width tabs, Tabs Tabs with icons, Tabs Interactive tabs, Tabs Active tab style, Tabs JavaScript behaviour",
     "link": "https://flowbite.com/docs/components/tabs/",
     "category": "Tab",
     "parent": null
@@ -27732,7 +27732,7 @@
     "parent": null
   },
   {
-    "name": "Floating Label Floating label example, Floating Label Validation, Floating Label Sizes, Floating Label Helper text",
+    "name": "Floating Label Floating label example, Floating Label Floating label with icons, Floating Label Validation, Floating Label Sizes, Floating Label Helper text",
     "link": "https://flowbite.com/docs/forms/floating-label/",
     "category": "Other",
     "parent": null
@@ -27936,7 +27936,7 @@
     "parent": null
   },
   {
-    "name": "Product Card   HyperUI  🚀   , Product Card Product with image, title and price, Product Card Product with image, title, price and variant count, Product Card Product with image, title, price and description, Product Card Product with rounded image, title and price, Product Card Product with image, title, price and variant options, Product Card Related Components, Product Card  Blog Cards , Product Card  Carts , Product Card  Cards , Product Card  Product Collections ",
+    "name": "Product Card   HyperUI  🚀   , Product Card Product with image, title and price, Product Card Product with image, title, price and variant count, Product Card Product with image, title, price and description, Product Card Product with rounded image, title and price, Product Card Product with image, title, price and variant options, Product Card Related Components, Product Card  Carts , Product Card  Product Collections ",
     "link": "https://www.hyperui.dev/components/marketing/product-cards",
     "category": "Card",
     "parent": null
@@ -27984,7 +27984,7 @@
     "parent": null
   },
   {
-    "name": "Product Collection   HyperUI  🚀   , Product Collection Simple, Product Collection Simple with centered title, Product Collection Filtering (Side), Product Collection Related Components, Product Collection  Carts ",
+    "name": "Product Collection   HyperUI  🚀   , Product Collection Base, Product Collection Base with centered title, Product Collection Filtering (Side), Product Collection Related Components, Product Collection  Carts ",
     "link": "https://www.hyperui.dev/components/marketing/product-collections",
     "category": "Other",
     "parent": null
@@ -28476,7 +28476,7 @@
     "parent": null
   },
   {
-    "name": "Datatables Getting started, Datatables Default datatable, Datatables Filtering data, Datatables Sorting data, Datatables Export files, Datatables JavaScript behaviour, Datatables Options, Datatables Methods, Datatables License",
+    "name": "Datatables New Getting started, Datatables New Default datatable, Datatables New Filtering data, Datatables New Sorting data, Datatables New Export files, Datatables New JavaScript behaviour, Datatables New Options, Datatables New Methods, Datatables New License",
     "link": "https://flowbite.com/docs/plugins/datatables/",
     "category": "Table",
     "parent": null
@@ -28500,7 +28500,7 @@
     "parent": null
   },
   {
-    "name": "WYSIWYG Getting started, WYSIWYG Default text editor, WYSIWYG Text alignment, WYSIWYG Typography elements, WYSIWYG Configuring links, WYSIWYG Using images, WYSIWYG Adding videos, WYSIWYG Undo and redo, WYSIWYG Exporting data, WYSIWYG Javascript behaviour, WYSIWYG License",
+    "name": "WYSIWYG New Getting started, WYSIWYG New Default text editor, WYSIWYG New Text alignment, WYSIWYG New Typography elements, WYSIWYG New Configuring links, WYSIWYG New Using images, WYSIWYG New Adding videos, WYSIWYG New Undo and redo, WYSIWYG New Exporting data, WYSIWYG New Javascript behaviour, WYSIWYG New License",
     "link": "https://flowbite.com/docs/plugins/wysiwyg/",
     "category": "Other",
     "parent": null
@@ -28536,13 +28536,13 @@
     "parent": null
   },
   {
-    "name": "Side Menu   HyperUI  🚀   , Side Menu Icon, links with tooltips and logout action, Side Menu Related Components, Side Menu  Breadcrumbs , Side Menu  Details Lists , Side Menu  Dividers , Side Menu  Dropdowns , Side Menu  Grids , Side Menu  Media , Side Menu  Tabs , Side Menu  Timelines , Side Menu  Vertical Menu ",
+    "name": "Side Menu   HyperUI  🚀   , Side Menu Icon, links with tooltips and logout action, Side Menu Related Components, Side Menu  Breadcrumbs , Side Menu  Dropdowns , Side Menu  Steps , Side Menu  Tabs , Side Menu  Vertical Menu , Side Menu  Skip Links ",
     "link": "https://www.hyperui.dev/components/application/side-menu",
     "category": "Sidebar",
     "parent": null
   },
   {
-    "name": "Vertical Menu   HyperUI  🚀   , Vertical Menu Base, Vertical Menu Base (Dark), Vertical Menu Base with icon, Vertical Menu Base with icon (Dark), Vertical Menu Base with icon, color with left border, Vertical Menu Base with icon, color with left border (Dark), Vertical Menu Base with divided sections, Vertical Menu Base with divided sections (Dark), Vertical Menu Related Components",
+    "name": "Vertical Menu   HyperUI  🚀   , Vertical Menu Base, Vertical Menu Base (Dark), Vertical Menu Base with icon, Vertical Menu Base with icon (Dark), Vertical Menu Base with icon, color with left border, Vertical Menu Base with icon, color with left border (Dark), Vertical Menu Base with divided sections, Vertical Menu Base with divided sections (Dark), Vertical Menu Related Components, Vertical Menu  Skip Links ",
     "link": "https://www.hyperui.dev/components/application/vertical-menu",
     "category": "Other",
     "parent": null
@@ -28572,9 +28572,9 @@
     "parent": null
   },
   {
-    "name": "Badge  Stats ",
+    "name": "Badge  Progress Bars ",
     "link": "https://www.hyperui.dev/components/application/badges",
-    "category": "Dashboard Widgets",
+    "category": "Progress Bar",
     "parent": null
   },
   {
@@ -28698,7 +28698,7 @@
     "parent": null
   },
   {
-    "name": "Stat   HyperUI  🚀   , Stat Title, value, from value and themed growth stat, Stat Title, value, from value and themed growth stat (Dark), Stat Title, value, icon and themed growth stat, Stat Title, value, icon and themed growth stat (Dark), Stat Title, value and themed growth stat, Stat Title, value and themed growth stat (Dark), Stat Title, value and icon, Stat Title, value and icon (Dark), Stat Title, value and themed growth stat, stacked style, Stat Title, value and themed growth stat, stacked style (Dark), Stat Title, value, icon and themed growth stat, stacked style, Stat Title, value, icon and themed growth stat, stacked style (Dark), Stat Related Components, Stat  Badges , Stat  Details Lists , Stat  Grids , Stat  Tables , Stat  Tabs , Stat  Toasts ",
+    "name": "Stat   HyperUI  🚀   , Stat Title, value, from value and themed growth stat, Stat Title, value, from value and themed growth stat (Dark), Stat Title, value, icon and themed growth stat, Stat Title, value, icon and themed growth stat (Dark), Stat Title, value and themed growth stat, Stat Title, value and themed growth stat (Dark), Stat Title, value and icon, Stat Title, value and icon (Dark), Stat Title, value and themed growth stat, stacked style, Stat Title, value and themed growth stat, stacked style (Dark), Stat Title, value, icon and themed growth stat, stacked style, Stat Title, value, icon and themed growth stat, stacked style (Dark), Stat Related Components, Stat  Toasts ",
     "link": "https://www.hyperui.dev/components/application/stats",
     "category": "Dashboard Widgets",
     "parent": null
@@ -28836,7 +28836,7 @@
     "parent": "Form"
   },
   {
-    "name": "File Uploader   HyperUI  🚀   , File Uploader Base, File Uploader Base (Dark), File Uploader Base with button, File Uploader Base with button (Dark), File Uploader Related Components, File Uploader  Checkboxes , File Uploader  Dropdowns , File Uploader  Filters , File Uploader  Inputs , File Uploader  Quantity Inputs , File Uploader  Radio Groups , File Uploader  Selects , File Uploader  Textareas , File Uploader  Toggles ",
+    "name": "File Uploader   HyperUI  🚀   , File Uploader Base, File Uploader Base (Dark), File Uploader Base with button, File Uploader Base with button (Dark), File Uploader Related Components, File Uploader  Checkboxes , File Uploader  Filters , File Uploader  Inputs , File Uploader  Quantity Inputs , File Uploader  Radio Groups , File Uploader  Selects , File Uploader  Textareas , File Uploader  Toggles , File Uploader  Range Inputs ",
     "link": "https://www.hyperui.dev/components/application/file-uploaders",
     "category": "Upload",
     "parent": "Form"
@@ -29160,19 +29160,19 @@
     "parent": "Page"
   },
   {
-    "name": "Pagination   HyperUI  🚀   , Pagination Navigation, Pagination Navigation (Dark), Pagination Input, Pagination Input (Dark), Pagination X/Y, Pagination X/Y (Dark), Pagination Related Components, Pagination  Breadcrumbs , Pagination  Checkboxes , Pagination  Dropdowns , Pagination  Filters , Pagination  Inputs , Pagination  Selects , Pagination  Side Menu , Pagination  Tabs , Pagination  Vertical Menu ",
+    "name": "Pagination   HyperUI  🚀   , Pagination Navigation, Pagination Navigation (Dark), Pagination Input, Pagination Input (Dark), Pagination X/Y, Pagination X/Y (Dark), Pagination Related Components, Pagination  Breadcrumbs , Pagination  Checkboxes , Pagination  Dropdowns , Pagination  Inputs , Pagination  Selects , Pagination  Side Menu , Pagination  Steps , Pagination  Tabs , Pagination  Vertical Menu , Pagination  Range Inputs , Pagination  Skip Links ",
     "link": "https://www.hyperui.dev/components/application/pagination",
     "category": "Pagination",
     "parent": null
   },
   {
-    "name": "Step   HyperUI  🚀   , Step Grouped with title and description, with highlighted current step, Step Grouped with title and description, with highlighted current step (Dark), Step Timeline with title, with highlighted current step, Step Timeline with title, with highlighted current step (Dark), Step Related Components, Step  Loaders ",
+    "name": "Step   HyperUI  🚀   , Step Grouped with title and description, with highlighted current step, Step Grouped with title and description, with highlighted current step (Dark), Step Timeline with title, with highlighted current step, Step Timeline with title, with highlighted current step (Dark), Step Related Components, Step  Loaders , Step  Tabs , Step  Vertical Menu , Step  Skip Links ",
     "link": "https://www.hyperui.dev/components/application/steps",
     "category": "Step",
     "parent": null
   },
   {
-    "name": "Grid   HyperUI  🚀   , Grid 1x1, Grid 1x2, Grid 2x1, Grid 1x1x1, Grid 1x1x1x1, Grid 1x1x2, Grid 2x1x1, Grid 1x2x1, Grid Related Components, Grid  Dividers , Grid  Media ",
+    "name": "Grid   HyperUI  🚀   , Grid 1x1, Grid 1x2, Grid 2x1, Grid 1x1x1, Grid 1x1x1x1, Grid 1x1x2, Grid 2x1x1, Grid 1x2x1, Grid Related Components, Grid  Dividers ",
     "link": "https://www.hyperui.dev/components/application/grids",
     "category": "Other",
     "parent": null
@@ -29226,7 +29226,7 @@
     "parent": null
   },
   {
-    "name": "Table   HyperUI  🚀   , Table Base, Table Base (Dark), Table Bordered, Table Bordered (Dark), Table Striped, Table Striped (Dark), Table Sticky headings, Table Sticky headings (Dark), Table Sticky first column, Table Sticky first column (Dark), Table Related Components, Table  Details Lists , Table  Grids , Table  Tabs ",
+    "name": "Table   HyperUI  🚀   , Table Base, Table Base (Dark), Table Bordered, Table Bordered (Dark), Table Striped, Table Striped (Dark), Table Sticky headings, Table Sticky headings (Dark), Table Sticky first column, Table Sticky first column (Dark), Table Related Components, Table  Details Lists ",
     "link": "https://www.hyperui.dev/components/application/tables",
     "category": "Table",
     "parent": null
@@ -29238,13 +29238,13 @@
     "parent": null
   },
   {
-    "name": "Details List   HyperUI  🚀   , Details List Base, Details List Base (Dark), Details List Striped, Details List Striped (Dark), Details List Bordered, Details List Bordered (Dark), Details List Striped and bordered, Details List Striped and bordered (Dark), Details List Related Components, Details List  Dividers , Details List  Grids , Details List  Media , Details List  Tabs , Details List  Timelines ",
+    "name": "Details List   HyperUI  🚀   , Details List Base, Details List Base (Dark), Details List Striped, Details List Striped (Dark), Details List Bordered, Details List Bordered (Dark), Details List Striped and bordered, Details List Striped and bordered (Dark), Details List Related Components",
     "link": "https://www.hyperui.dev/components/application/details-list",
     "category": "List",
     "parent": null
   },
   {
-    "name": "Timeline   HyperUI  🚀   , Timeline Vertical, Timeline Vertical (Dark), Timeline Vertical with middle line, Timeline Vertical with middle line (Dark), Timeline Horizontal, Timeline Horizontal (Dark), Timeline Related Components, Timeline  Dividers , Timeline  Grids , Timeline  Media ",
+    "name": "Timeline   HyperUI  🚀   , Timeline Vertical, Timeline Vertical (Dark), Timeline Vertical with middle line, Timeline Vertical with middle line (Dark), Timeline Horizontal, Timeline Horizontal (Dark)",
     "link": "https://www.hyperui.dev/components/application/timelines",
     "category": "Timeline",
     "parent": null
@@ -29268,19 +29268,19 @@
     "parent": null
   },
   {
-    "name": "Free Tailwind CSS Application   HyperUI  🚀   , Free Tailwind CSS Application  Application , Free Tailwind CSS Application  Dividers , Free Tailwind CSS Application  Filters , Free Tailwind CSS Application  Grids , Free Tailwind CSS Application  Loaders , Free Tailwind CSS Application  Media , Free Tailwind CSS Application  Vertical Menu , Free Tailwind CSS Application   HyperUI  🚀   , Free Tailwind CSS Application  Application , Free Tailwind CSS Application  Dividers , Free Tailwind CSS Application  Filters , Free Tailwind CSS Application  Grids , Free Tailwind CSS Application  Loaders , Free Tailwind CSS Application  Media , Free Tailwind CSS Application  Vertical Menu , Free Tailwind CSS Application   HyperUI  🚀   , Free Tailwind CSS Application  Application , Free Tailwind CSS Application  Dividers , Free Tailwind CSS Application  Filters , Free Tailwind CSS Application  Grids , Free Tailwind CSS Application  Loaders , Free Tailwind CSS Application  Media , Free Tailwind CSS Application  Vertical Menu ",
+    "name": "Free Tailwind CSS Application   HyperUI  🚀   , Free Tailwind CSS Application  Application , Free Tailwind CSS Application  Dividers , Free Tailwind CSS Application  Filters , Free Tailwind CSS Application  Grids , Free Tailwind CSS Application  Loaders , Free Tailwind CSS Application  Media , Free Tailwind CSS Application  Skip Links , Free Tailwind CSS Application  Vertical Menu , Free Tailwind CSS Application   HyperUI  🚀   , Free Tailwind CSS Application  Application , Free Tailwind CSS Application  Dividers , Free Tailwind CSS Application  Filters , Free Tailwind CSS Application  Grids , Free Tailwind CSS Application  Loaders , Free Tailwind CSS Application  Media , Free Tailwind CSS Application  Skip Links , Free Tailwind CSS Application  Vertical Menu , Free Tailwind CSS Application   HyperUI  🚀   , Free Tailwind CSS Application  Application , Free Tailwind CSS Application  Dividers , Free Tailwind CSS Application  Filters , Free Tailwind CSS Application  Grids , Free Tailwind CSS Application  Loaders , Free Tailwind CSS Application  Media , Free Tailwind CSS Application  Skip Links , Free Tailwind CSS Application  Vertical Menu ",
     "link": "https://www.hyperui.dev/components/application",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Divider   HyperUI  🚀   , Divider Base, Divider Base (Dark), Divider Gradient, Divider Gradient (Dark), Divider Left align, Divider Left align (Dark), Divider Left align gradient, Divider Left align gradient (Dark), Divider Right align, Divider Right align (Dark), Divider Right align gradient, Divider Right align gradient (Dark), Divider Related Components, Divider  Grids , Divider  Media ",
+    "name": "Divider   HyperUI  🚀   , Divider Base, Divider Base (Dark), Divider Gradient, Divider Gradient (Dark), Divider Left align, Divider Left align (Dark), Divider Left align gradient, Divider Left align gradient (Dark), Divider Right align, Divider Right align (Dark), Divider Right align gradient, Divider Right align gradient (Dark), Divider Related Components, Divider  Grids ",
     "link": "https://www.hyperui.dev/components/application/dividers",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Media   HyperUI  🚀   , Media Left align top, Media Left align center, Media Left align bottom, Media Left align stretch, Media Right align top, Media Right align center, Media Right align bottom, Media Right align stretch, Media Related Components, Media  Dividers , Media  Grids ",
+    "name": "Media   HyperUI  🚀   , Media Left align top, Media Left align center, Media Left align bottom, Media Left align stretch, Media Right align top, Media Right align center, Media Right align bottom, Media Right align stretch",
     "link": "https://www.hyperui.dev/components/application/media",
     "category": "Other",
     "parent": null
@@ -40482,13 +40482,13 @@
     "parent": null
   },
   {
-    "name": "Newsletter Signup   HyperUI  🚀   , Newsletter Signup Simple signup, Newsletter Signup Simple signup centered, Newsletter Signup Related Components, Newsletter Signup  CTAs ",
+    "name": "Newsletter Signup   HyperUI  🚀   , Newsletter Signup Simple signup, Newsletter Signup Simple signup (Dark), Newsletter Signup Simple signup centered, Newsletter Signup Simple signup centered (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/newsletter-signup",
     "category": "Register",
     "parent": "Form"
   },
   {
-    "name": "Poll   HyperUI  🚀   , Poll Single question poll, Poll Multiple choice survey, Poll Rating poll, Poll Related Components, Poll  Announcements ",
+    "name": "Poll   HyperUI  🚀   , Poll Single question poll, Poll Single question poll (Dark), Poll Multiple choice survey, Poll Multiple choice survey (Dark), Poll Rating poll, Poll Rating poll (Dark), Poll Related Components, Poll  Announcements ",
     "link": "https://www.hyperui.dev/components/marketing/polls",
     "category": "Other",
     "parent": null
@@ -40770,13 +40770,13 @@
     "parent": null
   },
   {
-    "name": "Accordion   HyperUI  🚀   , Accordion Base, Accordion With icons, Accordion Divided, Accordion Nested, Accordion Compact, Accordion Related Components, Accordion  Breadcrumbs , Accordion  Details Lists , Accordion  Dividers , Accordion  Grids , Accordion  Media , Accordion  Side Menu , Accordion  Stats , Accordion  Tables , Accordion  Tabs , Accordion  Timelines ",
+    "name": "Accordion   HyperUI  🚀   , Accordion Base, Accordion Base (Dark), Accordion With icons, Accordion With icons (Dark), Accordion Divided, Accordion Divided (Dark), Accordion Nested, Accordion Nested (Dark), Accordion Compact, Accordion Compact (Dark)",
     "link": "https://www.hyperui.dev/components/application/accordions",
     "category": "Accordion",
     "parent": null
   },
   {
-    "name": "Tab   HyperUI  🚀   , Tab Base, Tab With icons, Tab Vertical, Tab Underline, Tab Related Components, Tab  Grids , Tab  Vertical Menu ",
+    "name": "Tab   HyperUI  🚀   , Tab Base, Tab Base (Dark), Tab With icons, Tab With icons (Dark), Tab Vertical, Tab Vertical (Dark), Tab Underline, Tab Underline (Dark), Tab Related Components, Tab  Vertical Menu , Tab  Skip Links ",
     "link": "https://www.hyperui.dev/components/application/tabs",
     "category": "Tab",
     "parent": null
@@ -40788,43 +40788,43 @@
     "parent": null
   },
   {
-    "name": "Logo Cloud   HyperUI  🚀   , Logo Cloud Simple, Logo Cloud Simple with title, Logo Cloud Simple with title left aligned, Logo Cloud Grid, Logo Cloud Related Components, Logo Cloud  Banners , Logo Cloud  CTAs , Logo Cloud  Sections , Logo Cloud  Team Sections ",
+    "name": "Logo Cloud   HyperUI  🚀   , Logo Cloud Base, Logo Cloud Base with title, Logo Cloud Base with title left aligned, Logo Cloud Grid",
     "link": "https://www.hyperui.dev/components/marketing/logo-clouds",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Team Section   HyperUI  🚀   , Team Section Simple, Team Section Simple with description, Team Section Small, Team Section Related Components, Team Section  Banners , Team Section  CTAs , Team Section  Logo Clouds , Team Section  Sections ",
+    "name": "Team Section   HyperUI  🚀   , Team Section Base, Team Section Base (Dark), Team Section Base with description, Team Section Base with description (Dark), Team Section Small, Team Section Small (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/team-sections",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Empty State   HyperUI  🚀   , Empty State Create first item, Empty State Import or create, Empty State Upload data, Empty State Get started, Empty State No results found, Empty State Related Components, Empty State  Loaders ",
+    "name": "Empty State   HyperUI  🚀   , Empty State Create first item, Empty State Create first item (Dark), Empty State Import or create, Empty State Import or create (Dark), Empty State Upload data, Empty State Upload data (Dark), Empty State Get started, Empty State Get started (Dark), Empty State No results found, Empty State No results found (Dark)",
     "link": "https://www.hyperui.dev/components/application/empty-states",
     "category": "Dashboard Widgets",
     "parent": null
   },
   {
-    "name": "Loader   HyperUI  🚀   , Loader Pulse effect, Loader Ping effect, Loader Bounce effect, Loader Related Components",
+    "name": "Loader   HyperUI  🚀   , Loader Pulse effect, Loader Pulse effect (Dark), Loader Ping effect, Loader Ping effect (Dark), Loader Bounce effect, Loader Bounce effect (Dark), Loader Related Components",
     "link": "https://www.hyperui.dev/components/application/loaders",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Contact Form   HyperUI  🚀   , Contact Form Simple, Contact Form Simple with triage, Contact Form Grid, Contact Form Simple with checkboxes, Contact Form Side-by-side form with description, Contact Form Related Components, Contact Form  Newsletter Signup ",
+    "name": "Contact Form   HyperUI  🚀   , Contact Form Base, Contact Form Base (Dark), Contact Form Base with triage, Contact Form Base with triage (Dark), Contact Form Base with checkboxes, Contact Form Base with checkboxes (Dark), Contact Form Grid, Contact Form Grid (Dark), Contact Form Side-by-side form with description, Contact Form Side-by-side form with description (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/contact-forms",
     "category": "Contact",
     "parent": "Form"
   },
   {
-    "name": "Empty Content   HyperUI  🚀   , Empty Content Coming soon, Empty Content Related content, Empty Content No stock",
+    "name": "Empty Content   HyperUI  🚀   , Empty Content Coming soon, Empty Content Coming soon (Dark), Empty Content Related content, Empty Content Related content (Dark), Empty Content No stock, Empty Content No stock (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/empty-content",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Feature Grid   HyperUI  🚀   , Feature Grid Grid with content, Feature Grid Simple grid",
+    "name": "Feature Grid   HyperUI  🚀   , Feature Grid Grid with content, Feature Grid Grid with content (Dark), Feature Grid Simple grid, Feature Grid Simple grid (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/feature-grids",
     "category": "Other",
     "parent": null
@@ -40832,6 +40832,108 @@
   {
     "name": "undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare, undefined Cloudflare",
     "link": "https://www.cloudflare.com/5xx-error-landing",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Skip Links   HyperUI  🚀   , Skip Links Basic skip link, Skip Links Multiple skip links with dark background, Skip Links Skip links with title and light background, Skip Links Related Components, Skip Links  Vertical Menu ",
+    "link": "https://www.hyperui.dev/components/application/skip-links",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Hover 3D card new 3D image hover effect, Hover 3D card new 3D card hover effect, Hover 3D card new 3D hover effect for image gallery",
+    "link": "https://daisyui.com/components/hover-3d/",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Range Input  Pagination ",
+    "link": "https://www.hyperui.dev/components/application/range-inputs",
+    "category": "Pagination",
+    "parent": null
+  },
+  {
+    "name": "Multi-Page Portfolio",
+    "link": "https://github.com/tomcomtang/multiplepage-portfolio",
+    "category": "Page",
+    "parent": null
+  },
+  {
+    "name": "Progress Bar   HyperUI  🚀   , Progress Bar Basic, Progress Bar With labels and status colors, Progress Bar Compact with metadata, Progress Bar Circular progress, Progress Bar Related Components, Progress Bar  Badges ",
+    "link": "https://www.hyperui.dev/components/application/progress-bars",
+    "category": "Progress Bar",
+    "parent": null
+  },
+  {
+    "name": "Text Rotate new Text Rotate, Text Rotate new Rotating 6 words, Text Rotate new Rotating words in a sentence, Text Rotate new Rotating 3 words with custom duration, Text Rotate new Custom line height",
+    "link": "https://daisyui.com/components/text-rotate/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Agentix",
+    "link": "https://prebuiltui.com/tailwind-templates/agentix-ai-agent-template",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Crypgo",
+    "link": "https://github.com/GetNextjsTemplates/Crypgo-nextjs-tailwind",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Eliana",
+    "link": "https://prebuiltui.com/tailwind-templates/eliana-portfolio-template",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Folex Lite",
+    "link": "https://getastrothemes.com/astro-themes/folex-lite/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Genesis",
+    "link": "https://prebuiltui.com/tailwind-templates/genesis-ai-agent-saas-template",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Landing",
+    "link": "https://prebuiltui.com/tailwind-templates/landing-saas-app-template",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Material",
+    "link": "https://prebuiltui.com/tailwind-templates/material-developer-saas-template",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Minimal Gallery",
+    "link": "https://github.com/tomcomtang/minimal-gallery",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Pixels",
+    "link": "https://prebuiltui.com/tailwind-templates/pixels-animated-saas-app-template",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Saasly",
+    "link": "https://prebuiltui.com/tailwind-templates/saasly-modern-saas-app",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "SlideX",
+    "link": "https://prebuiltui.com/tailwind-templates/slidex-ai-presentation-template",
     "category": "Other",
     "parent": null
   }
