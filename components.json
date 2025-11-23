@@ -28536,7 +28536,7 @@
     "parent": null
   },
   {
-    "name": "Side Menu   HyperUI  🚀   , Side Menu Icon, links with tooltips and logout action, Side Menu Related Components, Side Menu  Breadcrumbs , Side Menu  Dropdowns , Side Menu  Steps , Side Menu  Tabs , Side Menu  Vertical Menu , Side Menu  Skip Links ",
+    "name": "Side Menu   HyperUI  🚀   , Side Menu Icon, links with tooltips and logout action, Side Menu Related Components, Side Menu  Breadcrumbs , Side Menu  Dropdowns , Side Menu  Skip Links , Side Menu  Steps , Side Menu  Tabs , Side Menu  Vertical Menu ",
     "link": "https://www.hyperui.dev/components/application/side-menu",
     "category": "Sidebar",
     "parent": null
@@ -28836,7 +28836,7 @@
     "parent": "Form"
   },
   {
-    "name": "File Uploader   HyperUI  🚀   , File Uploader Base, File Uploader Base (Dark), File Uploader Base with button, File Uploader Base with button (Dark), File Uploader Related Components, File Uploader  Checkboxes , File Uploader  Filters , File Uploader  Inputs , File Uploader  Quantity Inputs , File Uploader  Radio Groups , File Uploader  Selects , File Uploader  Textareas , File Uploader  Toggles , File Uploader  Range Inputs ",
+    "name": "File Uploader   HyperUI  🚀   , File Uploader Base, File Uploader Base (Dark), File Uploader Base with button, File Uploader Base with button (Dark), File Uploader Related Components, File Uploader  Checkboxes , File Uploader  Filters , File Uploader  Inputs , File Uploader  Quantity Inputs , File Uploader  Radio Groups , File Uploader  Range Inputs , File Uploader  Selects , File Uploader  Textareas , File Uploader  Toggles ",
     "link": "https://www.hyperui.dev/components/application/file-uploaders",
     "category": "Upload",
     "parent": "Form"
@@ -29160,13 +29160,13 @@
     "parent": "Page"
   },
   {
-    "name": "Pagination   HyperUI  🚀   , Pagination Navigation, Pagination Navigation (Dark), Pagination Input, Pagination Input (Dark), Pagination X/Y, Pagination X/Y (Dark), Pagination Related Components, Pagination  Breadcrumbs , Pagination  Checkboxes , Pagination  Dropdowns , Pagination  Inputs , Pagination  Selects , Pagination  Side Menu , Pagination  Steps , Pagination  Tabs , Pagination  Vertical Menu , Pagination  Range Inputs , Pagination  Skip Links ",
+    "name": "Pagination   HyperUI  🚀   , Pagination Navigation, Pagination Navigation (Dark), Pagination Input, Pagination Input (Dark), Pagination X/Y, Pagination X/Y (Dark), Pagination Related Components, Pagination  Breadcrumbs , Pagination  Checkboxes , Pagination  Dropdowns , Pagination  Inputs , Pagination  Range Inputs , Pagination  Selects , Pagination  Side Menu , Pagination  Skip Links , Pagination  Steps , Pagination  Tabs , Pagination  Vertical Menu ",
     "link": "https://www.hyperui.dev/components/application/pagination",
     "category": "Pagination",
     "parent": null
   },
   {
-    "name": "Step   HyperUI  🚀   , Step Grouped with title and description, with highlighted current step, Step Grouped with title and description, with highlighted current step (Dark), Step Timeline with title, with highlighted current step, Step Timeline with title, with highlighted current step (Dark), Step Related Components, Step  Loaders , Step  Tabs , Step  Vertical Menu , Step  Skip Links ",
+    "name": "Step   HyperUI  🚀   , Step Grouped with title and description, with highlighted current step, Step Grouped with title and description, with highlighted current step (Dark), Step Timeline with title, with highlighted current step, Step Timeline with title, with highlighted current step (Dark), Step Related Components, Step  Loaders , Step  Skip Links , Step  Tabs , Step  Vertical Menu ",
     "link": "https://www.hyperui.dev/components/application/steps",
     "category": "Step",
     "parent": null
@@ -40776,7 +40776,7 @@
     "parent": null
   },
   {
-    "name": "Tab   HyperUI  🚀   , Tab Base, Tab Base (Dark), Tab With icons, Tab With icons (Dark), Tab Vertical, Tab Vertical (Dark), Tab Underline, Tab Underline (Dark), Tab Related Components, Tab  Vertical Menu , Tab  Skip Links ",
+    "name": "Tab   HyperUI  🚀   , Tab Base, Tab Base (Dark), Tab With icons, Tab With icons (Dark), Tab Vertical, Tab Vertical (Dark), Tab Underline, Tab Underline (Dark), Tab Related Components, Tab  Skip Links , Tab  Vertical Menu ",
     "link": "https://www.hyperui.dev/components/application/tabs",
     "category": "Tab",
     "parent": null
@@ -40934,6 +40934,12 @@
   {
     "name": "SlideX",
     "link": "https://prebuiltui.com/tailwind-templates/slidex-ai-presentation-template",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "QR Code New QR Code Generator, QR Code New Default QR code, QR Code New Share profile with QR",
+    "link": "https://flowbite.com/docs/components/qr-code/",
     "category": "Other",
     "parent": null
   }

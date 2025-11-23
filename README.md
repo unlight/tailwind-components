@@ -2363,7 +2363,7 @@
 * Quantity Input  File Uploaders : [hyperui.dev/components/application/quantity-inputs](https://www.hyperui.dev/components/application/quantity-inputs)
 * Radio Group  File Uploaders : [hyperui.dev/components/application/radio-groups](https://www.hyperui.dev/components/application/radio-groups)
 * Textarea  File Uploaders : [hyperui.dev/components/application/textareas](https://www.hyperui.dev/components/application/textareas)
-* File Uploader   HyperUI  🚀   , File Uploader Base, File Uploader Base (Dark), File Uploader Base with button, File Uploader Base with button (Dark), File Uploader Related Components, File Uploader  Checkboxes , File Uploader  Filters , File Uploader  Inputs , File Uploader  Quantity Inputs , File Uploader  Radio Groups , File Uploader  Selects , File Uploader  Textareas , File Uploader  Toggles , File Uploader  Range Inputs : [hyperui.dev/components/application/file-uploaders](https://www.hyperui.dev/components/application/file-uploaders)
+* File Uploader   HyperUI  🚀   , File Uploader Base, File Uploader Base (Dark), File Uploader Base with button, File Uploader Base with button (Dark), File Uploader Related Components, File Uploader  Checkboxes , File Uploader  Filters , File Uploader  Inputs , File Uploader  Quantity Inputs , File Uploader  Radio Groups , File Uploader  Range Inputs , File Uploader  Selects , File Uploader  Textareas , File Uploader  Toggles : [hyperui.dev/components/application/file-uploaders](https://www.hyperui.dev/components/application/file-uploaders)
 * Input  File Uploaders : [hyperui.dev/components/application/inputs](https://hyperui.dev/components/application/inputs)
 * Radio Group  File Uploaders : [hyperui.dev/components/application/radio-groups](https://hyperui.dev/components/application/radio-groups)
 * Checkbox  File Uploaders : [hyperui.dev/components/application/checkboxes](https://hyperui.dev/components/application/checkboxes)
@@ -3502,7 +3502,7 @@
 * Input  Pagination : [hyperui.dev/components/application/inputs](https://www.hyperui.dev/components/application/inputs)
 * Select  Pagination : [hyperui.dev/components/application/selects](https://www.hyperui.dev/components/application/selects)
 * Checkbox  Pagination : [hyperui.dev/components/application/checkboxes](https://www.hyperui.dev/components/application/checkboxes)
-* Pagination   HyperUI  🚀   , Pagination Navigation, Pagination Navigation (Dark), Pagination Input, Pagination Input (Dark), Pagination X/Y, Pagination X/Y (Dark), Pagination Related Components, Pagination  Breadcrumbs , Pagination  Checkboxes , Pagination  Dropdowns , Pagination  Inputs , Pagination  Selects , Pagination  Side Menu , Pagination  Steps , Pagination  Tabs , Pagination  Vertical Menu , Pagination  Range Inputs , Pagination  Skip Links : [hyperui.dev/components/application/pagination](https://www.hyperui.dev/components/application/pagination)
+* Pagination   HyperUI  🚀   , Pagination Navigation, Pagination Navigation (Dark), Pagination Input, Pagination Input (Dark), Pagination X/Y, Pagination X/Y (Dark), Pagination Related Components, Pagination  Breadcrumbs , Pagination  Checkboxes , Pagination  Dropdowns , Pagination  Inputs , Pagination  Range Inputs , Pagination  Selects , Pagination  Side Menu , Pagination  Skip Links , Pagination  Steps , Pagination  Tabs , Pagination  Vertical Menu : [hyperui.dev/components/application/pagination](https://www.hyperui.dev/components/application/pagination)
 * Pagination   HyperUI  🚀   , Pagination Navigation, Pagination Navigation (Dark), Pagination Input, Pagination Input (Dark), Pagination X/Y, Pagination X/Y (Dark), Pagination Related Components, Pagination  Breadcrumbs , Pagination  Dropdowns , Pagination  Side Menu , Pagination  Vertical Menu : [hyperui.dev/components/application/pagination](https://hyperui.dev/components/application/pagination)
 * Range Input  Pagination : [hyperui.dev/components/application/range-inputs](https://www.hyperui.dev/components/application/range-inputs)
 
@@ -3643,7 +3643,7 @@
 * Timepicker Drawer with timepicker: [flowbite.com/docs/forms/timepicker/](https://flowbite.com/docs/forms/timepicker/)
 * Tailwind CSS Sliding card: [tailwindcomponents.com/component/sliding-card-1](https://tailwindcomponents.com/component/sliding-card-1)
 * Tailwind CSS Dynamic Sidebar with Alpine JS: [tailwindcomponents.com/component/dynamic-sidebar](https://tailwindcomponents.com/component/dynamic-sidebar)
-* Side Menu   HyperUI  🚀   , Side Menu Icon, links with tooltips and logout action, Side Menu Related Components, Side Menu  Breadcrumbs , Side Menu  Dropdowns , Side Menu  Steps , Side Menu  Tabs , Side Menu  Vertical Menu , Side Menu  Skip Links : [hyperui.dev/components/application/side-menu](https://www.hyperui.dev/components/application/side-menu)
+* Side Menu   HyperUI  🚀   , Side Menu Icon, links with tooltips and logout action, Side Menu Related Components, Side Menu  Breadcrumbs , Side Menu  Dropdowns , Side Menu  Skip Links , Side Menu  Steps , Side Menu  Tabs , Side Menu  Vertical Menu : [hyperui.dev/components/application/side-menu](https://www.hyperui.dev/components/application/side-menu)
 * Breadcrumb  Side Menu : [hyperui.dev/components/application/breadcrumbs](https://www.hyperui.dev/components/application/breadcrumbs)
 * Dropdown  Side Menu : [hyperui.dev/components/application/dropdown](https://www.hyperui.dev/components/application/dropdown)
 * Layouts Mini & Column sidebar: [kamona-wd.github.io/kwd-dashboard/layouts/mini-plus-one-column-sidebar.html](https://kamona-wd.github.io/kwd-dashboard/layouts/mini-plus-one-column-sidebar.html)
@@ -3698,7 +3698,7 @@
 * Tailwind CSS Stepper: [tailwindcomponents.com/component/tailwind-css-stepper](https://tailwindcomponents.com/component/tailwind-css-stepper)
 * Stepper Basic example, Stepper Change steps using external elements, Stepper Linear stepper, Stepper With Validation component, Stepper With default HMTL validation, Stepper No editable stepper, Stepper Vertical stepper, Stepper Mobile stepper, Stepper with gesture support, Stepper Optional step, Stepper Custom icons, Stepper Form wizard, Stepper Toggle to vertical or mobile on smaller screens, Stepper Events, Stepper Import, Stepper Usage: [tw-elements.com/docs/standard/components/stepper/](https://tw-elements.com/docs/standard/components/stepper/)
 * Stepper Default stepper, Stepper Progress stepper, Stepper Detailed stepper, Stepper Vertical stepper, Stepper Breadcrumb stepper, Stepper Timeline stepper, Stepper Stepper with form: [flowbite.com/docs/components/stepper/](https://flowbite.com/docs/components/stepper/)
-* Step   HyperUI  🚀   , Step Grouped with title and description, with highlighted current step, Step Grouped with title and description, with highlighted current step (Dark), Step Timeline with title, with highlighted current step, Step Timeline with title, with highlighted current step (Dark), Step Related Components, Step  Loaders , Step  Tabs , Step  Vertical Menu , Step  Skip Links : [hyperui.dev/components/application/steps](https://www.hyperui.dev/components/application/steps)
+* Step   HyperUI  🚀   , Step Grouped with title and description, with highlighted current step, Step Grouped with title and description, with highlighted current step (Dark), Step Timeline with title, with highlighted current step, Step Timeline with title, with highlighted current step (Dark), Step Related Components, Step  Loaders , Step  Skip Links , Step  Tabs , Step  Vertical Menu : [hyperui.dev/components/application/steps](https://www.hyperui.dev/components/application/steps)
 * extrastepe1: [tailwind.besoeasy.com/extra/stepe1.html](https://tailwind.besoeasy.com/extra/stepe1.html)
 * extrastepe2: [tailwind.besoeasy.com/extra/stepe2.html](https://tailwind.besoeasy.com/extra/stepe2.html)
 * extrastepe3: [tailwind.besoeasy.com/extra/stepe3.html](https://tailwind.besoeasy.com/extra/stepe3.html)
@@ -4042,7 +4042,7 @@
 * aboutabout4: [tailwind.besoeasy.com/about/about4.html](https://tailwind.besoeasy.com/about/about4.html)
 * aboutabout5: [tailwind.besoeasy.com/about/about5.html](https://tailwind.besoeasy.com/about/about5.html)
 * aboutabout6: [tailwind.besoeasy.com/about/about6.html](https://tailwind.besoeasy.com/about/about6.html)
-* Tab   HyperUI  🚀   , Tab Base, Tab Base (Dark), Tab With icons, Tab With icons (Dark), Tab Vertical, Tab Vertical (Dark), Tab Underline, Tab Underline (Dark), Tab Related Components, Tab  Vertical Menu , Tab  Skip Links : [hyperui.dev/components/application/tabs](https://www.hyperui.dev/components/application/tabs)
+* Tab   HyperUI  🚀   , Tab Base, Tab Base (Dark), Tab With icons, Tab With icons (Dark), Tab Vertical, Tab Vertical (Dark), Tab Underline, Tab Underline (Dark), Tab Related Components, Tab  Skip Links , Tab  Vertical Menu : [hyperui.dev/components/application/tabs](https://www.hyperui.dev/components/application/tabs)
 
 ## Timeline
 
@@ -6997,3 +6997,4 @@
 * Pixels: [prebuiltui.com/tailwind-templates/pixels-animated-saas-app-template](https://prebuiltui.com/tailwind-templates/pixels-animated-saas-app-template)
 * Saasly: [prebuiltui.com/tailwind-templates/saasly-modern-saas-app](https://prebuiltui.com/tailwind-templates/saasly-modern-saas-app)
 * SlideX: [prebuiltui.com/tailwind-templates/slidex-ai-presentation-template](https://prebuiltui.com/tailwind-templates/slidex-ai-presentation-template)
+* QR Code New QR Code Generator, QR Code New Default QR code, QR Code New Share profile with QR: [flowbite.com/docs/components/qr-code/](https://flowbite.com/docs/components/qr-code/)
