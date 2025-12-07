@@ -81,6 +81,7 @@
 * Collapse Basic example, Collapse Horizontal, Collapse Multiple targets, Collapse With Scroll, Collapse Import, Collapse Usage: [tw-elements.com/docs/standard/components/collapse/](https://tw-elements.com/docs/standard/components/collapse/)
 * Tailwind CSS Accordion: [tailwindcomponents.com/component/accordion-5](https://tailwindcomponents.com/component/accordion-5)
 * Accordion   HyperUI  🚀   , Accordion Base, Accordion Base (Dark), Accordion With icons, Accordion With icons (Dark), Accordion Divided, Accordion Divided (Dark), Accordion Nested, Accordion Nested (Dark), Accordion Compact, Accordion Compact (Dark): [hyperui.dev/components/application/accordions](https://www.hyperui.dev/components/application/accordions)
+* Accordion   HyperUI  🚀   , Accordion Base, Accordion Contained, Accordion Grouped: [hyperui.dev/components/neobrutalism/accordions](https://www.hyperui.dev/components/neobrutalism/accordions)
 
 ## Alert/Notification
 
@@ -213,6 +214,7 @@
 * Alert Solid color alerts Soft color alerts Round Border Alerts Round Border with Icons Alerts: [dripui.vercel.app/docs/alerts](https://dripui.vercel.app/docs/alerts)
 * Alert   HyperUI  🚀   , Alert Base, Alert Base (Dark), Alert Base with actions, Alert Base with actions (Dark), Alert Standout, Alert Standout (Dark): [hyperui.dev/components/application/alerts](https://www.hyperui.dev/components/application/alerts)
 * Alert   HyperUI  🚀   , Alert Base, Alert Base (Dark), Alert Base with actions, Alert Base with actions (Dark), Alert Standout, Alert Standout (Dark), Alert Related Components, Alert  Badges : [hyperui.dev/components/application/alerts](https://hyperui.dev/components/application/alerts)
+* Alert   HyperUI  🚀   , Alert Info, Alert Success, Alert Error: [hyperui.dev/components/neobrutalism/alerts](https://www.hyperui.dev/components/neobrutalism/alerts)
 
 ## Avatar
 
@@ -835,6 +837,7 @@
 * With close button on outside: [tailwindcss.com/plus/ui-blocks/preview#component-0f117af9905c6bf010968e396f2c7583-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-0f117af9905c6bf010968e396f2c7583-dark)
 * Button Group   HyperUI  🚀   , Button Group Base, Button Group Base (Dark), Button Group Icons, Button Group Icons (Dark), Button Group Main and secondary, Button Group Main and secondary (Dark), Button Group Layouts, Button Group Layouts (Dark), Button Group Layouts without space, Button Group Layouts without space (Dark), Button Group Related Components, Button Group  Radio Groups : [hyperui.dev/components/application/button-groups](https://hyperui.dev/components/application/button-groups)
 * Button   HyperUI  🚀   , Button Base, solid and bordered, Button Base with icon, solid and bordered, Button Gradient border, rounded and pill, Button Icon, solid and bordered, Button Drop shadow, hide shadow and show shadow on hover, Button Base with icon on hover, solid, bordered and icon left/right, Button Base with shadow and expand on hover, solid and bordered, Button Base with rotate and expand on hover, solid, outline and rotate left/right, Button Artistic with offset background, background moves in and out on hover, Button Highlighted border which expands on hover, left, right, bottom and left, Button Large with emphasized icon, solid and bordered, Button Reveal hidden static border on hover, solid and bordered, Button Related Components, Button  CTAs , Button  Header : [hyperui.dev/components/marketing/buttons](https://hyperui.dev/components/marketing/buttons)
+* Button   HyperUI  🚀   , Button Base, Button Pressed, Button Pressed with inset, Button Underlined, Button Double border: [hyperui.dev/components/neobrutalism/buttons](https://www.hyperui.dev/components/neobrutalism/buttons)
 
 ## Call to Action
 
@@ -1379,6 +1382,7 @@
 * Blog Card   HyperUI  🚀   , Blog Card Bordered with image, date, title and excerpt, shadow on hover, Blog Card Bordered with image, date, title and excerpt, shadow on hover (Dark), Blog Card Floating image with title and excerpt, Blog Card Floating image with title and excerpt (Dark), Blog Card Gradient border with date, title and tags, animated gradient on hover, Blog Card Gradient border with date, title and tags, animated gradient on hover (Dark), Blog Card Background image with overlay containing date, title and excerpt, Blog Card Related Components, Blog Card  Cards , Blog Card  Product Cards : [hyperui.dev/components/marketing/blog-cards](https://hyperui.dev/components/marketing/blog-cards)
 * Product Card   HyperUI  🚀   , Product Card Product with image, title and price, Product Card Product with image, title, price and variant count, Product Card Product with image, title, price and description, Product Card Product with rounded image, title and price, Product Card Product with image, title, price and variant options, Product Card Related Components, Product Card  Blog Cards , Product Card  Cards , Product Card  Carts , Product Card  Product Collections : [hyperui.dev/components/marketing/product-cards](https://hyperui.dev/components/marketing/product-cards)
 * Hover 3D card new 3D image hover effect, Hover 3D card new 3D card hover effect, Hover 3D card new 3D hover effect for image gallery: [daisyui.com/components/hover-3d/](https://daisyui.com/components/hover-3d/)
+* Card   HyperUI  🚀   , Card Base, Card Base stacked, Card Base dashed, Card Retro window: [hyperui.dev/components/neobrutalism/cards](https://www.hyperui.dev/components/neobrutalism/cards)
 
 ## Dashboard Widgets
 
@@ -1966,6 +1970,10 @@
 * User Authentication Form: [tailwindcomponents.com/component/alx-website-clone](https://tailwindcomponents.com/component/alx-website-clone)
 * Filter using HTML form, radio buttons and reset button, Filter without HTML form, Filter using HTML form, checkboxes, and a reset button: [daisyui.com/components/filter/](https://daisyui.com/components/filter/)
 * Quantity Input   HyperUI  🚀   , Quantity Input Related Components, Quantity Input  Checkboxes , Quantity Input  Inputs , Quantity Input  Textareas : [hyperui.dev/components/application/quantity-inputs](https://hyperui.dev/components/application/quantity-inputs)
+* Checkbox   HyperUI  🚀   , Checkbox Base, Checkbox Base with description, Checkbox Grouped, Checkbox Related Components, Checkbox  Inputs , Checkbox  Textareas : [hyperui.dev/components/neobrutalism/checkboxes](https://www.hyperui.dev/components/neobrutalism/checkboxes)
+* Input   HyperUI  🚀   , Input Base, Input Base with icon, Input Search, Input Related Components, Input  Checkboxes , Input  Textareas : [hyperui.dev/components/neobrutalism/inputs](https://www.hyperui.dev/components/neobrutalism/inputs)
+* Select   HyperUI  🚀   , Select Base, Select Option groups, Select Datalist, Select Related Components, Select  Checkboxes , Select  Inputs , Select  Textareas : [hyperui.dev/components/neobrutalism/selects](https://www.hyperui.dev/components/neobrutalism/selects)
+* Textarea   HyperUI  🚀   , Textarea Base, Textarea Actions inside, Textarea Actions outside, Textarea Related Components, Textarea  Checkboxes , Textarea  Inputs : [hyperui.dev/components/neobrutalism/textareas](https://www.hyperui.dev/components/neobrutalism/textareas)
 
 ### Contact
 
@@ -3558,6 +3566,8 @@
 * Progress Default progress bar, Progress Sizes, Progress With label inside, Progress With label outside, Progress Colors: [flowbite.com/docs/components/progress/](https://flowbite.com/docs/components/progress/)
 * Badge  Progress Bars : [hyperui.dev/components/application/badges](https://www.hyperui.dev/components/application/badges)
 * Progress Bar   HyperUI  🚀   , Progress Bar Basic, Progress Bar With labels and status colors, Progress Bar Compact with metadata, Progress Bar Circular progress, Progress Bar Related Components, Progress Bar  Badges : [hyperui.dev/components/application/progress-bars](https://www.hyperui.dev/components/application/progress-bars)
+* Badge  Progress Bars : [hyperui.dev/components/neobrutalism/badges](https://www.hyperui.dev/components/neobrutalism/badges)
+* Progress Bar   HyperUI  🚀   , Progress Bar Base, Progress Bar Striped, Progress Bar Status, Progress Bar Related Components, Progress Bar  Badges : [hyperui.dev/components/neobrutalism/progress-bars](https://www.hyperui.dev/components/neobrutalism/progress-bars)
 
 ## Skeleton
 
@@ -4043,6 +4053,7 @@
 * aboutabout5: [tailwind.besoeasy.com/about/about5.html](https://tailwind.besoeasy.com/about/about5.html)
 * aboutabout6: [tailwind.besoeasy.com/about/about6.html](https://tailwind.besoeasy.com/about/about6.html)
 * Tab   HyperUI  🚀   , Tab Base, Tab Base (Dark), Tab With icons, Tab With icons (Dark), Tab Vertical, Tab Vertical (Dark), Tab Underline, Tab Underline (Dark), Tab Related Components, Tab  Skip Links , Tab  Vertical Menu : [hyperui.dev/components/application/tabs](https://www.hyperui.dev/components/application/tabs)
+* Tab   HyperUI  🚀   , Tab Base, Tab Contained, Tab Vertical: [hyperui.dev/components/neobrutalism/tabs](https://www.hyperui.dev/components/neobrutalism/tabs)
 
 ## Timeline
 
@@ -6998,3 +7009,4 @@
 * Saasly: [prebuiltui.com/tailwind-templates/saasly-modern-saas-app](https://prebuiltui.com/tailwind-templates/saasly-modern-saas-app)
 * SlideX: [prebuiltui.com/tailwind-templates/slidex-ai-presentation-template](https://prebuiltui.com/tailwind-templates/slidex-ai-presentation-template)
 * QR Code New QR Code Generator, QR Code New Default QR code, QR Code New Share profile with QR: [flowbite.com/docs/components/qr-code/](https://flowbite.com/docs/components/qr-code/)
+* Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism , Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism , Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism : [hyperui.dev/components/neobrutalism](https://www.hyperui.dev/components/neobrutalism)

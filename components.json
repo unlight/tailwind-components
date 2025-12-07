@@ -40942,5 +40942,77 @@
     "link": "https://flowbite.com/docs/components/qr-code/",
     "category": "Other",
     "parent": null
+  },
+  {
+    "name": "Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism , Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism , Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism ",
+    "link": "https://www.hyperui.dev/components/neobrutalism",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Accordion   HyperUI  🚀   , Accordion Base, Accordion Contained, Accordion Grouped",
+    "link": "https://www.hyperui.dev/components/neobrutalism/accordions",
+    "category": "Accordion",
+    "parent": null
+  },
+  {
+    "name": "Alert   HyperUI  🚀   , Alert Info, Alert Success, Alert Error",
+    "link": "https://www.hyperui.dev/components/neobrutalism/alerts",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Badge  Progress Bars ",
+    "link": "https://www.hyperui.dev/components/neobrutalism/badges",
+    "category": "Progress Bar",
+    "parent": null
+  },
+  {
+    "name": "Button   HyperUI  🚀   , Button Base, Button Pressed, Button Pressed with inset, Button Underlined, Button Double border",
+    "link": "https://www.hyperui.dev/components/neobrutalism/buttons",
+    "category": "Button",
+    "parent": null
+  },
+  {
+    "name": "Card   HyperUI  🚀   , Card Base, Card Base stacked, Card Base dashed, Card Retro window",
+    "link": "https://www.hyperui.dev/components/neobrutalism/cards",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Checkbox   HyperUI  🚀   , Checkbox Base, Checkbox Base with description, Checkbox Grouped, Checkbox Related Components, Checkbox  Inputs , Checkbox  Textareas ",
+    "link": "https://www.hyperui.dev/components/neobrutalism/checkboxes",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Input   HyperUI  🚀   , Input Base, Input Base with icon, Input Search, Input Related Components, Input  Checkboxes , Input  Textareas ",
+    "link": "https://www.hyperui.dev/components/neobrutalism/inputs",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Select   HyperUI  🚀   , Select Base, Select Option groups, Select Datalist, Select Related Components, Select  Checkboxes , Select  Inputs , Select  Textareas ",
+    "link": "https://www.hyperui.dev/components/neobrutalism/selects",
+    "category": "Dropdown",
+    "parent": null
+  },
+  {
+    "name": "Textarea   HyperUI  🚀   , Textarea Base, Textarea Actions inside, Textarea Actions outside, Textarea Related Components, Textarea  Checkboxes , Textarea  Inputs ",
+    "link": "https://www.hyperui.dev/components/neobrutalism/textareas",
+    "category": "Form",
+    "parent": null
+  },
+  {
+    "name": "Progress Bar   HyperUI  🚀   , Progress Bar Base, Progress Bar Striped, Progress Bar Status, Progress Bar Related Components, Progress Bar  Badges ",
+    "link": "https://www.hyperui.dev/components/neobrutalism/progress-bars",
+    "category": "Progress Bar",
+    "parent": null
+  },
+  {
+    "name": "Tab   HyperUI  🚀   , Tab Base, Tab Contained, Tab Vertical",
+    "link": "https://www.hyperui.dev/components/neobrutalism/tabs",
+    "category": "Tab",
+    "parent": null
   }
 ]
