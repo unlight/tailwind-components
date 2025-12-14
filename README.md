@@ -7008,5 +7008,5 @@
 * Pixels: [prebuiltui.com/tailwind-templates/pixels-animated-saas-app-template](https://prebuiltui.com/tailwind-templates/pixels-animated-saas-app-template)
 * Saasly: [prebuiltui.com/tailwind-templates/saasly-modern-saas-app](https://prebuiltui.com/tailwind-templates/saasly-modern-saas-app)
 * SlideX: [prebuiltui.com/tailwind-templates/slidex-ai-presentation-template](https://prebuiltui.com/tailwind-templates/slidex-ai-presentation-template)
-* QR Code New QR Code Generator, QR Code New Default QR code, QR Code New Share profile with QR: [flowbite.com/docs/components/qr-code/](https://flowbite.com/docs/components/qr-code/)
+* QR Code New Default QR code, QR Code New Share profile with QR: [flowbite.com/docs/components/qr-code/](https://flowbite.com/docs/components/qr-code/)
 * Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism , Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism , Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism : [hyperui.dev/components/neobrutalism](https://www.hyperui.dev/components/neobrutalism)
