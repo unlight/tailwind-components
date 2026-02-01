@@ -990,13 +990,13 @@
     "parent": null
   },
   {
-    "name": "Accordion 🔥 Basic usage, Accordion 🔥 Example, Accordion 🔥 Always open, Accordion 🔥 Nested, Accordion 🔥 No arrow, Accordion 🔥 With arrow, Accordion 🔥 With title and arrow stretched, Accordion 🔥 Bordered, Accordion 🔥 Active content bordered, Accordion 🔥 Destroy and Reinitialize New",
+    "name": "Accordion 🔥 Basic usage, Accordion 🔥 Example, Accordion 🔥 Always open, Accordion 🔥 Nested, Accordion 🔥 No arrow, Accordion 🔥 With arrow, Accordion 🔥 With title and arrow stretched, Accordion 🔥 Bordered, Accordion 🔥 Active content bordered, Accordion 🔥 Destroy and Reinitialize",
     "link": "https://preline.co/docs/accordion.html",
     "category": "Accordion",
     "parent": null
   },
   {
-    "name": "Collapse About, Collapse Basic usage, Collapse Example, Collapse Show/Hide, Collapse Destroy and Reinitialize New",
+    "name": "Collapse About, Collapse Basic usage, Collapse Example, Collapse Show/Hide, Collapse Destroy and Reinitialize",
     "link": "https://preline.co/docs/collapse.html",
     "category": "Accordion",
     "parent": null
@@ -1290,7 +1290,7 @@
     "parent": null
   },
   {
-    "name": "Toasts Basic usage, Toasts Example, Toasts Condensed, Toasts Color variants, Toasts Solid color variants, Toasts Soft color variants, Toasts Message with loading indicator, Toasts With actions, Toasts Stack, Toasts Avatar, Toasts Progress, Toasts Placement, Toasts Dismiss button, Toasts JavaScript Behavior New",
+    "name": "Toasts Basic usage, Toasts Example, Toasts Condensed, Toasts Color variants, Toasts Solid color variants, Toasts Soft color variants, Toasts Message with loading indicator, Toasts With actions, Toasts Stack, Toasts Avatar, Toasts Progress, Toasts Placement, Toasts Dismiss button, Toasts JavaScript Behavior",
     "link": "https://preline.co/docs/toasts.html",
     "category": "Alert/Notification",
     "parent": null
@@ -2034,7 +2034,7 @@
     "parent": null
   },
   {
-    "name": "Blockquote Basic usage, Blockquote Example, Blockquote Sizes, Blockquote Alignment, Blockquote Naming a source, Blockquote Left bordered",
+    "name": "Blockquote Basic usage, Blockquote Example, Blockquote Sizes, Blockquote Small, Blockquote Medium, Blockquote Large, Blockquote Alignment, Blockquote Naming a source, Blockquote Left bordered",
     "link": "https://preline.co/docs/blockquote.html",
     "category": "Other",
     "parent": null
@@ -2340,13 +2340,13 @@
     "parent": null
   },
   {
-    "name": "Navs Basic usage, Navs Example, Navs Available styles, Navs Tabs with underline, Navs With icons, Navs Horizontal alignment, Navs Vertical, Navs Segment, Navs Bar with underline, Navs Pills on gray color, Navs Pills with brand color, Navs Scroll nav New, Navs Fill and justify, Navs Equal-width elements",
+    "name": "Navs Basic usage, Navs Example, Navs Available styles, Navs Tabs with underline, Navs With icons, Navs Horizontal alignment, Navs Vertical, Navs Segment, Navs Bar with underline, Navs Pills on gray color, Navs Pills with brand color, Navs Scroll nav, Navs Fill and justify, Navs Equal-width elements",
     "link": "https://preline.co/docs/navs.html",
     "category": "Navigation/Header",
     "parent": null
   },
   {
-    "name": "Tabs 🔥 About, Tabs 🔥 Tabs with underline, Tabs 🔥 Tabs with icons, Tabs 🔥 Centered New, Tabs 🔥 Horizontal alignment, Tabs 🔥 Vertical, Tabs 🔥 Horizontal scroll, Tabs 🔥 Segment, Tabs 🔥 Bar with underline, Tabs 🔥 Fill and justify, Tabs 🔥 Equal-width elements, Tabs 🔥 Open on hover New, Tabs 🔥 Destroy and Reinitialize New",
+    "name": "Tabs 🔥 About, Tabs 🔥 Tabs with underline, Tabs 🔥 Tabs with icons, Tabs 🔥 Centered, Tabs 🔥 Horizontal alignment, Tabs 🔥 Vertical, Tabs 🔥 Horizontal scroll, Tabs 🔥 Segment, Tabs 🔥 Bar with underline, Tabs 🔥 Fill and justify, Tabs 🔥 Equal-width elements, Tabs 🔥 Open on hover New, Tabs 🔥 Destroy and Reinitialize",
     "link": "https://preline.co/docs/tabs.html",
     "category": "Tab",
     "parent": null
@@ -3030,7 +3030,7 @@
     "parent": null
   },
   {
-    "name": "Button Group Basic usage, Button Group Example, Button Group Sizes, Button Group Button group break, Button Group Vertical, Button Group Toolbar",
+    "name": "Button Group Basic usage, Button Group Example, Button Group Sizes, Button Group Small, Button Group Medium, Button Group Large, Button Group Button group break, Button Group Vertical, Button Group Toolbar",
     "link": "https://preline.co/docs/button-group.html",
     "category": "Button",
     "parent": null
@@ -8148,13 +8148,13 @@
     "parent": null
   },
   {
-    "name": "Dropdown Basic usage, Dropdown Default, Dropdown Hover event, Dropdown Dividers, Dropdown Icons, Dropdown Title, Dropdown With header, Dropdown Custom trigger, Dropdown Custom icon trigger, Dropdown Animations, Dropdown Scale animation, Dropdown Slide up animation, Dropdown Transform style animation, Dropdown Options, Dropdown Auto close behavior, Dropdown Scope Window New, Dropdown Dropdown item checkbox, Dropdown Dropdown item radio, Dropdown Directions, Dropdown Dropdown, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Responsive alignment, Dropdown Destroy and Reinitialize New",
+    "name": "Dropdown Basic usage, Dropdown Default, Dropdown Hover event, Dropdown Dividers, Dropdown Icons, Dropdown Title, Dropdown With header, Dropdown Custom trigger, Dropdown Custom icon trigger, Dropdown Animations, Dropdown Scale animation, Dropdown Slide up animation, Dropdown Transform style animation, Dropdown Options, Dropdown Auto close behavior, Dropdown Scope Window, Dropdown Dropdown item checkbox, Dropdown Dropdown item radio, Dropdown Directions, Dropdown Dropdown, Dropdown Dropup, Dropdown Dropright, Dropdown Dropleft, Dropdown Responsive alignment, Dropdown Destroy and Reinitialize",
     "link": "https://preline.co/docs/dropdown.html",
     "category": "Dropdown",
     "parent": null
   },
   {
-    "name": "Popover About, Popover When to use, Popover Conclusion, Popover Four directions, Popover Auto positioning New, Popover Focus event, Popover Hover event, Popover With content, Popover Review popover example, Popover User popover example, Popover Destroy and Reinitialize New",
+    "name": "Popover About, Popover When to use, Popover Conclusion, Popover Four directions, Popover Auto positioning, Popover Focus event, Popover Hover event, Popover With content, Popover Review popover example, Popover User popover example, Popover Destroy and Reinitialize",
     "link": "https://preline.co/docs/popover.html",
     "category": "Dropdown",
     "parent": null
@@ -12474,7 +12474,7 @@
     "parent": null
   },
   {
-    "name": "Scrollspy Destroy and Reinitialize New",
+    "name": "Scrollspy Destroy and Reinitialize",
     "link": "https://preline.co/docs/scrollspy.html",
     "category": "Other",
     "parent": null
@@ -15048,7 +15048,7 @@
     "parent": null
   },
   {
-    "name": "Sidebar New Content examples, Sidebar New Empty content, Sidebar New Basic usage, Sidebar New Types, Sidebar New Offcanvas, Sidebar New Content push, Sidebar New Content push to mini sidebar New, Sidebar New Mini sidebar, Sidebar New Layout splitter New",
+    "name": "Sidebar Content examples, Sidebar Empty content, Sidebar Basic usage, Sidebar Types, Sidebar Offcanvas, Sidebar Content push, Sidebar Content push to mini sidebar, Sidebar Mini sidebar, Sidebar Layout splitter",
     "link": "https://preline.co/docs/sidebar.html",
     "category": "Sidebar",
     "parent": null
@@ -15756,7 +15756,7 @@
     "parent": null
   },
   {
-    "name": "Tooltip About, Tooltip When to use, Tooltip Interactions, Tooltip Conclusion, Tooltip Basic usage, Tooltip Example, Tooltip Auto positioning New, Tooltip Destroy and Reinitialize",
+    "name": "Tooltip About, Tooltip When to use, Tooltip Interactions, Tooltip Conclusion, Tooltip Basic usage, Tooltip Example, Tooltip Auto positioning, Tooltip Destroy and Reinitialize",
     "link": "https://preline.co/docs/tooltip.html",
     "category": "Tooltips",
     "parent": null
@@ -18054,7 +18054,7 @@
     "parent": null
   },
   {
-    "name": "Offcanvas (Drawer) Basic usage, Offcanvas (Drawer) Example, Offcanvas (Drawer) Placement, Offcanvas (Drawer) Scrolling, Offcanvas (Drawer) Custom backdrop color, Offcanvas (Drawer) Destroy and Reinitialize New",
+    "name": "Offcanvas (Drawer) Basic usage, Offcanvas (Drawer) Example, Offcanvas (Drawer) Placement, Offcanvas (Drawer) Scrolling, Offcanvas (Drawer) Custom backdrop color, Offcanvas (Drawer) Destroy and Reinitialize",
     "link": "https://preline.co/docs/offcanvas.html",
     "category": "Sidebar",
     "parent": null
@@ -24072,13 +24072,13 @@
     "parent": null
   },
   {
-    "name": "Chat Bubbles Example, Chat Bubbles How can we help?, Chat Bubbles One sided, Chat Bubbles How can we help?, Chat Bubbles How can we help?, Chat Bubbles How can we help?",
+    "name": "Chat Bubbles Example, Chat Bubbles One sided",
     "link": "https://preline.co/docs/chat-bubbles.html",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Stepper 🔥 Basic usage, Stepper 🔥 Static, Stepper 🔥 Linear, Stepper 🔥 Responsive, Stepper 🔥 Types, Stepper 🔥 White, Stepper 🔥 Solid, Stepper 🔥 Alignment, Stepper 🔥 Center, Stepper 🔥 Working with icon and avatar, Stepper 🔥 Dynamic form, Stepper 🔥 Dynamic Linear, Stepper 🔥 Non-linear, Stepper 🔥 Skipped, Stepper 🔥 Active, Stepper 🔥 Error, Stepper 🔥 Success, Stepper 🔥 Destroy and Reinitialize New",
+    "name": "Stepper 🔥 Basic usage, Stepper 🔥 Static, Stepper 🔥 Linear, Stepper 🔥 Responsive, Stepper 🔥 Types, Stepper 🔥 White, Stepper 🔥 Solid, Stepper 🔥 Alignment, Stepper 🔥 Center, Stepper 🔥 Working with icon and avatar, Stepper 🔥 Dynamic form, Stepper 🔥 Dynamic Linear, Stepper 🔥 Non-linear, Stepper 🔥 Skipped, Stepper 🔥 Active, Stepper 🔥 Error, Stepper 🔥 Success, Stepper 🔥 Destroy and Reinitialize",
     "link": "https://preline.co/docs/stepper.html",
     "category": "Step",
     "parent": null
@@ -28374,7 +28374,7 @@
     "parent": null
   },
   {
-    "name": "Tree View 🔥 Basic usage, Tree View 🔥 Close currently opened, Tree View 🔥 Customize, Tree View 🔥 Draggable New, Tree View 🔥 Destroy and Reinitialize New",
+    "name": "Tree View 🔥 Basic usage, Tree View 🔥 Close currently opened, Tree View 🔥 Customize, Tree View 🔥 Draggable, Tree View 🔥 Destroy and Reinitialize",
     "link": "https://preline.co/docs/tree-view.html",
     "category": "Other",
     "parent": null
@@ -28524,7 +28524,7 @@
     "parent": null
   },
   {
-    "name": "Context Menu New Basic usage, Context Menu New Default",
+    "name": "Context Menu Basic usage, Context Menu Default",
     "link": "https://preline.co/docs/context-menu.html",
     "category": "Other",
     "parent": null
@@ -28716,7 +28716,7 @@
     "parent": null
   },
   {
-    "name": "TimePicker New Browser default, TimePicker New Custom style",
+    "name": "TimePicker Browser default, TimePicker Custom style",
     "link": "https://preline.co/docs/time-picker.html",
     "category": "Date/Time",
     "parent": null
