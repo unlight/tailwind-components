@@ -3604,7 +3604,7 @@
 * Layout Sidebar: [layoutsfortailwind.lalokalabs.dev/ui/layout-sidebar](https://layoutsfortailwind.lalokalabs.dev/ui/layout-sidebar)
 * Sidebar: [mambaui.com/components/sidebar](https://mambaui.com/components/sidebar)
 * Basic Sidebar: [postsrc.com/components/tailwind-css-sidebar/basic-sidebar](https://postsrc.com/components/tailwind-css-sidebar/basic-sidebar)
-* Sidebar Content examples, Sidebar Empty content, Sidebar Basic usage, Sidebar Types, Sidebar Offcanvas, Sidebar Content push, Sidebar Content push to mini sidebar, Sidebar Mini sidebar, Sidebar Layout splitter: [preline.co/docs/sidebar.html](https://preline.co/docs/sidebar.html)
+* Sidebar Content examples, Sidebar Basic usage, Sidebar Types, Sidebar Offcanvas, Sidebar Content push, Sidebar Content push to mini sidebar, Sidebar Mini sidebar, Sidebar Layout splitter, Sidebar Empty content: [preline.co/docs/sidebar.html](https://preline.co/docs/sidebar.html)
 * Sidebar: [sailboatui.com/docs/components/layout/#sidebar](https://sailboatui.com/docs/components/layout/#sidebar)
 * Tailwind CSS Label Section Sidebar: [tailwindcomponents.com/component/label-section-sidebar](https://tailwindcomponents.com/component/label-section-sidebar)
 * Sub Menu Sidebar: [tailwindcomponents.com/component/sub-menu-sidebar](https://tailwindcomponents.com/component/sub-menu-sidebar)
