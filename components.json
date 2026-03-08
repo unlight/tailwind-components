@@ -2802,7 +2802,7 @@
     "parent": "Page"
   },
   {
-    "name": "Free Tailwind CSS Marketing   HyperUI  🚀   , Free Tailwind CSS Marketing  Marketing , Free Tailwind CSS Marketing  Announcements , Free Tailwind CSS Marketing  Banners , Free Tailwind CSS Marketing  Carts , Free Tailwind CSS Marketing  CTAs , Free Tailwind CSS Marketing  Empty Content , Free Tailwind CSS Marketing  Feature Grids , Free Tailwind CSS Marketing  Logo Clouds , Free Tailwind CSS Marketing  Polls , Free Tailwind CSS Marketing  Product Collections , Free Tailwind CSS Marketing  Sections , Free Tailwind CSS Marketing  Team Sections , Free Tailwind CSS Marketing   HyperUI  🚀   , Free Tailwind CSS Marketing  Marketing , Free Tailwind CSS Marketing  Announcements , Free Tailwind CSS Marketing  Banners , Free Tailwind CSS Marketing  Carts , Free Tailwind CSS Marketing  CTAs , Free Tailwind CSS Marketing  Empty Content , Free Tailwind CSS Marketing  Feature Grids , Free Tailwind CSS Marketing  Logo Clouds , Free Tailwind CSS Marketing  Polls , Free Tailwind CSS Marketing  Product Collections , Free Tailwind CSS Marketing  Sections , Free Tailwind CSS Marketing  Team Sections , Free Tailwind CSS Marketing   HyperUI  🚀   , Free Tailwind CSS Marketing  Marketing , Free Tailwind CSS Marketing  Announcements , Free Tailwind CSS Marketing  Banners , Free Tailwind CSS Marketing  Carts , Free Tailwind CSS Marketing  CTAs , Free Tailwind CSS Marketing  Empty Content , Free Tailwind CSS Marketing  Feature Grids , Free Tailwind CSS Marketing  Logo Clouds , Free Tailwind CSS Marketing  Polls , Free Tailwind CSS Marketing  Product Collections , Free Tailwind CSS Marketing  Sections , Free Tailwind CSS Marketing  Team Sections ",
+    "name": "Marketing Marketing Components, Marketing Marketing Components, Marketing Marketing Components",
     "link": "https://www.hyperui.dev/components/marketing",
     "category": "Other",
     "parent": null
@@ -2832,7 +2832,7 @@
     "parent": null
   },
   {
-    "name": "Button   HyperUI  🚀   , Button Base, solid and bordered, Button Base with icon, solid and bordered, Button Gradient border, rounded and pill, Button Icon, solid and bordered, Button Drop shadow, hide shadow and show shadow on hover, Button Base with icon on hover, solid, bordered and icon left/right, Button Base with shadow and expand on hover, solid and bordered, Button Base with rotate and expand on hover, solid, outline and rotate left/right, Button Artistic with offset background, background moves in and out on hover, Button Highlighted border which expands on hover, left, right, bottom and left, Button Large with emphasized icon, solid and bordered, Button Reveal hidden static border on hover, solid and bordered",
+    "name": "Buttons Base, solid and bordered, Buttons Base with icon, solid and bordered, Buttons Gradient border, rounded and pill, Buttons Icon, solid and bordered, Buttons Drop shadow, hide shadow and show shadow on hover, Buttons Base with icon on hover, solid, bordered and icon left/right, Buttons Base with shadow and expand on hover, solid and bordered, Buttons Base with rotate and expand on hover, solid, outline and rotate left/right, Buttons Artistic with offset background, background moves in and out on hover, Buttons Highlighted border which expands on hover, left, right, bottom and left, Buttons Large with emphasized icon, solid and bordered, Buttons Reveal hidden static border on hover, solid and bordered",
     "link": "https://www.hyperui.dev/components/marketing/buttons",
     "category": "Button",
     "parent": null
@@ -5274,13 +5274,13 @@
     "parent": null
   },
   {
-    "name": "Blog Card   HyperUI  🚀   , Blog Card Bordered with image, date, title and excerpt, shadow on hover, Blog Card Bordered with image, date, title and excerpt, shadow on hover (Dark), Blog Card Floating image with title and excerpt, Blog Card Floating image with title and excerpt (Dark), Blog Card Gradient border with date, title and tags, animated gradient on hover, Blog Card Gradient border with date, title and tags, animated gradient on hover (Dark), Blog Card Background image with overlay containing date, title and excerpt, Blog Card Related Components, Blog Card  Cards ",
+    "name": "Blog Cards Bordered with image, date, title and excerpt, shadow on hover, Blog Cards Bordered with image, date, title and excerpt, shadow on hover (Dark), Blog Cards Floating image with title and excerpt, Blog Cards Floating image with title and excerpt (Dark), Blog Cards Gradient border with date, title and tags, animated gradient on hover, Blog Cards Gradient border with date, title and tags, animated gradient on hover (Dark), Blog Cards Background image with overlay containing date, title and excerpt, Blog Cards Related components",
     "link": "https://www.hyperui.dev/components/marketing/blog-cards",
     "category": "Card",
     "parent": null
   },
   {
-    "name": "Card   HyperUI  🚀   , Card Stacked with Large Image and Content, Card Darkened Background with Content on Hover, Card Bordered with Content on Hover, Card Bordered with Image, Price, Content and Details, Card Image, Name, with Social Links and Project Links, Card Shaped with Image and Content, Card Podcast Post, Card Forum Post, Card Related Components, Card  Blog Cards ",
+    "name": "Cards Stacked with Large Image and Content, Cards Darkened Background with Content on Hover, Cards Bordered with Content on Hover, Cards Bordered with Image, Price, Content and Details, Cards Image, Name, with Social Links and Project Links, Cards Shaped with Image and Content, Cards Podcast Post, Cards Forum Post, Cards Related components",
     "link": "https://www.hyperui.dev/components/marketing/cards",
     "category": "Card",
     "parent": null
@@ -7752,7 +7752,7 @@
     "parent": null
   },
   {
-    "name": "Announcement   HyperUI  🚀   , Announcement Base, Announcement Base (Dark), Announcement Base with dismiss, Announcement Base with dismiss (Dark), Announcement Fixed, Announcement Fixed (Dark), Announcement Fixed with dismiss, Announcement Fixed with dismiss (Dark), Announcement Floating, Announcement Floating (Dark), Announcement Floating with dismiss, Announcement Floating with dismiss (Dark), Announcement Related Components, Announcement  Polls ",
+    "name": "Announcements Base, Announcements Base (Dark), Announcements Base with dismiss, Announcements Base with dismiss (Dark), Announcements Fixed, Announcements Fixed (Dark), Announcements Fixed with dismiss, Announcements Fixed with dismiss (Dark), Announcements Floating, Announcements Floating (Dark), Announcements Floating with dismiss, Announcements Floating with dismiss (Dark), Announcements Related components",
     "link": "https://www.hyperui.dev/components/marketing/announcements",
     "category": "Other",
     "parent": null
@@ -10656,10 +10656,10 @@
     "parent": "Form"
   },
   {
-    "name": "CTA   HyperUI  🚀   ",
+    "name": "CTAs Newsletter sign up form with centered content and form, CTAs Newsletter sign up form with centered content and form (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/ctas",
-    "category": "Other",
-    "parent": null
+    "category": "Register",
+    "parent": "Form"
   },
   {
     "name": "Authentication Register",
@@ -17472,7 +17472,7 @@
     "parent": null
   },
   {
-    "name": "Banner   HyperUI  🚀   , Banner Center, Banner Center (Dark), Banner Left, Banner Left (Dark), Banner Left with image, Banner Left with image (Dark)",
+    "name": "Banners Center, Banners Center (Dark), Banners Left, Banners Left (Dark), Banners Left with image, Banners Left with image (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/banners",
     "category": "Other",
     "parent": null
@@ -28050,7 +28050,7 @@
     "parent": "Form"
   },
   {
-    "name": "Cart   HyperUI  🚀   , Cart Related Components, Cart  Product Collections ",
+    "name": "Carts Related components",
     "link": "https://www.hyperui.dev/components/marketing/carts",
     "category": "Other",
     "parent": null
@@ -28572,15 +28572,15 @@
     "parent": null
   },
   {
-    "name": "Badge  Progress Bars ",
+    "name": "Badges Base, Badges Base (Dark), Badges Base with icon, Badges Base with icon (Dark), Badges Base with dismiss, Badges Base with dismiss (Dark), Badges Icon only, Badges Icon only (Dark), Badges Themed with icon, Badges Themed with icon (Dark), Badges Related components",
     "link": "https://www.hyperui.dev/components/application/badges",
-    "category": "Progress Bar",
+    "category": "Badge",
     "parent": null
   },
   {
-    "name": "Breadcrumb  Side Menu ",
+    "name": "Breadcrumbs Base, Breadcrumbs Base (Dark), Breadcrumbs Base with home icon, Breadcrumbs Base with home icon (Dark), Breadcrumbs Slash divider, Breadcrumbs Slash divider (Dark), Breadcrumbs Slash divider with home icon, Breadcrumbs Slash divider with home icon (Dark), Breadcrumbs Grouped with chevron divider, Breadcrumbs Grouped with chevron divider (Dark), Breadcrumbs Related components",
     "link": "https://www.hyperui.dev/components/application/breadcrumbs",
-    "category": "Sidebar",
+    "category": "Breadcrumb",
     "parent": null
   },
   {
@@ -28590,7 +28590,7 @@
     "parent": null
   },
   {
-    "name": "Button Group   HyperUI  🚀   , Button Group Base, Button Group Base (Dark), Button Group Icons, Button Group Icons (Dark), Button Group Main and secondary, Button Group Main and secondary (Dark), Button Group Layouts, Button Group Layouts (Dark), Button Group Layouts without space, Button Group Layouts without space (Dark), Button Group Related Components, Button Group  Radio Groups ",
+    "name": "Button Groups Base, Button Groups Base (Dark), Button Groups Icons, Button Groups Icons (Dark), Button Groups Main and secondary, Button Groups Main and secondary (Dark), Button Groups Layouts, Button Groups Layouts (Dark), Button Groups Layouts without space, Button Groups Layouts without space (Dark), Button Groups Related components",
     "link": "https://www.hyperui.dev/components/application/button-groups",
     "category": "Button",
     "parent": null
@@ -28734,9 +28734,9 @@
     "parent": null
   },
   {
-    "name": "Dropdown  Side Menu ",
+    "name": "Dropdowns Base, Dropdowns Base (Dark), Dropdowns Divided, Dropdowns Divided (Dark), Dropdowns Grouped, Dropdowns Grouped (Dark), Dropdowns Related components",
     "link": "https://www.hyperui.dev/components/application/dropdown",
-    "category": "Sidebar",
+    "category": "Dropdown",
     "parent": null
   },
   {
@@ -28776,9 +28776,9 @@
     "parent": null
   },
   {
-    "name": "Checkbox  Pagination ",
+    "name": "Checkboxes Base, Checkboxes Base (Dark), Checkboxes Described, Checkboxes Described (Dark), Checkboxes Described with divide, Checkboxes Described with divide (Dark), Checkboxes Related components",
     "link": "https://www.hyperui.dev/components/application/checkboxes",
-    "category": "Pagination",
+    "category": "Form",
     "parent": null
   },
   {
@@ -29238,7 +29238,7 @@
     "parent": null
   },
   {
-    "name": "Details List   HyperUI  🚀   , Details List Base, Details List Base (Dark), Details List Striped, Details List Striped (Dark), Details List Bordered, Details List Bordered (Dark), Details List Striped and bordered, Details List Striped and bordered (Dark), Details List Related Components",
+    "name": "Details Lists Base, Details Lists Base (Dark), Details Lists Striped, Details Lists Striped (Dark), Details Lists Bordered, Details Lists Bordered (Dark), Details Lists Striped and bordered, Details Lists Striped and bordered (Dark), Details Lists Related components",
     "link": "https://www.hyperui.dev/components/application/details-list",
     "category": "List",
     "parent": null
@@ -29268,13 +29268,13 @@
     "parent": null
   },
   {
-    "name": "Free Tailwind CSS Application   HyperUI  🚀   , Free Tailwind CSS Application  Application , Free Tailwind CSS Application  Dividers , Free Tailwind CSS Application  Filters , Free Tailwind CSS Application  Grids , Free Tailwind CSS Application  Loaders , Free Tailwind CSS Application  Media , Free Tailwind CSS Application  Skip Links , Free Tailwind CSS Application  Vertical Menu , Free Tailwind CSS Application   HyperUI  🚀   , Free Tailwind CSS Application  Application , Free Tailwind CSS Application  Dividers , Free Tailwind CSS Application  Filters , Free Tailwind CSS Application  Grids , Free Tailwind CSS Application  Loaders , Free Tailwind CSS Application  Media , Free Tailwind CSS Application  Skip Links , Free Tailwind CSS Application  Vertical Menu , Free Tailwind CSS Application   HyperUI  🚀   , Free Tailwind CSS Application  Application , Free Tailwind CSS Application  Dividers , Free Tailwind CSS Application  Filters , Free Tailwind CSS Application  Grids , Free Tailwind CSS Application  Loaders , Free Tailwind CSS Application  Media , Free Tailwind CSS Application  Skip Links , Free Tailwind CSS Application  Vertical Menu ",
+    "name": "Application Application Components, Application Application Components, Application Application Components",
     "link": "https://www.hyperui.dev/components/application",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Divider   HyperUI  🚀   , Divider Base, Divider Base (Dark), Divider Gradient, Divider Gradient (Dark), Divider Left align, Divider Left align (Dark), Divider Left align gradient, Divider Left align gradient (Dark), Divider Right align, Divider Right align (Dark), Divider Right align gradient, Divider Right align gradient (Dark), Divider Related Components, Divider  Grids ",
+    "name": "Dividers Base, Dividers Base (Dark), Dividers Gradient, Dividers Gradient (Dark), Dividers Left align, Dividers Left align (Dark), Dividers Left align gradient, Dividers Left align gradient (Dark), Dividers Right align, Dividers Right align (Dark), Dividers Right align gradient, Dividers Right align gradient (Dark), Dividers Related components",
     "link": "https://www.hyperui.dev/components/application/dividers",
     "category": "Other",
     "parent": null
@@ -40770,7 +40770,7 @@
     "parent": null
   },
   {
-    "name": "Accordion   HyperUI  🚀   , Accordion Base, Accordion Base (Dark), Accordion With icons, Accordion With icons (Dark), Accordion Divided, Accordion Divided (Dark), Accordion Nested, Accordion Nested (Dark), Accordion Compact, Accordion Compact (Dark)",
+    "name": "Accordions Base, Accordions Base (Dark), Accordions Base with category icons, Accordions Base with category icons (Dark), Accordions Base with dividers, Accordions Base with dividers (Dark), Accordions Base nested, Accordions Base nested (Dark), Accordions Base compact, Accordions Base compact (Dark)",
     "link": "https://www.hyperui.dev/components/application/accordions",
     "category": "Accordion",
     "parent": null
@@ -40800,7 +40800,7 @@
     "parent": null
   },
   {
-    "name": "Empty State   HyperUI  🚀   , Empty State Create first item, Empty State Create first item (Dark), Empty State Import or create, Empty State Import or create (Dark), Empty State Upload data, Empty State Upload data (Dark), Empty State Get started, Empty State Get started (Dark), Empty State No results found, Empty State No results found (Dark)",
+    "name": "Empty States Create first item, Empty States Create first item (Dark), Empty States Import or create, Empty States Import or create (Dark), Empty States Upload data, Empty States Upload data (Dark), Empty States Get started, Empty States Get started (Dark), Empty States No results found, Empty States No results found (Dark)",
     "link": "https://www.hyperui.dev/components/application/empty-states",
     "category": "Dashboard Widgets",
     "parent": null
@@ -40812,13 +40812,13 @@
     "parent": null
   },
   {
-    "name": "Contact Form   HyperUI  🚀   , Contact Form Base, Contact Form Base (Dark), Contact Form Base with triage, Contact Form Base with triage (Dark), Contact Form Base with checkboxes, Contact Form Base with checkboxes (Dark), Contact Form Grid, Contact Form Grid (Dark), Contact Form Side-by-side form with description, Contact Form Side-by-side form with description (Dark)",
+    "name": "Contact Forms Base, Contact Forms Base (Dark), Contact Forms Base with triage, Contact Forms Base with triage (Dark), Contact Forms Base with checkboxes, Contact Forms Base with checkboxes (Dark), Contact Forms Grid, Contact Forms Grid (Dark), Contact Forms Side-by-side form with description, Contact Forms Side-by-side form with description (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/contact-forms",
     "category": "Contact",
     "parent": "Form"
   },
   {
-    "name": "Empty Content   HyperUI  🚀   , Empty Content Coming soon, Empty Content Coming soon (Dark), Empty Content Related content, Empty Content Related content (Dark), Empty Content No stock, Empty Content No stock (Dark)",
+    "name": "Empty Content Coming soon, Empty Content Coming soon (Dark), Empty Content Related content, Empty Content Related content (Dark), Empty Content No stock, Empty Content No stock (Dark)",
     "link": "https://www.hyperui.dev/components/marketing/empty-content",
     "category": "Other",
     "parent": null
@@ -40944,55 +40944,55 @@
     "parent": null
   },
   {
-    "name": "Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism , Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism , Free Neobrutalism Tailwind CSS   HyperUI  🚀   , Free Neobrutalism Tailwind CSS  Neobrutalism ",
+    "name": "Neobrutalism Neobrutalism Components, Neobrutalism Neobrutalism Components, Neobrutalism Neobrutalism Components",
     "link": "https://www.hyperui.dev/components/neobrutalism",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Accordion   HyperUI  🚀   , Accordion Base, Accordion Contained, Accordion Grouped",
+    "name": "Accordions Base, Accordions Contained, Accordions Grouped",
     "link": "https://www.hyperui.dev/components/neobrutalism/accordions",
     "category": "Accordion",
     "parent": null
   },
   {
-    "name": "Alert   HyperUI  🚀   , Alert Info, Alert Success, Alert Error",
+    "name": "Alerts Info, Alerts Success, Alerts Error",
     "link": "https://www.hyperui.dev/components/neobrutalism/alerts",
     "category": "Alert/Notification",
     "parent": null
   },
   {
-    "name": "Badge  Progress Bars ",
+    "name": "Badges Base, Badges Base with status, Badges Base with dismiss, Badges Related components",
     "link": "https://www.hyperui.dev/components/neobrutalism/badges",
-    "category": "Progress Bar",
+    "category": "Badge",
     "parent": null
   },
   {
-    "name": "Button   HyperUI  🚀   , Button Base, Button Pressed, Button Pressed with inset, Button Underlined, Button Double border",
+    "name": "Buttons Base, Buttons Pressed, Buttons Pressed with inset, Buttons Underlined, Buttons Double border",
     "link": "https://www.hyperui.dev/components/neobrutalism/buttons",
     "category": "Button",
     "parent": null
   },
   {
-    "name": "Card   HyperUI  🚀   , Card Base, Card Base stacked, Card Base dashed, Card Retro window",
+    "name": "Cards Base, Cards Base stacked, Cards Base dashed, Cards Retro window",
     "link": "https://www.hyperui.dev/components/neobrutalism/cards",
     "category": "Card",
     "parent": null
   },
   {
-    "name": "Checkbox   HyperUI  🚀   , Checkbox Base, Checkbox Base with description, Checkbox Grouped, Checkbox Related Components, Checkbox  Inputs , Checkbox  Textareas ",
+    "name": "Checkboxes Base, Checkboxes Base with description, Checkboxes Grouped, Checkboxes Related components",
     "link": "https://www.hyperui.dev/components/neobrutalism/checkboxes",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Input   HyperUI  🚀   , Input Base, Input Base with icon, Input Search, Input Related Components, Input  Checkboxes , Input  Textareas ",
+    "name": "Inputs Base, Inputs Base with icon, Inputs Search, Inputs Related components",
     "link": "https://www.hyperui.dev/components/neobrutalism/inputs",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Select   HyperUI  🚀   , Select Base, Select Option groups, Select Datalist, Select Related Components, Select  Checkboxes , Select  Inputs , Select  Textareas ",
+    "name": "Selects Base, Selects Option groups, Selects Datalist, Selects Related components",
     "link": "https://www.hyperui.dev/components/neobrutalism/selects",
     "category": "Dropdown",
     "parent": null
@@ -41004,7 +41004,7 @@
     "parent": null
   },
   {
-    "name": "Progress Bar   HyperUI  🚀   , Progress Bar Base, Progress Bar Striped, Progress Bar Status, Progress Bar Related Components, Progress Bar  Badges ",
+    "name": "Progress Bars Base, Progress Bars Striped, Progress Bars Status, Progress Bars Related components",
     "link": "https://www.hyperui.dev/components/neobrutalism/progress-bars",
     "category": "Progress Bar",
     "parent": null
