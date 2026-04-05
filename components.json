@@ -960,7 +960,7 @@
     "parent": null
   },
   {
-    "name": "Collapse with focus, Collapse with checkbox, Collapse using details and summary tag, Collapse Without border and background color, Collapse With arrow icon, Collapse With arrow plus/minus icon, Collapse Moving collapse icon to the start, Collapse Force open, Collapse Force close, Collapse Custom colors for collapse that works with focus, Collapse Custom colors for collapse that works with checkbox",
+    "name": "Collapse with focus, Collapse with checkbox, Collapse with checkbox and close on click outside, Collapse using details and summary tag, Collapse Without border and background color, Collapse With arrow icon, Collapse With arrow plus/minus icon, Collapse Moving collapse icon to the start, Collapse Force open, Collapse Force close, Collapse Custom colors for collapse that works with focus, Collapse Custom colors for collapse that works with checkbox",
     "link": "https://daisyui.com/components/collapse/",
     "category": "Accordion",
     "parent": null
@@ -12324,7 +12324,7 @@
     "parent": null
   },
   {
-    "name": "Navbar with title only, Navbar with title and icon, Navbar with icon at start and end, Navbar with menu and submenu, Navbar with search input and dropdown, Navbar with icon, indicator and dropdown, Navbar with dropdown, center logo and icon, Navbar responsive (dropdown menu on small screen, center menu on large screen), Navbar with colors",
+    "name": "Navbar with title only, Navbar with title and icon, Navbar with icon at start and end, Navbar with menu and submenu, Navbar with search input and dropdown, Navbar with icon, indicator and dropdown, Navbar with dropdown, center logo and icon, Navbar Responsive (dropdown menu on small screen, center menu on large screen), Navbar Responsive (collapse on small screen, full content on large screen), Navbar with colors",
     "link": "https://daisyui.com/components/navbar/",
     "category": "Navigation/Header",
     "parent": null
