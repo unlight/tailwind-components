@@ -8070,7 +8070,7 @@
     "parent": null
   },
   {
-    "name": "Select updated Select, Select updated Ghost (no background), Select updated With fieldset and labels, Select updated Primary color, Select updated Secondary color, Select updated Accent color, Select updated Neutral color, Select updated Info color, Select updated Success color, Select updated Warning color, Select updated Error color, Select updated Sizes, Select updated Disabled, Select updated Using OS native style for the options dropdown",
+    "name": "Select, Select Ghost (no background), Select With fieldset and labels, Select Primary color, Select Secondary color, Select Accent color, Select Neutral color, Select Info color, Select Success color, Select Warning color, Select Error color, Select Sizes, Select Disabled, Select Using OS native style for the options dropdown",
     "link": "https://daisyui.com/components/select/",
     "category": "Dropdown",
     "parent": null
@@ -14976,7 +14976,7 @@
     "parent": null
   },
   {
-    "name": "Drawer sidebar updated Drawer sidebar, Drawer sidebar updated Navbar menu for desktop + sidebar drawer for mobile, Drawer sidebar updated Responsive: Sidebar is always visible on large screen, can be toggled on small screen, Drawer sidebar updated Responsive collapsible Icon-only drawer sidebar. Using is-drawer-close and is-drawer-open, Drawer sidebar updated Drawer sidebar that opens from right side of page",
+    "name": "Drawer sidebar, Drawer sidebar Navbar menu for desktop + sidebar drawer for mobile, Drawer sidebar Responsive: Sidebar is always visible on large screen, can be toggled on small screen, Drawer sidebar Responsive collapsible Icon-only drawer sidebar. Using is-drawer-close and is-drawer-open, Drawer sidebar that opens from right side of page",
     "link": "https://daisyui.com/components/drawer/",
     "category": "Sidebar",
     "parent": null
@@ -16932,7 +16932,7 @@
     "parent": null
   },
   {
-    "name": "Countdown updated Countdown, Countdown updated Large text with 2 digits, Countdown updated Clock countdown, Countdown updated Clock countdown with colons, Countdown updated Large text with labels, Countdown updated Large text with labels under, Countdown updated In boxes",
+    "name": "Countdown, Countdown Large text with 2 digits, Countdown Clock countdown, Countdown Clock countdown with colons, Countdown Large text with labels, Countdown Large text with labels under, Countdown In boxes",
     "link": "https://daisyui.com/components/countdown/",
     "category": "Other",
     "parent": null
@@ -26112,7 +26112,7 @@
     "parent": null
   },
   {
-    "name": "Skeleton updated Skeleton, Skeleton updated Skeleton - circle with content, Skeleton updated Skeleton - rectangle with content, Skeleton updated skeleton-text - animated gradient text",
+    "name": "Skeleton, Skeleton - circle with content, Skeleton - rectangle with content, Skeleton skeleton-text - animated gradient text",
     "link": "https://daisyui.com/components/skeleton/",
     "category": "Skeleton",
     "parent": null
@@ -40494,13 +40494,13 @@
     "parent": null
   },
   {
-    "name": "FAB / Speed Dial new FAB and Speed Dial (vertical), FAB / Speed Dial new FAB and Speed Dial with SVG icons, FAB / Speed Dial new FAB and Speed Dial with labels, FAB / Speed Dial new FAB Flower and Speed Dial, FAB / Speed Dial new FAB and Flower Speed Dial with SVG icons",
+    "name": "FAB / Speed Dial FAB and Speed Dial (vertical), FAB / Speed Dial FAB and Speed Dial with SVG icons, FAB / Speed Dial FAB and Speed Dial with labels, FAB / Speed Dial FAB Flower and Speed Dial, FAB / Speed Dial FAB and Flower Speed Dial with SVG icons",
     "link": "https://daisyui.com/components/fab/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Hover Gallery new Hover Gallery",
+    "name": "Hover Gallery",
     "link": "https://daisyui.com/components/hover-gallery/",
     "category": "Other",
     "parent": null
@@ -40842,7 +40842,7 @@
     "parent": null
   },
   {
-    "name": "Hover 3D card new 3D image hover effect, Hover 3D card new 3D card hover effect, Hover 3D card new 3D hover effect for image gallery",
+    "name": "Hover 3D card 3D image hover effect, Hover 3D card 3D card hover effect, Hover 3D card 3D hover effect for image gallery",
     "link": "https://daisyui.com/components/hover-3d/",
     "category": "Card",
     "parent": null
@@ -40866,7 +40866,7 @@
     "parent": null
   },
   {
-    "name": "Text Rotate new Text Rotate, Text Rotate new Rotating 6 words, Text Rotate new Rotating words in a sentence, Text Rotate new Rotating 3 words with custom duration, Text Rotate new Custom line height",
+    "name": "Text Rotate, Text Rotate Rotating 6 words, Text Rotate Rotating words in a sentence, Text Rotate Rotating 3 words with custom duration, Text Rotate Custom line height",
     "link": "https://daisyui.com/components/text-rotate/",
     "category": "Other",
     "parent": null
