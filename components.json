@@ -15720,7 +15720,7 @@
     "parent": null
   },
   {
-    "name": "Tooltip, Tooltip with tooltip-content, Tooltip Force open, Tooltip Top, Tooltip Bottom, Tooltip Left, Tooltip Right, Tooltip Neutral color, Tooltip Primary color, Tooltip Secondary color, Tooltip Accent color, Tooltip Info color, Tooltip Success color, Tooltip Warning color, Tooltip Error color, Tooltip Responsive tooltip. only show for large screen",
+    "name": "Tooltip, Tooltip with tooltip-content, Tooltip Force open, Tooltip Top, Tooltip Bottom, Tooltip Left, Tooltip Right, Tooltip Primary color, Tooltip Secondary color, Tooltip Accent color, Tooltip Info color, Tooltip Success color, Tooltip Warning color, Tooltip Error color, Tooltip Responsive tooltip. only show for large screen",
     "link": "https://daisyui.com/components/tooltip/",
     "category": "Tooltips",
     "parent": null

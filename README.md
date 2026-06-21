@@ -3800,7 +3800,7 @@
 * Avatar Displaying a tooltip: [preline.co/docs/avatar.html](https://preline.co/docs/avatar.html)
 * Avatar Group With tooltip: [preline.co/docs/avatar-group.html](https://preline.co/docs/avatar-group.html)
 * Switch With tooltip: [preline.co/docs/switch.html](https://preline.co/docs/switch.html)
-* Tooltip, Tooltip with tooltip-content, Tooltip Force open, Tooltip Top, Tooltip Bottom, Tooltip Left, Tooltip Right, Tooltip Neutral color, Tooltip Primary color, Tooltip Secondary color, Tooltip Accent color, Tooltip Info color, Tooltip Success color, Tooltip Warning color, Tooltip Error color, Tooltip Responsive tooltip. only show for large screen: [daisyui.com/components/tooltip/](https://daisyui.com/components/tooltip/)
+* Tooltip, Tooltip with tooltip-content, Tooltip Force open, Tooltip Top, Tooltip Bottom, Tooltip Left, Tooltip Right, Tooltip Primary color, Tooltip Secondary color, Tooltip Accent color, Tooltip Info color, Tooltip Success color, Tooltip Warning color, Tooltip Error color, Tooltip Responsive tooltip. only show for large screen: [daisyui.com/components/tooltip/](https://daisyui.com/components/tooltip/)
 * Tooltip Top: [mynaui.com/tooltip/#top](https://mynaui.com/tooltip/#top)
 * Tooltip Bottom: [mynaui.com/tooltip/#bottom](https://mynaui.com/tooltip/#bottom)
 * Tooltip Right: [mynaui.com/tooltip/#right](https://mynaui.com/tooltip/#right)
