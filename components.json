@@ -954,19 +954,19 @@
     "parent": "Page"
   },
   {
-    "name": "Accordion using radio inputs, Accordion using details, Accordion with arrow icon, Accordion with plus/minus icon, Accordion Using Accordion and Join together",
+    "name": "Accordion using radio inputs, Accordion using details, Accordion with arrow icon, Accordion with plus/minus icon, Accordion Using Accordion and Join together, Accordion using radio inputs, Accordion using details, Accordion with arrow icon, Accordion with plus/minus icon, Accordion Using Accordion and Join together",
     "link": "https://daisyui.com/components/accordion/",
     "category": "Accordion",
     "parent": null
   },
   {
-    "name": "Collapse with focus, Collapse with checkbox, Collapse with checkbox and close on click outside, Collapse using details and summary tag, Collapse Without border and background color, Collapse With arrow icon, Collapse With arrow plus/minus icon, Collapse Moving collapse icon to the start, Collapse Force open, Collapse Force close, Collapse Custom colors for collapse that works with focus, Collapse Custom colors for collapse that works with checkbox",
+    "name": "Collapse with focus, Collapse with checkbox, Collapse with checkbox and close on click outside, Collapse using details and summary tag, Collapse Without border and background color, Collapse With arrow icon, Collapse With arrow plus/minus icon, Collapse Moving collapse icon to the start, Collapse Force open, Collapse Force close, Collapse Custom colors for collapse that works with focus, Collapse Custom colors for collapse that works with checkbox, Collapse with focus, Collapse with checkbox, Collapse with checkbox and close on click outside, Collapse using details and summary tag, Collapse Without border and background color, Collapse With arrow icon, Collapse With arrow plus/minus icon, Collapse Moving collapse icon to the start, Collapse Force open, Collapse Force close, Collapse Custom colors for collapse that works with focus, Collapse Custom colors for collapse that works with checkbox",
     "link": "https://daisyui.com/components/collapse/",
     "category": "Accordion",
     "parent": null
   },
   {
-    "name": "Menu, Menu Responsive: vertical on small screen, horizontal on large screen, Menu with icon only, Menu with icon only (horizontal), Menu sizes, Menu with disabled items, Menu with icons, Menu without padding and border radius, Menu with title, Menu with title as a parent, Menu Submenu, Menu File tree, Menu with active item, Menu Horizontal menu, Menu Horizontal submenu, Menu Mega menu with submenu (responsive)",
+    "name": "Menu, Menu Responsive: vertical on small screen, horizontal on large screen, Menu with icon only, Menu with icon only (horizontal), Menu sizes, Menu with disabled items, Menu with icons, Menu without padding and border radius, Menu with title, Menu with title as a parent, Menu Submenu, Menu File tree, Menu with active item, Menu Horizontal menu, Menu Horizontal submenu, Menu Mega menu with submenu (responsive), Menu, Menu Responsive: vertical on small screen, horizontal on large screen, Menu with icon only, Menu with icon only (horizontal), Menu sizes, Menu with disabled items, Menu with icons, Menu without padding and border radius, Menu with title, Menu with title as a parent, Menu Submenu, Menu File tree, Menu with active item, Menu Horizontal menu, Menu Horizontal submenu, Menu Mega menu with submenu (responsive)",
     "link": "https://daisyui.com/components/menu/",
     "category": "Other",
     "parent": null
@@ -1116,13 +1116,13 @@
     "parent": null
   },
   {
-    "name": "Alert, Alert Info color, Alert Success color, Alert Warning color, Alert Error color, Alert soft style, Alert outline style, Alert dash style, Alert with buttons + responsive, Alert with title and description",
+    "name": "Alert, Alert Info color, Alert Success color, Alert Warning color, Alert Error color, Alert soft style, Alert outline style, Alert dash style, Alert with buttons + responsive, Alert with title and description, Alert, Alert Info color, Alert Success color, Alert Warning color, Alert Error color, Alert soft style, Alert outline style, Alert dash style, Alert with buttons + responsive, Alert with title and description",
     "link": "https://daisyui.com/components/alert/",
     "category": "Alert/Notification",
     "parent": null
   },
   {
-    "name": "Toast toast with alert inside, Toast toast-top toast-start, Toast toast-top toast-center, Toast toast-top toast-end, Toast toast-start toast-middle, Toast toast-center toast-middle, Toast toast-end toast-middle, Toast toast-start toast-bottom (default), Toast toast-center toast-bottom (default), Toast toast-end (default) toast-bottom (default)",
+    "name": "Toast toast with alert inside, Toast toast-top toast-start, Toast toast-top toast-center, Toast toast-top toast-end, Toast toast-start toast-middle, Toast toast-center toast-middle, Toast toast-end toast-middle, Toast toast-start toast-bottom (default), Toast toast-center toast-bottom (default), Toast toast-end (default) toast-bottom (default), Toast toast with alert inside, Toast toast-top toast-start, Toast toast-top toast-center, Toast toast-top toast-end, Toast toast-start toast-middle, Toast toast-center toast-middle, Toast toast-end toast-middle, Toast toast-start toast-bottom (default), Toast toast-center toast-bottom (default), Toast toast-end (default) toast-bottom (default)",
     "link": "https://daisyui.com/components/toast/",
     "category": "Alert/Notification",
     "parent": null
@@ -1812,13 +1812,13 @@
     "parent": null
   },
   {
-    "name": "Avatar, Avatar in custom sizes, Avatar rounded, Avatar with mask, Avatar group, Avatar group with counter, Avatar with ring, Avatar with presence indicator, Avatar placeholder",
+    "name": "Avatar, Avatar in custom sizes, Avatar rounded, Avatar with mask, Avatar group, Avatar group with counter, Avatar with ring, Avatar with presence indicator, Avatar placeholder, Avatar, Avatar in custom sizes, Avatar rounded, Avatar with mask, Avatar group, Avatar group with counter, Avatar with ring, Avatar with presence indicator, Avatar placeholder",
     "link": "https://daisyui.com/components/avatar/",
     "category": "Avatar",
     "parent": null
   },
   {
-    "name": "Indicator in center of an image, Indicator indicator-top (default) indicator-start, Indicator indicator-top (default) indicator-center, Indicator indicator-top (default) indicator-end (default), Indicator indicator-middle indicator-start, Indicator indicator-middle indicator-center, Indicator indicator-middle indicator-end (default), Indicator indicator-bottom indicator-start, Indicator indicator-bottom indicator-center, Indicator indicator-bottom indicator-end (default), Indicator multiple indicators, Indicator Responsive",
+    "name": "Indicator in center of an image, Indicator indicator-top (default) indicator-start, Indicator indicator-top (default) indicator-center, Indicator indicator-top (default) indicator-end (default), Indicator indicator-middle indicator-start, Indicator indicator-middle indicator-center, Indicator indicator-middle indicator-end (default), Indicator indicator-bottom indicator-start, Indicator indicator-bottom indicator-center, Indicator indicator-bottom indicator-end (default), Indicator multiple indicators, Indicator Responsive, Indicator in center of an image, Indicator indicator-top (default) indicator-start, Indicator indicator-top (default) indicator-center, Indicator indicator-top (default) indicator-end (default), Indicator indicator-middle indicator-start, Indicator indicator-middle indicator-center, Indicator indicator-middle indicator-end (default), Indicator indicator-bottom indicator-start, Indicator indicator-bottom indicator-center, Indicator indicator-bottom indicator-end (default), Indicator multiple indicators, Indicator Responsive",
     "link": "https://daisyui.com/components/indicator/",
     "category": "Other",
     "parent": null
@@ -2190,13 +2190,13 @@
     "parent": null
   },
   {
-    "name": "Badge, Badge sizes, Badge with colors, Badge with soft style, Badge with outline style, Badge with dash style, Badge neutral badge with outline or dash style, Badge ghost, Badge Empty badge, Badge with icon, Badge in a text, Badge in a button",
+    "name": "Badge, Badge sizes, Badge with colors, Badge with soft style, Badge with outline style, Badge with dash style, Badge neutral badge with outline or dash style, Badge ghost, Badge Empty badge, Badge with icon, Badge in a text, Badge in a button, Badge, Badge sizes, Badge with colors, Badge with soft style, Badge with outline style, Badge with dash style, Badge neutral badge with outline or dash style, Badge ghost, Badge Empty badge, Badge with icon, Badge in a text, Badge in a button",
     "link": "https://daisyui.com/components/badge/",
     "category": "Badge",
     "parent": null
   },
   {
-    "name": "Card Pricing Card",
+    "name": "Card Pricing Card, Card Pricing Card",
     "link": "https://daisyui.com/components/card/",
     "category": "Pricing",
     "parent": "Page"
@@ -2436,7 +2436,7 @@
     "parent": null
   },
   {
-    "name": "Breadcrumbs, Breadcrumbs with icons, Breadcrumbs with max-width",
+    "name": "Breadcrumbs, Breadcrumbs with icons, Breadcrumbs with max-width, Breadcrumbs, Breadcrumbs with icons, Breadcrumbs with max-width",
     "link": "https://daisyui.com/components/breadcrumbs/",
     "category": "Breadcrumb",
     "parent": null
@@ -2586,25 +2586,25 @@
     "parent": null
   },
   {
-    "name": "Button with loading spinner",
+    "name": "Button with loading spinner, Button with loading spinner",
     "link": "https://daisyui.com/components/button/",
     "category": "Loading/Spinner",
     "parent": null
   },
   {
-    "name": "Swap text, Swap volume icons, Swap icons with rotate effect, Swap icons with flip effect",
+    "name": "Swap text, Swap volume icons, Swap icons with rotate effect, Swap icons with flip effect, Swap text, Swap volume icons, Swap icons with rotate effect, Swap icons with flip effect",
     "link": "https://daisyui.com/components/swap/",
     "category": "Switch",
     "parent": null
   },
   {
-    "name": "Carousel Snap to start (default), Carousel Snap to center, Carousel Snap to end, Carousel with full width items, Carousel Vertical carousel, Carousel with half width items, Carousel Full-bleed carousel",
+    "name": "Carousel Snap to start (default), Carousel Snap to center, Carousel Snap to end, Carousel with full width items, Carousel Vertical carousel, Carousel with half width items, Carousel Full-bleed carousel, Carousel Snap to start (default), Carousel Snap to center, Carousel Snap to end, Carousel with full width items, Carousel Vertical carousel, Carousel with half width items, Carousel Full-bleed carousel",
     "link": "https://daisyui.com/components/carousel/",
     "category": "Slider/Carousel",
     "parent": null
   },
   {
-    "name": "Stat, Stat with icons or image, Stat Centered items, Stat Vertical, Stat Responsive (vertical on small screen, horizontal on large screen), Stat With custom colors and button",
+    "name": "Stat, Stat with icons or image, Stat Centered items, Stat Vertical, Stat Responsive (vertical on small screen, horizontal on large screen), Stat With custom colors and button, Stat, Stat with icons or image, Stat Centered items, Stat Vertical, Stat Responsive (vertical on small screen, horizontal on large screen), Stat With custom colors and button",
     "link": "https://daisyui.com/components/stat/",
     "category": "Dashboard Widgets",
     "parent": null
@@ -2628,7 +2628,7 @@
     "parent": null
   },
   {
-    "name": "Pagination with an active button, Pagination Sizes, Pagination With a disabled button, Pagination Extra small buttons, Pagination Nex/Prev outline buttons with equal width, Pagination Using radio inputs",
+    "name": "Pagination with an active button, Pagination Sizes, Pagination With a disabled button, Pagination Extra small buttons, Pagination Nex/Prev outline buttons with equal width, Pagination Using radio inputs, Pagination with an active button, Pagination Sizes, Pagination With a disabled button, Pagination Extra small buttons, Pagination Nex/Prev outline buttons with equal width, Pagination Using radio inputs",
     "link": "https://daisyui.com/components/pagination/",
     "category": "Pagination",
     "parent": null
@@ -5196,13 +5196,13 @@
     "parent": null
   },
   {
-    "name": "Dropdown in navbar",
+    "name": "Dropdown in navbar, Dropdown in navbar",
     "link": "https://daisyui.com/components/dropdown/",
     "category": "Navigation/Header",
     "parent": null
   },
   {
-    "name": "Stack 3 divs in a stack, Stack stacked images",
+    "name": "Stack 3 divs in a stack, Stack stacked images, Stack 3 divs in a stack, Stack stacked images",
     "link": "https://daisyui.com/components/stack/",
     "category": "Other",
     "parent": null
@@ -8070,7 +8070,7 @@
     "parent": null
   },
   {
-    "name": "Select, Select Ghost (no background), Select With fieldset and labels, Select Primary color, Select Secondary color, Select Accent color, Select Neutral color, Select Info color, Select Success color, Select Warning color, Select Error color, Select Sizes, Select Disabled, Select Using OS native style for the options dropdown",
+    "name": "Select, Select Ghost (no background), Select With fieldset and labels, Select Primary color, Select Secondary color, Select Accent color, Select Neutral color, Select Info color, Select Success color, Select Warning color, Select Error color, Select Sizes, Select Disabled, Select Using OS native style for the options dropdown, Select with custom dropdown height, Select, Select Ghost (no background), Select With fieldset and labels, Select Primary color, Select Secondary color, Select Accent color, Select Neutral color, Select Info color, Select Success color, Select Warning color, Select Error color, Select Sizes, Select Disabled, Select Using OS native style for the options dropdown, Select with custom dropdown height",
     "link": "https://daisyui.com/components/select/",
     "category": "Dropdown",
     "parent": null
@@ -8526,49 +8526,49 @@
     "parent": null
   },
   {
-    "name": "Checkbox, Checkbox With fieldset and label, Checkbox Sizes, Checkbox Colors, Checkbox Disabled, Checkbox Indeterminate, Checkbox with custom colors",
+    "name": "Checkbox, Checkbox With fieldset and label, Checkbox Sizes, Checkbox Colors, Checkbox Disabled, Checkbox Indeterminate, Checkbox with custom colors, Checkbox, Checkbox With fieldset and label, Checkbox Sizes, Checkbox Colors, Checkbox Disabled, Checkbox Indeterminate, Checkbox with custom colors",
     "link": "https://daisyui.com/components/checkbox/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "File Input File input, File Input File input ghost, File Input With fieldset and label, File Input Sizes, File Input Primary color, File Input Disabled",
+    "name": "File Input File input, File Input File input ghost, File Input With fieldset and label, File Input Sizes, File Input Primary color, File Input Disabled, File Input File input, File Input File input ghost, File Input With fieldset and label, File Input Sizes, File Input Primary color, File Input Disabled",
     "link": "https://daisyui.com/components/file-input/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Radio, Radio sizes, Radio Neutral color, Radio Primary color, Radio Secondary color, Radio Accent color, Radio Success color, Radio Warning color, Radio Info color, Radio Error color, Radio Disabled, Radio with custom colors",
+    "name": "Radio, Radio sizes, Radio Neutral color, Radio Primary color, Radio Secondary color, Radio Accent color, Radio Success color, Radio Warning color, Radio Info color, Radio Error color, Radio Disabled, Radio with custom colors, Radio, Radio sizes, Radio Neutral color, Radio Primary color, Radio Secondary color, Radio Accent color, Radio Success color, Radio Warning color, Radio Info color, Radio Error color, Radio Disabled, Radio with custom colors",
     "link": "https://daisyui.com/components/radio/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Input field Text input, Input field Text input with text label inside, Input field Ghost style, Input field With fieldset and fieldset-legend, Input field Input colors, Input field Sizes, Input field Disabled, Input field Text input with data list suggestion, Input field Date input, Input field Time input, Input field datetime-local input, Input field Username text input with icon and validator, Input field Search input with icon, Input field Email input with icon and validator, Input field Password input with icon and validator, Input field Number input with validator, Input field Telephone number input with icon and validator, Input field URL with icon and validator",
+    "name": "Input field Text input, Input field Text input with text label inside, Input field Ghost style, Input field With fieldset and fieldset-legend, Input field Input colors, Input field Sizes, Input field Disabled, Input field Text input with data list suggestion, Input field Date input, Input field Time input, Input field datetime-local input, Input field Username text input with icon and validator, Input field Search input with icon, Input field Email input with icon and validator, Input field Password input with icon and validator, Input field Number input with validator, Input field Telephone number input with icon and validator, Input field URL with icon and validator, Input field Text input, Input field Text input with text label inside, Input field Ghost style, Input field With fieldset and fieldset-legend, Input field Input colors, Input field Sizes, Input field Disabled, Input field Text input with data list suggestion, Input field Date input, Input field Time input, Input field datetime-local input, Input field Username text input with icon and validator, Input field Search input with icon, Input field Email input with icon and validator, Input field Password input with icon and validator, Input field Number input with validator, Input field Telephone number input with icon and validator, Input field URL with icon and validator",
     "link": "https://daisyui.com/components/input/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Textarea, Textarea Ghost (no background), Textarea With form control and labels, Textarea colors, Textarea Sizes, Textarea Disabled",
+    "name": "Textarea, Textarea Ghost (no background), Textarea With form control and labels, Textarea colors, Textarea Sizes, Textarea Disabled, Textarea, Textarea Ghost (no background), Textarea With form control and labels, Textarea colors, Textarea Sizes, Textarea Disabled",
     "link": "https://daisyui.com/components/textarea/",
     "category": "Form",
     "parent": null
   },
   {
-    "name": "Toggle (switch), Toggle With fieldset and label, Toggle Sizes, Toggle Colors, Toggle Disabled, Toggle Indeterminate, Toggle with icons inside, Toggle with custom colors",
+    "name": "Toggle (switch), Toggle With fieldset and label, Toggle Sizes, Toggle Colors, Toggle Disabled, Toggle Indeterminate, Toggle with icons inside, Toggle with custom colors, Toggle (switch), Toggle With fieldset and label, Toggle Sizes, Toggle Colors, Toggle Disabled, Toggle Indeterminate, Toggle with icons inside, Toggle with custom colors",
     "link": "https://daisyui.com/components/toggle/",
     "category": "Switch",
     "parent": null
   },
   {
-    "name": "Hero Centered hero, Hero with figure, Hero with figure but reverse order, Hero with overlay image",
+    "name": "Hero Centered hero, Hero with figure, Hero with figure but reverse order, Hero with overlay image, Hero Centered hero, Hero with figure, Hero with figure but reverse order, Hero with overlay image",
     "link": "https://daisyui.com/components/hero/",
     "category": "Hero",
     "parent": null
   },
   {
-    "name": "Join (group items) Join, Join (group items) Group items vertically, Join (group items) Responsive: it's vertical on small screen and horizontal on large screen, Join (group items) With extra elements in the group, Join (group items) Custom border radius",
+    "name": "Join (group items) Join, Join (group items) Group items vertically, Join (group items) Responsive: it's vertical on small screen and horizontal on large screen, Join (group items) With extra elements in the group, Join (group items) Custom border radius, Join (group items) Join, Join (group items) Group items vertically, Join (group items) Responsive: it's vertical on small screen and horizontal on large screen, Join (group items) With extra elements in the group, Join (group items) Custom border radius",
     "link": "https://daisyui.com/components/join/",
     "category": "Other",
     "parent": null
@@ -11166,13 +11166,13 @@
     "parent": null
   },
   {
-    "name": "Chat bubble chat-start and chat-end, Chat bubble Chat with image, Chat bubble Chat Bubble with colors",
+    "name": "Chat bubble chat-start and chat-end, Chat bubble Chat with image, Chat bubble Chat Bubble with colors, Chat bubble chat-start and chat-end, Chat bubble Chat with image, Chat bubble Chat Bubble with colors",
     "link": "https://daisyui.com/components/chat/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Footer (vertical by default, horizontal for sm and up), Footer with a logo section, Footer with a form, Footer with logo and social icons, Footer with copyright text, Footer with copyright text and social icons, Footer with links and social icons, Footer with 2 rows, Footer Centered footer with logo and social icons, Footer Centered footer with social icons, Footer Two footer",
+    "name": "Footer (vertical by default, horizontal for sm and up), Footer with a logo section, Footer with a form, Footer with logo and social icons, Footer with copyright text, Footer with copyright text and social icons, Footer with links and social icons, Footer with 2 rows, Footer Centered footer with logo and social icons, Footer Centered footer with social icons, Footer Two footer, Footer (vertical by default, horizontal for sm and up), Footer with a logo section, Footer with a form, Footer with logo and social icons, Footer with copyright text, Footer with copyright text and social icons, Footer with links and social icons, Footer with 2 rows, Footer Centered footer with logo and social icons, Footer Centered footer with social icons, Footer Two footer",
     "link": "https://daisyui.com/components/footer/",
     "category": "Footer",
     "parent": null
@@ -11802,7 +11802,7 @@
     "parent": null
   },
   {
-    "name": "Loading spinner, Loading dots, Loading ring, Loading ball, Loading bars, Loading infinity, Loading with colors",
+    "name": "Loading spinner, Loading dots, Loading ring, Loading ball, Loading bars, Loading infinity, Loading with colors, Loading spinner, Loading dots, Loading ring, Loading ball, Loading bars, Loading infinity, Loading with colors",
     "link": "https://daisyui.com/components/loading/",
     "category": "Loading/Spinner",
     "parent": null
@@ -11958,7 +11958,7 @@
     "parent": null
   },
   {
-    "name": "Modal Dialog modal, Modal Dialog modal, closes when clicked outside, Modal Dialog modal with a close button at corner, Modal Dialog modal with custom width, Modal Responsive, Modal using checkbox, Modal that closes when clicked outside, Modal using anchor link",
+    "name": "Modal updated Dialog modal, Modal updated Dialog modal, closes when clicked outside, Modal updated Dialog modal with a close button at corner, Modal updated Dialog modal with custom width, Modal updated Responsive, Modal updated Popover modal, Modal updated Popover modal closes when clicked outside, Modal updated Modal using checkbox, Modal updated Modal that closes when clicked outside, Modal updated Modal using anchor link, Modal updated Dialog modal, Modal updated Dialog modal, closes when clicked outside, Modal updated Dialog modal with a close button at corner, Modal updated Dialog modal with custom width, Modal updated Responsive, Modal updated Popover modal, Modal updated Popover modal closes when clicked outside, Modal updated Modal using checkbox, Modal updated Modal that closes when clicked outside, Modal updated Modal using anchor link",
     "link": "https://daisyui.com/components/modal/",
     "category": "Modal",
     "parent": null
@@ -12324,7 +12324,7 @@
     "parent": null
   },
   {
-    "name": "Navbar with title only, Navbar with title and icon, Navbar with icon at start and end, Navbar with menu and submenu, Navbar with search input and dropdown, Navbar with icon, indicator and dropdown, Navbar with dropdown, center logo and icon, Navbar Responsive (dropdown menu on small screen, center menu on large screen), Navbar Responsive (collapse on small screen, full content on large screen), Navbar with colors",
+    "name": "Navbar with title only, Navbar with title and icon, Navbar with icon at start and end, Navbar with menu and submenu, Navbar with search input and dropdown, Navbar with icon, indicator and dropdown, Navbar with dropdown, center logo and icon, Navbar Responsive (dropdown menu on small screen, center menu on large screen), Navbar Responsive (collapse on small screen, full content on large screen), Navbar with colors, Navbar with title only, Navbar with title and icon, Navbar with icon at start and end, Navbar with menu and submenu, Navbar with search input and dropdown, Navbar with icon, indicator and dropdown, Navbar with dropdown, center logo and icon, Navbar Responsive (dropdown menu on small screen, center menu on large screen), Navbar Responsive (collapse on small screen, full content on large screen), Navbar with colors",
     "link": "https://daisyui.com/components/navbar/",
     "category": "Navigation/Header",
     "parent": null
@@ -14694,13 +14694,13 @@
     "parent": null
   },
   {
-    "name": "Progress, Progress Primary color, Progress Secondary color, Progress Accent color, Progress Neutral color, Progress Info color, Progress Success color, Progress Warning color, Progress Error color, Progress Indeterminate (without value)",
+    "name": "Progress, Progress Primary color, Progress Secondary color, Progress Accent color, Progress Neutral color, Progress Info color, Progress Success color, Progress Warning color, Progress Error color, Progress Indeterminate (without value), Progress, Progress Primary color, Progress Secondary color, Progress Accent color, Progress Neutral color, Progress Info color, Progress Success color, Progress Warning color, Progress Error color, Progress Indeterminate (without value)",
     "link": "https://daisyui.com/components/progress/",
     "category": "Progress Bar",
     "parent": null
   },
   {
-    "name": "Radial progress, Radial progress Different values, Radial progress Custom color, Radial progress With background color and border, Radial progress Custom size and custom thickness",
+    "name": "Radial progress, Radial progress Different values, Radial progress Custom color, Radial progress With background color and border, Radial progress Custom size and custom thickness, Radial progress, Radial progress Different values, Radial progress Custom color, Radial progress With background color and border, Radial progress Custom size and custom thickness",
     "link": "https://daisyui.com/components/radial-progress/",
     "category": "Progress Bar",
     "parent": null
@@ -14976,7 +14976,7 @@
     "parent": null
   },
   {
-    "name": "Drawer sidebar, Drawer sidebar Navbar menu for desktop + sidebar drawer for mobile, Drawer sidebar Responsive: Sidebar is always visible on large screen, can be toggled on small screen, Drawer sidebar Responsive collapsible Icon-only drawer sidebar. Using is-drawer-close and is-drawer-open, Drawer sidebar that opens from right side of page",
+    "name": "Drawer sidebar, Drawer sidebar Navbar menu for desktop + sidebar drawer for mobile, Drawer sidebar Responsive: Sidebar is always visible on large screen, can be toggled on small screen, Drawer sidebar Responsive collapsible Icon-only drawer sidebar. Using is-drawer-close and is-drawer-open, Drawer sidebar that opens from right side of page, Drawer sidebar, Drawer sidebar Navbar menu for desktop + sidebar drawer for mobile, Drawer sidebar Responsive: Sidebar is always visible on large screen, can be toggled on small screen, Drawer sidebar Responsive collapsible Icon-only drawer sidebar. Using is-drawer-close and is-drawer-open, Drawer sidebar that opens from right side of page",
     "link": "https://daisyui.com/components/drawer/",
     "category": "Sidebar",
     "parent": null
@@ -15330,13 +15330,13 @@
     "parent": null
   },
   {
-    "name": "Range, Range Neutral color, Range Primary color, Range Secondary color, Range Accent color, Range Success color, Range Warning color, Range Info color, Range Error color, Range Sizes, Range with custom color and no fill",
+    "name": "Range updated Range, Range updated Neutral color, Range updated Primary color, Range updated Secondary color, Range updated Accent color, Range updated Success color, Range updated Warning color, Range updated Info color, Range updated Error color, Range updated Sizes, Range updated Range with custom color and no fill, Range updated Vertical, Range updated Range, Range updated Neutral color, Range updated Primary color, Range updated Secondary color, Range updated Accent color, Range updated Success color, Range updated Warning color, Range updated Info color, Range updated Error color, Range updated Sizes, Range updated Range with custom color and no fill, Range updated Vertical",
     "link": "https://daisyui.com/components/range/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Steps Horizontal, Steps Vertical, Steps responsive (vertical on small screen, horizontal on large screen), Steps With custom content in step-icon, Steps With data-content, Steps Custom colors, Steps With scrollable wrapper",
+    "name": "Steps Horizontal, Steps Vertical, Steps responsive (vertical on small screen, horizontal on large screen), Steps With custom content in step-icon, Steps With data-content, Steps Custom colors, Steps With scrollable wrapper, Steps Horizontal, Steps Vertical, Steps responsive (vertical on small screen, horizontal on large screen), Steps With custom content in step-icon, Steps With data-content, Steps Custom colors, Steps With scrollable wrapper",
     "link": "https://daisyui.com/components/steps/",
     "category": "Step",
     "parent": null
@@ -15720,7 +15720,7 @@
     "parent": null
   },
   {
-    "name": "Tooltip, Tooltip with tooltip-content, Tooltip Force open, Tooltip Top, Tooltip Bottom, Tooltip Left, Tooltip Right, Tooltip Primary color, Tooltip Secondary color, Tooltip Accent color, Tooltip Info color, Tooltip Success color, Tooltip Warning color, Tooltip Error color, Tooltip Responsive tooltip. only show for large screen",
+    "name": "Tooltip updated Tooltip, Tooltip updated Tooltip with tooltip-content, Tooltip updated Force open, Tooltip updated Top, Tooltip updated Bottom, Tooltip updated Left, Tooltip updated Right, Tooltip updated Primary color, Tooltip updated Secondary color, Tooltip updated Accent color, Tooltip updated Info color, Tooltip updated Success color, Tooltip updated Warning color, Tooltip updated Error color, Tooltip updated Responsive tooltip. only show for large screen, Tooltip updated Responsive tooltip position, Tooltip updated Tooltip, Tooltip updated Tooltip with tooltip-content, Tooltip updated Force open, Tooltip updated Top, Tooltip updated Bottom, Tooltip updated Left, Tooltip updated Right, Tooltip updated Primary color, Tooltip updated Secondary color, Tooltip updated Accent color, Tooltip updated Info color, Tooltip updated Success color, Tooltip updated Warning color, Tooltip updated Error color, Tooltip updated Responsive tooltip. only show for large screen, Tooltip updated Responsive tooltip position",
     "link": "https://daisyui.com/components/tooltip/",
     "category": "Tooltips",
     "parent": null
@@ -15846,7 +15846,7 @@
     "parent": null
   },
   {
-    "name": "Table, Table with border and background, Table with an active row, Table with a row that highlights on hover, Table Zebra, Table with visual elements, Table xs, Table with pinned-rows, Table with pinned-rows and pinned-cols",
+    "name": "Table, Table with border and background, Table with an active row, Table with a row that highlights on hover, Table Zebra, Table with visual elements, Table xs, Table with pinned-rows, Table with pinned-rows and pinned-cols, Table, Table with border and background, Table with an active row, Table with a row that highlights on hover, Table Zebra, Table with visual elements, Table xs, Table with pinned-rows, Table with pinned-rows and pinned-cols",
     "link": "https://daisyui.com/components/table/",
     "category": "Table",
     "parent": null
@@ -16434,7 +16434,7 @@
     "parent": null
   },
   {
-    "name": "Tab tabs, Tab tabs-border, Tab tabs-lift, Tab tabs-box, Tab Sizes, Tab tabs-box with a horizontal scroll when there's no space, Tabs with custom color",
+    "name": "Tab tabs, Tab tabs-border, Tab tabs-lift, Tab tabs-box, Tab Sizes, Tab tabs-box with a horizontal scroll when there's no space, Tabs with custom color, Tab tabs, Tab tabs-border, Tab tabs-lift, Tab tabs-box, Tab Sizes, Tab tabs-box with a horizontal scroll when there's no space, Tabs with custom color",
     "link": "https://daisyui.com/components/tab/",
     "category": "Tab",
     "parent": null
@@ -16932,19 +16932,19 @@
     "parent": null
   },
   {
-    "name": "Countdown, Countdown Large text with 2 digits, Countdown Clock countdown, Countdown Clock countdown with colons, Countdown Large text with labels, Countdown Large text with labels under, Countdown In boxes",
+    "name": "Countdown, Countdown Large text with 2 digits, Countdown Clock countdown, Countdown Clock countdown with colons, Countdown Large text with labels, Countdown Large text with labels under, Countdown In boxes, Countdown, Countdown Large text with 2 digits, Countdown Clock countdown, Countdown Clock countdown with colons, Countdown Large text with labels, Countdown Large text with labels under, Countdown In boxes",
     "link": "https://daisyui.com/components/countdown/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Kbd, Kbd sizes, Kbd In text, Kbd Key combination, Kbd Function Keys, Kbd A full keyboard, Kbd Arrow Keys",
+    "name": "Kbd, Kbd sizes, Kbd In text, Kbd Key combination, Kbd Function Keys, Kbd A full keyboard, Kbd Arrow Keys, Kbd, Kbd sizes, Kbd In text, Kbd Key combination, Kbd Function Keys, Kbd A full keyboard, Kbd Arrow Keys",
     "link": "https://daisyui.com/components/kbd/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Rating, Rating Read-only Rating, Rating mask-star-2 with warning color, Rating mask-heart with multiple colors, Rating mask-star-2 with green-500 color, Rating Sizes, Rating with rating-hidden, Rating half stars",
+    "name": "Rating updated Rating, Rating updated Read-only Rating, Rating updated mask-star-2 with warning color, Rating updated mask-heart with multiple colors, Rating updated mask-star-2 with green-500 color, Rating updated Sizes, Rating updated with rating-hidden, Rating updated half stars, Rating updated Rating, Rating updated Read-only Rating, Rating updated mask-star-2 with warning color, Rating updated mask-heart with multiple colors, Rating updated mask-star-2 with green-500 color, Rating updated Sizes, Rating updated with rating-hidden, Rating updated half stars",
     "link": "https://daisyui.com/components/rating/",
     "category": "Other",
     "parent": null
@@ -16956,37 +16956,37 @@
     "parent": null
   },
   {
-    "name": "Divider, Divider horizontal, Divider with no text, Divider responsive (lg:divider-horizontal), Divider with colors, Divider in different positions, Divider in different positions (horizontal)",
+    "name": "Divider, Divider horizontal, Divider with no text, Divider responsive (lg:divider-horizontal), Divider with colors, Divider in different positions, Divider in different positions (horizontal), Divider, Divider horizontal, Divider with no text, Divider responsive (lg:divider-horizontal), Divider with colors, Divider in different positions, Divider in different positions (horizontal)",
     "link": "https://daisyui.com/components/divider/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2 (horizontal hexagon), Mask Decagon, Mask Pentagon, Mask Diamond, Mask Square, Mask Circle, Mask Star, Mask Star-2 (bold star), Mask Triangle (pointing top), Mask Triangle-2 (pointing down), Mask Triangle-3 (pointing left), Mask Triangle-4 (pointing right)",
+    "name": "Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2 (horizontal hexagon), Mask Decagon, Mask Pentagon, Mask Diamond, Mask Square, Mask Circle, Mask Star, Mask Star-2 (bold star), Mask Triangle (pointing top), Mask Triangle-2 (pointing down), Mask Triangle-3 (pointing left), Mask Triangle-4 (pointing right), Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2 (horizontal hexagon), Mask Decagon, Mask Pentagon, Mask Diamond, Mask Square, Mask Circle, Mask Star, Mask Star-2 (bold star), Mask Triangle (pointing top), Mask Triangle-2 (pointing down), Mask Triangle-3 (pointing left), Mask Triangle-4 (pointing right)",
     "link": "https://daisyui.com/components/mask/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Link, Link Primary color, Link Secondary color, Link Accent color, Link Success color, Link Info color, Link Warning color, Link Error color, Link Show underline only on hover",
+    "name": "Link, Link Primary color, Link Secondary color, Link Accent color, Link Success color, Link Info color, Link Warning color, Link Error color, Link Show underline only on hover, Link, Link Primary color, Link Secondary color, Link Accent color, Link Success color, Link Info color, Link Warning color, Link Error color, Link Show underline only on hover",
     "link": "https://daisyui.com/components/link/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Code mockup code with line prefix, Code Multi line, Code Highlighted line, Code Long line will scroll, Code Without prefix, Code With color",
+    "name": "Code mockup code with line prefix, Code Multi line, Code Highlighted line, Code Long line will scroll, Code Without prefix, Code With color, Code mockup code with line prefix, Code Multi line, Code Highlighted line, Code Long line will scroll, Code Without prefix, Code With color",
     "link": "https://daisyui.com/components/mockup-code/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Phone iPhone mockup, Phone With color and wallpaper",
+    "name": "Phone iPhone mockup, Phone With color and wallpaper, Phone iPhone mockup, Phone With color and wallpaper",
     "link": "https://daisyui.com/components/mockup-phone/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Window window mockup with border, Window window mockup with background color",
+    "name": "Window window mockup with border, Window window mockup with background color, Window window mockup with border, Window window mockup with background color",
     "link": "https://daisyui.com/components/mockup-window/",
     "category": "Other",
     "parent": null
@@ -23934,7 +23934,7 @@
     "parent": null
   },
   {
-    "name": "undefined Simple  Requires JS, undefined Multi Level  Requires JS, undefined Multi Level With Icons  Requires JS, undefined User  Requires JS, undefined User With Icons  Requires JS",
+    "name": "undefined SimpleRequires JS, undefined Multi LevelRequires JS, undefined Multi Level With IconsRequires JS, undefined UserRequires JS, undefined User With IconsRequires JS",
     "link": "https://merakiui.com/components/application-ui/dropdowns",
     "category": "Other",
     "parent": null
@@ -24060,7 +24060,7 @@
     "parent": null
   },
   {
-    "name": "undefined Simple  Requires JS, undefined E-Commerce  Requires JS, undefined Social Media Links  Requires JS, undefined Categories  Requires JS",
+    "name": "undefined SimpleRequires JS, undefined E-CommerceRequires JS, undefined Social Media LinksRequires JS, undefined CategoriesRequires JS",
     "link": "https://merakiui.com/components/application-ui/navbars",
     "category": "Other",
     "parent": null
@@ -24186,13 +24186,13 @@
     "parent": null
   },
   {
-    "name": "Theme Controller using a toggle, Theme Controller using a swap, Theme Controller using a toggle with text, Theme Controller using a toggle with icons, Theme Controller using a toggle with icons inside, Theme Controller using a toggle with custom colors",
+    "name": "Theme Controller using a toggle, Theme Controller using a swap, Theme Controller using a toggle with text, Theme Controller using a toggle with icons, Theme Controller using a toggle with icons inside, Theme Controller using a toggle with custom colors, Theme Controller using a toggle, Theme Controller using a swap, Theme Controller using a toggle with text, Theme Controller using a toggle with icons, Theme Controller using a toggle with icons inside, Theme Controller using a toggle with custom colors",
     "link": "https://daisyui.com/components/theme-controller/",
     "category": "Switch",
     "parent": null
   },
   {
-    "name": "undefined Primary, undefined Icon, undefined Menu  Requires JS, undefined Group, undefined Group Icons, undefined Group With Icons",
+    "name": "undefined Primary, undefined Icon, undefined MenuRequires JS, undefined Group, undefined Group Icons, undefined Group With Icons",
     "link": "https://merakiui.com/components/application-ui/buttons",
     "category": "Other",
     "parent": null
@@ -25188,7 +25188,7 @@
     "parent": null
   },
   {
-    "name": "undefined E-commerce  Requires JS, undefined Center Content  Requires JS, undefined Center Content With Trusted By  Requires JS, undefined Coming Soon  Requires JS, undefined Image  Requires JS, undefined Image With Newsletter  Requires JS, undefined Slide, undefined Side Image  Requires JS, undefined Background Image  Requires JS, undefined Pattern",
+    "name": "undefined E-commerceRequires JS, undefined Center ContentRequires JS, undefined Center Content With Trusted ByRequires JS, undefined Coming SoonRequires JS, undefined ImageRequires JS, undefined Image With NewsletterRequires JS, undefined Slide, undefined Side ImageRequires JS, undefined Background ImageRequires JS, undefined Pattern",
     "link": "https://merakiui.com/components/marketing/heros",
     "category": "Other",
     "parent": null
@@ -25560,7 +25560,7 @@
     "parent": null
   },
   {
-    "name": "undefined Archive  Requires JS, undefined Confirm  Requires JS, undefined Invite  Requires JS, undefined Multi Invites  Requires JS",
+    "name": "undefined ArchiveRequires JS, undefined ConfirmRequires JS, undefined InviteRequires JS, undefined Multi InvitesRequires JS",
     "link": "https://merakiui.com/components/application-ui/modals",
     "category": "Other",
     "parent": null
@@ -25578,7 +25578,7 @@
     "parent": null
   },
   {
-    "name": "undefined Bottom  Requires JS, undefined Top  Requires JS, undefined Left  Requires JS, undefined Right  Requires JS, undefined Top Center  Requires JS, undefined Top Left  Requires JS, undefined Top Right  Requires JS",
+    "name": "undefined BottomRequires JS, undefined TopRequires JS, undefined LeftRequires JS, undefined RightRequires JS, undefined Top CenterRequires JS, undefined Top LeftRequires JS, undefined Top RightRequires JS",
     "link": "https://merakiui.com/components/application-ui/tooltip",
     "category": "Other",
     "parent": null
@@ -25800,7 +25800,7 @@
     "parent": null
   },
   {
-    "name": "Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification",
+    "name": "Modal Basic Example, Modal components, Modal Positions\n    \n    TWE Pro component, Modal Frame\n    \n    TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal\n    \n    TWE Pro component, Modal Import, Modal Simple notification",
     "link": "https://tw-elements.com/docs/standard/components/modal/",
     "category": "Modal",
     "parent": null
@@ -26112,7 +26112,7 @@
     "parent": null
   },
   {
-    "name": "Skeleton, Skeleton - circle with content, Skeleton - rectangle with content, Skeleton skeleton-text - animated gradient text",
+    "name": "Skeleton, Skeleton - circle with content, Skeleton - rectangle with content, Skeleton skeleton-text - animated gradient text, Skeleton, Skeleton - circle with content, Skeleton - rectangle with content, Skeleton skeleton-text - animated gradient text",
     "link": "https://daisyui.com/components/skeleton/",
     "category": "Skeleton",
     "parent": null
@@ -26400,7 +26400,7 @@
     "parent": null
   },
   {
-    "name": "Timeline with text on both sides and icon, Timeline with bottom side only, Timeline with top side only, Timeline with different sides, Timeline with colorful lines, Timeline without icons, Timeline Vertical timeline with text on both sides and icon, Timeline Vertical timeline with right side only, Timeline Vertical timeline with left side only, Timeline Vertical timeline with different sides, Timeline Vertical timeline with colorful lines, Timeline Vertical timeline without icons, Timeline Responsive: vertical by default, horizontal on large screen, Timeline with icon snapped to the start",
+    "name": "Timeline with text on both sides and icon, Timeline with bottom side only, Timeline with top side only, Timeline with different sides, Timeline with colorful lines, Timeline without icons, Timeline Vertical timeline with text on both sides and icon, Timeline Vertical timeline with right side only, Timeline Vertical timeline with left side only, Timeline Vertical timeline with different sides, Timeline Vertical timeline with colorful lines, Timeline Vertical timeline without icons, Timeline Responsive: vertical by default, horizontal on large screen, Timeline with icon snapped to the start, Timeline with text on both sides and icon, Timeline with bottom side only, Timeline with top side only, Timeline with different sides, Timeline with colorful lines, Timeline without icons, Timeline Vertical timeline with text on both sides and icon, Timeline Vertical timeline with right side only, Timeline Vertical timeline with left side only, Timeline Vertical timeline with different sides, Timeline Vertical timeline with colorful lines, Timeline Vertical timeline without icons, Timeline Responsive: vertical by default, horizontal on large screen, Timeline with icon snapped to the start",
     "link": "https://daisyui.com/components/timeline/",
     "category": "Timeline",
     "parent": null
@@ -26418,13 +26418,13 @@
     "parent": null
   },
   {
-    "name": "Diff, Diff text",
+    "name": "Diff, Diff text, Diff, Diff text",
     "link": "https://daisyui.com/components/diff/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Browser browser mockup with border, Browser browser mockup with background color",
+    "name": "Browser browser mockup with border, Browser browser mockup with background color, Browser browser mockup with border, Browser browser mockup with background color",
     "link": "https://daisyui.com/components/mockup-browser/",
     "category": "Other",
     "parent": null
@@ -28692,7 +28692,7 @@
     "parent": null
   },
   {
-    "name": "Status, Status sizes, Status with colors, Status with ping animation, Status with bounce animation",
+    "name": "Status, Status sizes, Status with colors, Status with ping animation, Status with bounce animation, Status, Status sizes, Status with colors, Status with ping animation, Status with bounce animation",
     "link": "https://daisyui.com/components/status/",
     "category": "Dashboard Widgets",
     "parent": null
@@ -28710,7 +28710,7 @@
     "parent": null
   },
   {
-    "name": "Calendar Cally calendar example, Calendar Cally date picker example",
+    "name": "Calendar updated Cally calendar example, Calendar updated Cally date picker example, Calendar updated Cally calendar example, Calendar updated Cally date picker example",
     "link": "https://daisyui.com/components/calendar/",
     "category": "Date/Time",
     "parent": null
@@ -28722,13 +28722,13 @@
     "parent": null
   },
   {
-    "name": "Label Floating Label, Label Floating Label with Different Sizes",
+    "name": "Label Floating Label, Label Floating Label with Different Sizes, Label Responsive Size Floating Label, Label Floating Label, Label Floating Label with Different Sizes, Label Responsive Size Floating Label",
     "link": "https://daisyui.com/components/label/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Validator, Validator and validator-hint, Validator Password requirement validator, Validator Username requirement validator, Validator Phone Number requirement validator",
+    "name": "Validator, Validator and validator-hint, Validator Password requirement validator, Validator Username requirement validator, Validator Phone Number requirement validator, Validator, Validator and validator-hint, Validator Password requirement validator, Validator Username requirement validator, Validator Phone Number requirement validator",
     "link": "https://daisyui.com/components/validator/",
     "category": "Other",
     "parent": null
@@ -28764,13 +28764,13 @@
     "parent": null
   },
   {
-    "name": "Fieldset fieldset-legend and label, Fieldset with background and border, Fieldset with multiple join items",
+    "name": "Fieldset fieldset-legend and label, Fieldset with background and border, Fieldset with multiple join items, Fieldset fieldset-legend and label, Fieldset with background and border, Fieldset with multiple join items",
     "link": "https://daisyui.com/components/fieldset/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Filter using HTML form, radio buttons and reset button, Filter without HTML form, Filter using HTML form, checkboxes, and a reset button",
+    "name": "Filter using HTML form, radio buttons and reset button, Filter without HTML form, Filter using HTML form, checkboxes, and a reset button, Filter using HTML form, radio buttons and reset button, Filter without HTML form, Filter using HTML form, checkboxes, and a reset button",
     "link": "https://daisyui.com/components/filter/",
     "category": "Form",
     "parent": null
@@ -29232,7 +29232,7 @@
     "parent": null
   },
   {
-    "name": "List (second column grows - default), List (third column grows), List (third column wraps to next row)",
+    "name": "List (second column grows - default), List (third column grows), List (third column wraps to next row), List (second column grows - default), List (third column grows), List (third column wraps to next row)",
     "link": "https://daisyui.com/components/list/",
     "category": "List",
     "parent": null
@@ -29250,7 +29250,7 @@
     "parent": null
   },
   {
-    "name": "Dock, Dock Extra Small size, Dock Small size, Dock Medium size, Dock Large size, Dock Extra Large size, Dock with custom colors",
+    "name": "Dock, Dock Extra Small size, Dock Small size, Dock Medium size, Dock Large size, Dock Extra Large size, Dock with custom colors, Dock, Dock Extra Small size, Dock Small size, Dock Medium size, Dock Large size, Dock Extra Large size, Dock with custom colors",
     "link": "https://daisyui.com/components/dock/",
     "category": "Other",
     "parent": null
@@ -40494,13 +40494,13 @@
     "parent": null
   },
   {
-    "name": "FAB / Speed Dial FAB and Speed Dial (vertical), FAB / Speed Dial FAB and Speed Dial with SVG icons, FAB / Speed Dial FAB and Speed Dial with labels, FAB / Speed Dial FAB Flower and Speed Dial, FAB / Speed Dial FAB and Flower Speed Dial with SVG icons",
+    "name": "FAB / Speed Dial FAB and Speed Dial (vertical), FAB / Speed Dial FAB and Speed Dial with SVG icons, FAB / Speed Dial FAB and Speed Dial with labels, FAB / Speed Dial FAB Flower and Speed Dial, FAB / Speed Dial FAB and Flower Speed Dial with SVG icons, FAB / Speed Dial FAB and Speed Dial (vertical), FAB / Speed Dial FAB and Speed Dial with SVG icons, FAB / Speed Dial FAB and Speed Dial with labels, FAB / Speed Dial FAB Flower and Speed Dial, FAB / Speed Dial FAB and Flower Speed Dial with SVG icons",
     "link": "https://daisyui.com/components/fab/",
     "category": "Other",
     "parent": null
   },
   {
-    "name": "Hover Gallery",
+    "name": "Hover Gallery, Hover Gallery",
     "link": "https://daisyui.com/components/hover-gallery/",
     "category": "Other",
     "parent": null
@@ -40842,7 +40842,7 @@
     "parent": null
   },
   {
-    "name": "Hover 3D card 3D image hover effect, Hover 3D card 3D card hover effect, Hover 3D card 3D hover effect for image gallery",
+    "name": "Hover 3D card 3D image hover effect, Hover 3D card 3D card hover effect, Hover 3D card 3D hover effect for image gallery, Hover 3D card 3D image hover effect, Hover 3D card 3D card hover effect, Hover 3D card 3D hover effect for image gallery",
     "link": "https://daisyui.com/components/hover-3d/",
     "category": "Card",
     "parent": null
@@ -40866,7 +40866,7 @@
     "parent": null
   },
   {
-    "name": "Text Rotate, Text Rotate Rotating 6 words, Text Rotate Rotating words in a sentence, Text Rotate Rotating 3 words with custom duration, Text Rotate Custom line height",
+    "name": "Text Rotate, Text Rotate Rotating 6 words, Text Rotate Rotating words in a sentence, Text Rotate Rotating 3 words with custom duration, Text Rotate Custom line height, Text Rotate, Text Rotate Rotating 6 words, Text Rotate Rotating words in a sentence, Text Rotate Rotating 3 words with custom duration, Text Rotate Custom line height",
     "link": "https://daisyui.com/components/text-rotate/",
     "category": "Other",
     "parent": null
@@ -41030,6 +41030,24 @@
   {
     "name": "Desgy",
     "link": "https://getnextjstemplates.com/products/desgy-nextjs-free-landing-page-template",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Aura new Aura, Aura new Aura dual, Aura new Aura rainbow, Aura new Aura holo, Aura new Aura glow, Aura new Aura gold, Aura new Aura silver, Aura new Aura with custom color, Aura new Aura with custom color and custom background color, Aura new Aura sizes, Aura new Aura with custom animation duration, Aura new Aura, Aura new Aura dual, Aura new Aura rainbow, Aura new Aura holo, Aura new Aura glow, Aura new Aura gold, Aura new Aura silver, Aura new Aura with custom color, Aura new Aura with custom color and custom background color, Aura new Aura sizes, Aura new Aura with custom animation duration",
+    "link": "https://daisyui.com/components/aura/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Megamenu new Responsive megamenu with small vertical menus, Megamenu new Megamenu with a menus and lots of links, Megamenu new megamenu without arrows, Megamenu new Megamenu in different sizes, Megamenu new Responsive megamenu with small vertical menus, Megamenu new Megamenu with a menus and lots of links, Megamenu new megamenu without arrows, Megamenu new Megamenu in different sizes",
+    "link": "https://daisyui.com/components/megamenu/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "OTP new OTP, OTP new OTP with 6 digits, OTP new OTP joined, OTP new OTP with different sizes, OTP new OTP with different colors, OTP new OTP, OTP new OTP with 6 digits, OTP new OTP joined, OTP new OTP with different sizes, OTP new OTP with different colors",
+    "link": "https://daisyui.com/components/otp/",
     "category": "Other",
     "parent": null
   }
