@@ -8550,7 +8550,7 @@
     "parent": null
   },
   {
-    "name": "Textarea, Textarea Ghost (no background), Textarea With form control and labels, Textarea colors, Textarea Sizes, Textarea Disabled, Textarea, Textarea Ghost (no background), Textarea With form control and labels, Textarea colors, Textarea Sizes, Textarea Disabled",
+    "name": "Textarea Ghost (no background), Textarea With form control and labels, Textarea colors, Textarea Sizes, Textarea Disabled, Textarea Ghost (no background), Textarea With form control and labels, Textarea colors, Textarea Sizes, Textarea Disabled",
     "link": "https://daisyui.com/components/textarea/",
     "category": "Form",
     "parent": null
@@ -25800,7 +25800,7 @@
     "parent": null
   },
   {
-    "name": "Modal Basic Example, Modal components, Modal Positions\n    \n    TWE Pro component, Modal Frame\n    \n    TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal\n    \n    TWE Pro component, Modal Import, Modal Simple notification",
+    "name": "Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification",
     "link": "https://tw-elements.com/docs/standard/components/modal/",
     "category": "Modal",
     "parent": null
