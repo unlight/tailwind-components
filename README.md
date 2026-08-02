@@ -2711,7 +2711,13 @@
 * Tailwind CSS Modal Confirmation with alpine js. with style headless ui: [tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui](https://tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui)
 * Modal Alert Responsive Tailwind CSS: [tailwindcomponents.com/component/modal-alert-responsive-tailwind-css](https://tailwindcomponents.com/component/modal-alert-responsive-tailwind-css)
 * Modal with a subscription form: [tailwindcomponents.com/component/modal-with-a-subscription-form](https://tailwindcomponents.com/component/modal-with-a-subscription-form)
-* Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
+* Modal Basic Example, Modal components, Modal Positions
+
+  TWE Pro component, Modal Frame
+
+  TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal
+
+  TWE Pro component, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
 * Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour: [flowbite.com/docs/components/modal/](https://flowbite.com/docs/components/modal/)
 * Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
 * Tailwind CSS Modal: [tailwindcomponents.com/component/modal-16](https://tailwindcomponents.com/component/modal-16)
@@ -5306,7 +5312,7 @@
 * undefined Simple, undefined Centered, undefined Grid, undefined Image: [merakiui.com/components/marketing/cta](https://merakiui.com/components/marketing/cta)
 * undefined Simple, undefined Centered, undefined Two Column, undefined Map, undefined Grid, undefined Grid 2x2, undefined Grid with Image, undefined Image, undefined Background Image, undefined Background Gradient: [merakiui.com/components/marketing/contact](https://merakiui.com/components/marketing/contact)
 * undefined Simple, undefined Centered, undefined Media, undefined Trusted By: [merakiui.com/components/marketing/features](https://merakiui.com/components/marketing/features)
-* undefined Centered, undefined Hover Effect, undefined Filter, undefined Side Links: [merakiui.com/components/marketing/portfolio](https://merakiui.com/components/marketing/portfolio)
+* undefined Centered, undefined Hover Effect, undefined Side Links, undefined Filter: [merakiui.com/components/marketing/portfolio](https://merakiui.com/components/marketing/portfolio)
 * undefined Simple, undefined Side By Side, undefined Filter, undefined Background: [merakiui.com/components/marketing/teams](https://merakiui.com/components/marketing/teams)
 * undefined Single, undefined Single #2, undefined Centered, undefined Centered #2: [merakiui.com/components/marketing/testimonials](https://merakiui.com/components/marketing/testimonials)
 * Gallery Basic example, Gallery Mix: [tw-elements.com/docs/standard/components/gallery/](https://tw-elements.com/docs/standard/components/gallery/)
