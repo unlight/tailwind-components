@@ -16962,7 +16962,7 @@
     "parent": null
   },
   {
-    "name": "Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2 (horizontal hexagon), Mask Decagon, Mask Pentagon, Mask Diamond, Mask Square, Mask Circle, Mask Star, Mask Star-2 (bold star), Mask Triangle (pointing top), Mask Triangle-2 (pointing down), Mask Triangle-3 (pointing left), Mask Triangle-4 (pointing right), Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2 (horizontal hexagon), Mask Decagon, Mask Pentagon, Mask Diamond, Mask Square, Mask Circle, Mask Star, Mask Star-2 (bold star), Mask Triangle (pointing top), Mask Triangle-2 (pointing down), Mask Triangle-3 (pointing left), Mask Triangle-4 (pointing right)",
+    "name": "Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2 (horizontal hexagon), Mask Decagon, Mask Pentagon, Mask Diamond, Mask Circle, Mask Star, Mask Star-2 (bold star), Mask Triangle (pointing top), Mask Triangle-2 (pointing down), Mask Triangle-3 (pointing left), Mask Triangle-4 (pointing right), Mask Squircle, Mask Heart, Mask Hexagon, Mask Hexagon-2 (horizontal hexagon), Mask Decagon, Mask Pentagon, Mask Diamond, Mask Circle, Mask Star, Mask Star-2 (bold star), Mask Triangle (pointing top), Mask Triangle-2 (pointing down), Mask Triangle-3 (pointing left), Mask Triangle-4 (pointing right)",
     "link": "https://daisyui.com/components/mask/",
     "category": "Other",
     "parent": null
@@ -25800,7 +25800,7 @@
     "parent": null
   },
   {
-    "name": "Modal Basic Example, Modal components, Modal Positions\n    \n    TWE Pro component, Modal Frame\n    \n    TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal\n    \n    TWE Pro component, Modal Import, Modal Simple notification",
+    "name": "Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification",
     "link": "https://tw-elements.com/docs/standard/components/modal/",
     "category": "Modal",
     "parent": null
