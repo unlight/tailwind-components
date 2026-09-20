@@ -215,6 +215,7 @@
 * Alert   HyperUI  🚀   , Alert Base, Alert Base (Dark), Alert Base with actions, Alert Base with actions (Dark), Alert Standout, Alert Standout (Dark): [hyperui.dev/components/application/alerts](https://www.hyperui.dev/components/application/alerts)
 * Alert   HyperUI  🚀   , Alert Base, Alert Base (Dark), Alert Base with actions, Alert Base with actions (Dark), Alert Standout, Alert Standout (Dark), Alert Related Components, Alert  Badges : [hyperui.dev/components/application/alerts](https://hyperui.dev/components/application/alerts)
 * Alerts Info, Alerts Success, Alerts Error: [hyperui.dev/components/neobrutalism/alerts](https://www.hyperui.dev/components/neobrutalism/alerts)
+* Shadcn Settings Notifications Blocks: [shadcnblocks.com/blocks/settings-notifications](https://www.shadcnblocks.com/blocks/settings-notifications)
 
 ## Avatar
 
@@ -1386,6 +1387,9 @@
 * Product Card   HyperUI  🚀   , Product Card Product with image, title and price, Product Card Product with image, title, price and variant count, Product Card Product with image, title, price and description, Product Card Product with rounded image, title and price, Product Card Product with image, title, price and variant options, Product Card Related Components, Product Card  Blog Cards , Product Card  Cards , Product Card  Carts , Product Card  Product Collections : [hyperui.dev/components/marketing/product-cards](https://hyperui.dev/components/marketing/product-cards)
 * Hover 3D card 3D image hover effect, Hover 3D card 3D card hover effect, Hover 3D card 3D hover effect for image gallery, Hover 3D card 3D image hover effect, Hover 3D card 3D card hover effect, Hover 3D card 3D hover effect for image gallery: [daisyui.com/components/hover-3d/](https://daisyui.com/components/hover-3d/)
 * Cards Base, Cards Base stacked, Cards Base dashed, Cards Retro window: [hyperui.dev/components/neobrutalism/cards](https://www.hyperui.dev/components/neobrutalism/cards)
+* Shadcn Chart Card Blocks: [shadcnblocks.com/blocks/chart-card](https://www.shadcnblocks.com/blocks/chart-card)
+* Shadcn Product Card Blocks: [shadcnblocks.com/blocks/product-card](https://www.shadcnblocks.com/blocks/product-card)
+* Shadcn Rate Card Blocks: [shadcnblocks.com/blocks/rate-card](https://www.shadcnblocks.com/blocks/rate-card)
 
 ## Dashboard Widgets
 
@@ -1487,6 +1491,8 @@
 * Stat   HyperUI  🚀   , Stat Title, value, from value and themed growth stat, Stat Title, value, from value and themed growth stat (Dark), Stat Title, value, icon and themed growth stat, Stat Title, value, icon and themed growth stat (Dark), Stat Title, value and themed growth stat, Stat Title, value and themed growth stat (Dark), Stat Title, value and icon, Stat Title, value and icon (Dark), Stat Title, value and themed growth stat, stacked style, Stat Title, value and themed growth stat, stacked style (Dark), Stat Title, value, icon and themed growth stat, stacked style, Stat Title, value, icon and themed growth stat, stacked style (Dark): [hyperui.dev/components/application/stats](https://hyperui.dev/components/application/stats)
 * Toast  Stats : [hyperui.dev/components/application/toasts](https://www.hyperui.dev/components/application/toasts)
 * Empty States Create first item, Empty States Create first item (Dark), Empty States Import or create, Empty States Import or create (Dark), Empty States Upload data, Empty States Upload data (Dark), Empty States Get started, Empty States Get started (Dark), Empty States No results found, Empty States No results found (Dark): [hyperui.dev/components/application/empty-states](https://www.hyperui.dev/components/application/empty-states)
+* Shadcn Stats Blocks: [shadcnblocks.com/blocks/stats](https://www.shadcnblocks.com/blocks/stats)
+* Shadcn Stats Card Blocks: [shadcnblocks.com/blocks/stats-card](https://www.shadcnblocks.com/blocks/stats-card)
 
 ## Slider/Carousel
 
@@ -1559,6 +1565,7 @@
 * unsorteduinel-cookies-jPsDwVsZ: [tailwind.besoeasy.com/unsorted/uinel-cookies-jPsDwVsZ.html](https://tailwind.besoeasy.com/unsorted/uinel-cookies-jPsDwVsZ.html)
 * unsorteduinel-cookies-lZihrSwc: [tailwind.besoeasy.com/unsorted/uinel-cookies-lZihrSwc.html](https://tailwind.besoeasy.com/unsorted/uinel-cookies-lZihrSwc.html)
 * unsorteduinel-cookies-ldyhfqNM: [tailwind.besoeasy.com/unsorted/uinel-cookies-ldyhfqNM.html](https://tailwind.besoeasy.com/unsorted/uinel-cookies-ldyhfqNM.html)
+* Shadcn Cookie Banner Blocks: [shadcnblocks.com/blocks/cookie-banner](https://www.shadcnblocks.com/blocks/cookie-banner)
 
 ## Date/Time
 
@@ -2051,6 +2058,7 @@
 * unsorteduinel-contacts-fDFNIhSi: [tailwind.besoeasy.com/unsorted/uinel-contacts-fDFNIhSi.html](https://tailwind.besoeasy.com/unsorted/uinel-contacts-fDFNIhSi.html)
 * unsorteduinel-contacts-xiOfQogr: [tailwind.besoeasy.com/unsorted/uinel-contacts-xiOfQogr.html](https://tailwind.besoeasy.com/unsorted/uinel-contacts-xiOfQogr.html)
 * Contact Forms Base, Contact Forms Base (Dark), Contact Forms Base with triage, Contact Forms Base with triage (Dark), Contact Forms Base with checkboxes, Contact Forms Base with checkboxes (Dark), Contact Forms Grid, Contact Forms Grid (Dark), Contact Forms Side-by-side form with description, Contact Forms Side-by-side form with description (Dark): [hyperui.dev/components/marketing/contact-forms](https://www.hyperui.dev/components/marketing/contact-forms)
+* Shadcn Contact Blocks, Shadcn Contact Blocks: [shadcnblocks.com/blocks/contact](https://www.shadcnblocks.com/blocks/contact)
 
 ### Login
 
@@ -2195,6 +2203,7 @@
 * login3: [wickedblocks.dev/original/block/login3/](https://www.wickedblocks.dev/original/block/login3/)
 * login1: [wickedblocks.dev/original/block/login1/](https://www.wickedblocks.dev/original/block/login1/)
 * login2: [wickedblocks.dev/original/block/login2/](https://www.wickedblocks.dev/original/block/login2/)
+* Shadcn Login Blocks: [shadcnblocks.com/blocks/login](https://www.shadcnblocks.com/blocks/login)
 
 ### Register
 
@@ -2288,6 +2297,7 @@
 * unsorteduinel-signup-yaePdyOk: [tailwind.besoeasy.com/unsorted/uinel-signup-yaePdyOk.html](https://tailwind.besoeasy.com/unsorted/uinel-signup-yaePdyOk.html)
 * Newsletter Signup   HyperUI  🚀   , Newsletter Signup Simple signup, Newsletter Signup Simple signup (Dark), Newsletter Signup Simple signup centered, Newsletter Signup Simple signup centered (Dark): [hyperui.dev/components/marketing/newsletter-signup](https://www.hyperui.dev/components/marketing/newsletter-signup)
 * Newsletter Signup   HyperUI  🚀   , Newsletter Signup Simple signup, Newsletter Signup Simple signup centered, Newsletter Signup Related Components, Newsletter Signup  CTAs : [hyperui.dev/components/marketing/newsletter-signup](https://hyperui.dev/components/marketing/newsletter-signup)
+* Shadcn Signup Blocks: [shadcnblocks.com/blocks/signup](https://www.shadcnblocks.com/blocks/signup)
 
 ### Search
 
@@ -2350,6 +2360,7 @@
 * unsortedcoleos-search-sMuOniAq: [tailwind.besoeasy.com/unsorted/coleos-search-sMuOniAq.html](https://tailwind.besoeasy.com/unsorted/coleos-search-sMuOniAq.html)
 * unsortedcoleos-search-uZZglVtt: [tailwind.besoeasy.com/unsorted/coleos-search-uZZglVtt.html](https://tailwind.besoeasy.com/unsorted/coleos-search-uZZglVtt.html)
 * unsortedcoleos-search-weLAErLf: [tailwind.besoeasy.com/unsorted/coleos-search-weLAErLf.html](https://tailwind.besoeasy.com/unsorted/coleos-search-weLAErLf.html)
+* Shadcn Product Search Blocks: [shadcnblocks.com/blocks/product-search](https://www.shadcnblocks.com/blocks/product-search)
 
 ### Upload
 
@@ -2527,6 +2538,8 @@
 * Card footer with page buttons: [tailwindcss.com/plus/ui-blocks/preview#component-69eb9381f977800aa890ce8f7d9e2d20-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-69eb9381f977800aa890ce8f7d9e2d20-dark)
 * Simple with gray footer: [tailwindcss.com/plus/ui-blocks/preview#component-b6812b6c13fff16861f2645c4100ae5b-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-b6812b6c13fff16861f2645c4100ae5b-dark)
 * Footer   HyperUI  🚀   , Footer Large with newsletter form, Footer Large with newsletter form (Dark), Footer Simple stacked, Footer Simple stacked (Dark), Footer Simple row, Footer Simple row (Dark), Footer Split with company info, links and image, Footer Split with company info, links and image (Dark), Footer Newsletter form as priority, Footer Newsletter form as priority (Dark), Footer Centered with branding, Footer Centered with branding (Dark), Footer Slim with branding and link top, Footer Slim with branding and link top (Dark), Footer Company info and links, Footer Company info and links (Dark), Footer Inline with logo and copyright, Footer Inline with logo and copyright (Dark), Footer Related Components, Footer  Header : [hyperui.dev/components/marketing/footers](https://hyperui.dev/components/marketing/footers)
+* Shadcn Ecommerce Footer Blocks: [shadcnblocks.com/blocks/ecommerce-footer](https://www.shadcnblocks.com/blocks/ecommerce-footer)
+* Shadcn Footer Blocks: [shadcnblocks.com/blocks/footer](https://www.shadcnblocks.com/blocks/footer)
 
 ## Hero
 
@@ -2598,6 +2611,8 @@
 * hero11: [wickedblocks.dev/original/block/hero11/](https://www.wickedblocks.dev/original/block/hero11/)
 * hero10: [wickedblocks.dev/original/block/hero10/](https://www.wickedblocks.dev/original/block/hero10/)
 * hero1: [wickedblocks.dev/original/block/hero1/](https://www.wickedblocks.dev/original/block/hero1/)
+* Shadcn Hero Blocks, Shadcn Hero Blocks, Shadcn Hero Blocks: [shadcnblocks.com/blocks/hero](https://www.shadcnblocks.com/blocks/hero)
+* Shadcn Ecommerce Hero Blocks, Shadcn Ecommerce Hero Blocks: [shadcnblocks.com/blocks/ecommerce-hero](https://www.shadcnblocks.com/blocks/ecommerce-hero)
 
 ## Loading/Spinner
 
@@ -2722,6 +2737,7 @@
 * extramodal3: [tailwind.besoeasy.com/extra/modal3.html](https://tailwind.besoeasy.com/extra/modal3.html)
 * extramodal4: [tailwind.besoeasy.com/extra/modal4.html](https://tailwind.besoeasy.com/extra/modal4.html)
 * Modal   HyperUI  🚀   , Modal Base, Modal Base (Dark), Modal Base with close, Modal Base with close (Dark), Modal Actions, Modal Actions (Dark), Modal Actions with close, Modal Actions with close (Dark), Modal Input, Modal Input (Dark), Modal Input with close, Modal Input with close (Dark): [hyperui.dev/components/application/modals](https://hyperui.dev/components/application/modals)
+* Shadcn Offer Modal Blocks: [shadcnblocks.com/blocks/offer-modal](https://www.shadcnblocks.com/blocks/offer-modal)
 
 ## Navigation/Header
 
@@ -3066,6 +3082,8 @@
 * With lighter page header: [tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09](https://tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09)
 * With lighter page header: [tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09-dark](https://tailwindcss.com/plus/ui-blocks/preview#component-5d42250cd4a018d6a5d20a37fffaec09-dark)
 * Header   HyperUI  🚀   , Header Related Components, Header  CTAs : [hyperui.dev/components/marketing/headers](https://hyperui.dev/components/marketing/headers)
+* Shadcn Ecommerce Navbar Blocks: [shadcnblocks.com/blocks/ecommerce-navbar](https://www.shadcnblocks.com/blocks/ecommerce-navbar)
+* Shadcn Navbar Blocks: [shadcnblocks.com/blocks/navbar](https://www.shadcnblocks.com/blocks/navbar)
 
 ## Page
 
@@ -3296,6 +3314,7 @@
 * unsortedzospace-faq-QUdQWfiN: [tailwind.besoeasy.com/unsorted/zospace-faq-QUdQWfiN.html](https://tailwind.besoeasy.com/unsorted/zospace-faq-QUdQWfiN.html)
 * unsortedzospace-faq-RmYPVMJh: [tailwind.besoeasy.com/unsorted/zospace-faq-RmYPVMJh.html](https://tailwind.besoeasy.com/unsorted/zospace-faq-RmYPVMJh.html)
 * FAQ   HyperUI  🚀   , FAQ Base with chevrons, FAQ Base with chevrons (Dark), FAQ Divided with chevrons, FAQ Divided with chevrons (Dark), FAQ Background, FAQ Background (Dark): [hyperui.dev/components/marketing/faqs](https://hyperui.dev/components/marketing/faqs)
+* Shadcn Faq Blocks: [shadcnblocks.com/blocks/faq](https://www.shadcnblocks.com/blocks/faq)
 
 ### Pricing
 
@@ -3370,6 +3389,7 @@
 * pricing2: [wickedblocks.dev/original/block/pricing2/](https://www.wickedblocks.dev/original/block/pricing2/)
 * pricing1: [wickedblocks.dev/original/block/pricing1/](https://www.wickedblocks.dev/original/block/pricing1/)
 * Pricing   HyperUI  🚀   : [hyperui.dev/components/marketing/pricing](https://hyperui.dev/components/marketing/pricing)
+* Shadcn Pricing Blocks, Shadcn Pricing Blocks: [shadcnblocks.com/blocks/pricing](https://www.shadcnblocks.com/blocks/pricing)
 
 ### Testimonial
 
@@ -3464,6 +3484,7 @@
 * unsortedzospace-testimonial-fYmlNFGH: [tailwind.besoeasy.com/unsorted/zospace-testimonial-fYmlNFGH.html](https://tailwind.besoeasy.com/unsorted/zospace-testimonial-fYmlNFGH.html)
 * unsortedzospace-testimonial-vgxNpDZd: [tailwind.besoeasy.com/unsorted/zospace-testimonial-vgxNpDZd.html](https://tailwind.besoeasy.com/unsorted/zospace-testimonial-vgxNpDZd.html)
 * unsortedzrixa-testimonial-OFGOJLtN: [tailwind.besoeasy.com/unsorted/zrixa-testimonial-OFGOJLtN.html](https://tailwind.besoeasy.com/unsorted/zrixa-testimonial-OFGOJLtN.html)
+* Shadcn Testimonial Blocks, Shadcn Testimonial Blocks: [shadcnblocks.com/blocks/testimonial](https://www.shadcnblocks.com/blocks/testimonial)
 
 ## Pagination
 
@@ -3669,6 +3690,7 @@
 * Side Menu   HyperUI  🚀   , Side Menu Icon, links with tooltips and logout action, Side Menu Related Components, Side Menu  Breadcrumbs , Side Menu  Dropdowns , Side Menu  Vertical Menu : [hyperui.dev/components/application/side-menu](https://hyperui.dev/components/application/side-menu)
 * Breadcrumb  Side Menu : [hyperui.dev/components/application/breadcrumbs](https://hyperui.dev/components/application/breadcrumbs)
 * Dropdown  Side Menu : [hyperui.dev/components/application/dropdown](https://hyperui.dev/components/application/dropdown)
+* Shadcn Sidebar Blocks: [shadcnblocks.com/blocks/sidebar](https://www.shadcnblocks.com/blocks/sidebar)
 
 ## Comment
 
@@ -3928,6 +3950,7 @@
 * unsorteduinel-tables-wwDmqFAm: [tailwind.besoeasy.com/unsorted/uinel-tables-wwDmqFAm.html](https://tailwind.besoeasy.com/unsorted/uinel-tables-wwDmqFAm.html)
 * unsorteduinel-tables-yMcOxwKa: [tailwind.besoeasy.com/unsorted/uinel-tables-yMcOxwKa.html](https://tailwind.besoeasy.com/unsorted/uinel-tables-yMcOxwKa.html)
 * Table   HyperUI  🚀   , Table Base, Table Base (Dark), Table Bordered, Table Bordered (Dark), Table Striped, Table Striped (Dark), Table Sticky headings, Table Sticky headings (Dark), Table Sticky first column, Table Sticky first column (Dark), Table Related Components, Table  Details Lists : [hyperui.dev/components/application/tables](https://hyperui.dev/components/application/tables)
+* Shadcn Data Table Blocks, Shadcn Data Table Blocks: [shadcnblocks.com/blocks/data-table](https://www.shadcnblocks.com/blocks/data-table)
 
 ## List
 
@@ -3995,6 +4018,11 @@
 * List (second column grows - default), List (third column grows), List (third column wraps to next row), List (second column grows - default), List (third column grows), List (third column wraps to next row): [daisyui.com/components/list/](https://daisyui.com/components/list/)
 * Details Lists Base, Details Lists Base (Dark), Details Lists Striped, Details Lists Striped (Dark), Details Lists Bordered, Details Lists Bordered (Dark), Details Lists Striped and bordered, Details Lists Striped and bordered (Dark), Details Lists Related components: [hyperui.dev/components/application/details-list](https://www.hyperui.dev/components/application/details-list)
 * Details List   HyperUI  🚀   , Details List Base, Details List Base (Dark), Details List Striped, Details List Striped (Dark), Details List Bordered, Details List Bordered (Dark), Details List Striped and bordered, Details List Striped and bordered (Dark), Details List Related Components: [hyperui.dev/components/application/details-list](https://hyperui.dev/components/application/details-list)
+* Shadcn Product List Blocks, Shadcn Product List Blocks: [shadcnblocks.com/blocks/product-list](https://www.shadcnblocks.com/blocks/product-list)
+* Shadcn List Blocks: [shadcnblocks.com/blocks/list](https://www.shadcnblocks.com/blocks/list)
+* Shadcn Todo List Blocks: [shadcnblocks.com/blocks/todo-list](https://www.shadcnblocks.com/blocks/todo-list)
+* Shadcn Waitlist Blocks: [shadcnblocks.com/blocks/waitlist](https://www.shadcnblocks.com/blocks/waitlist)
+* Shadcn Wishlist Blocks: [shadcnblocks.com/blocks/wishlist](https://www.shadcnblocks.com/blocks/wishlist)
 
 ## Tab
 
@@ -4089,6 +4117,7 @@
 * Vertical Timeline - Example #2: [tailwindcomponents.com/component/vertical-timeline-example-2](https://tailwindcomponents.com/component/vertical-timeline-example-2)
 * Timeline   HyperUI  🚀   , Timeline Vertical, Timeline Vertical (Dark), Timeline Vertical with middle line, Timeline Vertical with middle line (Dark), Timeline Horizontal, Timeline Horizontal (Dark): [hyperui.dev/components/application/timelines](https://www.hyperui.dev/components/application/timelines)
 * Timeline   HyperUI  🚀   , Timeline Vertical, Timeline Vertical (Dark), Timeline Vertical with middle line, Timeline Vertical with middle line (Dark), Timeline Horizontal, Timeline Horizontal (Dark): [hyperui.dev/components/application/timelines](https://hyperui.dev/components/application/timelines)
+* Shadcn Timeline Blocks: [shadcnblocks.com/blocks/timeline](https://www.shadcnblocks.com/blocks/timeline)
 
 ## Other
 
@@ -7016,3 +7045,89 @@
 * Aura new Aura, Aura new Aura dual, Aura new Aura rainbow, Aura new Aura holo, Aura new Aura glow, Aura new Aura gold, Aura new Aura silver, Aura new Aura with custom color, Aura new Aura with custom color and custom background color, Aura new Aura sizes, Aura new Aura with custom animation duration, Aura new Aura, Aura new Aura dual, Aura new Aura rainbow, Aura new Aura holo, Aura new Aura glow, Aura new Aura gold, Aura new Aura silver, Aura new Aura with custom color, Aura new Aura with custom color and custom background color, Aura new Aura sizes, Aura new Aura with custom animation duration: [daisyui.com/components/aura/](https://daisyui.com/components/aura/)
 * Megamenu new Responsive megamenu with small vertical menus, Megamenu new Megamenu with a menus and lots of links, Megamenu new megamenu without arrows, Megamenu new Megamenu in different sizes, Megamenu new Responsive megamenu with small vertical menus, Megamenu new Megamenu with a menus and lots of links, Megamenu new megamenu without arrows, Megamenu new Megamenu in different sizes: [daisyui.com/components/megamenu/](https://daisyui.com/components/megamenu/)
 * OTP new OTP, OTP new OTP with 6 digits, OTP new OTP joined, OTP new OTP with different sizes, OTP new OTP with different colors, OTP new OTP disabled, OTP new OTP, OTP new OTP with 6 digits, OTP new OTP joined, OTP new OTP with different sizes, OTP new OTP with different colors, OTP new OTP disabled: [daisyui.com/components/otp/](https://daisyui.com/components/otp/)
+* Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI: [shadcnblocks.com/blocks](https://www.shadcnblocks.com/blocks)
+* Shadcn Dashboard Blocks, Shadcn Dashboard Blocks, Shadcn Dashboard Blocks: [shadcnblocks.com/blocks/dashboard](https://www.shadcnblocks.com/blocks/dashboard)
+* Shadcn Application Shell Blocks, Shadcn Application Shell Blocks, Shadcn Application Shell Blocks: [shadcnblocks.com/blocks/application-shell](https://www.shadcnblocks.com/blocks/application-shell)
+* Shadcn Feature Blocks, Shadcn Feature Blocks, Shadcn Feature Blocks: [shadcnblocks.com/blocks/feature](https://www.shadcnblocks.com/blocks/feature)
+* Shadcn Integration Blocks, Shadcn Integration Blocks: [shadcnblocks.com/blocks/integration](https://www.shadcnblocks.com/blocks/integration)
+* Shadcn About Blocks, Shadcn About Blocks: [shadcnblocks.com/blocks/about](https://www.shadcnblocks.com/blocks/about)
+* Shadcn Product Detail Blocks, Shadcn Product Detail Blocks: [shadcnblocks.com/blocks/product-detail](https://www.shadcnblocks.com/blocks/product-detail)
+* Shadcn Product Categories Blocks, Shadcn Product Categories Blocks: [shadcnblocks.com/blocks/product-categories](https://www.shadcnblocks.com/blocks/product-categories)
+* Shadcn Bento Blocks, Shadcn Bento Blocks: [shadcnblocks.com/blocks/bento](https://www.shadcnblocks.com/blocks/bento)
+* Shadcn Chart Group Blocks, Shadcn Chart Group Blocks: [shadcnblocks.com/blocks/chart-group](https://www.shadcnblocks.com/blocks/chart-group)
+* Shadcn Code Block Components, Shadcn Code Block Components: [shadcnblocks.com/components/code-block](https://www.shadcnblocks.com/components/code-block)
+* Shadcnblocks Theme: [shadcnblocks.com/theme/shadcnblocks](https://www.shadcnblocks.com/theme/shadcnblocks)
+* Free Shadcn UI blocks: [shadcnblocks.com/blocks/free](https://www.shadcnblocks.com/blocks/free)
+* Shadcn UI Vue Blocks & Components: [shadcnblocksvue.com/](https://www.shadcnblocksvue.com/)
+* Shadcn Accept Invite Blocks: [shadcnblocks.com/blocks/accept-invite](https://www.shadcnblocks.com/blocks/accept-invite)
+* Shadcn Address Book Blocks: [shadcnblocks.com/blocks/address-book](https://www.shadcnblocks.com/blocks/address-book)
+* Shadcn Awards Blocks: [shadcnblocks.com/blocks/awards](https://www.shadcnblocks.com/blocks/awards)
+* Shadcn Background Pattern Blocks: [shadcnblocks.com/blocks/background-pattern](https://www.shadcnblocks.com/blocks/background-pattern)
+* Shadcn Banner Blocks: [shadcnblocks.com/blocks/banner](https://www.shadcnblocks.com/blocks/banner)
+* Shadcn Blog Blocks: [shadcnblocks.com/blocks/blog](https://www.shadcnblocks.com/blocks/blog)
+* Shadcn Blog Post Blocks: [shadcnblocks.com/blocks/blog-post](https://www.shadcnblocks.com/blocks/blog-post)
+* Shadcn Book A Demo Blocks: [shadcnblocks.com/blocks/book-a-demo](https://www.shadcnblocks.com/blocks/book-a-demo)
+* Shadcn Careers Blocks: [shadcnblocks.com/blocks/careers](https://www.shadcnblocks.com/blocks/careers)
+* Shadcn Case Studies Blocks: [shadcnblocks.com/blocks/case-studies](https://www.shadcnblocks.com/blocks/case-studies)
+* Shadcn Case Study Blocks: [shadcnblocks.com/blocks/case-study](https://www.shadcnblocks.com/blocks/case-study)
+* Shadcn Changelog Blocks: [shadcnblocks.com/blocks/changelog](https://www.shadcnblocks.com/blocks/changelog)
+* Shadcn Checkout Blocks: [shadcnblocks.com/blocks/checkout](https://www.shadcnblocks.com/blocks/checkout)
+* Shadcn Code Example Blocks: [shadcnblocks.com/blocks/code-example](https://www.shadcnblocks.com/blocks/code-example)
+* Shadcn Community Blocks: [shadcnblocks.com/blocks/community](https://www.shadcnblocks.com/blocks/community)
+* Shadcn Compare Blocks: [shadcnblocks.com/blocks/compare](https://www.shadcnblocks.com/blocks/compare)
+* Shadcn Compare Products Blocks: [shadcnblocks.com/blocks/compare-products](https://www.shadcnblocks.com/blocks/compare-products)
+* Shadcn Compliance Blocks: [shadcnblocks.com/blocks/compliance](https://www.shadcnblocks.com/blocks/compliance)
+* Shadcn Content Blocks: [shadcnblocks.com/blocks/content](https://www.shadcnblocks.com/blocks/content)
+* Shadcn Crud Companies Blocks: [shadcnblocks.com/blocks/crud-companies](https://www.shadcnblocks.com/blocks/crud-companies)
+* Shadcn Cta Blocks: [shadcnblocks.com/blocks/cta](https://www.shadcnblocks.com/blocks/cta)
+* Shadcn Deals Blocks: [shadcnblocks.com/blocks/deals](https://www.shadcnblocks.com/blocks/deals)
+* Shadcn Download Blocks: [shadcnblocks.com/blocks/download](https://www.shadcnblocks.com/blocks/download)
+* Shadcn Experience Blocks: [shadcnblocks.com/blocks/experience](https://www.shadcnblocks.com/blocks/experience)
+* Shadcn Feedback Blocks: [shadcnblocks.com/blocks/feedback](https://www.shadcnblocks.com/blocks/feedback)
+* Shadcn Field Mapping Blocks: [shadcnblocks.com/blocks/field-mapping](https://www.shadcnblocks.com/blocks/field-mapping)
+* Shadcn Forgot Password Blocks: [shadcnblocks.com/blocks/forgot-password](https://www.shadcnblocks.com/blocks/forgot-password)
+* Shadcn Gallery Blocks: [shadcnblocks.com/blocks/gallery](https://www.shadcnblocks.com/blocks/gallery)
+* Shadcn Help Blocks: [shadcnblocks.com/blocks/help](https://www.shadcnblocks.com/blocks/help)
+* Shadcn Help Center Blocks: [shadcnblocks.com/blocks/help-center](https://www.shadcnblocks.com/blocks/help-center)
+* Shadcn Incentives Blocks: [shadcnblocks.com/blocks/incentives](https://www.shadcnblocks.com/blocks/incentives)
+* Shadcn Industries Blocks: [shadcnblocks.com/blocks/industries](https://www.shadcnblocks.com/blocks/industries)
+* Shadcn Invite User Blocks: [shadcnblocks.com/blocks/invite-user](https://www.shadcnblocks.com/blocks/invite-user)
+* Shadcn Leaderboard Blocks: [shadcnblocks.com/blocks/leaderboard](https://www.shadcnblocks.com/blocks/leaderboard)
+* Shadcn Live Purchase Blocks: [shadcnblocks.com/blocks/live-purchase](https://www.shadcnblocks.com/blocks/live-purchase)
+* Shadcn Logos Blocks: [shadcnblocks.com/blocks/logos](https://www.shadcnblocks.com/blocks/logos)
+* Shadcn Magic Link Blocks: [shadcnblocks.com/blocks/magic-link](https://www.shadcnblocks.com/blocks/magic-link)
+* Shadcn Newsletter Blocks: [shadcnblocks.com/blocks/newsletter](https://www.shadcnblocks.com/blocks/newsletter)
+* Shadcn Onboarding Blocks: [shadcnblocks.com/blocks/onboarding](https://www.shadcnblocks.com/blocks/onboarding)
+* Shadcn Order History Blocks: [shadcnblocks.com/blocks/order-history](https://www.shadcnblocks.com/blocks/order-history)
+* Shadcn Order Summary Blocks: [shadcnblocks.com/blocks/order-summary](https://www.shadcnblocks.com/blocks/order-summary)
+* Shadcn Our Story Blocks: [shadcnblocks.com/blocks/our-story](https://www.shadcnblocks.com/blocks/our-story)
+* Shadcn Passkey Blocks: [shadcnblocks.com/blocks/passkey](https://www.shadcnblocks.com/blocks/passkey)
+* Shadcn Payment Methods Blocks: [shadcnblocks.com/blocks/payment-methods](https://www.shadcnblocks.com/blocks/payment-methods)
+* Shadcn Process Blocks: [shadcnblocks.com/blocks/process](https://www.shadcnblocks.com/blocks/process)
+* Shadcn Product Gallery Blocks: [shadcnblocks.com/blocks/product-gallery](https://www.shadcnblocks.com/blocks/product-gallery)
+* Shadcn Product Quick View Blocks: [shadcnblocks.com/blocks/product-quick-view](https://www.shadcnblocks.com/blocks/product-quick-view)
+* Shadcn Product Specs Blocks: [shadcnblocks.com/blocks/product-specs](https://www.shadcnblocks.com/blocks/product-specs)
+* Shadcn Project Blocks: [shadcnblocks.com/blocks/project](https://www.shadcnblocks.com/blocks/project)
+* Shadcn Projects Blocks: [shadcnblocks.com/blocks/projects](https://www.shadcnblocks.com/blocks/projects)
+* Shadcn Promo Banner Blocks: [shadcnblocks.com/blocks/promo-banner](https://www.shadcnblocks.com/blocks/promo-banner)
+* Shadcn Reset Password Blocks: [shadcnblocks.com/blocks/reset-password](https://www.shadcnblocks.com/blocks/reset-password)
+* Shadcn Resource Blocks: [shadcnblocks.com/blocks/resource](https://www.shadcnblocks.com/blocks/resource)
+* Shadcn Resources Blocks: [shadcnblocks.com/blocks/resources](https://www.shadcnblocks.com/blocks/resources)
+* Shadcn Reviews Blocks: [shadcnblocks.com/blocks/reviews](https://www.shadcnblocks.com/blocks/reviews)
+* Shadcn Service Blocks: [shadcnblocks.com/blocks/service](https://www.shadcnblocks.com/blocks/service)
+* Shadcn Services Blocks: [shadcnblocks.com/blocks/services](https://www.shadcnblocks.com/blocks/services)
+* Shadcn Settings Integrations Blocks: [shadcnblocks.com/blocks/settings-integrations](https://www.shadcnblocks.com/blocks/settings-integrations)
+* Shadcn Settings Members Blocks: [shadcnblocks.com/blocks/settings-members](https://www.shadcnblocks.com/blocks/settings-members)
+* Shadcn Settings Profile Blocks: [shadcnblocks.com/blocks/settings-profile](https://www.shadcnblocks.com/blocks/settings-profile)
+* Shadcn Shader Blocks: [shadcnblocks.com/blocks/shader](https://www.shadcnblocks.com/blocks/shader)
+* Shadcn Shop The Look Blocks: [shadcnblocks.com/blocks/shop-the-look](https://www.shadcnblocks.com/blocks/shop-the-look)
+* Shadcn Shopping Cart Blocks: [shadcnblocks.com/blocks/shopping-cart](https://www.shadcnblocks.com/blocks/shopping-cart)
+* Shadcn Skills Blocks: [shadcnblocks.com/blocks/skills](https://www.shadcnblocks.com/blocks/skills)
+* Shadcn Social Media Trending Blocks: [shadcnblocks.com/blocks/social-media-trending](https://www.shadcnblocks.com/blocks/social-media-trending)
+* Shadcn Team Blocks: [shadcnblocks.com/blocks/team](https://www.shadcnblocks.com/blocks/team)
+* Shadcn Trust Strip Blocks: [shadcnblocks.com/blocks/trust-strip](https://www.shadcnblocks.com/blocks/trust-strip)
+* Shadcn Two Factor Blocks: [shadcnblocks.com/blocks/two-factor](https://www.shadcnblocks.com/blocks/two-factor)
+* Shadcn User Profile Blocks: [shadcnblocks.com/blocks/user-profile](https://www.shadcnblocks.com/blocks/user-profile)
+* Shadcn Verify Email Blocks: [shadcnblocks.com/blocks/verify-email](https://www.shadcnblocks.com/blocks/verify-email)
+* Free Shadcn UI Blocks - Shadcnblocks.com: [github.com/shadcnblocks/shadcn-ui-blocks](https://github.com/shadcnblocks/shadcn-ui-blocks)
+* x.com: [x.com/shadcnblocks](https://x.com/shadcnblocks)

@@ -41050,5 +41050,695 @@
     "link": "https://daisyui.com/components/otp/",
     "category": "Other",
     "parent": null
+  },
+  {
+    "name": "Shadcn Settings Notifications Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/settings-notifications",
+    "category": "Alert/Notification",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Chart Card Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/chart-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Product Card Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/product-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Rate Card Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/rate-card",
+    "category": "Card",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Stats Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/stats",
+    "category": "Dashboard Widgets",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Stats Card Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/stats-card",
+    "category": "Dashboard Widgets",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Cookie Banner Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/cookie-banner",
+    "category": "Cookies",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Contact Blocks, Shadcn Contact Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/contact",
+    "category": "Contact",
+    "parent": "Form"
+  },
+  {
+    "name": "Shadcn Login Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/login",
+    "category": "Login",
+    "parent": "Form"
+  },
+  {
+    "name": "Shadcn Signup Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/signup",
+    "category": "Register",
+    "parent": "Form"
+  },
+  {
+    "name": "Shadcn Product Search Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/product-search",
+    "category": "Search",
+    "parent": "Form"
+  },
+  {
+    "name": "Shadcn Ecommerce Footer Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/ecommerce-footer",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Footer Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/footer",
+    "category": "Footer",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Hero Blocks, Shadcn Hero Blocks, Shadcn Hero Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/hero",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Ecommerce Hero Blocks, Shadcn Ecommerce Hero Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/ecommerce-hero",
+    "category": "Hero",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Offer Modal Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/offer-modal",
+    "category": "Modal",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Ecommerce Navbar Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/ecommerce-navbar",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Navbar Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/navbar",
+    "category": "Navigation/Header",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Faq Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/faq",
+    "category": "FAQ",
+    "parent": "Page"
+  },
+  {
+    "name": "Shadcn Pricing Blocks, Shadcn Pricing Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/pricing",
+    "category": "Pricing",
+    "parent": "Page"
+  },
+  {
+    "name": "Shadcn Testimonial Blocks, Shadcn Testimonial Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/testimonial",
+    "category": "Testimonial",
+    "parent": "Page"
+  },
+  {
+    "name": "Shadcn Sidebar Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/sidebar",
+    "category": "Sidebar",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Data Table Blocks, Shadcn Data Table Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/data-table",
+    "category": "Table",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Product List Blocks, Shadcn Product List Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/product-list",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Shadcn List Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/list",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Todo List Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/todo-list",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Waitlist Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/waitlist",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Wishlist Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/wishlist",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Timeline Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/timeline",
+    "category": "Timeline",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI",
+    "link": "https://www.shadcnblocks.com/blocks",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Dashboard Blocks, Shadcn Dashboard Blocks, Shadcn Dashboard Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/dashboard",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Application Shell Blocks, Shadcn Application Shell Blocks, Shadcn Application Shell Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/application-shell",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Feature Blocks, Shadcn Feature Blocks, Shadcn Feature Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/feature",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Integration Blocks, Shadcn Integration Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/integration",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn About Blocks, Shadcn About Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/about",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Product Detail Blocks, Shadcn Product Detail Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/product-detail",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Product Categories Blocks, Shadcn Product Categories Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/product-categories",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Bento Blocks, Shadcn Bento Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/bento",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Chart Group Blocks, Shadcn Chart Group Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/chart-group",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Code Block Components, Shadcn Code Block Components",
+    "link": "https://www.shadcnblocks.com/components/code-block",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcnblocks Theme",
+    "link": "https://www.shadcnblocks.com/theme/shadcnblocks",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Free Shadcn UI blocks",
+    "link": "https://www.shadcnblocks.com/blocks/free",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn UI Vue Blocks & Components",
+    "link": "https://www.shadcnblocksvue.com/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Accept Invite Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/accept-invite",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Address Book Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/address-book",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Awards Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/awards",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Background Pattern Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/background-pattern",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Banner Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/banner",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Blog Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/blog",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Blog Post Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/blog-post",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Book A Demo Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/book-a-demo",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Careers Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/careers",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Case Studies Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/case-studies",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Case Study Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/case-study",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Changelog Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/changelog",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Checkout Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/checkout",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Code Example Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/code-example",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Community Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/community",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Compare Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/compare",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Compare Products Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/compare-products",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Compliance Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/compliance",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Content Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/content",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Crud Companies Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/crud-companies",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Cta Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/cta",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Deals Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/deals",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Download Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/download",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Experience Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/experience",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Feedback Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/feedback",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Field Mapping Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/field-mapping",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Forgot Password Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/forgot-password",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Gallery Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/gallery",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Help Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/help",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Help Center Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/help-center",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Incentives Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/incentives",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Industries Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/industries",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Invite User Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/invite-user",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Leaderboard Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/leaderboard",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Live Purchase Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/live-purchase",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Logos Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/logos",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Magic Link Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/magic-link",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Newsletter Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/newsletter",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Onboarding Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/onboarding",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Order History Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/order-history",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Order Summary Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/order-summary",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Our Story Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/our-story",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Passkey Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/passkey",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Payment Methods Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/payment-methods",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Process Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/process",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Product Gallery Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/product-gallery",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Product Quick View Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/product-quick-view",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Product Specs Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/product-specs",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Project Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/project",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Projects Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/projects",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Promo Banner Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/promo-banner",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Reset Password Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/reset-password",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Resource Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/resource",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Resources Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/resources",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Reviews Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/reviews",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Service Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/service",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Services Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/services",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Settings Integrations Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/settings-integrations",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Settings Members Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/settings-members",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Settings Profile Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/settings-profile",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Shader Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/shader",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Shop The Look Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/shop-the-look",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Shopping Cart Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/shopping-cart",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Skills Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/skills",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Social Media Trending Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/social-media-trending",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Team Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/team",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Trust Strip Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/trust-strip",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Two Factor Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/two-factor",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn User Profile Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/user-profile",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Verify Email Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/verify-email",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Free Shadcn UI Blocks - Shadcnblocks.com",
+    "link": "https://github.com/shadcnblocks/shadcn-ui-blocks",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "x.com",
+    "link": "https://x.com/shadcnblocks",
+    "category": "Other",
+    "parent": null
   }
 ]
