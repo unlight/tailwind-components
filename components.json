@@ -41226,7 +41226,7 @@
     "parent": null
   },
   {
-    "name": "Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2028+ Free & Premium Blocks for Shadcn UI",
+    "name": "Shadcn Blocks - 2157+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2157+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2157+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2157+ Free & Premium Blocks for Shadcn UI",
     "link": "https://www.shadcnblocks.com/blocks",
     "category": "Other",
     "parent": null
@@ -41736,8 +41736,128 @@
     "parent": null
   },
   {
-    "name": "x.com",
+    "name": "Access to x.com was denied",
     "link": "https://x.com/shadcnblocks",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Issue Calendar Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/issue-calendar",
+    "category": "Date/Time",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Issue List Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/issue-list",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Member List Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/member-list",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Project List Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/project-list",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Team List Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/team-list",
+    "category": "List",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Careers Intro Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/careers-intro",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Company Benefits Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/company-benefits",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Customer Details Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/customer-details",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Edit Product Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/edit-product",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Inbox Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/inbox",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Investors Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/investors",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Issue Detail Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/issue-detail",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Issue Gantt Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/issue-gantt",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Issue Kanban Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/issue-kanban",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Order Management Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/order-management",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Product Inventory Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/product-inventory",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Project Dashboard Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/project-dashboard",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Project Detail Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/project-detail",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Shipments Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/shipments",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Workplace Photos Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/workplace-photos",
     "category": "Other",
     "parent": null
   }
