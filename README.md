@@ -1598,6 +1598,7 @@
 * Calendar updated Cally calendar example, Calendar updated Cally date picker example, Calendar updated Cally calendar example, Calendar updated Cally date picker example: [daisyui.com/components/calendar/](https://daisyui.com/components/calendar/)
 * TimePicker Browser default, TimePicker Custom style: [preline.co/docs/time-picker.html](https://preline.co/docs/time-picker.html)
 * Shadcn Issue Calendar Blocks: [shadcnblocks.com/blocks/issue-calendar](https://www.shadcnblocks.com/blocks/issue-calendar)
+* Shadcn Calendar Blocks: [shadcnblocks.com/blocks/calendar](https://www.shadcnblocks.com/blocks/calendar)
 
 ## Dropdown
 
@@ -2921,9 +2922,7 @@
 * Navbars Simple Requires JS, Navbars E-Commerce Requires JS, Navbars Search Requires JS, Navbars Avatar Requires JS, Navbars Social Media Links Requires JS, Navbars Categories Requires JS: [merakiui.com/components/navbars](https://merakiui.com/components/navbars)
 * Navbar Please note, Navbar Components Props: [kimia-ui.vercel.app/components/navbar](https://kimia-ui.vercel.app/components/navbar)
 * Breadcrumbs Breadcrumb in navbar: [tw-elements.com/docs/standard/navigation/breadcrumbs/](https://tw-elements.com/docs/standard/navigation/breadcrumbs/)
-* Search Navbar
-
-  TWE Pro component: [tw-elements.com/docs/standard/forms/search/](https://tw-elements.com/docs/standard/forms/search/)
+* Search Navbar: [tw-elements.com/docs/standard/forms/search/](https://tw-elements.com/docs/standard/forms/search/)
 * undefined Header with paragraph, undefined Space between Navbar, undefined Grid 3x with header, undefined Grid 4x2 with header, undefined Grid 4x2 Rounded full with header: [merakiui.com/components/application-ui/skeleton](https://merakiui.com/components/application-ui/skeleton)
 * Header   HyperUI  🚀   , Header Related Components: [hyperui.dev/components/marketing/headers](https://www.hyperui.dev/components/marketing/headers)
 * Tailwind CSS Header sections: [tailwindcomponents.com/component/page-sections-5](https://tailwindcomponents.com/component/page-sections-5)
@@ -5491,8 +5490,7 @@
 * Mac Terminal: [tailwindcomponents.com/component/mac-terminal](https://tailwindcomponents.com/component/mac-terminal)
 * Theming Introduction, Theming Theme structure, Theming Screens, Theming Colors, Theming Spacing, Theming Customizing the default theme, Theming Extending the default theme, Theming Overriding the default theme: [tw-elements.com/docs/standard/getting-started/theming/](https://tw-elements.com/docs/standard/getting-started/theming/)
 * Contribute Start here, Contribute Start with sharing your feedback, Contribute Vote on the roadmap, Contribute Spread the word, Contribute Help us improve, Contribute Propose new features, Contribute Report bugs, Contribute Ask questions, Contribute Help others, Contribute Open a Pull Request, Contribute Package contributions, Contribute Documentation contributions: [tw-elements.com/docs/standard/getting-started/contribute/](https://tw-elements.com/docs/standard/getting-started/contribute/)
-* Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes
-  TWE Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons: [tw-elements.com/docs/standard/getting-started/icons-integration/](https://tw-elements.com/docs/standard/getting-started/icons-integration/)
+* Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons: [tw-elements.com/docs/standard/getting-started/icons-integration/](https://tw-elements.com/docs/standard/getting-started/icons-integration/)
 * Angular Prerequisites, Angular Creating a new Angular application, Angular Installing and configuring Tailwind CSS and TW Elements, Angular Initializing via JS, Angular Troubleshooting, Prerequisites, Creating a new Angular application, Installing and configuring Tailwind CSS and TW Elements, Initializing via JS, Troubleshooting: [tw-elements.com/docs/standard/integrations/angular-integration/](https://tw-elements.com/docs/standard/integrations/angular-integration/)
 * ASP.NET Prerequisites, ASP.NET Creating a new ASP.NET application, ASP.NET Installing and configuring Tailwind CSS and TW Elements: [tw-elements.com/docs/standard/integrations/aspnet-integration/](https://tw-elements.com/docs/standard/integrations/aspnet-integration/)
 * Django Prerequisites, Django Creating a new Django application, Django Installing and configuring Tailwind CSS and TW Elements, Django Initializing via JS, Prerequisites, Creating a new Django application, Installing and configuring Tailwind CSS and TW Elements, Initializing via JS: [tw-elements.com/docs/standard/integrations/django-integration/](https://tw-elements.com/docs/standard/integrations/django-integration/)
@@ -7053,12 +7051,12 @@
 * Aura new Aura, Aura new Aura dual, Aura new Aura rainbow, Aura new Aura holo, Aura new Aura glow, Aura new Aura gold, Aura new Aura silver, Aura new Aura with custom color, Aura new Aura with custom color and custom background color, Aura new Aura sizes, Aura new Aura with custom animation duration, Aura new Aura, Aura new Aura dual, Aura new Aura rainbow, Aura new Aura holo, Aura new Aura glow, Aura new Aura gold, Aura new Aura silver, Aura new Aura with custom color, Aura new Aura with custom color and custom background color, Aura new Aura sizes, Aura new Aura with custom animation duration: [daisyui.com/components/aura/](https://daisyui.com/components/aura/)
 * Megamenu new Responsive megamenu with small vertical menus, Megamenu new Megamenu with a menus and lots of links, Megamenu new megamenu without arrows, Megamenu new Megamenu in different sizes, Megamenu new Responsive megamenu with small vertical menus, Megamenu new Megamenu with a menus and lots of links, Megamenu new megamenu without arrows, Megamenu new Megamenu in different sizes: [daisyui.com/components/megamenu/](https://daisyui.com/components/megamenu/)
 * OTP new OTP, OTP new OTP with 6 digits, OTP new OTP joined, OTP new OTP with different sizes, OTP new OTP with different colors, OTP new OTP disabled, OTP new OTP, OTP new OTP with 6 digits, OTP new OTP joined, OTP new OTP with different sizes, OTP new OTP with different colors, OTP new OTP disabled: [daisyui.com/components/otp/](https://daisyui.com/components/otp/)
-* Shadcn Blocks - 2150+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2150+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2150+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2150+ Free & Premium Blocks for Shadcn UI: [shadcnblocks.com/blocks](https://www.shadcnblocks.com/blocks)
+* Shadcn Blocks - 2478+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2478+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2478+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2478+ Free & Premium Blocks for Shadcn UI: [shadcnblocks.com/blocks](https://www.shadcnblocks.com/blocks)
 * Shadcn Dashboard Blocks, Shadcn Dashboard Blocks, Shadcn Dashboard Blocks: [shadcnblocks.com/blocks/dashboard](https://www.shadcnblocks.com/blocks/dashboard)
 * Shadcn Application Shell Blocks, Shadcn Application Shell Blocks, Shadcn Application Shell Blocks: [shadcnblocks.com/blocks/application-shell](https://www.shadcnblocks.com/blocks/application-shell)
-* Shadcn Feature Blocks, Shadcn Feature Blocks, Shadcn Feature Blocks: [shadcnblocks.com/blocks/feature](https://www.shadcnblocks.com/blocks/feature)
+* Shadcn Feature Blocks, Shadcn Feature Blocks: [shadcnblocks.com/blocks/feature](https://www.shadcnblocks.com/blocks/feature)
 * Shadcn Integration Blocks, Shadcn Integration Blocks: [shadcnblocks.com/blocks/integration](https://www.shadcnblocks.com/blocks/integration)
-* Shadcn About Blocks, Shadcn About Blocks: [shadcnblocks.com/blocks/about](https://www.shadcnblocks.com/blocks/about)
+* Shadcn About Blocks, Shadcn About Blocks, Shadcn About Blocks: [shadcnblocks.com/blocks/about](https://www.shadcnblocks.com/blocks/about)
 * Shadcn Product Detail Blocks, Shadcn Product Detail Blocks: [shadcnblocks.com/blocks/product-detail](https://www.shadcnblocks.com/blocks/product-detail)
 * Shadcn Product Categories Blocks, Shadcn Product Categories Blocks: [shadcnblocks.com/blocks/product-categories](https://www.shadcnblocks.com/blocks/product-categories)
 * Shadcn Bento Blocks, Shadcn Bento Blocks: [shadcnblocks.com/blocks/bento](https://www.shadcnblocks.com/blocks/bento)
@@ -7154,3 +7152,7 @@
 * Shadcn Project Detail Blocks: [shadcnblocks.com/blocks/project-detail](https://www.shadcnblocks.com/blocks/project-detail)
 * Shadcn Shipments Blocks: [shadcnblocks.com/blocks/shipments](https://www.shadcnblocks.com/blocks/shipments)
 * Shadcn Workplace Photos Blocks: [shadcnblocks.com/blocks/workplace-photos](https://www.shadcnblocks.com/blocks/workplace-photos)
+* Shadcn Coverflow Blocks: [shadcnblocks.com/blocks/coverflow](https://www.shadcnblocks.com/blocks/coverflow)
+* Shadcn Gantt Blocks: [shadcnblocks.com/blocks/gantt](https://www.shadcnblocks.com/blocks/gantt)
+* Shadcn Immersive Blocks: [shadcnblocks.com/blocks/immersive](https://www.shadcnblocks.com/blocks/immersive)
+* Shadcn Kanban Blocks: [shadcnblocks.com/blocks/kanban](https://www.shadcnblocks.com/blocks/kanban)

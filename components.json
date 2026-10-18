@@ -24450,7 +24450,7 @@
     "parent": null
   },
   {
-    "name": "Search Navbar\n    \n    TWE Pro component",
+    "name": "Search Navbar",
     "link": "https://tw-elements.com/docs/standard/forms/search/",
     "category": "Navigation/Header",
     "parent": null
@@ -27162,7 +27162,7 @@
     "parent": null
   },
   {
-    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes\n    TWE Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
+    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
     "link": "https://tw-elements.com/docs/standard/getting-started/icons-integration/",
     "category": "Other",
     "parent": null
@@ -41226,7 +41226,7 @@
     "parent": null
   },
   {
-    "name": "Shadcn Blocks - 2150+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2150+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2150+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2150+ Free & Premium Blocks for Shadcn UI",
+    "name": "Shadcn Blocks - 2478+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2478+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2478+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2478+ Free & Premium Blocks for Shadcn UI",
     "link": "https://www.shadcnblocks.com/blocks",
     "category": "Other",
     "parent": null
@@ -41244,7 +41244,7 @@
     "parent": null
   },
   {
-    "name": "Shadcn Feature Blocks, Shadcn Feature Blocks, Shadcn Feature Blocks",
+    "name": "Shadcn Feature Blocks, Shadcn Feature Blocks",
     "link": "https://www.shadcnblocks.com/blocks/feature",
     "category": "Other",
     "parent": null
@@ -41256,7 +41256,7 @@
     "parent": null
   },
   {
-    "name": "Shadcn About Blocks, Shadcn About Blocks",
+    "name": "Shadcn About Blocks, Shadcn About Blocks, Shadcn About Blocks",
     "link": "https://www.shadcnblocks.com/blocks/about",
     "category": "Other",
     "parent": null
@@ -41858,6 +41858,36 @@
   {
     "name": "Shadcn Workplace Photos Blocks",
     "link": "https://www.shadcnblocks.com/blocks/workplace-photos",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Calendar Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/calendar",
+    "category": "Date/Time",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Coverflow Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/coverflow",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Gantt Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/gantt",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Immersive Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/immersive",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Kanban Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/kanban",
     "category": "Other",
     "parent": null
   }
