@@ -27162,7 +27162,7 @@
     "parent": null
   },
   {
-    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes\n    TWE Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
+    "name": "Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons",
     "link": "https://tw-elements.com/docs/standard/getting-started/icons-integration/",
     "category": "Other",
     "parent": null
@@ -41226,7 +41226,7 @@
     "parent": null
   },
   {
-    "name": "Shadcn Blocks - 2500+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2500+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2500+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2500+ Free & Premium Blocks for Shadcn UI",
+    "name": "Shadcn Blocks - 2636+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2636+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2636+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2636+ Free & Premium Blocks for Shadcn UI",
     "link": "https://www.shadcnblocks.com/blocks",
     "category": "Other",
     "parent": null
@@ -41888,6 +41888,18 @@
   {
     "name": "Shadcn Kanban Blocks",
     "link": "https://www.shadcnblocks.com/blocks/kanban",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Launch Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/launch",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Press Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/press",
     "category": "Other",
     "parent": null
   }
