@@ -41226,7 +41226,7 @@
     "parent": null
   },
   {
-    "name": "Shadcn Blocks - 2636+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2636+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2636+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2636+ Free & Premium Blocks for Shadcn UI",
+    "name": "Shadcn Blocks - 2866+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2866+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2866+ Free & Premium Blocks for Shadcn UI, Shadcn Blocks - 2866+ Free & Premium Blocks for Shadcn UI",
     "link": "https://www.shadcnblocks.com/blocks",
     "category": "Other",
     "parent": null
@@ -41900,6 +41900,30 @@
   {
     "name": "Shadcn Press Blocks",
     "link": "https://www.shadcnblocks.com/blocks/press",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Products Bundle Hotspot Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/products-bundle-hotspot",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Returns Policy Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/returns-policy",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Shipping Calculator Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/shipping-calculator",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Shadcn Store Locator Blocks",
+    "link": "https://www.shadcnblocks.com/blocks/store-locator",
     "category": "Other",
     "parent": null
   }
